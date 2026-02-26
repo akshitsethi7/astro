@@ -1,0 +1,240 @@
+{
+  "D1": {
+    "chart": "D1",
+    "ascendant": {
+      "degree": "143.05",
+      "sign": "Leo",
+      "lord": "Sun",
+      "nakshatra": "Magha"
+    },
+    "houses": [
+      {"number": 1, "sign": "Leo", "lord": "Sun", "cuspDegree": "143.05"},
+      {"number": 2, "sign": "Virgo", "lord": "Mercury", "cuspDegree": "173.05"},
+      {"number": 3, "sign": "Libra", "lord": "Venus", "cuspDegree": "203.05"},
+      {"number": 4, "sign": "Scorpio", "lord": "Mars", "cuspDegree": "233.05"},
+      {"number": 5, "sign": "Sagittarius", "lord": "Jupiter", "cuspDegree": "263.05"},
+      {"number": 6, "sign": "Capricorn", "lord": "Saturn", "cuspDegree": "293.05"},
+      {"number": 7, "sign": "Aquarius", "lord": "Saturn", "cuspDegree": "323.05"},
+      {"number": 8, "sign": "Pisces", "lord": "Jupiter", "cuspDegree": "353.05"},
+      {"number": 9, "sign": "Aries", "lord": "Mars", "cuspDegree": "23.05"},
+      {"number": 10, "sign": "Taurus", "lord": "Venus", "cuspDegree": "53.05"},
+      {"number": 11, "sign": "Gemini", "lord": "Mercury", "cuspDegree": "83.05"},
+      {"number": 12, "sign": "Cancer", "lord": "Moon", "cuspDegree": "113.05"}
+    ],
+    "planets": [
+      {
+        "name": "Sun",
+        "degree": "250.92",
+        "sign": "Sagittarius",
+        "house": 5,
+        "nakshatra": "Purva Ashadha",
+        "pada": 2,
+        "dignity": "Neutral",
+        "combust": false,
+        "retrograde": false
+      },
+      {
+        "name": "Moon",
+        "degree": "172.73",
+        "sign": "Virgo",
+        "house": 2,
+        "nakshatra": "Hasta",
+        "pada": 3,
+        "dignity": "Neutral",
+        "combust": false,
+        "retrograde": false
+      },
+      {
+        "name": "Mars",
+        "degree": "128.55",
+        "sign": "Leo",
+        "house": 1,
+        "nakshatra": "Purva Phalguni",
+        "pada": 1,
+        "dignity": "Neutral",
+        "combust": false,
+        "retrograde": false
+      },
+      {
+        "name": "Mercury",
+        "degree": "258.10",
+        "sign": "Sagittarius",
+        "house": 5,
+        "nakshatra": "Purva Ashadha",
+        "pada": 4,
+        "dignity": "Neutral",
+        "combust": true,
+        "retrograde": false
+      },
+      {
+        "name": "Jupiter",
+        "degree": "219.87",
+        "sign": "Scorpio",
+        "house": 4,
+        "nakshatra": "Jyeshtha",
+        "pada": 1,
+        "dignity": "Neutral",
+        "combust": false,
+        "retrograde": false
+      },
+      {
+        "name": "Venus",
+        "degree": "205.40",
+        "sign": "Libra",
+        "house": 3,
+        "nakshatra": "Swati",
+        "pada": 1,
+        "dignity": "Exalted",
+        "combust": false,
+        "retrograde": false
+      },
+      {
+        "name": "Saturn",
+        "degree": "313.77",
+        "sign": "Aquarius",
+        "house": 7,
+        "nakshatra": "Shatabhisha",
+        "pada": 1,
+        "dignity": "Own Sign",
+        "combust": false,
+        "retrograde": false
+      },
+      {
+        "name": "Rahu",
+        "degree": "198.25",
+        "sign": "Libra",
+        "house": 3,
+        "nakshatra": "Swati",
+        "pada": 3,
+        "dignity": "Neutral",
+        "combust": false,
+        "retrograde": true
+      },
+      {
+        "name": "Ketu",
+        "degree": "18.25",
+        "sign": "Aries",
+        "house": 9,
+        "nakshatra": "Bharani",
+        "pada": 1,
+        "dignity": "Neutral",
+        "combust": false,
+        "retrograde": true
+      }
+    ]
+  },
+  "D2": {
+    "chart": "D2",
+    "ascendant": {
+      "degree": "143.05",
+      "sign": "Leo",
+      "lord": "Sun"
+    },
+    "planets": [
+      {"name": "Mars", "degree": "137.10", "sign": "Leo", "house": 2},
+      {"name": "Moon", "degree": "165.47", "sign": "Virgo", "house": 2},
+      {"name": "Venus", "degree": "200.80", "sign": "Libra", "house": 1},
+      {"name": "Rahu", "degree": "186.50", "sign": "Libra", "house": 1},
+      {"name": "Jupiter", "degree": "229.73", "sign": "Scorpio", "house": 1},
+      {"name": "Sun", "degree": "261.83", "sign": "Sagittarius", "house": 2},
+      {"name": "Mercury", "degree": "246.22", "sign": "Sagittarius", "house": 1},
+      {"name": "Saturn", "degree": "327.55", "sign": "Aquarius", "house": 2},
+      {"name": "Ketu", "degree": "6.50", "sign": "Aries", "house": 1}
+    ]
+  },
+  "D6": {
+    "chart": "D6",
+    "ascendant": {
+      "degree": "143.05",
+      "sign": "Leo",
+      "lord": "Sun"
+    },
+    "planets": [
+      {"name": "Mars", "degree": "141.33", "sign": "Leo", "house": 1},
+      {"name": "Moon", "degree": "176.42", "sign": "Virgo", "house": 2},
+      {"name": "Venus", "degree": "212.42", "sign": "Libra", "house": 3},
+      {"name": "Rahu", "degree": "199.53", "sign": "Libra", "house": 3},
+      {"name": "Jupiter", "degree": "239.20", "sign": "Scorpio", "house": 4},
+      {"name": "Sun", "degree": "245.50", "sign": "Sagittarius", "house": 5},
+      {"name": "Mercury", "degree": "258.67", "sign": "Sagittarius", "house": 5},
+      {"name": "Saturn", "degree": "322.67", "sign": "Aquarius", "house": 7},
+      {"name": "Ketu", "degree": "19.53", "sign": "Aries", "house": 9}
+    ]
+  },
+  "D7": {
+    "chart": "D7",
+    "ascendant": {
+      "degree": "143.05",
+      "sign": "Leo",
+      "lord": "Sun"
+    },
+    "planets": [
+      {"name": "Mars", "degree": "149.88", "sign": "Leo", "house": 10},
+      {"name": "Moon", "degree": "159.15", "sign": "Virgo", "house": 9},
+      {"name": "Venus", "degree": "207.82", "sign": "Libra", "house": 4},
+      {"name": "Rahu", "degree": "187.78", "sign": "Libra", "house": 3},
+      {"name": "Jupiter", "degree": "219.07", "sign": "Scorpio", "house": 8},
+      {"name": "Sun", "degree": "256.43", "sign": "Sagittarius", "house": 3},
+      {"name": "Mercury", "degree": "246.78", "sign": "Sagittarius", "house": 5},
+      {"name": "Saturn", "degree": "306.45", "sign": "Aquarius", "house": 6},
+      {"name": "Ketu", "degree": "7.78", "sign": "Aries", "house": 9}
+    ]
+  },
+  "D9": {
+    "chart": "D9",
+    "ascendant": {
+      "degree": "143.05",
+      "sign": "Libra",
+      "lord": "Venus"
+    },
+    "planets": [
+      {"name": "Saturn", "degree": "304.00", "sign": "Aquarius", "house": 5},
+      {"name": "Rahu", "degree": "344.25", "sign": "Pisces", "house": 6},
+      {"name": "Venus", "degree": "48.63", "sign": "Taurus", "house": 8},
+      {"name": "Mars", "degree": "77.00", "sign": "Gemini", "house": 9},
+      {"name": "Sun", "degree": "98.27", "sign": "Cancer", "house": 10},
+      {"name": "Moon", "degree": "114.62", "sign": "Cancer", "house": 10},
+      {"name": "Mercury", "degree": "163.00", "sign": "Virgo", "house": 12},
+      {"name": "Jupiter", "degree": "178.82", "sign": "Virgo", "house": 12},
+      {"name": "Ketu", "degree": "164.25", "sign": "Virgo", "house": 12}
+    ]
+  },
+  "D10": {
+    "chart": "D10",
+    "ascendant": {
+      "degree": "143.05",
+      "sign": "Leo",
+      "lord": "Sun"
+    },
+    "planets": [
+      {"name": "Sun", "degree": "349.17", "sign": "Pisces", "house": 2},
+      {"name": "Rahu", "degree": "2.58", "sign": "Aries", "house": 3},
+      {"name": "Mercury", "degree": "61.12", "sign": "Gemini", "house": 5},
+      {"name": "Venus", "degree": "74.03", "sign": "Gemini", "house": 5},
+      {"name": "Saturn", "degree": "77.77", "sign": "Gemini", "house": 5},
+      {"name": "Mars", "degree": "205.55", "sign": "Libra", "house": 9},
+      {"name": "Jupiter", "degree": "188.68", "sign": "Libra", "house": 9},
+      {"name": "Ketu", "degree": "182.58", "sign": "Libra", "house": 9},
+      {"name": "Moon", "degree": "257.37", "sign": "Sagittarius", "house": 11}
+    ]
+  },
+  "D60": {
+    "chart": "D60",
+    "ascendant": {
+      "degree": "143.05",
+      "sign": "Leo",
+      "lord": "Sun"
+    },
+    "planets": [
+      {"name": "Mars", "degree": "123.35", "sign": "Leo", "house": 1},
+      {"name": "Moon", "degree": "164.20", "sign": "Virgo", "house": 6},
+      {"name": "Venus", "degree": "204.25", "sign": "Libra", "house": 12},
+      {"name": "Rahu", "degree": "195.42", "sign": "Libra", "house": 10},
+      {"name": "Jupiter", "degree": "232.13", "sign": "Scorpio", "house": 6},
+      {"name": "Sun", "degree": "265.13", "sign": "Sagittarius", "house": 9},
+      {"name": "Mercury", "degree": "246.73", "sign": "Sagittarius", "house": 12},
+      {"name": "Saturn", "degree": "316.77", "sign": "Aquarius", "house": 5},
+      {"name": "Ketu", "degree": "15.42", "sign": "Aries", "house": 4}
+    ]
+  }
+}

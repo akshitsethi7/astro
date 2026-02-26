@@ -1,0 +1,23 @@
+.transitChart {
+  width: 100%;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.placeholder {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.date {
+  margin-top: 1rem;
+  font-family: 'IBM Plex Mono', monospace;
+  color: #22c55e;
+}

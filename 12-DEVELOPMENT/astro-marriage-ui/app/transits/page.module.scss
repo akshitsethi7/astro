@@ -1,0 +1,413 @@
+.transitsPage {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+  padding: 2rem;
+  
+  @media (max-width: 768px) {
+    padding: 1rem;
+  }
+}
+
+.header {
+  background: linear-gradient(135deg, rgba(34, 197, 94, 0.1) 0%, rgba(16, 185, 129, 0.1) 100%);
+  border: 1px solid rgba(34, 197, 94, 0.2);
+  border-radius: 24px;
+  padding: 2.5rem;
+  margin-bottom: 2rem;
+  backdrop-filter: blur(10px);
+  
+  @media (max-width: 768px) {
+    padding: 1.5rem;
+  }
+}
+
+.backBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  margin-bottom: 2rem;
+  
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(34, 197, 94, 0.5);
+    transform: translateX(-4px);
+  }
+}
+
+.headerContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  
+  @media (max-width: 968px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.titleSection {
+  flex: 1;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #22c55e 0%, #10b981 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 0 0 0.5rem 0;
+  
+  @media (max-width: 768px) {
+    font-size: 2rem;
+  }
+}
+
+.subtitle {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1rem;
+  margin: 0;
+}
+
+.dateSelector {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  color: white;
+}
+
+.dateInput {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 1rem;
+  font-family: 'IBM Plex Mono', monospace;
+  cursor: pointer;
+  
+  &::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+  }
+}
+
+.sadeSatiSection,
+.chartSection,
+.tableSection,
+.majorTransitsSection,
+.aspectsSection {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  
+  @media (max-width: 768px) {
+    padding: 1.5rem;
+  }
+}
+
+.sectionHeader {
+  margin-bottom: 1.5rem;
+}
+
+.sectionTitle {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: white;
+  margin: 0 0 0.5rem 0;
+}
+
+.sectionSubtitle {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.chartContainer {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 16px;
+  padding: 2rem;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.majorTransitsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.majorTransitCard {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba(34, 197, 94, 0.5);
+    box-shadow: 0 8px 24px rgba(34, 197, 94, 0.2);
+  }
+}
+
+.transitHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.transitPlanet {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #22c55e;
+}
+
+.transitImpact {
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  
+  &.positive {
+    background: rgba(34, 197, 94, 0.2);
+    color: #22c55e;
+  }
+  
+  &.negative {
+    background: rgba(239, 68, 68, 0.2);
+    color: #ef4444;
+  }
+}
+
+.transitEvent {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+  margin: 0 0 0.75rem 0;
+}
+
+.transitSignificance {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0 0 1rem 0;
+}
+
+.transitDate {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.aspectsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.aspectCard {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 1.5rem;
+}
+
+.aspectPlanets {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.transitLabel,
+.natalLabel {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+}
+
+.aspectPlanet {
+  font-size: 1rem;
+  font-weight: 700;
+  color: white;
+}
+
+.aspectType {
+  padding: 0.25rem 0.75rem;
+  background: rgba(139, 92, 246, 0.2);
+  border-radius: 6px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #8b5cf6;
+}
+
+.aspectStrength {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.aspectBar {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.aspectBarFill {
+  height: 100%;
+  background: linear-gradient(90deg, #22c55e 0%, #10b981 100%);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+// Info Card
+.infoCard {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+.infoHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0;
+  }
+}
+
+.infoText {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+// Transits Table
+.transitsTable {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.tableHeader {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  background: var(--bg-secondary);
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.tableRow {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+  padding: 1rem 1.5rem;
+  border-top: 1px solid var(--border-color);
+  align-items: center;
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: var(--bg-secondary);
+  }
+}
+
+.planetName {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.status {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+
+  &.direct {
+    background: rgba(34, 197, 94, 0.1);
+    color: #22c55e;
+  }
+
+  &.retrograde {
+    background: rgba(239, 68, 68, 0.1);
+    color: #ef4444;
+  }
+}
+
+// Aspect Card Updates
+.aspectCard {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.5rem;
+
+  h3 {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.125rem;
+    color: var(--text-primary);
+  }
+
+  p {
+    margin: 0;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+}
+
+.aspectTitle {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.75rem;
+}
+
+.aspectDescription {
+  color: var(--text-secondary);
+  line-height: 1.6;
+}

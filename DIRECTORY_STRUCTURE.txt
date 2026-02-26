@@ -1,0 +1,215 @@
+ASTRO DIRECTORY - FULLY ORGANIZED STRUCTURE
+===========================================
+
+astro/
+│
+├── README.md ⭐ START HERE - Master navigation guide
+├── DIRECTORY_STRUCTURE.txt (this file)
+│
+├── 01-AKSHIT-ANALYSIS/ 🎯 MAIN ANALYSIS (START HERE)
+│   ├── START_HERE_AKSHIT.md ⭐⭐⭐ READ THIS FIRST
+│   ├── QUICK_REFERENCE_GUIDE.md ⭐⭐ Daily reference (5 min)
+│   ├── AKSHIT_SYNTHESIZED_LIFE_ANALYSIS.md ⭐ Complete analysis (60 min)
+│   ├── AKSHIT_TOTAL_LIFE_AUDIT_MECHANICAL.md - Mechanical calculations
+│   ├── AKSHIT_ULTRA_DEEP_MECHANICAL_ANALYSIS.md - Ultra-deep analysis
+│   ├── AKSHIT_MAXIMUM_EXTRACTION.md - All 14,069 quotes (2.4MB)
+│   └── EXTRACTION_JOURNEY_COMPLETE.md - Creation process
+│
+├── 02-MARRIAGE-ANALYSIS/ 💍 Marriage Analysis (12 files + structured folder)
+│   ├── AKSHIT_FINAL_COMPLETE_MARRIAGE_REPORT.md
+│   ├── AKSHIT_DEEP_DIVE_MARRIAGE_ANALYSIS.md
+│   ├── AKSHIT_MARRIAGE_FORMATTED_CLEAN.md
+│   ├── AKSHIT_COMPREHENSIVE_MARRIAGE_ANALYSIS.md
+│   ├── AKSHIT_DETAILED_ANALYSIS_WITH_REFERENCES.md
+│   ├── COMPLETE_MARRIAGE_ANALYSIS.md (from marriage-analysis/)
+│   ├── marriage-structured/ (from marriage/)
+│   │   ├── FOUNDATIONS/ - Methodology & chart data
+│   │   ├── ANALYSIS/ - Marriage prospects
+│   │   ├── TIMING/ - Marriage timing
+│   │   ├── SPOUSE/ - Spouse characteristics
+│   │   └── REMEDIES/ - Daily practices
+│   └── ... (6 more marriage documents)
+│
+├── 03-LIFE-AREAS-ANALYSIS/ 📊 Career, Wealth, Health (10 files)
+│   ├── AKSHIT_COMPREHENSIVE_CAREER_ANALYSIS.md
+│   ├── AKSHIT_COMPREHENSIVE_FINANCIAL_ANALYSIS.md
+│   ├── AKSHIT_COMPREHENSIVE_HEALTH_ANALYSIS.md
+│   ├── AKSHIT_ULTIMATE_LIFE_REPORT.md
+│   └── ... (6 more life area documents)
+│
+├── 04-DASHA-ANALYSIS/ ⏰ Dasha Periods (2 files)
+│   ├── DASHA_ANALYSIS_SUMMARY.md
+│   └── AKSHIT_JUPITER_SATURN_DASHA_ANALYSIS.md
+│
+├── 05-CHART-DATA/ 📈 Chart Data Files (5 files)
+│   ├── akshit_chart.json - Main chart data
+│   ├── chartsall - All divisional charts
+│   ├── chartsimp - Simplified chart
+│   └── ... (2 more data files)
+│
+├── 06-ANALYSIS-SCRIPTS/ 🐍 Analysis Scripts (18 files)
+│   ├── ultra_deep_mechanical_analysis.py
+│   ├── maximum_extraction.py
+│   ├── ultimate_deep_analysis.py
+│   ├── analyze_from_books.py
+│   └── ... (14 more analysis scripts)
+│
+├── 07-EXTRACTION-SCRIPTS/ 📚 PDF Extraction (8 files)
+│   ├── pdf_extractor.py
+│   ├── extract_marriage_quotes.py
+│   └── ... (6 more extraction scripts)
+│
+├── 08-UTILITY-SCRIPTS/ 🔧 Utilities & Tests (12 files)
+│   ├── test_*.py (various test scripts)
+│   ├── create_*.py (utility scripts)
+│   └── debug_*.py (debug scripts)
+│
+├── 09-LEGACY-DOCS/ 📜 Legacy Documents (15 files)
+│   ├── Old analysis versions
+│   ├── Text files
+│   └── Extraction logs
+│
+├── 10-README-DOCS/ 📖 Guides & READMEs (5 files)
+│   ├── QUICK_START.md
+│   ├── RUN_LOCALLY.md
+│   └── ... (3 more guide documents)
+│
+├── 11-CONFIG-DATA/ ⚙️ Configuration (4 files)
+│   ├── credentials.json
+│   ├── requirements.txt
+│   └── ... (2 more config files)
+│
+├── 12-DEVELOPMENT/ 💻 Development Projects
+│   └── astro-marriage-ui/ - Web UI Application
+│       ├── app/ - Next.js pages
+│       ├── components/ - React components
+│       ├── lib/ - Calculation libraries
+│       └── ... (web application files)
+│
+├── 13-ARCHIVE/ 🗄️ Archived Files
+│   ├── __pycache__/ - Python cache
+│   ├── .idea/ - IDE settings
+│   ├── gpt chats/ - GPT conversation logs
+│   ├── manual_test/ - Manual test files
+│   ├── test_extraction_output/ - Test outputs
+│   ├── path/ - Path data
+│   └── learning-archive/ - Old learning status/knowledge docs
+│       ├── 99-STATUS-DOCS/ - 18 status documents
+│       ├── 99-KNOWLEDGE-DOCS/ - 8 knowledge documents
+│       └── 99-MISC/ - Miscellaneous files
+│
+├── 14-LEARNING-MATERIALS/ 📚 Astrology Learning System
+│   ├── 00-START-HERE/ - Navigation and quick start
+│   ├── 00-foundations/ - Astrology basics (signs, planets, houses)
+│   ├── 01-marriage/ - Marriage analysis methods
+│   ├── 02-career/ - Career analysis methods
+│   ├── 03-finance/ - Wealth analysis methods
+│   ├── 04-children/ - Children analysis methods
+│   ├── 05-health-longevity/ - Health analysis methods
+│   ├── 06-dashas/ - Dasha systems
+│   ├── 07-transits/ - Transit analysis
+│   ├── 08-divisional-charts/ - Varga charts
+│   ├── 09-yogas/ - Planetary combinations
+│   ├── 10-remedies/ - Astrological remedies
+│   ├── 11-case-studies/ - Real-world examples
+│   ├── 12-reference/ - Quick reference materials
+│   └── README.md - Learning system guide
+│
+├── 15-EXTRACTION-SYSTEM/ 🔧 PDF Extraction Tools
+│   ├── pdf_extractor.py - Main PDF extractor
+│   ├── run_extraction.py - Run extraction
+│   ├── README.md - Extraction system guide
+│   ├── START_HERE.md - Quick start
+│   ├── WORKFLOW.md - Workflow guide
+│   └── ... (30+ extraction scripts)
+│
+├── 16-EXTRACTED-BOOKS/ 📦 Extracted Classical Texts
+│   ├── MASTER_INDEX.md - Index of all extracted books
+│   ├── all_books_classified.json - All books content (34MB)
+│   ├── BPHS - 1 RSanthanam_extraction.json
+│   ├── BPHS - 2 RSanthanam_extraction.json
+│   └── ... (extraction logs and summaries)
+│
+├── venv/ (Python virtual environment - keep in root)
+│
+└── ../Books/ 📖 Classical Texts (46 PDFs)
+    └── Source material for all analysis
+
+QUICK NAVIGATION
+================
+
+🎯 START HERE:
+   → astro/01-AKSHIT-ANALYSIS/START_HERE_AKSHIT.md
+
+📱 DAILY USE:
+   → astro/01-AKSHIT-ANALYSIS/QUICK_REFERENCE_GUIDE.md
+
+📚 COMPLETE ANALYSIS:
+   → astro/01-AKSHIT-ANALYSIS/AKSHIT_SYNTHESIZED_LIFE_ANALYSIS.md
+
+🔍 RESEARCH (14,069 quotes):
+   → astro/01-AKSHIT-ANALYSIS/AKSHIT_MAXIMUM_EXTRACTION.md
+
+💍 MARRIAGE:
+   → astro/02-MARRIAGE-ANALYSIS/
+
+📊 CAREER/WEALTH/HEALTH:
+   → astro/03-LIFE-AREAS-ANALYSIS/
+
+💻 WEB UI:
+   → astro/12-DEVELOPMENT/astro-marriage-ui/
+
+📚 LEARNING SYSTEM:
+   → astro/14-LEARNING-MATERIALS/
+
+🔧 EXTRACTION TOOLS:
+   → astro/15-EXTRACTION-SYSTEM/
+
+📦 EXTRACTED BOOKS:
+   → astro/16-EXTRACTED-BOOKS/
+
+ORGANIZATION IMPROVEMENTS
+=========================
+
+✅ Merged marriage/ and marriage-analysis/ into 02-MARRIAGE-ANALYSIS/
+✅ Moved astro-marriage-ui/ to 12-DEVELOPMENT/
+✅ Separated learning materials to 14-LEARNING-MATERIALS/
+✅ Separated extraction system to 15-EXTRACTION-SYSTEM/
+✅ Separated extracted books to 16-EXTRACTED-BOOKS/
+✅ Archived cache, test, and IDE folders to 13-ARCHIVE/
+✅ Archived old learning docs to 13-ARCHIVE/learning-archive/
+✅ Organized all loose files into appropriate folders
+✅ Clean root directory with only organized folders
+
+STATISTICS
+==========
+Total Files Organized: 130+ files
+Total Folders: 16 main folders
+Total Classical Quotes: 14,069
+Total Books Analyzed: 33
+Largest File: 2.4MB (AKSHIT_MAXIMUM_EXTRACTION.md)
+Learning Topics: 13 organized topics (00-12)
+Extraction Scripts: 30+ Python scripts
+Extracted Books: 33 classical texts (34MB JSON)
+Development Projects: 1 (Web UI)
+
+FOLDER PURPOSES
+===============
+
+01-11: Analysis and data (organized by type)
+12: Development projects (Web UI)
+13: Archive (cache, tests, old files, learning archive)
+14: Learning materials (astrology education)
+15: Extraction system (PDF extraction tools)
+16: Extracted books (classical texts content)
+
+ROOT DIRECTORY NOW CONTAINS:
+- README.md (navigation guide)
+- DIRECTORY_STRUCTURE.txt (this file)
+- FINAL_ORGANIZATION_SUMMARY.md (complete summary)
+- ORGANIZATION_COMPLETE.md (organization history)
+- 16 organized folders (01-16)
+- venv/ (Python environment)
+
+Last Updated: February 27, 2026
+Organization: COMPLETE ✅

@@ -1,0 +1,12 @@
+# PDF Extraction System Requirements
+
+# Core PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# Optional: Better text extraction
+# pypdf>=3.0.0
+
+# Optional: OCR for scanned PDFs (not required for most books)
+# pytesseract>=0.3.10
+# pdf2image>=1.16.0

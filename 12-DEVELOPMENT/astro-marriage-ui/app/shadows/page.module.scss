@@ -1,0 +1,555 @@
+.shadowsPage {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+  padding: 2rem;
+  
+  @media (max-width: 768px) {
+    padding: 1rem;
+  }
+}
+
+.header {
+  background: linear-gradient(135deg, rgba(131, 56, 236, 0.1) 0%, rgba(251, 86, 7, 0.1) 100%);
+  border: 1px solid rgba(131, 56, 236, 0.2);
+  border-radius: 24px;
+  padding: 2.5rem;
+  margin-bottom: 2rem;
+  backdrop-filter: blur(10px);
+  
+  @media (max-width: 768px) {
+    padding: 1.5rem;
+    border-radius: 16px;
+  }
+}
+
+.backBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  margin-bottom: 2rem;
+  
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(131, 56, 236, 0.5);
+    transform: translateX(-4px);
+  }
+}
+
+.headerContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  
+  @media (max-width: 968px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.titleSection {
+  flex: 1;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #8338ec 0%, #fb5607 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 0 0 0.5rem 0;
+  
+  @media (max-width: 768px) {
+    font-size: 2rem;
+  }
+}
+
+.subtitle {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1rem;
+  margin: 0;
+}
+
+.opposition {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(34, 197, 94, 0.3);
+  border-radius: 16px;
+  padding: 1.5rem;
+  text-align: center;
+  min-width: 180px;
+}
+
+.oppositionLabel {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.5);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+.oppositionValue {
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+  font-family: 'IBM Plex Mono', monospace;
+  margin-bottom: 0.5rem;
+}
+
+.oppositionStatus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  color: #22c55e;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.planetsSection {
+  margin-bottom: 2rem;
+}
+
+.planetsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.planetCard {
+  background: rgba(255, 255, 255, 0.03);
+  border: 2px solid;
+  border-radius: 24px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 40px rgba(131, 56, 236, 0.2);
+  }
+}
+
+.planetHeader {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.planetIcon {
+  width: 70px;
+  height: 70px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  flex-shrink: 0;
+}
+
+.planetName {
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+  margin: 0 0 0.25rem 0;
+}
+
+.planetSubtitle {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0;
+}
+
+.planetDetails {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.detailRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.detailLabel {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.detailValue {
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.strengthSection {
+  margin-bottom: 1.5rem;
+}
+
+.strengthLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 0.75rem;
+}
+
+.strengthBar {
+  width: 100%;
+  height: 12px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.strengthFill {
+  height: 100%;
+  border-radius: 6px;
+  transition: width 0.5s ease;
+}
+
+.strengthValue {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: white;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.aspects {
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.aspectsLabel {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 0.75rem;
+}
+
+.aspectsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.aspectPlanet {
+  padding: 0.5rem 1rem;
+  background: rgba(139, 92, 246, 0.1);
+  border: 1px solid rgba(139, 92, 246, 0.3);
+  border-radius: 8px;
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.tabsSection {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px;
+  padding: 2rem;
+  
+  @media (max-width: 768px) {
+    padding: 1.5rem;
+  }
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+    border-bottom: none;
+  }
+}
+
+.tab {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 1.5rem;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  
+  &:hover {
+    color: white;
+  }
+  
+  &.active {
+    color: white;
+    border-bottom-color: #8338ec;
+    
+    @media (max-width: 768px) {
+      background: rgba(131, 56, 236, 0.1);
+      border-radius: 12px;
+      border-bottom-color: transparent;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    border-bottom: none;
+    border-radius: 12px;
+  }
+}
+
+.tabContent {
+  min-height: 300px;
+}
+
+.impactGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.impactCard {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba(131, 56, 236, 0.5);
+  }
+}
+
+.impactHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.impactPlanet {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.impactIntensity {
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  
+  &.high {
+    background: rgba(239, 68, 68, 0.2);
+    color: #ef4444;
+  }
+  
+  &.medium {
+    background: rgba(245, 158, 11, 0.2);
+    color: #f59e0b;
+  }
+  
+  &.low {
+    background: rgba(34, 197, 94, 0.2);
+    color: #22c55e;
+  }
+}
+
+.impactArea {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+  margin: 0 0 0.75rem 0;
+}
+
+.impactDescription {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0;
+}
+
+.yogasGrid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.yogaCard {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 2rem;
+}
+
+.yogaHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  gap: 1rem;
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.yogaName {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  margin: 0;
+}
+
+.yogaImpact {
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  
+  &.positive {
+    background: rgba(34, 197, 94, 0.2);
+    color: #22c55e;
+  }
+  
+  &.negative {
+    background: rgba(239, 68, 68, 0.2);
+    color: #ef4444;
+  }
+  
+  &.mixed {
+    background: rgba(245, 158, 11, 0.2);
+    color: #f59e0b;
+  }
+}
+
+.yogaDescription {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0 0 1.5rem 0;
+}
+
+.yogaStrength {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.yogaBar {
+  flex: 1;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.yogaBarFill {
+  height: 100%;
+  background: linear-gradient(90deg, #8338ec 0%, #fb5607 100%);
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.remediesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.remedyCard {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba(131, 56, 236, 0.5);
+  }
+}
+
+.remedyHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.remedyType {
+  padding: 0.25rem 0.75rem;
+  background: rgba(139, 92, 246, 0.2);
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #8b5cf6;
+  text-transform: uppercase;
+}
+
+.remedyPlanet {
+  padding: 0.25rem 0.75rem;
+  background: #8338ec;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+}
+
+.remedyTitle {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: white;
+  margin: 0 0 0.75rem 0;
+}
+
+.remedyDescription {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.7);
+  margin: 0 0 1rem 0;
+}
+
+.remedyTiming {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: 'IBM Plex Mono', monospace;
+}

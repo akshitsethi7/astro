@@ -1,0 +1,109 @@
+.container {
+  width: 100%;
+  padding: var(--spacing-xl);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  position: relative;
+  
+  @media (max-width: 768px) {
+    padding: var(--spacing-md);
+  }
+}
+
+.svg {
+  width: 100%;
+  height: 200px;
+  
+  @media (max-width: 768px) {
+    height: 180px;
+  }
+}
+
+.info {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-lg);
+  background: var(--color-surface-elevated);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.infoHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--spacing-md);
+}
+
+.infoPlanet {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.closeBtn {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  &:hover {
+    background: var(--color-surface);
+    color: var(--color-text-primary);
+    border-color: var(--color-accent);
+  }
+}
+
+.infoContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.infoRow {
+  display: flex;
+  gap: var(--spacing-md);
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: var(--spacing-xs);
+  }
+}
+
+.infoLabel {
+  font-size: 0.875rem;
+  color: var(--color-text-tertiary);
+  min-width: 100px;
+}
+
+.infoValue {
+  font-size: 0.875rem;
+  color: var(--color-text-primary);
+  font-weight: 500;
+}
+
+.container :global(.dasha-period) {
+  transition: all 0.2s ease;
+}

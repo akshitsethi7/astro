@@ -1,0 +1,292 @@
+{
+  "timestamp": "2026-02-21T02:38:24.081819",
+  "total_books": 46,
+  "successful": 33,
+  "failed": 13,
+  "total_time_minutes": 6.3339697321256,
+  "books": [
+    {
+      "book": "2015.150536.Marriage-Married-Life-And-Children_text.pdf",
+      "status": "success",
+      "pages": 280,
+      "characters": 467366,
+      "time": 13.656399011611938
+    },
+    {
+      "book": "2015.312156.Jataka-Parijata.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "2015.342229.Brihad-Vishal.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "2015.352942.Krishnamurti-Padhdhati.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "2015.486584.Jaimini-Sutras.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "2015.92117.Mantreswaras-Phaladeepika.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "A Historical View of the Hindu Astronomy_full.pdf",
+      "status": "success",
+      "pages": 335,
+      "characters": 599621,
+      "time": 17.960779905319214
+    },
+    {
+      "book": "A Text book of astrology_Anil Kumar Jain.pdf",
+      "status": "success",
+      "pages": 165,
+      "characters": 379943,
+      "time": 15.005812168121338
+    },
+    {
+      "book": "A book on Mathematical astrology_Bansal.pdf",
+      "status": "success",
+      "pages": 153,
+      "characters": 189304,
+      "time": 10.245296001434326
+    },
+    {
+      "book": "A guide to Hindu astrology_T.S. Narayanaswami Iyer.pdf",
+      "status": "success",
+      "pages": 152,
+      "characters": 290726,
+      "time": 10.892262935638428
+    },
+    {
+      "book": "A.K. Gour_Astrology of Professions.pdf",
+      "status": "success",
+      "pages": 214,
+      "characters": 309521,
+      "time": 11.621163606643677
+    },
+    {
+      "book": "ACL-MKU_01243_Diploma_in_Astrology_Casting_of_Horoscope.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "Astrology in Marriage Counselling_Manik Chand Jain.pdf",
+      "status": "success",
+      "pages": 211,
+      "characters": 375818,
+      "time": 12.205032110214233
+    },
+    {
+      "book": "Astrology of Professions_A.K. Gour Book Review.pdf",
+      "status": "success",
+      "pages": 9,
+      "characters": 19529,
+      "time": 0.5129280090332031
+    },
+    {
+      "book": "Astrology_ destiny and the wheel of time_ban.pdf",
+      "status": "success",
+      "pages": 202,
+      "characters": 319902,
+      "time": 9.78009819984436
+    },
+    {
+      "book": "BPHS - 1 RSanthanam.pdf",
+      "status": "success",
+      "pages": 480,
+      "characters": 763460,
+      "time": 19.155272006988525
+    },
+    {
+      "book": "BPHS - 2 RSanthanam.pdf",
+      "status": "success",
+      "pages": 552,
+      "characters": 745405,
+      "time": 24.115792989730835
+    },
+    {
+      "book": "Brihat Jataka 2nd Ed. by V Subrahmanya Sastri.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "C.S._Patel_-_Navamsa_in_Astrology.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "Conjugation at the Speed of Light - PDF Room.pdf",
+      "status": "success",
+      "pages": 288,
+      "characters": 471940,
+      "time": 18.409510135650635
+    },
+    {
+      "book": "Crux-of-Vedic-Astrology-Timing-of-Events1.pdf",
+      "status": "success",
+      "pages": 254,
+      "characters": 342463,
+      "time": 16.012391328811646
+    },
+    {
+      "book": "Deva Keralam 1 Chandrakala Nadi.pdf",
+      "status": "success",
+      "pages": 1,
+      "characters": 71,
+      "time": 10.413551092147827
+    },
+    {
+      "book": "Introduction-to-Vedic-Astrology-Sanjay-Rath.pdf",
+      "status": "success",
+      "pages": 208,
+      "characters": 463879,
+      "time": 13.581093788146973
+    },
+    {
+      "book": "Jataka Parijata Vol I of II by V Subrahmanya Sastri.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "Jataka Parijata Vol II of II by V Subrahmanya Sastri.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "Jyotish Evam Rog Vichar Of Bhoj Raj Dwivedi - Diamond Pocket Books Private Limited, New Delhi.pdf",
+      "status": "success",
+      "pages": 148,
+      "characters": 9620,
+      "time": 0.43711090087890625
+    },
+    {
+      "book": "Narayana Dasa by Sanjay Rath 2.pdf",
+      "status": "success",
+      "pages": 206,
+      "characters": 340845,
+      "time": 14.642539978027344
+    },
+    {
+      "book": "Narayana Dasa by Sanjay Rath.pdf",
+      "status": "success",
+      "pages": 206,
+      "characters": 340845,
+      "time": 14.085199117660522
+    },
+    {
+      "book": "Phaladeepika 2nd Ed. 1950 by V Subrahmanya Sastri.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "Three Hundred Important Combinations in Vedic Astrology.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "advanced study of vimshottari dasha_KK Pathak.pdf",
+      "status": "success",
+      "pages": 251,
+      "characters": 493331,
+      "time": 18.962502002716064
+    },
+    {
+      "book": "aspects-the-speed-of-light-130436478x-9781304364784_compress.pdf",
+      "status": "success",
+      "pages": 302,
+      "characters": 381792,
+      "time": 11.821748971939087
+    },
+    {
+      "book": "astrology krs_emagazine_edition 1_Kapiel Raaj.pdf",
+      "status": "success",
+      "pages": 221,
+      "characters": 453311,
+      "time": 10.977717161178589
+    },
+    {
+      "book": "astrology-the-speed-of-light_compress.pdf",
+      "status": "success",
+      "pages": 288,
+      "characters": 318484,
+      "time": 9.381868839263916
+    },
+    {
+      "book": "howtoknowpeopleb00ranarich.pdf",
+      "status": "success",
+      "pages": 136,
+      "characters": 238132,
+      "time": 7.064780950546265
+    },
+    {
+      "book": "indianpalmistry00daleiala.pdf",
+      "status": "success",
+      "pages": 58,
+      "characters": 64661,
+      "time": 2.0723209381103516
+    },
+    {
+      "book": "jyotish_astrology-and-timing-of-marriage_-k-n-rao_-english_hindi.pdf",
+      "status": "success",
+      "pages": 119,
+      "characters": 250192,
+      "time": 15.1114981174469
+    },
+    {
+      "book": "kpreader-4-marriage-married-life-children.pdf",
+      "status": "no_text"
+    },
+    {
+      "book": "kupdf.net_uttkalamrita-kalidas-ps-sastri.pdf",
+      "status": "success",
+      "pages": 181,
+      "characters": 268972,
+      "time": 15.358845949172974
+    },
+    {
+      "book": "mahadashas-the-speed-of-light_compress.pdf",
+      "status": "success",
+      "pages": 207,
+      "characters": 263825,
+      "time": 8.225717067718506
+    },
+    {
+      "book": "pdfcoffee.com_243649065-jyotish-predicting-through-shodashottary-dashapdf-pdf-free.pdf",
+      "status": "success",
+      "pages": 103,
+      "characters": 80084,
+      "time": 4.224385976791382
+    },
+    {
+      "book": "pdfcoffee.com_astro-notes-3-pdf-free.pdf",
+      "status": "success",
+      "pages": 6,
+      "characters": 17852,
+      "time": 0.6138691902160645
+    },
+    {
+      "book": "pdfcoffee.com_bcpdocx-pdf-free.pdf",
+      "status": "success",
+      "pages": 10,
+      "characters": 14180,
+      "time": 0.5198469161987305
+    },
+    {
+      "book": "pdfcoffee.com_indepth-arudapada-astro-pt-sanjay-rath-pdf-free.pdf",
+      "status": "success",
+      "pages": 18,
+      "characters": 34132,
+      "time": 0.7689821720123291
+    },
+    {
+      "book": "predicting-through-jaimini-chara-dasha.pdf",
+      "status": "success",
+      "pages": 136,
+      "characters": 222421,
+      "time": 10.786150932312012
+    },
+    {
+      "book": "vedic_astro_textbook.pdf",
+      "status": "success",
+      "pages": 499,
+      "characters": 816372,
+      "time": 25.492628812789917
+    }
+  ]
+}
