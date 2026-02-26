@@ -1,0 +1,2918 @@
+{
+    "D60": {
+        "chart": "D60",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D40": {
+        "chart": "D40",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D30": {
+        "chart": "D30",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D45": {
+        "chart": "D45",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D20": {
+        "chart": "D20",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D24": {
+        "chart": "D24",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D10": {
+        "chart": "D10",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D12": {
+        "chart": "D12",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D27": {
+        "chart": "D27",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D1": {
+        "chart": "D1",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D2": {
+        "chart": "D2",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D3": {
+        "chart": "D3",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D4": {
+        "chart": "D4",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D16": {
+        "chart": "D16",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D6": {
+        "chart": "D6",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D7": {
+        "chart": "D7",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D8": {
+        "chart": "D8",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    },
+    "D9": {
+        "chart": "D9",
+        "ascendant": {
+            "degree": "239.74",
+            "sign": "Scorpio",
+            "lord": "Mars",
+            "nakshatra": "Jyeshtha"
+        },
+        "houses": [
+            {
+                "cuspDegree": "239.74",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 1
+            },
+            {
+                "cuspDegree": "269.75",
+                "sign": "Sagittarius",
+                "lord": "Jupiter",
+                "number": 2
+            },
+            {
+                "cuspDegree": "302.36",
+                "sign": "Aquarius",
+                "lord": "Saturn",
+                "number": 3
+            },
+            {
+                "cuspDegree": "336.27",
+                "sign": "Pisces",
+                "lord": "Jupiter",
+                "number": 4
+            },
+            {
+                "cuspDegree": "8.16",
+                "sign": "Aries",
+                "lord": "Mars",
+                "number": 5
+            },
+            {
+                "cuspDegree": "35.79",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 6
+            },
+            {
+                "cuspDegree": "59.74",
+                "sign": "Taurus",
+                "lord": "Venus",
+                "number": 7
+            },
+            {
+                "cuspDegree": "89.75",
+                "sign": "Gemini",
+                "lord": "Mercury",
+                "number": 8
+            },
+            {
+                "cuspDegree": "122.36",
+                "sign": "Leo",
+                "lord": "Sun",
+                "number": 9
+            },
+            {
+                "cuspDegree": "156.27",
+                "sign": "Virgo",
+                "lord": "Mercury",
+                "number": 10
+            },
+            {
+                "cuspDegree": "188.16",
+                "sign": "Libra",
+                "lord": "Venus",
+                "number": 11
+            },
+            {
+                "cuspDegree": "215.79",
+                "sign": "Scorpio",
+                "lord": "Mars",
+                "number": 12
+            }
+        ],
+        "planets": [
+            {
+                "name": "Sun",
+                "degree": "274.94",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Uttara Ashadha",
+                "pada": 3,
+                "dignity": "Detriment",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Moon",
+                "degree": "199.72",
+                "combust": false,
+                "house": 11,
+                "nakshatra": "Swati",
+                "pada": 4,
+                "dignity": "Detriment",
+                "sign": "Libra",
+                "retrograde": false
+            },
+            {
+                "name": "Mars",
+                "degree": "152.37",
+                "combust": false,
+                "house": 9,
+                "nakshatra": "Uttara Phalguni",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Virgo",
+                "retrograde": false
+            },
+            {
+                "name": "Mercury",
+                "degree": "282.27",
+                "combust": true,
+                "house": 2,
+                "nakshatra": "Shravana",
+                "pada": 1,
+                "dignity": "Neutral",
+                "sign": "Capricorn",
+                "retrograde": false
+            },
+            {
+                "name": "Jupiter",
+                "degree": "243.71",
+                "combust": false,
+                "house": 1,
+                "nakshatra": "Mula",
+                "pada": 2,
+                "dignity": "Own Sign",
+                "sign": "Sagittarius",
+                "retrograde": false
+            },
+            {
+                "name": "Venus",
+                "degree": "229.39",
+                "combust": false,
+                "house": 12,
+                "nakshatra": "Jyeshtha",
+                "pada": 1,
+                "dignity": "Detriment",
+                "sign": "Scorpio",
+                "retrograde": false
+            },
+            {
+                "name": "Saturn",
+                "degree": "337.59",
+                "combust": false,
+                "house": 4,
+                "nakshatra": "Uttara Bhadrapada",
+                "pada": 2,
+                "dignity": "Neutral",
+                "sign": "Pisces",
+                "retrograde": false
+            }
+        ]
+    }
+}

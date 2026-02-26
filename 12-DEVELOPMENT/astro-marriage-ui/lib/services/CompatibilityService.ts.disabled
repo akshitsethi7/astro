@@ -1,0 +1,260 @@
+import { ChartData } from '../types/astrology'
+
+export interface AshtakootScore {
+  varna: number
+  vashya: number
+  tara: number
+  yoni: number
+  graha: number
+  gana: number
+  bhakoot: number
+  nadi: number
+  total: number
+}
+
+export class CompatibilityService {
+  /**
+   * Calculate Ashtakoot (8-fold) compatibility
+   */
+  static calculateAshtakoot(chart1: ChartData, chart2: ChartData): AshtakootScore {
+    const score: AshtakootScore = {
+      varna: this.calculateVarna(chart1, chart2),
+      vashya: this.calculateVashya(chart1, chart2),
+      tara: this.calculateTara(chart1, chart2),
+      yoni: this.calculateYoni(chart1, chart2),
+      graha: this.calculateGrahaMaitri(chart1, chart2),
+      gana: this.calculateGana(chart1, chart2),
+      bhakoot: this.calculateBhakoot(chart1, chart2),
+      nadi: this.calculateNadi(chart1, chart2),
+      total: 0,
+    }
+    
+    score.total = Object.values(score).reduce((sum, val) => sum + val, 0) - score.total
+    return score
+  }
+
+  private static calculateVarna(chart1: ChartData, chart2: ChartData): number {
+    // Varna compatibility based on Moon signs
+    // Brahmin > Kshatriya > Vaishya > Shudra
+    const varnaMap: { [key: number]: number } = {
+      0: 1, 3: 1, 6: 1, 9: 1,  // Brahmin (Aries, Cancer, Libra, Capricorn)
+      1: 2, 4: 2, 7: 2, 10: 2, // Kshatriya (Taurus, Leo, Scorpio, Aquarius)
+      2: 3, 5: 3, 8: 3, 11: 3, // Vaishya (Gemini, Virgo, Sagittarius, Pisces)
+    }
+    
+    // Get Moon's sign from the planets map
+    const moonData1 = chart1.planets.get('Moon')
+    const moonData2 = chart2.planets.get('Moon')
+    
+    if (!moonData1 || !moonData2) return 0
+    
+    // Convert sign name to index (0-11)
+    const signToIndex: Record<string, number> = {
+      'Aries': 0, 'Taurus': 1, 'Gemini': 2, 'Cancer': 3,
+      'Leo': 4, 'Virgo': 5, 'Libra': 6, 'Scorpio': 7,
+      'Sagittarius': 8, 'Capricorn': 9, 'Aquarius': 10, 'Pisces': 11
+    }
+    
+    const moonSign1 = signToIndex[moonData1.sign]
+    const moonSign2 = signToIndex[moonData2.sign]
+    
+    const varna1 = varnaMap[moonSign1] || 4
+    const varna2 = varnaMap[moonSign2] || 4
+    
+    return varna1 <= varna2 ? 1 : 0
+  }
+
+  private static calculateVashya(chart1: ChartData, chart2: ChartData): number {
+    // Vashya (mutual attraction) based on Moon signs
+    const vashyaGroups: { [key: number]: number[] } = {
+      0: [0, 6],      // Aries - Libra
+      1: [1, 3, 7],   // Taurus - Cancer, Scorpio
+      2: [2, 5],      // Gemini - Virgo
+      3: [3, 10],     // Cancer - Aquarius
+      4: [4],         // Leo
+      5: [5, 11],     // Virgo - Pisces
+      6: [6, 0],      // Libra - Aries
+      7: [7, 1],      // Scorpio - Taurus
+      8: [8],         // Sagittarius
+      9: [9, 2, 5],   // Capricorn - Gemini, Virgo
+      10: [10, 3],    // Aquarius - Cancer
+      11: [11, 5],    // Pisces - Virgo
+    }
+    
+    // Get Moon's sign from the planets map
+    const moonData1 = chart1.planets.get('Moon')
+    const moonData2 = chart2.planets.get('Moon')
+    
+    if (!moonData1 || !moonData2) return 0
+    
+    // Convert sign name to index (0-11)
+    const signToIndex: Record<string, number> = {
+      'Aries': 0, 'Taurus': 1, 'Gemini': 2, 'Cancer': 3,
+      'Leo': 4, 'Virgo': 5, 'Libra': 6, 'Scorpio': 7,
+      'Sagittarius': 8, 'Capricorn': 9, 'Aquarius': 10, 'Pisces': 11
+    }
+    
+    const moonSign1 = signToIndex[moonData1.sign]
+    const moonSign2 = signToIndex[moonData2.sign]
+    
+    const group1 = vashyaGroups[moonSign1] || []
+    const group2 = vashyaGroups[moonSign2] || []
+    
+    if (group1.includes(moonSign2) || group2.includes(moonSign1)) {
+      return 2
+    }
+    return 0
+  }
+
+  private static calculateTara(chart1: ChartData, chart2: ChartData): number {
+    // Tara (birth star) compatibility
+    const nakshatra1 = Math.floor(chart1.moonLongitude / 13.333333)
+    const nakshatra2 = Math.floor(chart2.moonLongitude / 13.333333)
+    
+    const diff = Math.abs(nakshatra1 - nakshatra2) % 9
+    const favorableTaras = [1, 2, 4, 5, 7, 8]
+    
+    if (favorableTaras.includes(diff)) {
+      return 3
+    } else if (diff === 3 || diff === 6) {
+      return 1.5
+    }
+    return 0
+  }
+
+  private static calculateYoni(chart1: ChartData, chart2: ChartData): number {
+    // Yoni (animal nature) compatibility
+    const yoniMap: { [key: number]: string } = {
+      0: 'Horse', 1: 'Elephant', 2: 'Sheep', 3: 'Serpent',
+      4: 'Dog', 5: 'Cat', 6: 'Rat', 7: 'Cow',
+      8: 'Buffalo', 9: 'Tiger', 10: 'Deer', 11: 'Monkey',
+      12: 'Lion', 13: 'Mongoose', 14: 'Horse', 15: 'Elephant',
+      16: 'Sheep', 17: 'Serpent', 18: 'Dog', 19: 'Cat',
+      20: 'Rat', 21: 'Cow', 22: 'Buffalo', 23: 'Tiger',
+      24: 'Deer', 25: 'Monkey', 26: 'Lion',
+    }
+    
+    const nakshatra1 = Math.floor(chart1.moonLongitude / 13.333333)
+    const nakshatra2 = Math.floor(chart2.moonLongitude / 13.333333)
+    
+    const yoni1 = yoniMap[nakshatra1]
+    const yoni2 = yoniMap[nakshatra2]
+    
+    if (yoni1 === yoni2) return 4
+    
+    // Friendly yonis
+    const friendlyPairs = [
+      ['Horse', 'Mare'], ['Elephant', 'Elephant'], ['Sheep', 'Monkey'],
+      ['Serpent', 'Serpent'], ['Dog', 'Deer'], ['Cat', 'Rat'],
+    ]
+    
+    const isFriendly = friendlyPairs.some(pair => 
+      (pair[0] === yoni1 && pair[1] === yoni2) || 
+      (pair[1] === yoni1 && pair[0] === yoni2)
+    )
+    
+    return isFriendly ? 3 : 2
+  }
+
+  private static calculateGrahaMaitri(chart1: ChartData, chart2: ChartData): number {
+    // Graha Maitri (planetary friendship) based on Moon sign lords
+    const lordMap: { [key: number]: string } = {
+      0: 'Mars', 1: 'Venus', 2: 'Mercury', 3: 'Moon',
+      4: 'Sun', 5: 'Mercury', 6: 'Venus', 7: 'Mars',
+      8: 'Jupiter', 9: 'Saturn', 10: 'Saturn', 11: 'Jupiter',
+    }
+    
+    const lord1 = lordMap[chart1.moonSign]
+    const lord2 = lordMap[chart2.moonSign]
+    
+    if (lord1 === lord2) return 5
+    
+    // Simplified friendship logic
+    const friendships: { [key: string]: string[] } = {
+      'Sun': ['Moon', 'Mars', 'Jupiter'],
+      'Moon': ['Sun', 'Mercury'],
+      'Mars': ['Sun', 'Moon', 'Jupiter'],
+      'Mercury': ['Sun', 'Venus'],
+      'Jupiter': ['Sun', 'Moon', 'Mars'],
+      'Venus': ['Mercury', 'Saturn'],
+      'Saturn': ['Mercury', 'Venus'],
+    }
+    
+    if (friendships[lord1]?.includes(lord2)) return 4
+    return 2
+  }
+
+  private static calculateGana(chart1: ChartData, chart2: ChartData): number {
+    // Gana (temperament) compatibility
+    const ganaMap: { [key: number]: string } = {
+      0: 'Deva', 1: 'Manushya', 2: 'Rakshasa', 3: 'Deva',
+      4: 'Rakshasa', 5: 'Manushya', 6: 'Rakshasa', 7: 'Manushya',
+      8: 'Deva', 9: 'Rakshasa', 10: 'Manushya', 11: 'Deva',
+      12: 'Rakshasa', 13: 'Manushya', 14: 'Deva', 15: 'Rakshasa',
+      16: 'Manushya', 17: 'Deva', 18: 'Rakshasa', 19: 'Manushya',
+      20: 'Deva', 21: 'Rakshasa', 22: 'Manushya', 23: 'Deva',
+      24: 'Rakshasa', 25: 'Manushya', 26: 'Deva',
+    }
+    
+    const nakshatra1 = Math.floor(chart1.moonLongitude / 13.333333)
+    const nakshatra2 = Math.floor(chart2.moonLongitude / 13.333333)
+    
+    const gana1 = ganaMap[nakshatra1]
+    const gana2 = ganaMap[nakshatra2]
+    
+    if (gana1 === gana2) return 6
+    if ((gana1 === 'Deva' && gana2 === 'Manushya') || 
+        (gana1 === 'Manushya' && gana2 === 'Deva')) return 5
+    if ((gana1 === 'Manushya' && gana2 === 'Rakshasa') || 
+        (gana1 === 'Rakshasa' && gana2 === 'Manushya')) return 1
+    return 0
+  }
+
+  private static calculateBhakoot(chart1: ChartData, chart2: ChartData): number {
+    // Bhakoot (sign compatibility)
+    const diff = Math.abs(chart1.moonSign - chart2.moonSign)
+    
+    // Unfavorable positions: 2-12, 5-9, 6-8
+    if (diff === 1 || diff === 11) return 0  // 2-12
+    if (diff === 4 || diff === 8) return 0   // 5-9
+    if (diff === 5 || diff === 7) return 0   // 6-8
+    
+    return 7
+  }
+
+  private static calculateNadi(chart1: ChartData, chart2: ChartData): number {
+    // Nadi (health and progeny)
+    const nadiMap: { [key: number]: string } = {
+      0: 'Aadi', 1: 'Madhya', 2: 'Antya', 3: 'Aadi',
+      4: 'Madhya', 5: 'Antya', 6: 'Aadi', 7: 'Madhya',
+      8: 'Antya', 9: 'Aadi', 10: 'Madhya', 11: 'Antya',
+      12: 'Aadi', 13: 'Madhya', 14: 'Antya', 15: 'Aadi',
+      16: 'Madhya', 17: 'Antya', 18: 'Aadi', 19: 'Madhya',
+      20: 'Antya', 21: 'Aadi', 22: 'Madhya', 23: 'Antya',
+      24: 'Aadi', 25: 'Madhya', 26: 'Antya',
+    }
+    
+    const nakshatra1 = Math.floor(chart1.moonLongitude / 13.333333)
+    const nakshatra2 = Math.floor(chart2.moonLongitude / 13.333333)
+    
+    const nadi1 = nadiMap[nakshatra1]
+    const nadi2 = nadiMap[nakshatra2]
+    
+    // Same Nadi is considered inauspicious
+    return nadi1 !== nadi2 ? 8 : 0
+  }
+
+  /**
+   * Check for Mangal Dosha (Mars affliction)
+   */
+  static checkMangalDosha(chart: ChartData): boolean {
+    // Mars in houses 1, 2, 4, 7, 8, 12 from Lagna causes Mangal Dosha
+    const marsPosition = chart.planets.find(p => p.name === 'Mars')
+    if (!marsPosition) return false
+    
+    const marsHouse = Math.floor(((marsPosition.longitude - chart.ascendant + 360) % 360) / 30) + 1
+    const doshaHouses = [1, 2, 4, 7, 8, 12]
+    
+    return doshaHouses.includes(marsHouse)
+  }
+}

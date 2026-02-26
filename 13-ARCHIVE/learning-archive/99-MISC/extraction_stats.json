@@ -1,0 +1,20 @@
+{
+  "topics": {
+    "planets": 80,
+    "houses": 47,
+    "signs": 59,
+    "nakshatras": 5,
+    "aspects": 10,
+    "marriage": 7,
+    "career": 1,
+    "wealth": 12,
+    "children": 3,
+    "health": 4,
+    "dashas": 0,
+    "transits": 2,
+    "divisional": 24,
+    "yogas": 11,
+    "remedies": 0
+  },
+  "total_pages": 100
+}

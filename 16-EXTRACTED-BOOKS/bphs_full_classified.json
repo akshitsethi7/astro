@@ -1,0 +1,6546 @@
+{
+  "planets": {
+    "page_count": 334,
+    "pages": [
+      {
+        "page": 2,
+        "score": 11.0,
+        "length": 1153
+      },
+      {
+        "page": 3,
+        "score": 2.0,
+        "length": 1262
+      },
+      {
+        "page": 5,
+        "score": 6.0,
+        "length": 1422
+      },
+      {
+        "page": 6,
+        "score": 12.0,
+        "length": 1376
+      },
+      {
+        "page": 8,
+        "score": 9.0,
+        "length": 1179
+      },
+      {
+        "page": 10,
+        "score": 5.0,
+        "length": 1643
+      },
+      {
+        "page": 11,
+        "score": 5.0,
+        "length": 1998
+      },
+      {
+        "page": 12,
+        "score": 9.0,
+        "length": 2268
+      },
+      {
+        "page": 13,
+        "score": 5.0,
+        "length": 2168
+      },
+      {
+        "page": 14,
+        "score": 9.0,
+        "length": 2092
+      },
+      {
+        "page": 15,
+        "score": 8.0,
+        "length": 2113
+      },
+      {
+        "page": 17,
+        "score": 2.0,
+        "length": 2239
+      },
+      {
+        "page": 18,
+        "score": 2.0,
+        "length": 1477
+      },
+      {
+        "page": 20,
+        "score": 1.0,
+        "length": 1184
+      },
+      {
+        "page": 21,
+        "score": 2.0,
+        "length": 1134
+      },
+      {
+        "page": 22,
+        "score": 12.0,
+        "length": 1549
+      },
+      {
+        "page": 23,
+        "score": 9.0,
+        "length": 1159
+      },
+      {
+        "page": 24,
+        "score": 8.0,
+        "length": 1678
+      },
+      {
+        "page": 25,
+        "score": 11.0,
+        "length": 1547
+      },
+      {
+        "page": 26,
+        "score": 26.0,
+        "length": 1784
+      },
+      {
+        "page": 27,
+        "score": 13.0,
+        "length": 1582
+      },
+      {
+        "page": 28,
+        "score": 24.0,
+        "length": 1777
+      },
+      {
+        "page": 29,
+        "score": 10.0,
+        "length": 928
+      },
+      {
+        "page": 30,
+        "score": 32.0,
+        "length": 1333
+      },
+      {
+        "page": 31,
+        "score": 11.0,
+        "length": 1452
+      },
+      {
+        "page": 32,
+        "score": 20.0,
+        "length": 1708
+      },
+      {
+        "page": 33,
+        "score": 14.0,
+        "length": 1771
+      },
+      {
+        "page": 34,
+        "score": 33.0,
+        "length": 1760
+      },
+      {
+        "page": 35,
+        "score": 16.0,
+        "length": 1180
+      },
+      {
+        "page": 36,
+        "score": 22.0,
+        "length": 1739
+      },
+      {
+        "page": 37,
+        "score": 11.0,
+        "length": 1652
+      },
+      {
+        "page": 38,
+        "score": 10.0,
+        "length": 1844
+      },
+      {
+        "page": 39,
+        "score": 51.0,
+        "length": 1837
+      },
+      {
+        "page": 40,
+        "score": 24.0,
+        "length": 1706
+      },
+      {
+        "page": 42,
+        "score": 18.0,
+        "length": 1662
+      },
+      {
+        "page": 43,
+        "score": 2.0,
+        "length": 1383
+      },
+      {
+        "page": 44,
+        "score": 10.0,
+        "length": 1758
+      },
+      {
+        "page": 45,
+        "score": 9.0,
+        "length": 1791
+      },
+      {
+        "page": 46,
+        "score": 8.0,
+        "length": 1790
+      },
+      {
+        "page": 50,
+        "score": 3.0,
+        "length": 1584
+      },
+      {
+        "page": 52,
+        "score": 3.0,
+        "length": 1581
+      },
+      {
+        "page": 54,
+        "score": 7.0,
+        "length": 1006
+      },
+      {
+        "page": 56,
+        "score": 2.0,
+        "length": 1601
+      },
+      {
+        "page": 57,
+        "score": 5.0,
+        "length": 1392
+      },
+      {
+        "page": 58,
+        "score": 11.0,
+        "length": 2319
+      },
+      {
+        "page": 59,
+        "score": 11.0,
+        "length": 1800
+      },
+      {
+        "page": 60,
+        "score": 10.0,
+        "length": 2341
+      },
+      {
+        "page": 61,
+        "score": 7.0,
+        "length": 1140
+      },
+      {
+        "page": 62,
+        "score": 7.0,
+        "length": 1608
+      },
+      {
+        "page": 63,
+        "score": 9.0,
+        "length": 2057
+      },
+      {
+        "page": 65,
+        "score": 4.0,
+        "length": 1673
+      },
+      {
+        "page": 67,
+        "score": 5.0,
+        "length": 1435
+      },
+      {
+        "page": 68,
+        "score": 24.0,
+        "length": 820
+      },
+      {
+        "page": 82,
+        "score": 11.0,
+        "length": 2236
+      },
+      {
+        "page": 83,
+        "score": 2.0,
+        "length": 1502
+      },
+      {
+        "page": 84,
+        "score": 3.0,
+        "length": 1544
+      },
+      {
+        "page": 85,
+        "score": 5.0,
+        "length": 1539
+      },
+      {
+        "page": 86,
+        "score": 2.0,
+        "length": 1539
+      },
+      {
+        "page": 89,
+        "score": 23.0,
+        "length": 2138
+      },
+      {
+        "page": 92,
+        "score": 9.0,
+        "length": 1887
+      },
+      {
+        "page": 93,
+        "score": 28.0,
+        "length": 1852
+      },
+      {
+        "page": 94,
+        "score": 10.0,
+        "length": 1709
+      },
+      {
+        "page": 95,
+        "score": 2.0,
+        "length": 1694
+      },
+      {
+        "page": 97,
+        "score": 5.0,
+        "length": 899
+      },
+      {
+        "page": 99,
+        "score": 22.0,
+        "length": 1609
+      },
+      {
+        "page": 100,
+        "score": 1.0,
+        "length": 1403
+      },
+      {
+        "page": 102,
+        "score": 8.0,
+        "length": 1361
+      },
+      {
+        "page": 103,
+        "score": 14.0,
+        "length": 1825
+      },
+      {
+        "page": 104,
+        "score": 6.0,
+        "length": 1362
+      },
+      {
+        "page": 106,
+        "score": 16.0,
+        "length": 931
+      },
+      {
+        "page": 107,
+        "score": 6.0,
+        "length": 1167
+      },
+      {
+        "page": 108,
+        "score": 3.0,
+        "length": 1453
+      },
+      {
+        "page": 109,
+        "score": 8.0,
+        "length": 1868
+      },
+      {
+        "page": 110,
+        "score": 25.0,
+        "length": 1688
+      },
+      {
+        "page": 111,
+        "score": 8.0,
+        "length": 1783
+      },
+      {
+        "page": 112,
+        "score": 6.0,
+        "length": 1495
+      },
+      {
+        "page": 113,
+        "score": 10.0,
+        "length": 1399
+      },
+      {
+        "page": 114,
+        "score": 8.0,
+        "length": 1447
+      },
+      {
+        "page": 115,
+        "score": 14.0,
+        "length": 1392
+      },
+      {
+        "page": 116,
+        "score": 14.0,
+        "length": 1573
+      },
+      {
+        "page": 117,
+        "score": 10.0,
+        "length": 1385
+      },
+      {
+        "page": 118,
+        "score": 5.0,
+        "length": 1653
+      },
+      {
+        "page": 119,
+        "score": 3.0,
+        "length": 1173
+      },
+      {
+        "page": 124,
+        "score": 14.0,
+        "length": 1819
+      },
+      {
+        "page": 125,
+        "score": 6.0,
+        "length": 1422
+      },
+      {
+        "page": 126,
+        "score": 4.0,
+        "length": 1549
+      },
+      {
+        "page": 127,
+        "score": 13.0,
+        "length": 1853
+      },
+      {
+        "page": 128,
+        "score": 4.0,
+        "length": 1621
+      },
+      {
+        "page": 132,
+        "score": 7.0,
+        "length": 1887
+      },
+      {
+        "page": 133,
+        "score": 4.0,
+        "length": 1845
+      },
+      {
+        "page": 134,
+        "score": 4.0,
+        "length": 1721
+      },
+      {
+        "page": 135,
+        "score": 6.0,
+        "length": 2157
+      },
+      {
+        "page": 136,
+        "score": 6.0,
+        "length": 1438
+      },
+      {
+        "page": 137,
+        "score": 12.0,
+        "length": 1910
+      },
+      {
+        "page": 138,
+        "score": 16.0,
+        "length": 2114
+      },
+      {
+        "page": 139,
+        "score": 13.0,
+        "length": 1792
+      },
+      {
+        "page": 140,
+        "score": 11.0,
+        "length": 1439
+      },
+      {
+        "page": 142,
+        "score": 8.0,
+        "length": 1336
+      },
+      {
+        "page": 143,
+        "score": 4.0,
+        "length": 2006
+      },
+      {
+        "page": 145,
+        "score": 11.0,
+        "length": 1555
+      },
+      {
+        "page": 146,
+        "score": 9.0,
+        "length": 1453
+      },
+      {
+        "page": 147,
+        "score": 15.0,
+        "length": 1673
+      },
+      {
+        "page": 148,
+        "score": 10.0,
+        "length": 1400
+      },
+      {
+        "page": 149,
+        "score": 3.0,
+        "length": 1297
+      },
+      {
+        "page": 150,
+        "score": 12.0,
+        "length": 1793
+      },
+      {
+        "page": 151,
+        "score": 6.0,
+        "length": 1275
+      },
+      {
+        "page": 152,
+        "score": 21.0,
+        "length": 2003
+      },
+      {
+        "page": 153,
+        "score": 16.0,
+        "length": 1653
+      },
+      {
+        "page": 154,
+        "score": 15.0,
+        "length": 1662
+      },
+      {
+        "page": 155,
+        "score": 6.0,
+        "length": 2529
+      },
+      {
+        "page": 156,
+        "score": 4.0,
+        "length": 2115
+      },
+      {
+        "page": 157,
+        "score": 11.0,
+        "length": 1644
+      },
+      {
+        "page": 158,
+        "score": 9.0,
+        "length": 1620
+      },
+      {
+        "page": 160,
+        "score": 4.0,
+        "length": 1729
+      },
+      {
+        "page": 161,
+        "score": 16.0,
+        "length": 1993
+      },
+      {
+        "page": 162,
+        "score": 6.0,
+        "length": 2162
+      },
+      {
+        "page": 163,
+        "score": 6.0,
+        "length": 1764
+      },
+      {
+        "page": 164,
+        "score": 12.0,
+        "length": 1645
+      },
+      {
+        "page": 165,
+        "score": 10.0,
+        "length": 1651
+      },
+      {
+        "page": 166,
+        "score": 2.0,
+        "length": 1395
+      },
+      {
+        "page": 167,
+        "score": 6.0,
+        "length": 1476
+      },
+      {
+        "page": 168,
+        "score": 7.0,
+        "length": 1072
+      },
+      {
+        "page": 169,
+        "score": 5.0,
+        "length": 1568
+      },
+      {
+        "page": 171,
+        "score": 1.0,
+        "length": 2327
+      },
+      {
+        "page": 172,
+        "score": 5.0,
+        "length": 1289
+      },
+      {
+        "page": 173,
+        "score": 7.0,
+        "length": 1610
+      },
+      {
+        "page": 175,
+        "score": 14.0,
+        "length": 1923
+      },
+      {
+        "page": 176,
+        "score": 7.0,
+        "length": 1583
+      },
+      {
+        "page": 179,
+        "score": 4.0,
+        "length": 1497
+      },
+      {
+        "page": 180,
+        "score": 16.0,
+        "length": 1686
+      },
+      {
+        "page": 181,
+        "score": 5.0,
+        "length": 1436
+      },
+      {
+        "page": 182,
+        "score": 2.0,
+        "length": 1256
+      },
+      {
+        "page": 183,
+        "score": 6.0,
+        "length": 1734
+      },
+      {
+        "page": 184,
+        "score": 4.0,
+        "length": 1433
+      },
+      {
+        "page": 186,
+        "score": 7.0,
+        "length": 1794
+      },
+      {
+        "page": 187,
+        "score": 3.0,
+        "length": 1344
+      },
+      {
+        "page": 192,
+        "score": 4.0,
+        "length": 1682
+      },
+      {
+        "page": 197,
+        "score": 1.0,
+        "length": 1684
+      },
+      {
+        "page": 201,
+        "score": 5.0,
+        "length": 1177
+      },
+      {
+        "page": 204,
+        "score": 6.0,
+        "length": 948
+      },
+      {
+        "page": 205,
+        "score": 3.0,
+        "length": 1027
+      },
+      {
+        "page": 206,
+        "score": 4.0,
+        "length": 1076
+      },
+      {
+        "page": 207,
+        "score": 6.0,
+        "length": 1863
+      },
+      {
+        "page": 212,
+        "score": 1.0,
+        "length": 1215
+      },
+      {
+        "page": 219,
+        "score": 3.0,
+        "length": 1757
+      },
+      {
+        "page": 223,
+        "score": 5.0,
+        "length": 910
+      },
+      {
+        "page": 224,
+        "score": 7.0,
+        "length": 1209
+      },
+      {
+        "page": 225,
+        "score": 4.0,
+        "length": 1767
+      },
+      {
+        "page": 226,
+        "score": 3.0,
+        "length": 1021
+      },
+      {
+        "page": 227,
+        "score": 3.0,
+        "length": 1646
+      },
+      {
+        "page": 230,
+        "score": 7.0,
+        "length": 1935
+      },
+      {
+        "page": 231,
+        "score": 7.0,
+        "length": 1179
+      },
+      {
+        "page": 234,
+        "score": 5.0,
+        "length": 1593
+      },
+      {
+        "page": 235,
+        "score": 10.0,
+        "length": 1816
+      },
+      {
+        "page": 236,
+        "score": 8.0,
+        "length": 1807
+      },
+      {
+        "page": 244,
+        "score": 1.0,
+        "length": 1468
+      },
+      {
+        "page": 249,
+        "score": 2.0,
+        "length": 1590
+      },
+      {
+        "page": 252,
+        "score": 2.0,
+        "length": 1633
+      },
+      {
+        "page": 253,
+        "score": 9.0,
+        "length": 1244
+      },
+      {
+        "page": 254,
+        "score": 6.0,
+        "length": 1877
+      },
+      {
+        "page": 255,
+        "score": 10.0,
+        "length": 1849
+      },
+      {
+        "page": 257,
+        "score": 2.0,
+        "length": 1310
+      },
+      {
+        "page": 263,
+        "score": 8.0,
+        "length": 1879
+      },
+      {
+        "page": 264,
+        "score": 9.0,
+        "length": 1675
+      },
+      {
+        "page": 265,
+        "score": 21.0,
+        "length": 1859
+      },
+      {
+        "page": 266,
+        "score": 15.0,
+        "length": 1967
+      },
+      {
+        "page": 267,
+        "score": 23.0,
+        "length": 1826
+      },
+      {
+        "page": 268,
+        "score": 16.0,
+        "length": 1745
+      },
+      {
+        "page": 269,
+        "score": 12.0,
+        "length": 1741
+      },
+      {
+        "page": 270,
+        "score": 2.0,
+        "length": 2265
+      },
+      {
+        "page": 271,
+        "score": 7.0,
+        "length": 1546
+      },
+      {
+        "page": 274,
+        "score": 67.0,
+        "length": 902
+      },
+      {
+        "page": 275,
+        "score": 16.0,
+        "length": 1418
+      },
+      {
+        "page": 276,
+        "score": 17.0,
+        "length": 1662
+      },
+      {
+        "page": 283,
+        "score": 23.0,
+        "length": 1554
+      },
+      {
+        "page": 284,
+        "score": 9.0,
+        "length": 1696
+      },
+      {
+        "page": 285,
+        "score": 8.0,
+        "length": 2006
+      },
+      {
+        "page": 286,
+        "score": 21.0,
+        "length": 1502
+      },
+      {
+        "page": 287,
+        "score": 4.0,
+        "length": 1536
+      },
+      {
+        "page": 288,
+        "score": 11.0,
+        "length": 1354
+      },
+      {
+        "page": 289,
+        "score": 4.0,
+        "length": 1650
+      },
+      {
+        "page": 290,
+        "score": 5.0,
+        "length": 1592
+      },
+      {
+        "page": 292,
+        "score": 2.0,
+        "length": 1140
+      },
+      {
+        "page": 293,
+        "score": 7.0,
+        "length": 213
+      },
+      {
+        "page": 296,
+        "score": 22.0,
+        "length": 1932
+      },
+      {
+        "page": 297,
+        "score": 3.0,
+        "length": 1474
+      },
+      {
+        "page": 298,
+        "score": 5.0,
+        "length": 1948
+      },
+      {
+        "page": 299,
+        "score": 9.0,
+        "length": 1407
+      },
+      {
+        "page": 300,
+        "score": 8.0,
+        "length": 1324
+      },
+      {
+        "page": 304,
+        "score": 5.0,
+        "length": 1990
+      },
+      {
+        "page": 305,
+        "score": 8.0,
+        "length": 1409
+      },
+      {
+        "page": 306,
+        "score": 17.0,
+        "length": 1576
+      },
+      {
+        "page": 307,
+        "score": 15.0,
+        "length": 1521
+      },
+      {
+        "page": 308,
+        "score": 7.0,
+        "length": 1517
+      },
+      {
+        "page": 309,
+        "score": 8.0,
+        "length": 1353
+      },
+      {
+        "page": 310,
+        "score": 5.0,
+        "length": 1032
+      },
+      {
+        "page": 311,
+        "score": 7.0,
+        "length": 2292
+      },
+      {
+        "page": 312,
+        "score": 18.0,
+        "length": 1119
+      },
+      {
+        "page": 313,
+        "score": 12.0,
+        "length": 1958
+      },
+      {
+        "page": 315,
+        "score": 8.0,
+        "length": 1214
+      },
+      {
+        "page": 316,
+        "score": 4.0,
+        "length": 1612
+      },
+      {
+        "page": 318,
+        "score": 17.0,
+        "length": 1372
+      },
+      {
+        "page": 319,
+        "score": 22.0,
+        "length": 1391
+      },
+      {
+        "page": 320,
+        "score": 15.0,
+        "length": 1587
+      },
+      {
+        "page": 321,
+        "score": 6.0,
+        "length": 1179
+      },
+      {
+        "page": 323,
+        "score": 20.0,
+        "length": 1868
+      },
+      {
+        "page": 324,
+        "score": 25.0,
+        "length": 1866
+      },
+      {
+        "page": 325,
+        "score": 4.0,
+        "length": 1367
+      },
+      {
+        "page": 327,
+        "score": 3.0,
+        "length": 1370
+      },
+      {
+        "page": 328,
+        "score": 19.0,
+        "length": 1912
+      },
+      {
+        "page": 329,
+        "score": 11.0,
+        "length": 1511
+      },
+      {
+        "page": 330,
+        "score": 17.0,
+        "length": 1584
+      },
+      {
+        "page": 331,
+        "score": 11.0,
+        "length": 1614
+      },
+      {
+        "page": 332,
+        "score": 15.0,
+        "length": 1814
+      },
+      {
+        "page": 333,
+        "score": 10.0,
+        "length": 1729
+      },
+      {
+        "page": 334,
+        "score": 3.0,
+        "length": 1484
+      },
+      {
+        "page": 335,
+        "score": 9.0,
+        "length": 1566
+      },
+      {
+        "page": 336,
+        "score": 7.0,
+        "length": 1549
+      },
+      {
+        "page": 337,
+        "score": 23.0,
+        "length": 1878
+      },
+      {
+        "page": 338,
+        "score": 10.0,
+        "length": 1626
+      },
+      {
+        "page": 339,
+        "score": 3.0,
+        "length": 1298
+      },
+      {
+        "page": 340,
+        "score": 6.0,
+        "length": 1822
+      },
+      {
+        "page": 341,
+        "score": 14.0,
+        "length": 2383
+      },
+      {
+        "page": 342,
+        "score": 6.0,
+        "length": 2130
+      },
+      {
+        "page": 343,
+        "score": 44.0,
+        "length": 1964
+      },
+      {
+        "page": 344,
+        "score": 3.0,
+        "length": 1634
+      },
+      {
+        "page": 345,
+        "score": 6.0,
+        "length": 1957
+      },
+      {
+        "page": 346,
+        "score": 23.0,
+        "length": 1711
+      },
+      {
+        "page": 347,
+        "score": 38.0,
+        "length": 2084
+      },
+      {
+        "page": 348,
+        "score": 31.0,
+        "length": 2120
+      },
+      {
+        "page": 349,
+        "score": 27.0,
+        "length": 2034
+      },
+      {
+        "page": 350,
+        "score": 36.0,
+        "length": 2091
+      },
+      {
+        "page": 351,
+        "score": 30.0,
+        "length": 1876
+      },
+      {
+        "page": 352,
+        "score": 36.0,
+        "length": 1913
+      },
+      {
+        "page": 353,
+        "score": 32.0,
+        "length": 2005
+      },
+      {
+        "page": 354,
+        "score": 34.0,
+        "length": 2104
+      },
+      {
+        "page": 355,
+        "score": 24.0,
+        "length": 1801
+      },
+      {
+        "page": 358,
+        "score": 6.0,
+        "length": 1663
+      },
+      {
+        "page": 366,
+        "score": 6.0,
+        "length": 2250
+      },
+      {
+        "page": 367,
+        "score": 14.0,
+        "length": 1965
+      },
+      {
+        "page": 368,
+        "score": 20.0,
+        "length": 2139
+      },
+      {
+        "page": 369,
+        "score": 12.0,
+        "length": 1892
+      },
+      {
+        "page": 370,
+        "score": 9.0,
+        "length": 1163
+      },
+      {
+        "page": 375,
+        "score": 8.0,
+        "length": 1681
+      },
+      {
+        "page": 377,
+        "score": 10.0,
+        "length": 1674
+      },
+      {
+        "page": 378,
+        "score": 1.0,
+        "length": 35
+      },
+      {
+        "page": 380,
+        "score": 5.0,
+        "length": 297
+      },
+      {
+        "page": 381,
+        "score": 12.0,
+        "length": 1038
+      },
+      {
+        "page": 382,
+        "score": 8.0,
+        "length": 1880
+      },
+      {
+        "page": 383,
+        "score": 9.0,
+        "length": 1281
+      },
+      {
+        "page": 384,
+        "score": 10.0,
+        "length": 1494
+      },
+      {
+        "page": 385,
+        "score": 9.0,
+        "length": 1124
+      },
+      {
+        "page": 387,
+        "score": 6.0,
+        "length": 2163
+      },
+      {
+        "page": 388,
+        "score": 5.0,
+        "length": 1967
+      },
+      {
+        "page": 389,
+        "score": 8.0,
+        "length": 1546
+      },
+      {
+        "page": 390,
+        "score": 11.0,
+        "length": 1791
+      },
+      {
+        "page": 391,
+        "score": 8.0,
+        "length": 1443
+      },
+      {
+        "page": 393,
+        "score": 8.0,
+        "length": 1471
+      },
+      {
+        "page": 394,
+        "score": 3.0,
+        "length": 1341
+      },
+      {
+        "page": 395,
+        "score": 5.0,
+        "length": 1667
+      },
+      {
+        "page": 396,
+        "score": 9.0,
+        "length": 2119
+      },
+      {
+        "page": 397,
+        "score": 11.0,
+        "length": 1286
+      },
+      {
+        "page": 401,
+        "score": 5.0,
+        "length": 1113
+      },
+      {
+        "page": 402,
+        "score": 21.0,
+        "length": 1701
+      },
+      {
+        "page": 403,
+        "score": 14.0,
+        "length": 1522
+      },
+      {
+        "page": 404,
+        "score": 18.0,
+        "length": 1210
+      },
+      {
+        "page": 405,
+        "score": 4.0,
+        "length": 1605
+      },
+      {
+        "page": 409,
+        "score": 4.0,
+        "length": 1774
+      },
+      {
+        "page": 410,
+        "score": 4.0,
+        "length": 2070
+      },
+      {
+        "page": 412,
+        "score": 4.0,
+        "length": 1183
+      },
+      {
+        "page": 413,
+        "score": 6.0,
+        "length": 1392
+      },
+      {
+        "page": 414,
+        "score": 2.0,
+        "length": 1437
+      },
+      {
+        "page": 415,
+        "score": 6.0,
+        "length": 1294
+      },
+      {
+        "page": 416,
+        "score": 12.0,
+        "length": 1640
+      },
+      {
+        "page": 417,
+        "score": 4.0,
+        "length": 1759
+      },
+      {
+        "page": 418,
+        "score": 7.0,
+        "length": 986
+      },
+      {
+        "page": 419,
+        "score": 10.0,
+        "length": 1068
+      },
+      {
+        "page": 420,
+        "score": 16.0,
+        "length": 1713
+      },
+      {
+        "page": 421,
+        "score": 9.0,
+        "length": 2301
+      },
+      {
+        "page": 422,
+        "score": 19.0,
+        "length": 1950
+      },
+      {
+        "page": 423,
+        "score": 13.0,
+        "length": 2268
+      },
+      {
+        "page": 424,
+        "score": 14.0,
+        "length": 1485
+      },
+      {
+        "page": 425,
+        "score": 6.0,
+        "length": 1647
+      },
+      {
+        "page": 426,
+        "score": 5.0,
+        "length": 1766
+      },
+      {
+        "page": 428,
+        "score": 8.0,
+        "length": 1805
+      },
+      {
+        "page": 429,
+        "score": 4.0,
+        "length": 1656
+      },
+      {
+        "page": 430,
+        "score": 7.0,
+        "length": 2002
+      },
+      {
+        "page": 431,
+        "score": 4.0,
+        "length": 1674
+      },
+      {
+        "page": 432,
+        "score": 2.0,
+        "length": 1648
+      },
+      {
+        "page": 433,
+        "score": 5.0,
+        "length": 1803
+      },
+      {
+        "page": 434,
+        "score": 3.0,
+        "length": 1437
+      },
+      {
+        "page": 435,
+        "score": 6.0,
+        "length": 1495
+      },
+      {
+        "page": 436,
+        "score": 6.0,
+        "length": 1266
+      },
+      {
+        "page": 437,
+        "score": 1.0,
+        "length": 1355
+      },
+      {
+        "page": 438,
+        "score": 3.0,
+        "length": 1425
+      },
+      {
+        "page": 443,
+        "score": 11.0,
+        "length": 1655
+      },
+      {
+        "page": 444,
+        "score": 16.0,
+        "length": 1736
+      },
+      {
+        "page": 445,
+        "score": 10.0,
+        "length": 1413
+      },
+      {
+        "page": 446,
+        "score": 8.0,
+        "length": 1606
+      },
+      {
+        "page": 447,
+        "score": 12.0,
+        "length": 1244
+      },
+      {
+        "page": 448,
+        "score": 5.0,
+        "length": 1543
+      },
+      {
+        "page": 449,
+        "score": 4.0,
+        "length": 1317
+      },
+      {
+        "page": 450,
+        "score": 12.0,
+        "length": 1547
+      },
+      {
+        "page": 451,
+        "score": 2.0,
+        "length": 1348
+      },
+      {
+        "page": 452,
+        "score": 2.0,
+        "length": 1678
+      },
+      {
+        "page": 453,
+        "score": 20.0,
+        "length": 1967
+      },
+      {
+        "page": 454,
+        "score": 13.0,
+        "length": 1923
+      },
+      {
+        "page": 455,
+        "score": 5.0,
+        "length": 1311
+      },
+      {
+        "page": 456,
+        "score": 4.0,
+        "length": 1610
+      },
+      {
+        "page": 457,
+        "score": 7.0,
+        "length": 1895
+      },
+      {
+        "page": 458,
+        "score": 12.0,
+        "length": 2362
+      },
+      {
+        "page": 459,
+        "score": 2.0,
+        "length": 1373
+      },
+      {
+        "page": 460,
+        "score": 10.0,
+        "length": 2027
+      },
+      {
+        "page": 461,
+        "score": 14.0,
+        "length": 2204
+      },
+      {
+        "page": 462,
+        "score": 5.0,
+        "length": 1329
+      },
+      {
+        "page": 463,
+        "score": 17.0,
+        "length": 2489
+      },
+      {
+        "page": 464,
+        "score": 16.0,
+        "length": 2346
+      },
+      {
+        "page": 465,
+        "score": 2.0,
+        "length": 1342
+      },
+      {
+        "page": 466,
+        "score": 10.0,
+        "length": 2224
+      },
+      {
+        "page": 467,
+        "score": 13.0,
+        "length": 2324
+      },
+      {
+        "page": 469,
+        "score": 12.0,
+        "length": 2308
+      },
+      {
+        "page": 470,
+        "score": 13.0,
+        "length": 2207
+      },
+      {
+        "page": 471,
+        "score": 3.0,
+        "length": 1398
+      },
+      {
+        "page": 472,
+        "score": 12.0,
+        "length": 2426
+      },
+      {
+        "page": 473,
+        "score": 8.0,
+        "length": 1812
+      },
+      {
+        "page": 474,
+        "score": 9.0,
+        "length": 1914
+      },
+      {
+        "page": 475,
+        "score": 16.0,
+        "length": 2397
+      },
+      {
+        "page": 476,
+        "score": 2.0,
+        "length": 1089
+      },
+      {
+        "page": 477,
+        "score": 12.0,
+        "length": 2457
+      },
+      {
+        "page": 478,
+        "score": 5.0,
+        "length": 1426
+      },
+      {
+        "page": 479,
+        "score": 10.0,
+        "length": 2056
+      },
+      {
+        "page": 480,
+        "score": 1.0,
+        "length": 1273
+      },
+      {
+        "page": 481,
+        "score": 2.0,
+        "length": 1081
+      },
+      {
+        "page": 482,
+        "score": 1.0,
+        "length": 1028
+      }
+    ]
+  },
+  "houses": {
+    "page_count": 223,
+    "pages": [
+      {
+        "page": 2,
+        "score": 7.0,
+        "length": 1153
+      },
+      {
+        "page": 3,
+        "score": 5.0,
+        "length": 1262
+      },
+      {
+        "page": 4,
+        "score": 5.0,
+        "length": 1418
+      },
+      {
+        "page": 5,
+        "score": 6.0,
+        "length": 1422
+      },
+      {
+        "page": 6,
+        "score": 6.0,
+        "length": 1376
+      },
+      {
+        "page": 7,
+        "score": 9.0,
+        "length": 1192
+      },
+      {
+        "page": 11,
+        "score": 2.0,
+        "length": 1998
+      },
+      {
+        "page": 12,
+        "score": 10.0,
+        "length": 2268
+      },
+      {
+        "page": 13,
+        "score": 5.0,
+        "length": 2168
+      },
+      {
+        "page": 14,
+        "score": 4.0,
+        "length": 2092
+      },
+      {
+        "page": 24,
+        "score": 4.0,
+        "length": 1678
+      },
+      {
+        "page": 38,
+        "score": 4.0,
+        "length": 1844
+      },
+      {
+        "page": 43,
+        "score": 1.0,
+        "length": 1383
+      },
+      {
+        "page": 53,
+        "score": 2.0,
+        "length": 1888
+      },
+      {
+        "page": 54,
+        "score": 5.0,
+        "length": 1006
+      },
+      {
+        "page": 56,
+        "score": 2.0,
+        "length": 1601
+      },
+      {
+        "page": 59,
+        "score": 4.0,
+        "length": 1800
+      },
+      {
+        "page": 61,
+        "score": 8.0,
+        "length": 1140
+      },
+      {
+        "page": 62,
+        "score": 9.0,
+        "length": 1608
+      },
+      {
+        "page": 63,
+        "score": 28.0,
+        "length": 2057
+      },
+      {
+        "page": 64,
+        "score": 10.0,
+        "length": 1990
+      },
+      {
+        "page": 65,
+        "score": 7.0,
+        "length": 1673
+      },
+      {
+        "page": 66,
+        "score": 6.0,
+        "length": 1273
+      },
+      {
+        "page": 86,
+        "score": 2.0,
+        "length": 1539
+      },
+      {
+        "page": 91,
+        "score": 4.0,
+        "length": 1630
+      },
+      {
+        "page": 97,
+        "score": 2.0,
+        "length": 899
+      },
+      {
+        "page": 101,
+        "score": 14.0,
+        "length": 1595
+      },
+      {
+        "page": 102,
+        "score": 5.0,
+        "length": 1361
+      },
+      {
+        "page": 103,
+        "score": 12.0,
+        "length": 1825
+      },
+      {
+        "page": 104,
+        "score": 4.0,
+        "length": 1362
+      },
+      {
+        "page": 108,
+        "score": 4.0,
+        "length": 1453
+      },
+      {
+        "page": 111,
+        "score": 3.0,
+        "length": 1783
+      },
+      {
+        "page": 112,
+        "score": 4.0,
+        "length": 1495
+      },
+      {
+        "page": 113,
+        "score": 3.0,
+        "length": 1399
+      },
+      {
+        "page": 114,
+        "score": 3.0,
+        "length": 1447
+      },
+      {
+        "page": 118,
+        "score": 4.0,
+        "length": 1653
+      },
+      {
+        "page": 119,
+        "score": 3.0,
+        "length": 1173
+      },
+      {
+        "page": 120,
+        "score": 10.0,
+        "length": 1436
+      },
+      {
+        "page": 121,
+        "score": 12.0,
+        "length": 1428
+      },
+      {
+        "page": 122,
+        "score": 13.0,
+        "length": 1575
+      },
+      {
+        "page": 123,
+        "score": 16.0,
+        "length": 2158
+      },
+      {
+        "page": 124,
+        "score": 6.0,
+        "length": 1819
+      },
+      {
+        "page": 125,
+        "score": 5.0,
+        "length": 1422
+      },
+      {
+        "page": 126,
+        "score": 6.0,
+        "length": 1549
+      },
+      {
+        "page": 128,
+        "score": 2.0,
+        "length": 1621
+      },
+      {
+        "page": 129,
+        "score": 1.0,
+        "length": 1181
+      },
+      {
+        "page": 130,
+        "score": 2.0,
+        "length": 420
+      },
+      {
+        "page": 131,
+        "score": 2.0,
+        "length": 1430
+      },
+      {
+        "page": 133,
+        "score": 6.0,
+        "length": 1845
+      },
+      {
+        "page": 136,
+        "score": 19.0,
+        "length": 1438
+      },
+      {
+        "page": 137,
+        "score": 9.0,
+        "length": 1910
+      },
+      {
+        "page": 141,
+        "score": 5.0,
+        "length": 1213
+      },
+      {
+        "page": 142,
+        "score": 5.0,
+        "length": 1336
+      },
+      {
+        "page": 143,
+        "score": 4.0,
+        "length": 2006
+      },
+      {
+        "page": 146,
+        "score": 5.0,
+        "length": 1453
+      },
+      {
+        "page": 149,
+        "score": 4.0,
+        "length": 1297
+      },
+      {
+        "page": 151,
+        "score": 9.0,
+        "length": 1275
+      },
+      {
+        "page": 152,
+        "score": 15.0,
+        "length": 2003
+      },
+      {
+        "page": 158,
+        "score": 4.0,
+        "length": 1620
+      },
+      {
+        "page": 159,
+        "score": 6.0,
+        "length": 1283
+      },
+      {
+        "page": 162,
+        "score": 2.0,
+        "length": 2162
+      },
+      {
+        "page": 163,
+        "score": 7.0,
+        "length": 1764
+      },
+      {
+        "page": 164,
+        "score": 4.0,
+        "length": 1645
+      },
+      {
+        "page": 166,
+        "score": 5.0,
+        "length": 1395
+      },
+      {
+        "page": 168,
+        "score": 4.0,
+        "length": 1072
+      },
+      {
+        "page": 169,
+        "score": 2.0,
+        "length": 1568
+      },
+      {
+        "page": 170,
+        "score": 9.0,
+        "length": 1588
+      },
+      {
+        "page": 172,
+        "score": 8.0,
+        "length": 1289
+      },
+      {
+        "page": 175,
+        "score": 6.0,
+        "length": 1923
+      },
+      {
+        "page": 176,
+        "score": 9.0,
+        "length": 1583
+      },
+      {
+        "page": 177,
+        "score": 5.0,
+        "length": 1275
+      },
+      {
+        "page": 178,
+        "score": 3.0,
+        "length": 1866
+      },
+      {
+        "page": 179,
+        "score": 2.0,
+        "length": 1497
+      },
+      {
+        "page": 181,
+        "score": 4.0,
+        "length": 1436
+      },
+      {
+        "page": 182,
+        "score": 6.0,
+        "length": 1256
+      },
+      {
+        "page": 183,
+        "score": 8.0,
+        "length": 1734
+      },
+      {
+        "page": 184,
+        "score": 2.0,
+        "length": 1433
+      },
+      {
+        "page": 185,
+        "score": 3.0,
+        "length": 1260
+      },
+      {
+        "page": 186,
+        "score": 12.0,
+        "length": 1794
+      },
+      {
+        "page": 187,
+        "score": 7.0,
+        "length": 1344
+      },
+      {
+        "page": 188,
+        "score": 6.0,
+        "length": 1244
+      },
+      {
+        "page": 189,
+        "score": 10.0,
+        "length": 1618
+      },
+      {
+        "page": 190,
+        "score": 3.0,
+        "length": 1826
+      },
+      {
+        "page": 191,
+        "score": 7.0,
+        "length": 1507
+      },
+      {
+        "page": 192,
+        "score": 5.0,
+        "length": 1682
+      },
+      {
+        "page": 193,
+        "score": 6.0,
+        "length": 1616
+      },
+      {
+        "page": 194,
+        "score": 3.0,
+        "length": 1666
+      },
+      {
+        "page": 195,
+        "score": 4.0,
+        "length": 1556
+      },
+      {
+        "page": 196,
+        "score": 3.0,
+        "length": 1533
+      },
+      {
+        "page": 197,
+        "score": 2.0,
+        "length": 1684
+      },
+      {
+        "page": 199,
+        "score": 4.0,
+        "length": 1896
+      },
+      {
+        "page": 200,
+        "score": 3.0,
+        "length": 1555
+      },
+      {
+        "page": 201,
+        "score": 4.0,
+        "length": 1177
+      },
+      {
+        "page": 202,
+        "score": 5.0,
+        "length": 1799
+      },
+      {
+        "page": 203,
+        "score": 11.0,
+        "length": 1891
+      },
+      {
+        "page": 204,
+        "score": 4.0,
+        "length": 948
+      },
+      {
+        "page": 205,
+        "score": 2.0,
+        "length": 1027
+      },
+      {
+        "page": 207,
+        "score": 6.0,
+        "length": 1863
+      },
+      {
+        "page": 209,
+        "score": 4.0,
+        "length": 1592
+      },
+      {
+        "page": 210,
+        "score": 2.0,
+        "length": 1789
+      },
+      {
+        "page": 212,
+        "score": 3.0,
+        "length": 1215
+      },
+      {
+        "page": 214,
+        "score": 4.0,
+        "length": 1783
+      },
+      {
+        "page": 215,
+        "score": 3.0,
+        "length": 1499
+      },
+      {
+        "page": 216,
+        "score": 3.0,
+        "length": 1483
+      },
+      {
+        "page": 217,
+        "score": 6.0,
+        "length": 1896
+      },
+      {
+        "page": 218,
+        "score": 8.0,
+        "length": 2030
+      },
+      {
+        "page": 219,
+        "score": 6.0,
+        "length": 1757
+      },
+      {
+        "page": 220,
+        "score": 3.0,
+        "length": 1460
+      },
+      {
+        "page": 221,
+        "score": 1.0,
+        "length": 1795
+      },
+      {
+        "page": 222,
+        "score": 6.0,
+        "length": 1759
+      },
+      {
+        "page": 223,
+        "score": 3.0,
+        "length": 910
+      },
+      {
+        "page": 224,
+        "score": 3.0,
+        "length": 1209
+      },
+      {
+        "page": 225,
+        "score": 6.0,
+        "length": 1767
+      },
+      {
+        "page": 226,
+        "score": 4.0,
+        "length": 1021
+      },
+      {
+        "page": 227,
+        "score": 4.0,
+        "length": 1646
+      },
+      {
+        "page": 228,
+        "score": 3.0,
+        "length": 1626
+      },
+      {
+        "page": 229,
+        "score": 4.0,
+        "length": 1733
+      },
+      {
+        "page": 230,
+        "score": 8.0,
+        "length": 1935
+      },
+      {
+        "page": 231,
+        "score": 3.0,
+        "length": 1179
+      },
+      {
+        "page": 232,
+        "score": 1.0,
+        "length": 1650
+      },
+      {
+        "page": 234,
+        "score": 8.0,
+        "length": 1593
+      },
+      {
+        "page": 235,
+        "score": 8.0,
+        "length": 1816
+      },
+      {
+        "page": 238,
+        "score": 2.0,
+        "length": 1518
+      },
+      {
+        "page": 240,
+        "score": 2.0,
+        "length": 1386
+      },
+      {
+        "page": 242,
+        "score": 1.0,
+        "length": 1390
+      },
+      {
+        "page": 244,
+        "score": 2.0,
+        "length": 1468
+      },
+      {
+        "page": 246,
+        "score": 2.0,
+        "length": 1547
+      },
+      {
+        "page": 247,
+        "score": 4.0,
+        "length": 1609
+      },
+      {
+        "page": 248,
+        "score": 7.0,
+        "length": 1779
+      },
+      {
+        "page": 249,
+        "score": 5.0,
+        "length": 1590
+      },
+      {
+        "page": 250,
+        "score": 3.0,
+        "length": 1613
+      },
+      {
+        "page": 285,
+        "score": 20.0,
+        "length": 2006
+      },
+      {
+        "page": 287,
+        "score": 2.0,
+        "length": 1536
+      },
+      {
+        "page": 291,
+        "score": 8.0,
+        "length": 1489
+      },
+      {
+        "page": 292,
+        "score": 5.0,
+        "length": 1140
+      },
+      {
+        "page": 294,
+        "score": 18.0,
+        "length": 1002
+      },
+      {
+        "page": 295,
+        "score": 17.0,
+        "length": 2114
+      },
+      {
+        "page": 298,
+        "score": 12.0,
+        "length": 1948
+      },
+      {
+        "page": 299,
+        "score": 8.0,
+        "length": 1407
+      },
+      {
+        "page": 300,
+        "score": 5.0,
+        "length": 1324
+      },
+      {
+        "page": 301,
+        "score": 7.0,
+        "length": 1603
+      },
+      {
+        "page": 302,
+        "score": 6.0,
+        "length": 1226
+      },
+      {
+        "page": 303,
+        "score": 9.0,
+        "length": 1951
+      },
+      {
+        "page": 304,
+        "score": 5.0,
+        "length": 1990
+      },
+      {
+        "page": 308,
+        "score": 8.0,
+        "length": 1517
+      },
+      {
+        "page": 309,
+        "score": 5.0,
+        "length": 1353
+      },
+      {
+        "page": 310,
+        "score": 2.0,
+        "length": 1032
+      },
+      {
+        "page": 311,
+        "score": 4.0,
+        "length": 2292
+      },
+      {
+        "page": 314,
+        "score": 20.0,
+        "length": 1871
+      },
+      {
+        "page": 321,
+        "score": 3.0,
+        "length": 1179
+      },
+      {
+        "page": 324,
+        "score": 31.0,
+        "length": 1866
+      },
+      {
+        "page": 325,
+        "score": 10.0,
+        "length": 1367
+      },
+      {
+        "page": 327,
+        "score": 1.0,
+        "length": 1370
+      },
+      {
+        "page": 340,
+        "score": 4.0,
+        "length": 1822
+      },
+      {
+        "page": 341,
+        "score": 7.0,
+        "length": 2383
+      },
+      {
+        "page": 342,
+        "score": 13.0,
+        "length": 2130
+      },
+      {
+        "page": 344,
+        "score": 3.0,
+        "length": 1634
+      },
+      {
+        "page": 345,
+        "score": 5.0,
+        "length": 1957
+      },
+      {
+        "page": 349,
+        "score": 10.0,
+        "length": 2034
+      },
+      {
+        "page": 353,
+        "score": 11.0,
+        "length": 2005
+      },
+      {
+        "page": 355,
+        "score": 8.0,
+        "length": 1801
+      },
+      {
+        "page": 366,
+        "score": 7.0,
+        "length": 2250
+      },
+      {
+        "page": 370,
+        "score": 3.0,
+        "length": 1163
+      },
+      {
+        "page": 373,
+        "score": 6.0,
+        "length": 1773
+      },
+      {
+        "page": 374,
+        "score": 6.0,
+        "length": 1604
+      },
+      {
+        "page": 375,
+        "score": 3.0,
+        "length": 1681
+      },
+      {
+        "page": 376,
+        "score": 4.0,
+        "length": 1562
+      },
+      {
+        "page": 381,
+        "score": 4.0,
+        "length": 1038
+      },
+      {
+        "page": 382,
+        "score": 19.0,
+        "length": 1880
+      },
+      {
+        "page": 387,
+        "score": 7.0,
+        "length": 2163
+      },
+      {
+        "page": 388,
+        "score": 11.0,
+        "length": 1967
+      },
+      {
+        "page": 389,
+        "score": 11.0,
+        "length": 1546
+      },
+      {
+        "page": 390,
+        "score": 9.0,
+        "length": 1791
+      },
+      {
+        "page": 391,
+        "score": 13.0,
+        "length": 1443
+      },
+      {
+        "page": 392,
+        "score": 10.0,
+        "length": 1739
+      },
+      {
+        "page": 393,
+        "score": 8.0,
+        "length": 1471
+      },
+      {
+        "page": 394,
+        "score": 2.0,
+        "length": 1341
+      },
+      {
+        "page": 395,
+        "score": 3.0,
+        "length": 1667
+      },
+      {
+        "page": 396,
+        "score": 3.0,
+        "length": 2119
+      },
+      {
+        "page": 398,
+        "score": 2.0,
+        "length": 1254
+      },
+      {
+        "page": 399,
+        "score": 4.0,
+        "length": 1547
+      },
+      {
+        "page": 400,
+        "score": 7.0,
+        "length": 1367
+      },
+      {
+        "page": 401,
+        "score": 4.0,
+        "length": 1113
+      },
+      {
+        "page": 402,
+        "score": 16.0,
+        "length": 1701
+      },
+      {
+        "page": 403,
+        "score": 9.0,
+        "length": 1522
+      },
+      {
+        "page": 406,
+        "score": 1.0,
+        "length": 1571
+      },
+      {
+        "page": 408,
+        "score": 4.0,
+        "length": 2216
+      },
+      {
+        "page": 412,
+        "score": 4.0,
+        "length": 1183
+      },
+      {
+        "page": 413,
+        "score": 4.0,
+        "length": 1392
+      },
+      {
+        "page": 414,
+        "score": 4.0,
+        "length": 1437
+      },
+      {
+        "page": 417,
+        "score": 5.0,
+        "length": 1759
+      },
+      {
+        "page": 421,
+        "score": 17.0,
+        "length": 2301
+      },
+      {
+        "page": 422,
+        "score": 11.0,
+        "length": 1950
+      },
+      {
+        "page": 423,
+        "score": 6.0,
+        "length": 2268
+      },
+      {
+        "page": 424,
+        "score": 7.0,
+        "length": 1485
+      },
+      {
+        "page": 426,
+        "score": 3.0,
+        "length": 1766
+      },
+      {
+        "page": 429,
+        "score": 4.0,
+        "length": 1656
+      },
+      {
+        "page": 430,
+        "score": 4.0,
+        "length": 2002
+      },
+      {
+        "page": 432,
+        "score": 3.0,
+        "length": 1648
+      },
+      {
+        "page": 434,
+        "score": 3.0,
+        "length": 1437
+      },
+      {
+        "page": 436,
+        "score": 3.0,
+        "length": 1266
+      },
+      {
+        "page": 437,
+        "score": 2.0,
+        "length": 1355
+      },
+      {
+        "page": 438,
+        "score": 2.0,
+        "length": 1425
+      },
+      {
+        "page": 439,
+        "score": 11.0,
+        "length": 1322
+      },
+      {
+        "page": 440,
+        "score": 11.0,
+        "length": 2052
+      },
+      {
+        "page": 443,
+        "score": 9.0,
+        "length": 1655
+      },
+      {
+        "page": 444,
+        "score": 10.0,
+        "length": 1736
+      },
+      {
+        "page": 445,
+        "score": 10.0,
+        "length": 1413
+      },
+      {
+        "page": 451,
+        "score": 4.0,
+        "length": 1348
+      },
+      {
+        "page": 458,
+        "score": 7.0,
+        "length": 2362
+      },
+      {
+        "page": 459,
+        "score": 2.0,
+        "length": 1373
+      },
+      {
+        "page": 462,
+        "score": 2.0,
+        "length": 1329
+      },
+      {
+        "page": 464,
+        "score": 15.0,
+        "length": 2346
+      },
+      {
+        "page": 465,
+        "score": 6.0,
+        "length": 1342
+      },
+      {
+        "page": 466,
+        "score": 4.0,
+        "length": 2224
+      },
+      {
+        "page": 467,
+        "score": 4.0,
+        "length": 2324
+      },
+      {
+        "page": 470,
+        "score": 9.0,
+        "length": 2207
+      },
+      {
+        "page": 472,
+        "score": 4.0,
+        "length": 2426
+      },
+      {
+        "page": 473,
+        "score": 6.0,
+        "length": 1812
+      },
+      {
+        "page": 475,
+        "score": 5.0,
+        "length": 2397
+      },
+      {
+        "page": 478,
+        "score": 5.0,
+        "length": 1426
+      },
+      {
+        "page": 480,
+        "score": 1.0,
+        "length": 1273
+      },
+      {
+        "page": 481,
+        "score": 1.0,
+        "length": 1081
+      }
+    ]
+  },
+  "signs": {
+    "page_count": 135,
+    "pages": [
+      {
+        "page": 2,
+        "score": 5.0,
+        "length": 1153
+      },
+      {
+        "page": 7,
+        "score": 7.0,
+        "length": 1192
+      },
+      {
+        "page": 21,
+        "score": 1.0,
+        "length": 1134
+      },
+      {
+        "page": 24,
+        "score": 4.0,
+        "length": 1678
+      },
+      {
+        "page": 37,
+        "score": 7.0,
+        "length": 1652
+      },
+      {
+        "page": 38,
+        "score": 11.0,
+        "length": 1844
+      },
+      {
+        "page": 41,
+        "score": 2.0,
+        "length": 1515
+      },
+      {
+        "page": 42,
+        "score": 6.0,
+        "length": 1662
+      },
+      {
+        "page": 44,
+        "score": 11.0,
+        "length": 1758
+      },
+      {
+        "page": 45,
+        "score": 17.0,
+        "length": 1791
+      },
+      {
+        "page": 46,
+        "score": 11.0,
+        "length": 1790
+      },
+      {
+        "page": 47,
+        "score": 15.0,
+        "length": 1412
+      },
+      {
+        "page": 48,
+        "score": 21.0,
+        "length": 1232
+      },
+      {
+        "page": 49,
+        "score": 11.0,
+        "length": 2000
+      },
+      {
+        "page": 50,
+        "score": 9.0,
+        "length": 1584
+      },
+      {
+        "page": 51,
+        "score": 7.0,
+        "length": 1642
+      },
+      {
+        "page": 52,
+        "score": 5.0,
+        "length": 1581
+      },
+      {
+        "page": 58,
+        "score": 26.0,
+        "length": 2319
+      },
+      {
+        "page": 59,
+        "score": 5.0,
+        "length": 1800
+      },
+      {
+        "page": 62,
+        "score": 4.0,
+        "length": 1608
+      },
+      {
+        "page": 64,
+        "score": 29.0,
+        "length": 1990
+      },
+      {
+        "page": 65,
+        "score": 3.0,
+        "length": 1673
+      },
+      {
+        "page": 66,
+        "score": 2.0,
+        "length": 1273
+      },
+      {
+        "page": 67,
+        "score": 7.0,
+        "length": 1435
+      },
+      {
+        "page": 68,
+        "score": 16.0,
+        "length": 820
+      },
+      {
+        "page": 69,
+        "score": 22.0,
+        "length": 1150
+      },
+      {
+        "page": 70,
+        "score": 15.0,
+        "length": 1547
+      },
+      {
+        "page": 71,
+        "score": 17.0,
+        "length": 1343
+      },
+      {
+        "page": 72,
+        "score": 9.0,
+        "length": 1373
+      },
+      {
+        "page": 73,
+        "score": 20.0,
+        "length": 1399
+      },
+      {
+        "page": 74,
+        "score": 47.0,
+        "length": 946
+      },
+      {
+        "page": 75,
+        "score": 16.0,
+        "length": 1441
+      },
+      {
+        "page": 76,
+        "score": 31.0,
+        "length": 1242
+      },
+      {
+        "page": 77,
+        "score": 16.0,
+        "length": 677
+      },
+      {
+        "page": 78,
+        "score": 14.0,
+        "length": 1448
+      },
+      {
+        "page": 79,
+        "score": 23.0,
+        "length": 1482
+      },
+      {
+        "page": 80,
+        "score": 8.0,
+        "length": 1491
+      },
+      {
+        "page": 82,
+        "score": 11.0,
+        "length": 2236
+      },
+      {
+        "page": 83,
+        "score": 2.0,
+        "length": 1502
+      },
+      {
+        "page": 86,
+        "score": 1.0,
+        "length": 1539
+      },
+      {
+        "page": 92,
+        "score": 3.0,
+        "length": 1887
+      },
+      {
+        "page": 93,
+        "score": 9.0,
+        "length": 1852
+      },
+      {
+        "page": 98,
+        "score": 6.0,
+        "length": 1583
+      },
+      {
+        "page": 100,
+        "score": 1.0,
+        "length": 1403
+      },
+      {
+        "page": 104,
+        "score": 10.0,
+        "length": 1362
+      },
+      {
+        "page": 105,
+        "score": 62.0,
+        "length": 1333
+      },
+      {
+        "page": 106,
+        "score": 7.0,
+        "length": 931
+      },
+      {
+        "page": 107,
+        "score": 9.0,
+        "length": 1167
+      },
+      {
+        "page": 111,
+        "score": 3.0,
+        "length": 1783
+      },
+      {
+        "page": 114,
+        "score": 4.0,
+        "length": 1447
+      },
+      {
+        "page": 116,
+        "score": 9.0,
+        "length": 1573
+      },
+      {
+        "page": 119,
+        "score": 1.0,
+        "length": 1173
+      },
+      {
+        "page": 125,
+        "score": 4.0,
+        "length": 1422
+      },
+      {
+        "page": 127,
+        "score": 15.0,
+        "length": 1853
+      },
+      {
+        "page": 128,
+        "score": 3.0,
+        "length": 1621
+      },
+      {
+        "page": 129,
+        "score": 2.0,
+        "length": 1181
+      },
+      {
+        "page": 130,
+        "score": 2.0,
+        "length": 420
+      },
+      {
+        "page": 131,
+        "score": 2.0,
+        "length": 1430
+      },
+      {
+        "page": 134,
+        "score": 4.0,
+        "length": 1721
+      },
+      {
+        "page": 137,
+        "score": 7.0,
+        "length": 1910
+      },
+      {
+        "page": 138,
+        "score": 8.0,
+        "length": 2114
+      },
+      {
+        "page": 139,
+        "score": 6.0,
+        "length": 1792
+      },
+      {
+        "page": 142,
+        "score": 3.0,
+        "length": 1336
+      },
+      {
+        "page": 146,
+        "score": 5.0,
+        "length": 1453
+      },
+      {
+        "page": 152,
+        "score": 23.0,
+        "length": 2003
+      },
+      {
+        "page": 160,
+        "score": 5.0,
+        "length": 1729
+      },
+      {
+        "page": 161,
+        "score": 5.0,
+        "length": 1993
+      },
+      {
+        "page": 164,
+        "score": 6.0,
+        "length": 1645
+      },
+      {
+        "page": 171,
+        "score": 3.0,
+        "length": 2327
+      },
+      {
+        "page": 190,
+        "score": 2.0,
+        "length": 1826
+      },
+      {
+        "page": 192,
+        "score": 3.0,
+        "length": 1682
+      },
+      {
+        "page": 204,
+        "score": 2.0,
+        "length": 948
+      },
+      {
+        "page": 205,
+        "score": 2.0,
+        "length": 1027
+      },
+      {
+        "page": 212,
+        "score": 1.0,
+        "length": 1215
+      },
+      {
+        "page": 218,
+        "score": 5.0,
+        "length": 2030
+      },
+      {
+        "page": 219,
+        "score": 3.0,
+        "length": 1757
+      },
+      {
+        "page": 221,
+        "score": 1.0,
+        "length": 1795
+      },
+      {
+        "page": 223,
+        "score": 2.0,
+        "length": 910
+      },
+      {
+        "page": 227,
+        "score": 3.0,
+        "length": 1646
+      },
+      {
+        "page": 229,
+        "score": 2.0,
+        "length": 1733
+      },
+      {
+        "page": 235,
+        "score": 5.0,
+        "length": 1816
+      },
+      {
+        "page": 236,
+        "score": 5.0,
+        "length": 1807
+      },
+      {
+        "page": 254,
+        "score": 10.0,
+        "length": 1877
+      },
+      {
+        "page": 255,
+        "score": 6.0,
+        "length": 1849
+      },
+      {
+        "page": 263,
+        "score": 4.0,
+        "length": 1879
+      },
+      {
+        "page": 284,
+        "score": 3.0,
+        "length": 1696
+      },
+      {
+        "page": 285,
+        "score": 12.0,
+        "length": 2006
+      },
+      {
+        "page": 288,
+        "score": 4.0,
+        "length": 1354
+      },
+      {
+        "page": 289,
+        "score": 2.0,
+        "length": 1650
+      },
+      {
+        "page": 292,
+        "score": 2.0,
+        "length": 1140
+      },
+      {
+        "page": 294,
+        "score": 7.0,
+        "length": 1002
+      },
+      {
+        "page": 295,
+        "score": 15.0,
+        "length": 2114
+      },
+      {
+        "page": 296,
+        "score": 18.0,
+        "length": 1932
+      },
+      {
+        "page": 303,
+        "score": 12.0,
+        "length": 1951
+      },
+      {
+        "page": 304,
+        "score": 5.0,
+        "length": 1990
+      },
+      {
+        "page": 313,
+        "score": 4.0,
+        "length": 1958
+      },
+      {
+        "page": 316,
+        "score": 3.0,
+        "length": 1612
+      },
+      {
+        "page": 317,
+        "score": 2.0,
+        "length": 1787
+      },
+      {
+        "page": 321,
+        "score": 4.0,
+        "length": 1179
+      },
+      {
+        "page": 326,
+        "score": 12.0,
+        "length": 1690
+      },
+      {
+        "page": 334,
+        "score": 1.0,
+        "length": 1484
+      },
+      {
+        "page": 340,
+        "score": 2.0,
+        "length": 1822
+      },
+      {
+        "page": 341,
+        "score": 10.0,
+        "length": 2383
+      },
+      {
+        "page": 344,
+        "score": 6.0,
+        "length": 1634
+      },
+      {
+        "page": 345,
+        "score": 4.0,
+        "length": 1957
+      },
+      {
+        "page": 348,
+        "score": 12.0,
+        "length": 2120
+      },
+      {
+        "page": 349,
+        "score": 11.0,
+        "length": 2034
+      },
+      {
+        "page": 368,
+        "score": 10.0,
+        "length": 2139
+      },
+      {
+        "page": 376,
+        "score": 5.0,
+        "length": 1562
+      },
+      {
+        "page": 401,
+        "score": 3.0,
+        "length": 1113
+      },
+      {
+        "page": 402,
+        "score": 16.0,
+        "length": 1701
+      },
+      {
+        "page": 403,
+        "score": 7.0,
+        "length": 1522
+      },
+      {
+        "page": 405,
+        "score": 3.0,
+        "length": 1605
+      },
+      {
+        "page": 406,
+        "score": 2.0,
+        "length": 1571
+      },
+      {
+        "page": 407,
+        "score": 1.0,
+        "length": 1782
+      },
+      {
+        "page": 410,
+        "score": 2.0,
+        "length": 2070
+      },
+      {
+        "page": 417,
+        "score": 3.0,
+        "length": 1759
+      },
+      {
+        "page": 418,
+        "score": 8.0,
+        "length": 986
+      },
+      {
+        "page": 419,
+        "score": 11.0,
+        "length": 1068
+      },
+      {
+        "page": 420,
+        "score": 5.0,
+        "length": 1713
+      },
+      {
+        "page": 423,
+        "score": 9.0,
+        "length": 2268
+      },
+      {
+        "page": 429,
+        "score": 7.0,
+        "length": 1656
+      },
+      {
+        "page": 430,
+        "score": 10.0,
+        "length": 2002
+      },
+      {
+        "page": 432,
+        "score": 6.0,
+        "length": 1648
+      },
+      {
+        "page": 433,
+        "score": 4.0,
+        "length": 1803
+      },
+      {
+        "page": 435,
+        "score": 3.0,
+        "length": 1495
+      },
+      {
+        "page": 446,
+        "score": 5.0,
+        "length": 1606
+      },
+      {
+        "page": 448,
+        "score": 6.0,
+        "length": 1543
+      },
+      {
+        "page": 449,
+        "score": 4.0,
+        "length": 1317
+      },
+      {
+        "page": 454,
+        "score": 7.0,
+        "length": 1923
+      },
+      {
+        "page": 473,
+        "score": 3.0,
+        "length": 1812
+      },
+      {
+        "page": 477,
+        "score": 7.0,
+        "length": 2457
+      },
+      {
+        "page": 478,
+        "score": 2.0,
+        "length": 1426
+      },
+      {
+        "page": 479,
+        "score": 5.0,
+        "length": 2056
+      },
+      {
+        "page": 482,
+        "score": 1.0,
+        "length": 1028
+      }
+    ]
+  },
+  "nakshatras": {
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 24,
+        "score": 8.0,
+        "length": 1678
+      },
+      {
+        "page": 29,
+        "score": 7.0,
+        "length": 928
+      },
+      {
+        "page": 454,
+        "score": 4.0,
+        "length": 1923
+      }
+    ]
+  },
+  "aspects": {
+    "page_count": 53,
+    "pages": [
+      {
+        "page": 3,
+        "score": 3.0,
+        "length": 1262
+      },
+      {
+        "page": 15,
+        "score": 3.0,
+        "length": 2113
+      },
+      {
+        "page": 104,
+        "score": 7.0,
+        "length": 1362
+      },
+      {
+        "page": 106,
+        "score": 10.0,
+        "length": 931
+      },
+      {
+        "page": 107,
+        "score": 5.0,
+        "length": 1167
+      },
+      {
+        "page": 109,
+        "score": 5.0,
+        "length": 1868
+      },
+      {
+        "page": 119,
+        "score": 1.0,
+        "length": 1173
+      },
+      {
+        "page": 125,
+        "score": 2.0,
+        "length": 1422
+      },
+      {
+        "page": 126,
+        "score": 2.0,
+        "length": 1549
+      },
+      {
+        "page": 141,
+        "score": 2.0,
+        "length": 1213
+      },
+      {
+        "page": 143,
+        "score": 2.0,
+        "length": 2006
+      },
+      {
+        "page": 146,
+        "score": 4.0,
+        "length": 1453
+      },
+      {
+        "page": 187,
+        "score": 4.0,
+        "length": 1344
+      },
+      {
+        "page": 197,
+        "score": 1.0,
+        "length": 1684
+      },
+      {
+        "page": 210,
+        "score": 2.0,
+        "length": 1789
+      },
+      {
+        "page": 252,
+        "score": 1.0,
+        "length": 1633
+      },
+      {
+        "page": 253,
+        "score": 3.0,
+        "length": 1244
+      },
+      {
+        "page": 254,
+        "score": 12.0,
+        "length": 1877
+      },
+      {
+        "page": 255,
+        "score": 10.0,
+        "length": 1849
+      },
+      {
+        "page": 256,
+        "score": 35.0,
+        "length": 1930
+      },
+      {
+        "page": 257,
+        "score": 4.0,
+        "length": 1310
+      },
+      {
+        "page": 297,
+        "score": 3.0,
+        "length": 1474
+      },
+      {
+        "page": 298,
+        "score": 6.0,
+        "length": 1948
+      },
+      {
+        "page": 299,
+        "score": 3.0,
+        "length": 1407
+      },
+      {
+        "page": 303,
+        "score": 4.0,
+        "length": 1951
+      },
+      {
+        "page": 304,
+        "score": 4.0,
+        "length": 1990
+      },
+      {
+        "page": 327,
+        "score": 1.0,
+        "length": 1370
+      },
+      {
+        "page": 329,
+        "score": 6.0,
+        "length": 1511
+      },
+      {
+        "page": 333,
+        "score": 3.0,
+        "length": 1729
+      },
+      {
+        "page": 334,
+        "score": 3.0,
+        "length": 1484
+      },
+      {
+        "page": 335,
+        "score": 3.0,
+        "length": 1566
+      },
+      {
+        "page": 344,
+        "score": 2.0,
+        "length": 1634
+      },
+      {
+        "page": 345,
+        "score": 2.0,
+        "length": 1957
+      },
+      {
+        "page": 383,
+        "score": 3.0,
+        "length": 1281
+      },
+      {
+        "page": 390,
+        "score": 7.0,
+        "length": 1791
+      },
+      {
+        "page": 393,
+        "score": 3.0,
+        "length": 1471
+      },
+      {
+        "page": 394,
+        "score": 2.0,
+        "length": 1341
+      },
+      {
+        "page": 396,
+        "score": 3.0,
+        "length": 2119
+      },
+      {
+        "page": 398,
+        "score": 3.0,
+        "length": 1254
+      },
+      {
+        "page": 399,
+        "score": 5.0,
+        "length": 1547
+      },
+      {
+        "page": 404,
+        "score": 6.0,
+        "length": 1210
+      },
+      {
+        "page": 406,
+        "score": 1.0,
+        "length": 1571
+      },
+      {
+        "page": 412,
+        "score": 2.0,
+        "length": 1183
+      },
+      {
+        "page": 413,
+        "score": 5.0,
+        "length": 1392
+      },
+      {
+        "page": 414,
+        "score": 4.0,
+        "length": 1437
+      },
+      {
+        "page": 415,
+        "score": 3.0,
+        "length": 1294
+      },
+      {
+        "page": 438,
+        "score": 3.0,
+        "length": 1425
+      },
+      {
+        "page": 444,
+        "score": 7.0,
+        "length": 1736
+      },
+      {
+        "page": 450,
+        "score": 5.0,
+        "length": 1547
+      },
+      {
+        "page": 455,
+        "score": 2.0,
+        "length": 1311
+      },
+      {
+        "page": 456,
+        "score": 2.0,
+        "length": 1610
+      },
+      {
+        "page": 480,
+        "score": 1.0,
+        "length": 1273
+      },
+      {
+        "page": 481,
+        "score": 1.0,
+        "length": 1081
+      }
+    ]
+  },
+  "marriage": {
+    "page_count": 50,
+    "pages": [
+      {
+        "page": 4,
+        "score": 10.5,
+        "length": 1418
+      },
+      {
+        "page": 13,
+        "score": 1.5,
+        "length": 2168
+      },
+      {
+        "page": 17,
+        "score": 3.0,
+        "length": 2239
+      },
+      {
+        "page": 41,
+        "score": 4.5,
+        "length": 1515
+      },
+      {
+        "page": 121,
+        "score": 6.0,
+        "length": 1428
+      },
+      {
+        "page": 159,
+        "score": 10.5,
+        "length": 1283
+      },
+      {
+        "page": 160,
+        "score": 6.0,
+        "length": 1729
+      },
+      {
+        "page": 161,
+        "score": 7.5,
+        "length": 1993
+      },
+      {
+        "page": 162,
+        "score": 4.5,
+        "length": 2162
+      },
+      {
+        "page": 163,
+        "score": 12.0,
+        "length": 1764
+      },
+      {
+        "page": 165,
+        "score": 4.5,
+        "length": 1651
+      },
+      {
+        "page": 166,
+        "score": 6.0,
+        "length": 1395
+      },
+      {
+        "page": 167,
+        "score": 12.0,
+        "length": 1476
+      },
+      {
+        "page": 168,
+        "score": 6.0,
+        "length": 1072
+      },
+      {
+        "page": 184,
+        "score": 1.5,
+        "length": 1433
+      },
+      {
+        "page": 185,
+        "score": 3.0,
+        "length": 1260
+      },
+      {
+        "page": 189,
+        "score": 3.0,
+        "length": 1618
+      },
+      {
+        "page": 190,
+        "score": 1.5,
+        "length": 1826
+      },
+      {
+        "page": 196,
+        "score": 3.0,
+        "length": 1533
+      },
+      {
+        "page": 197,
+        "score": 1.5,
+        "length": 1684
+      },
+      {
+        "page": 198,
+        "score": 1.5,
+        "length": 1619
+      },
+      {
+        "page": 199,
+        "score": 3.0,
+        "length": 1896
+      },
+      {
+        "page": 201,
+        "score": 1.5,
+        "length": 1177
+      },
+      {
+        "page": 209,
+        "score": 3.0,
+        "length": 1592
+      },
+      {
+        "page": 211,
+        "score": 4.5,
+        "length": 1679
+      },
+      {
+        "page": 212,
+        "score": 3.0,
+        "length": 1215
+      },
+      {
+        "page": 213,
+        "score": 15.0,
+        "length": 2145
+      },
+      {
+        "page": 214,
+        "score": 10.5,
+        "length": 1783
+      },
+      {
+        "page": 215,
+        "score": 4.5,
+        "length": 1499
+      },
+      {
+        "page": 217,
+        "score": 6.0,
+        "length": 1896
+      },
+      {
+        "page": 218,
+        "score": 3.0,
+        "length": 2030
+      },
+      {
+        "page": 220,
+        "score": 4.5,
+        "length": 1460
+      },
+      {
+        "page": 228,
+        "score": 1.5,
+        "length": 1626
+      },
+      {
+        "page": 229,
+        "score": 6.0,
+        "length": 1733
+      },
+      {
+        "page": 233,
+        "score": 1.5,
+        "length": 1574
+      },
+      {
+        "page": 239,
+        "score": 1.5,
+        "length": 1380
+      },
+      {
+        "page": 240,
+        "score": 1.5,
+        "length": 1386
+      },
+      {
+        "page": 241,
+        "score": 1.5,
+        "length": 1346
+      },
+      {
+        "page": 244,
+        "score": 1.5,
+        "length": 1468
+      },
+      {
+        "page": 248,
+        "score": 6.0,
+        "length": 1779
+      },
+      {
+        "page": 301,
+        "score": 3.0,
+        "length": 1603
+      },
+      {
+        "page": 304,
+        "score": 10.5,
+        "length": 1990
+      },
+      {
+        "page": 305,
+        "score": 10.5,
+        "length": 1409
+      },
+      {
+        "page": 320,
+        "score": 4.5,
+        "length": 1587
+      },
+      {
+        "page": 332,
+        "score": 6.0,
+        "length": 1814
+      },
+      {
+        "page": 409,
+        "score": 10.5,
+        "length": 1774
+      },
+      {
+        "page": 410,
+        "score": 3.0,
+        "length": 2070
+      },
+      {
+        "page": 451,
+        "score": 1.5,
+        "length": 1348
+      },
+      {
+        "page": 464,
+        "score": 6.0,
+        "length": 2346
+      },
+      {
+        "page": 478,
+        "score": 4.5,
+        "length": 1426
+      }
+    ]
+  },
+  "career": {
+    "page_count": 18,
+    "pages": [
+      {
+        "page": 21,
+        "score": 1.5,
+        "length": 1134
+      },
+      {
+        "page": 86,
+        "score": 1.5,
+        "length": 1539
+      },
+      {
+        "page": 128,
+        "score": 1.5,
+        "length": 1621
+      },
+      {
+        "page": 131,
+        "score": 1.5,
+        "length": 1430
+      },
+      {
+        "page": 177,
+        "score": 1.5,
+        "length": 1275
+      },
+      {
+        "page": 178,
+        "score": 6.0,
+        "length": 1866
+      },
+      {
+        "page": 179,
+        "score": 1.5,
+        "length": 1497
+      },
+      {
+        "page": 181,
+        "score": 1.5,
+        "length": 1436
+      },
+      {
+        "page": 196,
+        "score": 3.0,
+        "length": 1533
+      },
+      {
+        "page": 200,
+        "score": 1.5,
+        "length": 1555
+      },
+      {
+        "page": 217,
+        "score": 3.0,
+        "length": 1896
+      },
+      {
+        "page": 218,
+        "score": 4.5,
+        "length": 2030
+      },
+      {
+        "page": 224,
+        "score": 4.5,
+        "length": 1209
+      },
+      {
+        "page": 226,
+        "score": 1.5,
+        "length": 1021
+      },
+      {
+        "page": 228,
+        "score": 1.5,
+        "length": 1626
+      },
+      {
+        "page": 240,
+        "score": 1.5,
+        "length": 1386
+      },
+      {
+        "page": 334,
+        "score": 3.0,
+        "length": 1484
+      },
+      {
+        "page": 399,
+        "score": 3.0,
+        "length": 1547
+      }
+    ]
+  },
+  "wealth": {
+    "page_count": 101,
+    "pages": [
+      {
+        "page": 3,
+        "score": 6.0,
+        "length": 1262
+      },
+      {
+        "page": 5,
+        "score": 3.0,
+        "length": 1422
+      },
+      {
+        "page": 53,
+        "score": 3.0,
+        "length": 1888
+      },
+      {
+        "page": 56,
+        "score": 3.0,
+        "length": 1601
+      },
+      {
+        "page": 57,
+        "score": 7.5,
+        "length": 1392
+      },
+      {
+        "page": 58,
+        "score": 12.0,
+        "length": 2319
+      },
+      {
+        "page": 59,
+        "score": 9.0,
+        "length": 1800
+      },
+      {
+        "page": 60,
+        "score": 12.0,
+        "length": 2341
+      },
+      {
+        "page": 83,
+        "score": 1.5,
+        "length": 1502
+      },
+      {
+        "page": 91,
+        "score": 4.5,
+        "length": 1630
+      },
+      {
+        "page": 97,
+        "score": 1.5,
+        "length": 899
+      },
+      {
+        "page": 103,
+        "score": 4.5,
+        "length": 1825
+      },
+      {
+        "page": 120,
+        "score": 3.0,
+        "length": 1436
+      },
+      {
+        "page": 122,
+        "score": 4.5,
+        "length": 1575
+      },
+      {
+        "page": 131,
+        "score": 3.0,
+        "length": 1430
+      },
+      {
+        "page": 132,
+        "score": 13.5,
+        "length": 1887
+      },
+      {
+        "page": 134,
+        "score": 3.0,
+        "length": 1721
+      },
+      {
+        "page": 135,
+        "score": 4.5,
+        "length": 2157
+      },
+      {
+        "page": 173,
+        "score": 3.0,
+        "length": 1610
+      },
+      {
+        "page": 174,
+        "score": 1.5,
+        "length": 1269
+      },
+      {
+        "page": 176,
+        "score": 12.0,
+        "length": 1583
+      },
+      {
+        "page": 179,
+        "score": 1.5,
+        "length": 1497
+      },
+      {
+        "page": 181,
+        "score": 1.5,
+        "length": 1436
+      },
+      {
+        "page": 183,
+        "score": 3.0,
+        "length": 1734
+      },
+      {
+        "page": 184,
+        "score": 4.5,
+        "length": 1433
+      },
+      {
+        "page": 190,
+        "score": 3.0,
+        "length": 1826
+      },
+      {
+        "page": 191,
+        "score": 4.5,
+        "length": 1507
+      },
+      {
+        "page": 192,
+        "score": 4.5,
+        "length": 1682
+      },
+      {
+        "page": 193,
+        "score": 6.0,
+        "length": 1616
+      },
+      {
+        "page": 194,
+        "score": 6.0,
+        "length": 1666
+      },
+      {
+        "page": 195,
+        "score": 4.5,
+        "length": 1556
+      },
+      {
+        "page": 196,
+        "score": 3.0,
+        "length": 1533
+      },
+      {
+        "page": 197,
+        "score": 1.5,
+        "length": 1684
+      },
+      {
+        "page": 198,
+        "score": 4.5,
+        "length": 1619
+      },
+      {
+        "page": 201,
+        "score": 4.5,
+        "length": 1177
+      },
+      {
+        "page": 202,
+        "score": 3.0,
+        "length": 1799
+      },
+      {
+        "page": 206,
+        "score": 1.5,
+        "length": 1076
+      },
+      {
+        "page": 209,
+        "score": 4.5,
+        "length": 1592
+      },
+      {
+        "page": 210,
+        "score": 1.5,
+        "length": 1789
+      },
+      {
+        "page": 216,
+        "score": 4.5,
+        "length": 1483
+      },
+      {
+        "page": 218,
+        "score": 3.0,
+        "length": 2030
+      },
+      {
+        "page": 219,
+        "score": 3.0,
+        "length": 1757
+      },
+      {
+        "page": 220,
+        "score": 9.0,
+        "length": 1460
+      },
+      {
+        "page": 221,
+        "score": 3.0,
+        "length": 1795
+      },
+      {
+        "page": 222,
+        "score": 10.5,
+        "length": 1759
+      },
+      {
+        "page": 223,
+        "score": 3.0,
+        "length": 910
+      },
+      {
+        "page": 224,
+        "score": 4.5,
+        "length": 1209
+      },
+      {
+        "page": 225,
+        "score": 6.0,
+        "length": 1767
+      },
+      {
+        "page": 226,
+        "score": 1.5,
+        "length": 1021
+      },
+      {
+        "page": 227,
+        "score": 3.0,
+        "length": 1646
+      },
+      {
+        "page": 228,
+        "score": 4.5,
+        "length": 1626
+      },
+      {
+        "page": 237,
+        "score": 3.0,
+        "length": 1268
+      },
+      {
+        "page": 238,
+        "score": 4.5,
+        "length": 1518
+      },
+      {
+        "page": 239,
+        "score": 3.0,
+        "length": 1380
+      },
+      {
+        "page": 240,
+        "score": 1.5,
+        "length": 1386
+      },
+      {
+        "page": 241,
+        "score": 1.5,
+        "length": 1346
+      },
+      {
+        "page": 242,
+        "score": 1.5,
+        "length": 1390
+      },
+      {
+        "page": 243,
+        "score": 3.0,
+        "length": 1287
+      },
+      {
+        "page": 246,
+        "score": 3.0,
+        "length": 1547
+      },
+      {
+        "page": 247,
+        "score": 1.5,
+        "length": 1609
+      },
+      {
+        "page": 249,
+        "score": 1.5,
+        "length": 1590
+      },
+      {
+        "page": 250,
+        "score": 4.5,
+        "length": 1613
+      },
+      {
+        "page": 252,
+        "score": 1.5,
+        "length": 1633
+      },
+      {
+        "page": 297,
+        "score": 7.5,
+        "length": 1474
+      },
+      {
+        "page": 298,
+        "score": 12.0,
+        "length": 1948
+      },
+      {
+        "page": 299,
+        "score": 4.5,
+        "length": 1407
+      },
+      {
+        "page": 309,
+        "score": 3.0,
+        "length": 1353
+      },
+      {
+        "page": 314,
+        "score": 9.0,
+        "length": 1871
+      },
+      {
+        "page": 316,
+        "score": 1.5,
+        "length": 1612
+      },
+      {
+        "page": 327,
+        "score": 1.5,
+        "length": 1370
+      },
+      {
+        "page": 334,
+        "score": 3.0,
+        "length": 1484
+      },
+      {
+        "page": 360,
+        "score": 4.5,
+        "length": 1421
+      },
+      {
+        "page": 364,
+        "score": 7.5,
+        "length": 1335
+      },
+      {
+        "page": 366,
+        "score": 4.5,
+        "length": 2250
+      },
+      {
+        "page": 383,
+        "score": 6.0,
+        "length": 1281
+      },
+      {
+        "page": 384,
+        "score": 7.5,
+        "length": 1494
+      },
+      {
+        "page": 394,
+        "score": 1.5,
+        "length": 1341
+      },
+      {
+        "page": 396,
+        "score": 4.5,
+        "length": 2119
+      },
+      {
+        "page": 401,
+        "score": 3.0,
+        "length": 1113
+      },
+      {
+        "page": 405,
+        "score": 4.5,
+        "length": 1605
+      },
+      {
+        "page": 406,
+        "score": 1.5,
+        "length": 1571
+      },
+      {
+        "page": 408,
+        "score": 3.0,
+        "length": 2216
+      },
+      {
+        "page": 412,
+        "score": 1.5,
+        "length": 1183
+      },
+      {
+        "page": 414,
+        "score": 4.5,
+        "length": 1437
+      },
+      {
+        "page": 415,
+        "score": 3.0,
+        "length": 1294
+      },
+      {
+        "page": 427,
+        "score": 1.5,
+        "length": 1656
+      },
+      {
+        "page": 452,
+        "score": 3.0,
+        "length": 1678
+      },
+      {
+        "page": 457,
+        "score": 6.0,
+        "length": 1895
+      },
+      {
+        "page": 458,
+        "score": 4.5,
+        "length": 2362
+      },
+      {
+        "page": 463,
+        "score": 6.0,
+        "length": 2489
+      },
+      {
+        "page": 466,
+        "score": 4.5,
+        "length": 2224
+      },
+      {
+        "page": 469,
+        "score": 4.5,
+        "length": 2308
+      },
+      {
+        "page": 470,
+        "score": 4.5,
+        "length": 2207
+      },
+      {
+        "page": 471,
+        "score": 1.5,
+        "length": 1398
+      },
+      {
+        "page": 472,
+        "score": 7.5,
+        "length": 2426
+      },
+      {
+        "page": 473,
+        "score": 4.5,
+        "length": 1812
+      },
+      {
+        "page": 474,
+        "score": 3.0,
+        "length": 1914
+      },
+      {
+        "page": 475,
+        "score": 6.0,
+        "length": 2397
+      },
+      {
+        "page": 478,
+        "score": 1.5,
+        "length": 1426
+      },
+      {
+        "page": 479,
+        "score": 6.0,
+        "length": 2056
+      },
+      {
+        "page": 480,
+        "score": 1.5,
+        "length": 1273
+      }
+    ]
+  },
+  "children": {
+    "page_count": 96,
+    "pages": [
+      {
+        "page": 4,
+        "score": 16.5,
+        "length": 1418
+      },
+      {
+        "page": 6,
+        "score": 4.5,
+        "length": 1376
+      },
+      {
+        "page": 10,
+        "score": 3.0,
+        "length": 1643
+      },
+      {
+        "page": 13,
+        "score": 1.5,
+        "length": 2168
+      },
+      {
+        "page": 16,
+        "score": 3.0,
+        "length": 929
+      },
+      {
+        "page": 17,
+        "score": 3.0,
+        "length": 2239
+      },
+      {
+        "page": 18,
+        "score": 1.5,
+        "length": 1477
+      },
+      {
+        "page": 41,
+        "score": 1.5,
+        "length": 1515
+      },
+      {
+        "page": 45,
+        "score": 7.5,
+        "length": 1791
+      },
+      {
+        "page": 47,
+        "score": 4.5,
+        "length": 1412
+      },
+      {
+        "page": 53,
+        "score": 3.0,
+        "length": 1888
+      },
+      {
+        "page": 83,
+        "score": 4.5,
+        "length": 1502
+      },
+      {
+        "page": 84,
+        "score": 4.5,
+        "length": 1544
+      },
+      {
+        "page": 91,
+        "score": 4.5,
+        "length": 1630
+      },
+      {
+        "page": 102,
+        "score": 3.0,
+        "length": 1361
+      },
+      {
+        "page": 104,
+        "score": 3.0,
+        "length": 1362
+      },
+      {
+        "page": 113,
+        "score": 4.5,
+        "length": 1399
+      },
+      {
+        "page": 114,
+        "score": 4.5,
+        "length": 1447
+      },
+      {
+        "page": 128,
+        "score": 1.5,
+        "length": 1621
+      },
+      {
+        "page": 144,
+        "score": 18.0,
+        "length": 1541
+      },
+      {
+        "page": 145,
+        "score": 9.0,
+        "length": 1555
+      },
+      {
+        "page": 146,
+        "score": 7.5,
+        "length": 1453
+      },
+      {
+        "page": 147,
+        "score": 10.5,
+        "length": 1673
+      },
+      {
+        "page": 148,
+        "score": 16.5,
+        "length": 1400
+      },
+      {
+        "page": 149,
+        "score": 6.0,
+        "length": 1297
+      },
+      {
+        "page": 150,
+        "score": 16.5,
+        "length": 1793
+      },
+      {
+        "page": 155,
+        "score": 3.0,
+        "length": 2529
+      },
+      {
+        "page": 163,
+        "score": 9.0,
+        "length": 1764
+      },
+      {
+        "page": 170,
+        "score": 3.0,
+        "length": 1588
+      },
+      {
+        "page": 178,
+        "score": 3.0,
+        "length": 1866
+      },
+      {
+        "page": 190,
+        "score": 1.5,
+        "length": 1826
+      },
+      {
+        "page": 191,
+        "score": 3.0,
+        "length": 1507
+      },
+      {
+        "page": 192,
+        "score": 4.5,
+        "length": 1682
+      },
+      {
+        "page": 195,
+        "score": 1.5,
+        "length": 1556
+      },
+      {
+        "page": 196,
+        "score": 1.5,
+        "length": 1533
+      },
+      {
+        "page": 199,
+        "score": 3.0,
+        "length": 1896
+      },
+      {
+        "page": 201,
+        "score": 3.0,
+        "length": 1177
+      },
+      {
+        "page": 202,
+        "score": 1.5,
+        "length": 1799
+      },
+      {
+        "page": 203,
+        "score": 15.0,
+        "length": 1891
+      },
+      {
+        "page": 207,
+        "score": 13.5,
+        "length": 1863
+      },
+      {
+        "page": 208,
+        "score": 7.5,
+        "length": 1571
+      },
+      {
+        "page": 209,
+        "score": 3.0,
+        "length": 1592
+      },
+      {
+        "page": 210,
+        "score": 4.5,
+        "length": 1789
+      },
+      {
+        "page": 211,
+        "score": 13.5,
+        "length": 1679
+      },
+      {
+        "page": 213,
+        "score": 12.0,
+        "length": 2145
+      },
+      {
+        "page": 215,
+        "score": 6.0,
+        "length": 1499
+      },
+      {
+        "page": 216,
+        "score": 7.5,
+        "length": 1483
+      },
+      {
+        "page": 217,
+        "score": 3.0,
+        "length": 1896
+      },
+      {
+        "page": 220,
+        "score": 3.0,
+        "length": 1460
+      },
+      {
+        "page": 225,
+        "score": 4.5,
+        "length": 1767
+      },
+      {
+        "page": 229,
+        "score": 3.0,
+        "length": 1733
+      },
+      {
+        "page": 233,
+        "score": 3.0,
+        "length": 1574
+      },
+      {
+        "page": 234,
+        "score": 3.0,
+        "length": 1593
+      },
+      {
+        "page": 235,
+        "score": 7.5,
+        "length": 1816
+      },
+      {
+        "page": 237,
+        "score": 1.5,
+        "length": 1268
+      },
+      {
+        "page": 238,
+        "score": 3.0,
+        "length": 1518
+      },
+      {
+        "page": 239,
+        "score": 3.0,
+        "length": 1380
+      },
+      {
+        "page": 240,
+        "score": 1.5,
+        "length": 1386
+      },
+      {
+        "page": 241,
+        "score": 4.5,
+        "length": 1346
+      },
+      {
+        "page": 242,
+        "score": 1.5,
+        "length": 1390
+      },
+      {
+        "page": 244,
+        "score": 1.5,
+        "length": 1468
+      },
+      {
+        "page": 247,
+        "score": 1.5,
+        "length": 1609
+      },
+      {
+        "page": 248,
+        "score": 6.0,
+        "length": 1779
+      },
+      {
+        "page": 249,
+        "score": 3.0,
+        "length": 1590
+      },
+      {
+        "page": 251,
+        "score": 1.5,
+        "length": 1383
+      },
+      {
+        "page": 252,
+        "score": 1.5,
+        "length": 1633
+      },
+      {
+        "page": 302,
+        "score": 3.0,
+        "length": 1226
+      },
+      {
+        "page": 307,
+        "score": 21.0,
+        "length": 1521
+      },
+      {
+        "page": 316,
+        "score": 1.5,
+        "length": 1612
+      },
+      {
+        "page": 317,
+        "score": 4.5,
+        "length": 1787
+      },
+      {
+        "page": 320,
+        "score": 4.5,
+        "length": 1587
+      },
+      {
+        "page": 329,
+        "score": 4.5,
+        "length": 1511
+      },
+      {
+        "page": 336,
+        "score": 3.0,
+        "length": 1549
+      },
+      {
+        "page": 364,
+        "score": 4.5,
+        "length": 1335
+      },
+      {
+        "page": 387,
+        "score": 7.5,
+        "length": 2163
+      },
+      {
+        "page": 388,
+        "score": 6.0,
+        "length": 1967
+      },
+      {
+        "page": 406,
+        "score": 1.5,
+        "length": 1571
+      },
+      {
+        "page": 407,
+        "score": 1.5,
+        "length": 1782
+      },
+      {
+        "page": 408,
+        "score": 4.5,
+        "length": 2216
+      },
+      {
+        "page": 411,
+        "score": 1.5,
+        "length": 1901
+      },
+      {
+        "page": 412,
+        "score": 1.5,
+        "length": 1183
+      },
+      {
+        "page": 451,
+        "score": 4.5,
+        "length": 1348
+      },
+      {
+        "page": 452,
+        "score": 1.5,
+        "length": 1678
+      },
+      {
+        "page": 455,
+        "score": 3.0,
+        "length": 1311
+      },
+      {
+        "page": 459,
+        "score": 1.5,
+        "length": 1373
+      },
+      {
+        "page": 461,
+        "score": 7.5,
+        "length": 2204
+      },
+      {
+        "page": 463,
+        "score": 9.0,
+        "length": 2489
+      },
+      {
+        "page": 464,
+        "score": 9.0,
+        "length": 2346
+      },
+      {
+        "page": 465,
+        "score": 6.0,
+        "length": 1342
+      },
+      {
+        "page": 466,
+        "score": 6.0,
+        "length": 2224
+      },
+      {
+        "page": 467,
+        "score": 4.5,
+        "length": 2324
+      },
+      {
+        "page": 470,
+        "score": 4.5,
+        "length": 2207
+      },
+      {
+        "page": 472,
+        "score": 7.5,
+        "length": 2426
+      },
+      {
+        "page": 474,
+        "score": 4.5,
+        "length": 1914
+      },
+      {
+        "page": 477,
+        "score": 6.0,
+        "length": 2457
+      },
+      {
+        "page": 478,
+        "score": 3.0,
+        "length": 1426
+      }
+    ]
+  },
+  "health": {
+    "page_count": 60,
+    "pages": [
+      {
+        "page": 4,
+        "score": 6.0,
+        "length": 1418
+      },
+      {
+        "page": 9,
+        "score": 1.5,
+        "length": 1658
+      },
+      {
+        "page": 13,
+        "score": 1.5,
+        "length": 2168
+      },
+      {
+        "page": 15,
+        "score": 4.5,
+        "length": 2113
+      },
+      {
+        "page": 126,
+        "score": 4.5,
+        "length": 1549
+      },
+      {
+        "page": 151,
+        "score": 6.0,
+        "length": 1275
+      },
+      {
+        "page": 152,
+        "score": 9.0,
+        "length": 2003
+      },
+      {
+        "page": 153,
+        "score": 6.0,
+        "length": 1653
+      },
+      {
+        "page": 154,
+        "score": 15.0,
+        "length": 1662
+      },
+      {
+        "page": 155,
+        "score": 4.5,
+        "length": 2529
+      },
+      {
+        "page": 156,
+        "score": 7.5,
+        "length": 2115
+      },
+      {
+        "page": 157,
+        "score": 4.5,
+        "length": 1644
+      },
+      {
+        "page": 160,
+        "score": 3.0,
+        "length": 1729
+      },
+      {
+        "page": 179,
+        "score": 1.5,
+        "length": 1497
+      },
+      {
+        "page": 187,
+        "score": 3.0,
+        "length": 1344
+      },
+      {
+        "page": 188,
+        "score": 3.0,
+        "length": 1244
+      },
+      {
+        "page": 189,
+        "score": 7.5,
+        "length": 1618
+      },
+      {
+        "page": 190,
+        "score": 1.5,
+        "length": 1826
+      },
+      {
+        "page": 193,
+        "score": 3.0,
+        "length": 1616
+      },
+      {
+        "page": 195,
+        "score": 1.5,
+        "length": 1556
+      },
+      {
+        "page": 196,
+        "score": 3.0,
+        "length": 1533
+      },
+      {
+        "page": 199,
+        "score": 1.5,
+        "length": 1896
+      },
+      {
+        "page": 200,
+        "score": 3.0,
+        "length": 1555
+      },
+      {
+        "page": 201,
+        "score": 3.0,
+        "length": 1177
+      },
+      {
+        "page": 202,
+        "score": 1.5,
+        "length": 1799
+      },
+      {
+        "page": 203,
+        "score": 10.5,
+        "length": 1891
+      },
+      {
+        "page": 208,
+        "score": 4.5,
+        "length": 1571
+      },
+      {
+        "page": 209,
+        "score": 4.5,
+        "length": 1592
+      },
+      {
+        "page": 210,
+        "score": 3.0,
+        "length": 1789
+      },
+      {
+        "page": 214,
+        "score": 7.5,
+        "length": 1783
+      },
+      {
+        "page": 217,
+        "score": 4.5,
+        "length": 1896
+      },
+      {
+        "page": 218,
+        "score": 3.0,
+        "length": 2030
+      },
+      {
+        "page": 221,
+        "score": 3.0,
+        "length": 1795
+      },
+      {
+        "page": 226,
+        "score": 3.0,
+        "length": 1021
+      },
+      {
+        "page": 227,
+        "score": 3.0,
+        "length": 1646
+      },
+      {
+        "page": 229,
+        "score": 3.0,
+        "length": 1733
+      },
+      {
+        "page": 230,
+        "score": 3.0,
+        "length": 1935
+      },
+      {
+        "page": 235,
+        "score": 6.0,
+        "length": 1816
+      },
+      {
+        "page": 237,
+        "score": 3.0,
+        "length": 1268
+      },
+      {
+        "page": 243,
+        "score": 1.5,
+        "length": 1287
+      },
+      {
+        "page": 244,
+        "score": 1.5,
+        "length": 1468
+      },
+      {
+        "page": 246,
+        "score": 1.5,
+        "length": 1547
+      },
+      {
+        "page": 247,
+        "score": 1.5,
+        "length": 1609
+      },
+      {
+        "page": 248,
+        "score": 7.5,
+        "length": 1779
+      },
+      {
+        "page": 249,
+        "score": 3.0,
+        "length": 1590
+      },
+      {
+        "page": 250,
+        "score": 3.0,
+        "length": 1613
+      },
+      {
+        "page": 251,
+        "score": 1.5,
+        "length": 1383
+      },
+      {
+        "page": 427,
+        "score": 1.5,
+        "length": 1656
+      },
+      {
+        "page": 442,
+        "score": 4.5,
+        "length": 1694
+      },
+      {
+        "page": 445,
+        "score": 4.5,
+        "length": 1413
+      },
+      {
+        "page": 451,
+        "score": 1.5,
+        "length": 1348
+      },
+      {
+        "page": 460,
+        "score": 4.5,
+        "length": 2027
+      },
+      {
+        "page": 461,
+        "score": 6.0,
+        "length": 2204
+      },
+      {
+        "page": 464,
+        "score": 7.5,
+        "length": 2346
+      },
+      {
+        "page": 470,
+        "score": 6.0,
+        "length": 2207
+      },
+      {
+        "page": 472,
+        "score": 7.5,
+        "length": 2426
+      },
+      {
+        "page": 475,
+        "score": 7.5,
+        "length": 2397
+      },
+      {
+        "page": 478,
+        "score": 4.5,
+        "length": 1426
+      },
+      {
+        "page": 479,
+        "score": 7.5,
+        "length": 2056
+      },
+      {
+        "page": 482,
+        "score": 1.5,
+        "length": 1028
+      }
+    ]
+  },
+  "longevity": {
+    "page_count": 45,
+    "pages": [
+      {
+        "page": 8,
+        "score": 22.5,
+        "length": 1179
+      },
+      {
+        "page": 14,
+        "score": 7.5,
+        "length": 2092
+      },
+      {
+        "page": 15,
+        "score": 3.0,
+        "length": 2113
+      },
+      {
+        "page": 65,
+        "score": 9.0,
+        "length": 1673
+      },
+      {
+        "page": 84,
+        "score": 3.0,
+        "length": 1544
+      },
+      {
+        "page": 108,
+        "score": 3.0,
+        "length": 1453
+      },
+      {
+        "page": 109,
+        "score": 9.0,
+        "length": 1868
+      },
+      {
+        "page": 111,
+        "score": 4.5,
+        "length": 1783
+      },
+      {
+        "page": 112,
+        "score": 6.0,
+        "length": 1495
+      },
+      {
+        "page": 113,
+        "score": 3.0,
+        "length": 1399
+      },
+      {
+        "page": 119,
+        "score": 1.5,
+        "length": 1173
+      },
+      {
+        "page": 169,
+        "score": 3.0,
+        "length": 1568
+      },
+      {
+        "page": 170,
+        "score": 3.0,
+        "length": 1588
+      },
+      {
+        "page": 171,
+        "score": 3.0,
+        "length": 2327
+      },
+      {
+        "page": 190,
+        "score": 1.5,
+        "length": 1826
+      },
+      {
+        "page": 196,
+        "score": 1.5,
+        "length": 1533
+      },
+      {
+        "page": 209,
+        "score": 1.5,
+        "length": 1592
+      },
+      {
+        "page": 218,
+        "score": 3.0,
+        "length": 2030
+      },
+      {
+        "page": 221,
+        "score": 1.5,
+        "length": 1795
+      },
+      {
+        "page": 227,
+        "score": 6.0,
+        "length": 1646
+      },
+      {
+        "page": 233,
+        "score": 1.5,
+        "length": 1574
+      },
+      {
+        "page": 247,
+        "score": 3.0,
+        "length": 1609
+      },
+      {
+        "page": 348,
+        "score": 10.5,
+        "length": 2120
+      },
+      {
+        "page": 412,
+        "score": 4.5,
+        "length": 1183
+      },
+      {
+        "page": 413,
+        "score": 7.5,
+        "length": 1392
+      },
+      {
+        "page": 415,
+        "score": 7.5,
+        "length": 1294
+      },
+      {
+        "page": 426,
+        "score": 3.0,
+        "length": 1766
+      },
+      {
+        "page": 427,
+        "score": 4.5,
+        "length": 1656
+      },
+      {
+        "page": 428,
+        "score": 7.5,
+        "length": 1805
+      },
+      {
+        "page": 429,
+        "score": 3.0,
+        "length": 1656
+      },
+      {
+        "page": 430,
+        "score": 6.0,
+        "length": 2002
+      },
+      {
+        "page": 433,
+        "score": 3.0,
+        "length": 1803
+      },
+      {
+        "page": 434,
+        "score": 6.0,
+        "length": 1437
+      },
+      {
+        "page": 435,
+        "score": 6.0,
+        "length": 1495
+      },
+      {
+        "page": 436,
+        "score": 3.0,
+        "length": 1266
+      },
+      {
+        "page": 437,
+        "score": 1.5,
+        "length": 1355
+      },
+      {
+        "page": 439,
+        "score": 19.5,
+        "length": 1322
+      },
+      {
+        "page": 440,
+        "score": 19.5,
+        "length": 2052
+      },
+      {
+        "page": 441,
+        "score": 9.0,
+        "length": 1575
+      },
+      {
+        "page": 442,
+        "score": 12.0,
+        "length": 1694
+      },
+      {
+        "page": 443,
+        "score": 18.0,
+        "length": 1655
+      },
+      {
+        "page": 444,
+        "score": 12.0,
+        "length": 1736
+      },
+      {
+        "page": 445,
+        "score": 3.0,
+        "length": 1413
+      },
+      {
+        "page": 480,
+        "score": 1.5,
+        "length": 1273
+      },
+      {
+        "page": 481,
+        "score": 1.5,
+        "length": 1081
+      }
+    ]
+  },
+  "dashas": {
+    "page_count": 6,
+    "pages": [
+      {
+        "page": 33,
+        "score": 6.0,
+        "length": 1771
+      },
+      {
+        "page": 100,
+        "score": 1.5,
+        "length": 1403
+      },
+      {
+        "page": 370,
+        "score": 3.0,
+        "length": 1163
+      },
+      {
+        "page": 408,
+        "score": 1.5,
+        "length": 2216
+      },
+      {
+        "page": 410,
+        "score": 1.5,
+        "length": 2070
+      },
+      {
+        "page": 441,
+        "score": 3.0,
+        "length": 1575
+      }
+    ]
+  },
+  "transits": {
+    "page_count": 0,
+    "pages": []
+  },
+  "divisional": {
+    "page_count": 94,
+    "pages": [
+      {
+        "page": 1,
+        "score": 1.5,
+        "length": 273
+      },
+      {
+        "page": 2,
+        "score": 7.5,
+        "length": 1153
+      },
+      {
+        "page": 9,
+        "score": 1.5,
+        "length": 1658
+      },
+      {
+        "page": 12,
+        "score": 19.5,
+        "length": 2268
+      },
+      {
+        "page": 16,
+        "score": 3.0,
+        "length": 929
+      },
+      {
+        "page": 17,
+        "score": 6.0,
+        "length": 2239
+      },
+      {
+        "page": 19,
+        "score": 1.5,
+        "length": 1689
+      },
+      {
+        "page": 31,
+        "score": 4.5,
+        "length": 1452
+      },
+      {
+        "page": 41,
+        "score": 1.5,
+        "length": 1515
+      },
+      {
+        "page": 43,
+        "score": 1.5,
+        "length": 1383
+      },
+      {
+        "page": 47,
+        "score": 9.0,
+        "length": 1412
+      },
+      {
+        "page": 62,
+        "score": 7.5,
+        "length": 1608
+      },
+      {
+        "page": 64,
+        "score": 9.0,
+        "length": 1990
+      },
+      {
+        "page": 67,
+        "score": 15.0,
+        "length": 1435
+      },
+      {
+        "page": 71,
+        "score": 9.0,
+        "length": 1343
+      },
+      {
+        "page": 84,
+        "score": 1.5,
+        "length": 1544
+      },
+      {
+        "page": 86,
+        "score": 1.5,
+        "length": 1539
+      },
+      {
+        "page": 87,
+        "score": 24.0,
+        "length": 2016
+      },
+      {
+        "page": 88,
+        "score": 22.5,
+        "length": 1871
+      },
+      {
+        "page": 89,
+        "score": 24.0,
+        "length": 2138
+      },
+      {
+        "page": 90,
+        "score": 7.5,
+        "length": 1107
+      },
+      {
+        "page": 91,
+        "score": 10.5,
+        "length": 1630
+      },
+      {
+        "page": 93,
+        "score": 12.0,
+        "length": 1852
+      },
+      {
+        "page": 94,
+        "score": 21.0,
+        "length": 1709
+      },
+      {
+        "page": 95,
+        "score": 4.5,
+        "length": 1694
+      },
+      {
+        "page": 96,
+        "score": 10.5,
+        "length": 759
+      },
+      {
+        "page": 97,
+        "score": 3.0,
+        "length": 899
+      },
+      {
+        "page": 98,
+        "score": 12.0,
+        "length": 1583
+      },
+      {
+        "page": 108,
+        "score": 1.5,
+        "length": 1453
+      },
+      {
+        "page": 109,
+        "score": 3.0,
+        "length": 1868
+      },
+      {
+        "page": 111,
+        "score": 6.0,
+        "length": 1783
+      },
+      {
+        "page": 127,
+        "score": 4.5,
+        "length": 1853
+      },
+      {
+        "page": 128,
+        "score": 3.0,
+        "length": 1621
+      },
+      {
+        "page": 131,
+        "score": 3.0,
+        "length": 1430
+      },
+      {
+        "page": 135,
+        "score": 15.0,
+        "length": 2157
+      },
+      {
+        "page": 141,
+        "score": 1.5,
+        "length": 1213
+      },
+      {
+        "page": 143,
+        "score": 1.5,
+        "length": 2006
+      },
+      {
+        "page": 156,
+        "score": 3.0,
+        "length": 2115
+      },
+      {
+        "page": 158,
+        "score": 4.5,
+        "length": 1620
+      },
+      {
+        "page": 166,
+        "score": 4.5,
+        "length": 1395
+      },
+      {
+        "page": 169,
+        "score": 3.0,
+        "length": 1568
+      },
+      {
+        "page": 173,
+        "score": 3.0,
+        "length": 1610
+      },
+      {
+        "page": 177,
+        "score": 1.5,
+        "length": 1275
+      },
+      {
+        "page": 181,
+        "score": 3.0,
+        "length": 1436
+      },
+      {
+        "page": 185,
+        "score": 7.5,
+        "length": 1260
+      },
+      {
+        "page": 195,
+        "score": 1.5,
+        "length": 1556
+      },
+      {
+        "page": 197,
+        "score": 1.5,
+        "length": 1684
+      },
+      {
+        "page": 199,
+        "score": 1.5,
+        "length": 1896
+      },
+      {
+        "page": 241,
+        "score": 1.5,
+        "length": 1346
+      },
+      {
+        "page": 243,
+        "score": 1.5,
+        "length": 1287
+      },
+      {
+        "page": 245,
+        "score": 1.5,
+        "length": 1364
+      },
+      {
+        "page": 246,
+        "score": 1.5,
+        "length": 1547
+      },
+      {
+        "page": 247,
+        "score": 1.5,
+        "length": 1609
+      },
+      {
+        "page": 259,
+        "score": 1.5,
+        "length": 1382
+      },
+      {
+        "page": 261,
+        "score": 1.5,
+        "length": 1395
+      },
+      {
+        "page": 263,
+        "score": 6.0,
+        "length": 1879
+      },
+      {
+        "page": 264,
+        "score": 16.5,
+        "length": 1675
+      },
+      {
+        "page": 265,
+        "score": 15.0,
+        "length": 1859
+      },
+      {
+        "page": 269,
+        "score": 4.5,
+        "length": 1741
+      },
+      {
+        "page": 271,
+        "score": 12.0,
+        "length": 1546
+      },
+      {
+        "page": 287,
+        "score": 1.5,
+        "length": 1536
+      },
+      {
+        "page": 289,
+        "score": 4.5,
+        "length": 1650
+      },
+      {
+        "page": 290,
+        "score": 4.5,
+        "length": 1592
+      },
+      {
+        "page": 301,
+        "score": 3.0,
+        "length": 1603
+      },
+      {
+        "page": 325,
+        "score": 3.0,
+        "length": 1367
+      },
+      {
+        "page": 326,
+        "score": 13.5,
+        "length": 1690
+      },
+      {
+        "page": 327,
+        "score": 1.5,
+        "length": 1370
+      },
+      {
+        "page": 336,
+        "score": 3.0,
+        "length": 1549
+      },
+      {
+        "page": 339,
+        "score": 1.5,
+        "length": 1298
+      },
+      {
+        "page": 383,
+        "score": 6.0,
+        "length": 1281
+      },
+      {
+        "page": 387,
+        "score": 7.5,
+        "length": 2163
+      },
+      {
+        "page": 390,
+        "score": 12.0,
+        "length": 1791
+      },
+      {
+        "page": 401,
+        "score": 1.5,
+        "length": 1113
+      },
+      {
+        "page": 405,
+        "score": 1.5,
+        "length": 1605
+      },
+      {
+        "page": 406,
+        "score": 3.0,
+        "length": 1571
+      },
+      {
+        "page": 407,
+        "score": 1.5,
+        "length": 1782
+      },
+      {
+        "page": 409,
+        "score": 4.5,
+        "length": 1774
+      },
+      {
+        "page": 410,
+        "score": 1.5,
+        "length": 2070
+      },
+      {
+        "page": 414,
+        "score": 1.5,
+        "length": 1437
+      },
+      {
+        "page": 417,
+        "score": 4.5,
+        "length": 1759
+      },
+      {
+        "page": 423,
+        "score": 13.5,
+        "length": 2268
+      },
+      {
+        "page": 425,
+        "score": 3.0,
+        "length": 1647
+      },
+      {
+        "page": 426,
+        "score": 4.5,
+        "length": 1766
+      },
+      {
+        "page": 427,
+        "score": 1.5,
+        "length": 1656
+      },
+      {
+        "page": 429,
+        "score": 4.5,
+        "length": 1656
+      },
+      {
+        "page": 430,
+        "score": 4.5,
+        "length": 2002
+      },
+      {
+        "page": 431,
+        "score": 4.5,
+        "length": 1674
+      },
+      {
+        "page": 432,
+        "score": 3.0,
+        "length": 1648
+      },
+      {
+        "page": 433,
+        "score": 1.5,
+        "length": 1803
+      },
+      {
+        "page": 451,
+        "score": 1.5,
+        "length": 1348
+      },
+      {
+        "page": 454,
+        "score": 9.0,
+        "length": 1923
+      },
+      {
+        "page": 455,
+        "score": 1.5,
+        "length": 1311
+      },
+      {
+        "page": 459,
+        "score": 1.5,
+        "length": 1373
+      },
+      {
+        "page": 481,
+        "score": 1.5,
+        "length": 1081
+      }
+    ]
+  },
+  "yogas": {
+    "page_count": 70,
+    "pages": [
+      {
+        "page": 3,
+        "score": 3.0,
+        "length": 1262
+      },
+      {
+        "page": 7,
+        "score": 22.5,
+        "length": 1192
+      },
+      {
+        "page": 9,
+        "score": 1.5,
+        "length": 1658
+      },
+      {
+        "page": 13,
+        "score": 1.5,
+        "length": 2168
+      },
+      {
+        "page": 14,
+        "score": 12.0,
+        "length": 2092
+      },
+      {
+        "page": 109,
+        "score": 4.5,
+        "length": 1868
+      },
+      {
+        "page": 111,
+        "score": 3.0,
+        "length": 1783
+      },
+      {
+        "page": 112,
+        "score": 4.5,
+        "length": 1495
+      },
+      {
+        "page": 128,
+        "score": 3.0,
+        "length": 1621
+      },
+      {
+        "page": 133,
+        "score": 7.5,
+        "length": 1845
+      },
+      {
+        "page": 134,
+        "score": 1.5,
+        "length": 1721
+      },
+      {
+        "page": 169,
+        "score": 1.5,
+        "length": 1568
+      },
+      {
+        "page": 170,
+        "score": 3.0,
+        "length": 1588
+      },
+      {
+        "page": 179,
+        "score": 1.5,
+        "length": 1497
+      },
+      {
+        "page": 202,
+        "score": 3.0,
+        "length": 1799
+      },
+      {
+        "page": 206,
+        "score": 4.5,
+        "length": 1076
+      },
+      {
+        "page": 219,
+        "score": 3.0,
+        "length": 1757
+      },
+      {
+        "page": 223,
+        "score": 1.5,
+        "length": 910
+      },
+      {
+        "page": 249,
+        "score": 1.5,
+        "length": 1590
+      },
+      {
+        "page": 339,
+        "score": 4.5,
+        "length": 1298
+      },
+      {
+        "page": 344,
+        "score": 4.5,
+        "length": 1634
+      },
+      {
+        "page": 345,
+        "score": 4.5,
+        "length": 1957
+      },
+      {
+        "page": 356,
+        "score": 16.5,
+        "length": 1513
+      },
+      {
+        "page": 357,
+        "score": 18.0,
+        "length": 1414
+      },
+      {
+        "page": 358,
+        "score": 19.5,
+        "length": 1663
+      },
+      {
+        "page": 359,
+        "score": 27.0,
+        "length": 1591
+      },
+      {
+        "page": 360,
+        "score": 15.0,
+        "length": 1421
+      },
+      {
+        "page": 361,
+        "score": 12.0,
+        "length": 1461
+      },
+      {
+        "page": 362,
+        "score": 16.5,
+        "length": 1553
+      },
+      {
+        "page": 363,
+        "score": 16.5,
+        "length": 1386
+      },
+      {
+        "page": 364,
+        "score": 10.5,
+        "length": 1335
+      },
+      {
+        "page": 365,
+        "score": 13.5,
+        "length": 1113
+      },
+      {
+        "page": 366,
+        "score": 13.5,
+        "length": 2250
+      },
+      {
+        "page": 367,
+        "score": 10.5,
+        "length": 1965
+      },
+      {
+        "page": 368,
+        "score": 15.0,
+        "length": 2139
+      },
+      {
+        "page": 369,
+        "score": 18.0,
+        "length": 1892
+      },
+      {
+        "page": 370,
+        "score": 7.5,
+        "length": 1163
+      },
+      {
+        "page": 371,
+        "score": 16.5,
+        "length": 1979
+      },
+      {
+        "page": 372,
+        "score": 16.5,
+        "length": 1997
+      },
+      {
+        "page": 373,
+        "score": 10.5,
+        "length": 1773
+      },
+      {
+        "page": 374,
+        "score": 13.5,
+        "length": 1604
+      },
+      {
+        "page": 375,
+        "score": 6.0,
+        "length": 1681
+      },
+      {
+        "page": 376,
+        "score": 12.0,
+        "length": 1562
+      },
+      {
+        "page": 377,
+        "score": 16.5,
+        "length": 1674
+      },
+      {
+        "page": 379,
+        "score": 22.5,
+        "length": 1689
+      },
+      {
+        "page": 380,
+        "score": 3.0,
+        "length": 297
+      },
+      {
+        "page": 382,
+        "score": 10.5,
+        "length": 1880
+      },
+      {
+        "page": 384,
+        "score": 12.0,
+        "length": 1494
+      },
+      {
+        "page": 385,
+        "score": 10.5,
+        "length": 1124
+      },
+      {
+        "page": 386,
+        "score": 9.0,
+        "length": 1054
+      },
+      {
+        "page": 387,
+        "score": 13.5,
+        "length": 2163
+      },
+      {
+        "page": 388,
+        "score": 13.5,
+        "length": 1967
+      },
+      {
+        "page": 389,
+        "score": 12.0,
+        "length": 1546
+      },
+      {
+        "page": 391,
+        "score": 7.5,
+        "length": 1443
+      },
+      {
+        "page": 392,
+        "score": 13.5,
+        "length": 1739
+      },
+      {
+        "page": 393,
+        "score": 3.0,
+        "length": 1471
+      },
+      {
+        "page": 394,
+        "score": 4.5,
+        "length": 1341
+      },
+      {
+        "page": 395,
+        "score": 6.0,
+        "length": 1667
+      },
+      {
+        "page": 396,
+        "score": 9.0,
+        "length": 2119
+      },
+      {
+        "page": 398,
+        "score": 4.5,
+        "length": 1254
+      },
+      {
+        "page": 401,
+        "score": 3.0,
+        "length": 1113
+      },
+      {
+        "page": 405,
+        "score": 1.5,
+        "length": 1605
+      },
+      {
+        "page": 409,
+        "score": 6.0,
+        "length": 1774
+      },
+      {
+        "page": 410,
+        "score": 1.5,
+        "length": 2070
+      },
+      {
+        "page": 411,
+        "score": 4.5,
+        "length": 1901
+      },
+      {
+        "page": 412,
+        "score": 4.5,
+        "length": 1183
+      },
+      {
+        "page": 435,
+        "score": 3.0,
+        "length": 1495
+      },
+      {
+        "page": 436,
+        "score": 3.0,
+        "length": 1266
+      },
+      {
+        "page": 438,
+        "score": 3.0,
+        "length": 1425
+      },
+      {
+        "page": 481,
+        "score": 3.0,
+        "length": 1081
+      }
+    ]
+  },
+  "remedies": {
+    "page_count": 5,
+    "pages": [
+      {
+        "page": 9,
+        "score": 1.5,
+        "length": 1658
+      },
+      {
+        "page": 237,
+        "score": 1.5,
+        "length": 1268
+      },
+      {
+        "page": 244,
+        "score": 1.5,
+        "length": 1468
+      },
+      {
+        "page": 410,
+        "score": 1.5,
+        "length": 2070
+      },
+      {
+        "page": 482,
+        "score": 1.5,
+        "length": 1028
+      }
+    ]
+  }
+}

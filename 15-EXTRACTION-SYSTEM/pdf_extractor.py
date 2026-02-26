@@ -1,0 +1,432 @@
+#!/usr/bin/env python3
+"""
+PDF Content Extractor for Vedic Astrology Books
+Extracts text from PDFs with chapter detection and topic organization
+"""
+
+import os
+import sys
+import json
+import re
+from pathlib import Path
+from typing import Dict, List, Tuple, Optional
+
+try:
+    import PyPDF2
+except ImportError:
+    print("Installing PyPDF2...")
+    os.system(f"{sys.executable} -m pip install PyPDF2")
+    import PyPDF2
+
+try:
+    import pdfplumber
+except ImportError:
+    print("Installing pdfplumber for better extraction...")
+    os.system(f"{sys.executable} -m pip install pdfplumber")
+    import pdfplumber
+
+
+class AstrologyPDFExtractor:
+    """Extract and organize content from astrology PDFs"""
+    
+    def __init__(self, books_dir: str, output_dir: str):
+        self.books_dir = Path(books_dir)
+        self.output_dir = Path(output_dir)
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Topic keywords for intelligent extraction
+        self.topic_keywords = {
+            'planets': ['planet', 'graha', 'sun', 'moon', 'mars', 'mercury', 'jupiter', 
+                       'venus', 'saturn', 'rahu', 'ketu', 'surya', 'chandra', 'mangal',
+                       'budha', 'guru', 'shukra', 'shani'],
+            'houses': ['house', 'bhava', '1st house', '2nd house', 'ascendant', 'lagna',
+                      'kendra', 'trikona', 'dusthana'],
+            'signs': ['sign', 'rashi', 'aries', 'taurus', 'gemini', 'cancer', 'leo',
+                     'virgo', 'libra', 'scorpio', 'sagittarius', 'capricorn', 'aquarius',
+                     'pisces', 'mesha', 'vrishabha', 'mithuna', 'karka', 'simha'],
+            'nakshatras': ['nakshatra', 'constellation', 'ashwini', 'bharani', 'krittika',
+                          'rohini', 'mrigashira', 'ardra', 'punarvasu'],
+            'marriage': ['marriage', 'spouse', '7th house', 'seventh house', 'vivaha',
+                        'kalatra', 'wife', 'husband', 'partner', 'relationship'],
+            'career': ['career', 'profession', '10th house', 'tenth house', 'karma',
+                      'occupation', 'job', 'business', 'employment'],
+            'wealth': ['wealth', 'money', 'finance', 'dhana', '2nd house', '11th house',
+                      'income', 'gains', 'prosperity'],
+            'children': ['children', 'progeny', '5th house', 'fifth house', 'putra',
+                        'offspring', 'son', 'daughter'],
+            'health': ['health', 'disease', 'illness', '6th house', 'rog', 'ailment',
+                      'medical', 'longevity', 'maraka'],
+            'dashas': ['dasha', 'mahadasha', 'antardasha', 'vimshottari', 'yogini',
+                      'chara dasha', 'narayana dasha', 'period', 'sub-period'],
+            'yogas': ['yoga', 'combination', 'raja yoga', 'dhana yoga', 'neecha bhanga',
+                     'parivartana', 'conjunction'],
+            'divisional': ['navamsa', 'divisional', 'varga', 'D9', 'D10', 'D7', 'D2',
+                          'hora', 'drekkana', 'saptamsa', 'dashamsa'],
+            'aspects': ['aspect', 'drishti', 'glance', '7th aspect', 'special aspect'],
+            'transits': ['transit', 'gochara', 'movement', 'planetary transit'],
+            'remedies': ['remedy', 'upaya', 'mantra', 'gemstone', 'puja', 'donation',
+                        'charity', 'propitiation']
+        }
+    
+    def extract_pdf_text(self, pdf_path: Path, use_pdfplumber: bool = True) -> List[Dict]:
+        """Extract text from PDF with page numbers"""
+        pages_content = []
+        
+        try:
+            if use_pdfplumber and 'pdfplumber' in sys.modules:
+                # Better extraction with pdfplumber
+                with pdfplumber.open(pdf_path) as pdf:
+                    for i, page in enumerate(pdf.pages):
+                        text = page.extract_text()
+                        if text:
+                            pages_content.append({
+                                'page': i + 1,
+                                'text': text,
+                                'char_count': len(text)
+                            })
+            else:
+                # Fallback to PyPDF2
+                with open(pdf_path, 'rb') as file:
+                    pdf = PyPDF2.PdfReader(file)
+                    for i, page in enumerate(pdf.pages):
+                        text = page.extract_text()
+                        if text:
+                            pages_content.append({
+                                'page': i + 1,
+                                'text': text,
+                                'char_count': len(text)
+                            })
+        
+        except Exception as e:
+            print(f"Error extracting {pdf_path.name}: {e}")
+            return []
+        
+        return pages_content
+    
+    def detect_chapters(self, pages_content: List[Dict]) -> List[Dict]:
+        """Detect chapter boundaries in the text"""
+        chapters = []
+        chapter_patterns = [
+            r'chapter\s+(\d+|[ivxlcdm]+)',
+            r'adhyaya\s+(\d+)',
+            r'^(\d+)\.\s+[A-Z]',
+            r'^\s*([IVX]+)\.\s+[A-Z]',
+        ]
+        
+        current_chapter = None
+        chapter_start_page = 1
+        
+        for page_data in pages_content:
+            text = page_data['text']
+            page_num = page_data['page']
+            
+            # Check for chapter markers
+            for pattern in chapter_patterns:
+                matches = re.finditer(pattern, text, re.IGNORECASE | re.MULTILINE)
+                for match in matches:
+                    # Save previous chapter
+                    if current_chapter:
+                        chapters.append({
+                            'title': current_chapter,
+                            'start_page': chapter_start_page,
+                            'end_page': page_num - 1
+                        })
+                    
+                    # Start new chapter
+                    current_chapter = text[match.start():match.start()+100].split('\n')[0]
+                    chapter_start_page = page_num
+                    break
+        
+        # Add last chapter
+        if current_chapter:
+            chapters.append({
+                'title': current_chapter,
+                'start_page': chapter_start_page,
+                'end_page': pages_content[-1]['page']
+            })
+        
+        return chapters
+    
+    def categorize_content(self, text: str) -> List[str]:
+        """Categorize text by topic based on keywords"""
+        text_lower = text.lower()
+        categories = []
+        
+        for topic, keywords in self.topic_keywords.items():
+            keyword_count = sum(1 for keyword in keywords if keyword in text_lower)
+            if keyword_count >= 2:  # At least 2 keyword matches
+                categories.append(topic)
+        
+        return categories
+    
+    def extract_sutras(self, text: str) -> List[str]:
+        """Extract Sanskrit sutras/shlokas from text"""
+        sutras = []
+        
+        # Pattern for numbered sutras
+        sutra_pattern = r'(\d+[\.-]\s*[^\n]+(?:\n[^\n]+){0,3})'
+        matches = re.finditer(sutra_pattern, text)
+        
+        for match in matches:
+            sutra_text = match.group(1).strip()
+            # Check if it looks like a sutra (short, possibly Sanskrit)
+            if 20 < len(sutra_text) < 300:
+                sutras.append(sutra_text)
+        
+        return sutras
+    
+    def extract_examples(self, text: str) -> List[str]:
+        """Extract example charts and case studies"""
+        examples = []
+        
+        example_patterns = [
+            r'example\s*\d*[:\-]?\s*([^\n]+(?:\n[^\n]+){0,5})',
+            r'chart\s*\d*[:\-]?\s*([^\n]+(?:\n[^\n]+){0,5})',
+            r'case\s+study[:\-]?\s*([^\n]+(?:\n[^\n]+){0,5})',
+            r'illustration[:\-]?\s*([^\n]+(?:\n[^\n]+){0,5})',
+        ]
+        
+        for pattern in example_patterns:
+            matches = re.finditer(pattern, text, re.IGNORECASE)
+            for match in matches:
+                example_text = match.group(1).strip()
+                if 50 < len(example_text) < 1000:
+                    examples.append(example_text)
+        
+        return examples
+    
+    def process_book(self, pdf_path: Path) -> Dict:
+        """Process a single book and extract structured content"""
+        print(f"\nProcessing: {pdf_path.name}")
+        
+        # Extract all pages
+        pages_content = self.extract_pdf_text(pdf_path)
+        if not pages_content:
+            return {'error': 'Failed to extract text'}
+        
+        print(f"  Extracted {len(pages_content)} pages")
+        
+        # Detect chapters
+        chapters = self.detect_chapters(pages_content)
+        print(f"  Detected {len(chapters)} chapters")
+        
+        # Analyze content by topic
+        topic_pages = {topic: [] for topic in self.topic_keywords.keys()}
+        all_sutras = []
+        all_examples = []
+        
+        for page_data in pages_content:
+            text = page_data['text']
+            page_num = page_data['page']
+            
+            # Categorize
+            categories = self.categorize_content(text)
+            for category in categories:
+                topic_pages[category].append({
+                    'page': page_num,
+                    'preview': text[:200]
+                })
+            
+            # Extract sutras
+            sutras = self.extract_sutras(text)
+            for sutra in sutras:
+                all_sutras.append({
+                    'page': page_num,
+                    'text': sutra
+                })
+            
+            # Extract examples
+            examples = self.extract_examples(text)
+            for example in examples:
+                all_examples.append({
+                    'page': page_num,
+                    'text': example
+                })
+        
+        # Compile results
+        result = {
+            'book_name': pdf_path.stem,
+            'total_pages': len(pages_content),
+            'chapters': chapters,
+            'topic_coverage': {
+                topic: len(pages) for topic, pages in topic_pages.items() if pages
+            },
+            'topic_pages': {
+                topic: pages for topic, pages in topic_pages.items() if pages
+            },
+            'sutras_count': len(all_sutras),
+            'examples_count': len(all_examples),
+            'sutras': all_sutras[:50],  # First 50 sutras
+            'examples': all_examples[:20],  # First 20 examples
+            'full_text_pages': pages_content
+        }
+        
+        return result
+    
+    def save_extraction(self, book_data: Dict, book_name: str):
+        """Save extracted data to JSON and markdown"""
+        # Save JSON
+        json_path = self.output_dir / f"{book_name}_extraction.json"
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(book_data, f, indent=2, ensure_ascii=False)
+        
+        # Save markdown summary
+        md_path = self.output_dir / f"{book_name}_summary.md"
+        with open(md_path, 'w', encoding='utf-8') as f:
+            f.write(f"# {book_name} - Extraction Summary\n\n")
+            f.write(f"**Total Pages**: {book_data.get('total_pages', 0)}\n")
+            f.write(f"**Chapters Detected**: {len(book_data.get('chapters', []))}\n")
+            f.write(f"**Sutras Found**: {book_data.get('sutras_count', 0)}\n")
+            f.write(f"**Examples Found**: {book_data.get('examples_count', 0)}\n\n")
+            
+            # Topic coverage
+            f.write("## Topic Coverage\n\n")
+            topic_cov = book_data.get('topic_coverage', {})
+            for topic, count in sorted(topic_cov.items(), key=lambda x: x[1], reverse=True):
+                f.write(f"- **{topic.title()}**: {count} pages\n")
+            
+            # Chapters
+            if book_data.get('chapters'):
+                f.write("\n## Chapters\n\n")
+                for i, chapter in enumerate(book_data['chapters'], 1):
+                    f.write(f"{i}. {chapter['title']} (Pages {chapter['start_page']}-{chapter['end_page']})\n")
+            
+            # Sample sutras
+            if book_data.get('sutras'):
+                f.write("\n## Sample Sutras\n\n")
+                for i, sutra in enumerate(book_data['sutras'][:10], 1):
+                    f.write(f"### Sutra {i} (Page {sutra['page']})\n")
+                    f.write(f"{sutra['text']}\n\n")
+        
+        print(f"  Saved: {json_path.name} and {md_path.name}")
+    
+    def extract_topic_content(self, book_data: Dict, topic: str, output_file: Path):
+        """Extract all content related to a specific topic"""
+        if 'full_text_pages' not in book_data:
+            return
+        
+        topic_pages = book_data.get('topic_pages', {}).get(topic, [])
+        if not topic_pages:
+            return
+        
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(f"# {topic.title()} - Extracted from {book_data['book_name']}\n\n")
+            f.write(f"**Source**: {book_data['book_name']}\n")
+            f.write(f"**Pages with {topic} content**: {len(topic_pages)}\n\n")
+            
+            for page_info in topic_pages:
+                page_num = page_info['page']
+                # Find full page text
+                page_data = next((p for p in book_data['full_text_pages'] if p['page'] == page_num), None)
+                if page_data:
+                    f.write(f"## Page {page_num}\n\n")
+                    f.write(page_data['text'])
+                    f.write("\n\n---\n\n")
+        
+        print(f"  Extracted {topic} content to {output_file.name}")
+    
+    def process_all_books(self, book_list: Optional[List[str]] = None):
+        """Process all books or specific list"""
+        if book_list:
+            pdf_files = [self.books_dir / book for book in book_list if (self.books_dir / book).exists()]
+        else:
+            pdf_files = list(self.books_dir.glob("*.pdf"))
+        
+        print(f"Found {len(pdf_files)} PDF files to process")
+        
+        all_extractions = []
+        
+        for pdf_path in pdf_files:
+            try:
+                book_data = self.process_book(pdf_path)
+                if 'error' not in book_data:
+                    self.save_extraction(book_data, pdf_path.stem)
+                    all_extractions.append(book_data)
+            except Exception as e:
+                print(f"  ERROR processing {pdf_path.name}: {e}")
+                continue
+        
+        # Create master index
+        self.create_master_index(all_extractions)
+        
+        return all_extractions
+    
+    def create_master_index(self, all_extractions: List[Dict]):
+        """Create master index of all extracted content"""
+        index_path = self.output_dir / "MASTER_INDEX.md"
+        
+        with open(index_path, 'w', encoding='utf-8') as f:
+            f.write("# Master Index - All Books Extraction\n\n")
+            f.write(f"**Total Books Processed**: {len(all_extractions)}\n")
+            f.write(f"**Extraction Date**: {Path.cwd()}\n\n")
+            
+            # Summary table
+            f.write("## Books Summary\n\n")
+            f.write("| Book | Pages | Chapters | Sutras | Examples | Top Topics |\n")
+            f.write("|------|-------|----------|--------|----------|------------|\n")
+            
+            for book in all_extractions:
+                name = book['book_name'][:40]
+                pages = book.get('total_pages', 0)
+                chapters = len(book.get('chapters', []))
+                sutras = book.get('sutras_count', 0)
+                examples = book.get('examples_count', 0)
+                
+                # Top 3 topics
+                topic_cov = book.get('topic_coverage', {})
+                top_topics = sorted(topic_cov.items(), key=lambda x: x[1], reverse=True)[:3]
+                topics_str = ", ".join([t[0] for t in top_topics])
+                
+                f.write(f"| {name} | {pages} | {chapters} | {sutras} | {examples} | {topics_str} |\n")
+            
+            # Topic coverage across all books
+            f.write("\n## Topic Coverage Across All Books\n\n")
+            all_topics = {}
+            for book in all_extractions:
+                for topic, count in book.get('topic_coverage', {}).items():
+                    if topic not in all_topics:
+                        all_topics[topic] = {'books': 0, 'pages': 0}
+                    all_topics[topic]['books'] += 1
+                    all_topics[topic]['pages'] += count
+            
+            for topic, data in sorted(all_topics.items(), key=lambda x: x[1]['pages'], reverse=True):
+                f.write(f"- **{topic.title()}**: {data['books']} books, {data['pages']} pages\n")
+        
+        print(f"\nMaster index created: {index_path}")
+
+
+def main():
+    """Main execution"""
+    # Setup paths
+    script_dir = Path(__file__).parent
+    
+    # Handle Books as separate workspace folder
+    books_dir = script_dir.parent.parent.parent / "Books"
+    if not books_dir.exists():
+        # Try alternative path
+        books_dir = script_dir.parent.parent / "Books"
+    
+    output_dir = script_dir / "extracted_content"
+    
+    print("=" * 60)
+    print("Vedic Astrology PDF Extraction System")
+    print("=" * 60)
+    
+    if not books_dir.exists():
+        print(f"ERROR: Books directory not found: {books_dir}")
+        return
+    
+    # Initialize extractor
+    extractor = AstrologyPDFExtractor(str(books_dir), str(output_dir))
+    
+    # Process all books
+    extractions = extractor.process_all_books()
+    
+    print("\n" + "=" * 60)
+    print(f"Extraction complete! Processed {len(extractions)} books")
+    print(f"Output directory: {output_dir}")
+    print("=" * 60)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,15 @@
+.timeline {
+  width: 100%;
+  min-height: 200px;
+  
+  svg {
+    display: block;
+    width: 100%;
+  }
+  
+  :global {
+    .mahadasha-group {
+      transition: all 0.2s ease;
+    }
+  }
+}
