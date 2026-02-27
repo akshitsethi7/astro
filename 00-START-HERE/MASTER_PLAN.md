@@ -192,6 +192,8 @@ Output: `01-AKSHIT-ANALYSIS/CROSS_REFERENCE_REPORT_<TOPIC>.md`
 
 *Create chart with Dec 26, 1994, 22:50, Kanpur. Use for cross-validation and features not yet in scripts (Upagrahas, Shadbala, Shad Varga).*
 
+**Extracted data** (from PDF exports): `01-AKSHIT-ANALYSIS/LAGNA360_EXTRACTED_DATA.md` — Shadbala, Yogas, D1 positions, AI chat summary. Marriage timing from Lagna360 AI (Jul-Nov 2026) differs from our DEFINITIVE (Late 2028-Late 2029); use DEFINITIVE.
+
 ---
 
 ## 10. REMAINING (Future)

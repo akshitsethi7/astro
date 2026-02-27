@@ -65,6 +65,7 @@ The **9-method weighted analysis** in `SPOUSE_AGE_DETERMINATION_RESEARCH.md` is 
 | `TIMING/marriage-timing.md` | 2028-2030 | 2025 secondary |
 | `VERIFICATION.md` | 2027-2029 (85%) | — |
 | `JAIMINI_MARRIAGE_ANALYSIS.md` | Late 2027 - Late 2029 (90%) | — |
+| Lagna360 AI (Feb 2026) | Jul - Nov 2026 | Meet Oct 2025 - Mar 2026 |
 
 ### Resolution
 
@@ -101,6 +102,7 @@ The **9-method weighted analysis** in `SPOUSE_AGE_DETERMINATION_RESEARCH.md` is 
 | **Best single month** | October 2028 - January 2029 | Highest probability |
 
 - **2025 secondary window**: CLOSED (didn't materialize)
+- **Lagna360 AI (Jul-Nov 2026)**: Over-weighted Jupiter 11th transit; under-weighted Saturn 7th delay. Use as secondary only.
 - **2027 early possibility**: Upgraded to 65% for MEETING (Chara Dasha support)
 - **2028-2029 primary**: CONFIRMED at 92% (all 3 systems agree)
 
