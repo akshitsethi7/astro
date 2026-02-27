@@ -3,8 +3,8 @@
 Narayana Dasha Calculator (Jaimini)
 
 Narayana Dasha starts from the stronger of Lagna or 7th house.
-Each sign's period = years based on lord-to-sign count (simplified).
-For Leo ascendant: Lagna=Leo, 7th=Aquarius. Both fixed; use Lagna as default.
+Duration = years from sign lord to the sign (zodiacal count).
+Uses planet positions from vargas_output.json.
 
 Usage:
     python 06-ANALYSIS-SCRIPTS/narayana_dasha.py
@@ -14,7 +14,7 @@ import json
 from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
-from typing import List
+from typing import Dict, List
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 VARGAS_PATH = REPO_ROOT / "11-CONFIG-DATA" / "vargas_output.json"
@@ -22,11 +22,11 @@ VARGAS_PATH = REPO_ROOT / "11-CONFIG-DATA" / "vargas_output.json"
 SIGNS = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo",
          "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]
 
-# Simplified: years per sign (lord-to-sign count). Leo=5, Virgo=5, etc.
-# Full calculation requires BPHS rules.
-DEFAULT_YEARS = {s: 5 for s in SIGNS}
-DEFAULT_YEARS["Leo"] = 6
-DEFAULT_YEARS["Aquarius"] = 6
+SIGN_LORDS: Dict[str, str] = {
+    "Aries": "Mars", "Taurus": "Venus", "Gemini": "Mercury", "Cancer": "Moon",
+    "Leo": "Sun", "Virgo": "Mercury", "Libra": "Venus", "Scorpio": "Mars",
+    "Sagittarius": "Jupiter", "Capricorn": "Saturn", "Aquarius": "Saturn", "Pisces": "Jupiter",
+}
 
 
 @dataclass
@@ -37,6 +37,14 @@ class NarayanaPeriod:
     end: date
 
 
+def zodiac_distance(from_sign: str, to_sign: str) -> int:
+    """Count signs from from_sign to to_sign (zodiacal order)."""
+    i = SIGNS.index(from_sign)
+    j = SIGNS.index(to_sign)
+    d = (j - i) % 12
+    return d if d > 0 else 12
+
+
 def main() -> None:
     with VARGAS_PATH.open("r") as f:
         data = json.load(f)
@@ -45,6 +53,24 @@ def main() -> None:
     y, m, d = map(int, dt_str.split("T")[0].split("-")[:3])
     birth = date(y, m, d)
 
+    # Planet positions (sign)
+    planets = data.get("planets_d1", {})
+    lord_pos: Dict[str, str] = {}
+    for pname, pdata in planets.items():
+        if pname in SIGN_LORDS.values() or pname in ["Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn"]:
+            lord_pos[pname] = pdata.get("sign", "")
+
+    def years_for_sign(sign: str) -> int:
+        lord = SIGN_LORDS.get(sign, "")
+        pos = lord_pos.get(lord, "")
+        if not pos or pos not in SIGNS:
+            return 5  # fallback
+        dist = zodiac_distance(pos, sign)
+        if dist == 0:
+            return 1  # lord in own sign
+        yrs = dist if dist <= 6 else 12 - dist
+        return max(1, yrs)  # minimum 1 year
+
     # Start from Lagna (Leo)
     start_idx = SIGNS.index(asc) if asc in SIGNS else 4
     periods: List[NarayanaPeriod] = []
@@ -52,7 +78,7 @@ def main() -> None:
     for i in range(24):
         idx = (start_idx + i) % 12
         sign = SIGNS[idx]
-        yrs = DEFAULT_YEARS.get(sign, 5)
+        yrs = years_for_sign(sign)
         end = cur + timedelta(days=int(yrs * 365.25))
         periods.append(NarayanaPeriod(sign, yrs, cur, end))
         cur = end
@@ -74,7 +100,7 @@ def main() -> None:
     lines.append("")
     lines.append("## Marriage (7th house = Aquarius)")
     for p in periods:
-        if p.sign == "Aquarius" and 2020 <= p.start.year <= 2040:
+        if p.sign == "Aquarius":
             lines.append(f"- **Aquarius**: {p.start} – {p.end}")
 
     out = REPO_ROOT / "04-DASHA-ANALYSIS" / "NARAYANA_DASHA_TIMELINE.md"

@@ -283,10 +283,9 @@ Once the 46 PDFs are fully extracted, these specific claims should be cross-refe
 - Saturn in Shatabhisha (Rahu-ruled) — spouse unconventional, healing-oriented
 - Mars (DK) in Magha (Ketu-ruled) — spouse royal bearing, ancestral values
 
-### Cross-Reference Report (`01-AKSHIT-ANALYSIS/CROSS_REFERENCE_REPORT_MARRIAGE.md`)
-- 528 classical references across 23 books for marriage topics
-- Saturn in 7th: 43 references in 19 books
-- Marriage timing: 91 references in 14 books
+### Cross-Reference Report ([`01-AKSHIT-ANALYSIS/CROSS_REFERENCE_REPORT_MARRIAGE.md`](../01-AKSHIT-ANALYSIS/CROSS_REFERENCE_REPORT_MARRIAGE.md))
+- **2,410 classical references** across 23 books for marriage topics
+- Jaimini: 852 | Yogas: 657 | Marriage General: 276 | Spouse Nature: 225 | Navamsa: 169 | Dasha: 97 | Marriage Timing: 91 | Saturn 7th: 43
 
 ---
 

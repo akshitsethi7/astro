@@ -26,12 +26,4267 @@
 
 ## RESULTS BY CATEGORY
 
-### Marriage General (157 matches)
+### Jaimini (852 matches)
+*Jaimini system rules*
+
+**Found in 21 books:**
+
+#### From: predicting-through-jaimini-chara-dasha (235 references)
+
+**Page 1** (matched: "Chara Dasha")
+```
+\
+Predicting through
+Jaimini's
+Chara Dasha
+An Original Research
+"First time in thousands of years showing the use of seven
+Karakas (not eight) and Chara Dasha for prediction"
+```
+
+**Page 1** (matched: "Chara Dasha")
+```
+Chara Dasha
+An Original Research
+"First time in thousands of years showing the use of seven
+Karakas (not eight) and Chara Dasha for prediction"
+K.N. Rao
+•
+Vani Publications
+```
+
+**Page 2** (matched: "Chara Dasha")
+```
+\
+Predicting through
+Jaimini's
+Chara Dasha
+An Original Research
+"First time in thousands of years showing the use of seven
+Karakas (not eight) and Chara Dasha for prediction"
+```
+
+**Page 2** (matched: "Chara Dasha")
+```
+Chara Dasha
+An Original Research
+"First time in thousands of years showing the use of seven
+Karakas (not eight) and Chara Dasha for prediction"
+K.N. Rao
+•
+Vani Publications
+```
+
+**Page 4** (matched: "Chara Dasha")
+```
+Aclmowledgements Predicting through Jaimini's Chara Oasha .
+honoured me with a Gold Medal, proclaiming rather loudly that for three
+thousand years no such research had been done on laimini's method of
+predictlng through a dasha, in this case, the Chara Dasha.
+Mr. Satlsh Sharma who now teaches laimini astrology at laipur got it
+tested comprehensively. Three years, thirty years, three hundred years or
+three thousand years was not material. They had tested my research on
+```
+
+**Page 4** (matched: "Chara Dasha")
+```
+not know the difference between manufacturing books and producing
+research.
+If I had kept the research a secret, I would have been predicting
+successfully through Chara Dasha and other ]aimini Dashas. earned a
+name for myself but failed to promote laimini astrology which I had
+decided to do. It needed courage to do it, but 1 was so confldent of my
+success. In ]aipur, some astrologers who were initially hostile to my
+```
+
+**Page 4** (matched: "Chara Dasha")
+```
+research, tested it thoroughly and praised me to the skies. Praise or
+blame should make no difference. The research is there before you and
+you may try it out yourself.
+This book is based on series of articles on laimini's Chara Dasha
+which were originally In the Astrological Magazine. It was a romantic
+moment for me because I was presenting the most revolutionary
+research In laimini ,showing the use of Karakas and of Chara Dasha for
+```
+
+**Page 4** (matched: "Chara Dasha")
+```
+This book is based on series of articles on laimini's Chara Dasha
+which were originally In the Astrological Magazine. It was a romantic
+moment for me because I was presenting the most revolutionary
+research In laimini ,showing the use of Karakas and of Chara Dasha for
+predicting events which was never done by any astrologer ever before.
+There is no hint available in the Sutra5 of ]alminl or Karkas on it about the
+use of Karakas and the use of the dasha for predicting events.
+```
+
+**Page 5** (matched: "Chara Dasha")
+```
+Predi(:ting through Jalmini's Chara Dasha
+Having produced no research himself in his more than Sixty years of
+astrological career, Dr. Ramiln never developed any keen interest in
+astrological research is whilt I know personilily beCilUse of our long
+```
+
+**Page 6** (matched: "Chara Dasha")
+```
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+Chapter · 3
+...........................................................
+Chara Dasha Order 33
+Chapter· 4
+........................................................
+Order of Sub Periods 36
+```
+
+**Page 6** (matched: "Chara Dasha")
+```
+..........................................................................
+Aspects 38
+Chapter - 6
+Calculation of Jaimini Chara Dasha 40
+••••••••••••••••••••••••••••••••••••
+Chapter - 7
+.............................................................................
+```
+
+**Page 7** (matched: "Atmakaraka")
+```
+Rajyogas - Position •.••.•••.•••.•••.•••..•••..........•..•••.••..•• 96
+Giv~rs
+Chapter · 15
+Dasha Atmakaraka •••••.•••.•••.•.•..••.......•••.••••••••••• 105
+Th~ of.th~
+Chapter · 16
+in Sagittarius Dasha •••.•••..••.•.•..••••••••.••••••.•••.••• 116
+```
+
+*... and 223 more references in this book*
+
+#### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (111 references)
+
+**Page 2** (matched: "Jaimini's Upadesa Sutra")
+```
+VEDIC ASTROLOGY
+I take this opportunity to thank the erudite reader
+and fellow astrologers for receiving my first Qook;
+namely, Maharishi Jaimini's Upadesa Sutras. While
+every effort was made to explain every stanza with
+umpteen examples, it was not possible to do complete
+justice and fully explain the ramifications of the vari
+```
+
+**Page 3** (matched: "Jaimini's Vpadesa Sutra")
+```
+messages that would come from the environment This
+is the key to jyotish and is known as the Narayana dasa.
+Although I have explained the Narayana dasa in
+my translation of Maharishi Jaimini's Vpadesa Sutras,
+there have been some responses that a more exhaus
+tive explanation is necessary. This book has shown the
+actual use of the Narayana dasa in many instances and
+```
+
+**Page 13** (matched: "Jaimini (Upadesa Sutra")
+```
+dasa scheme given by the preceptors (like Parasara
+etc.) should be considered.
+The Sun, Moon and Lagna form the tripod of life.
+Jaimini (Upadesa Sutras) teaches that the stronger be
+twl'en the Sun and lagna shall be the governor of the
+physical body. Hence the Ayur dasas should be initi
+akd either from Sun or lagna whichever is stronger.
+```
+
+**Page 21** (matched: "Upapada")
+```
+7.4. SPECIAL ASCENDANTS : Various special
+ascendants like Hora Lagna, Ghatika Lagna, Vighatika
+Lagna, Bhava Lagna, Vamada Lagna, Pranapada,
+Aroodha Lagna, Upapada etc. are used in Vedic
+Astrology. These should be studied from the Brihat
+Paras ara Hora Shastra, Upadesa Sutras of Jaimini and
+other traditional Vedic astrological literature. There
+```
+
+**Page 23** (matched: "Jaimini (Upadesa Sutra")
+```
+this in the horoscope of Bhagwan Sri Ramachandra
+(Chart 2) where Jupiter and the Moon conjoin in
+Cancer ascendant resulting in Gajakesari and
+Mahalakshmi yoga. Jaimini (Upadesa Sutras) gives
+this as a combination for undying fame and Sri Ram
+VEN SUN MERe
+~G
+```
+
+**Page 29** (matched: "Jaimini Sutra")
+```
+enth from the dasa planet always give adverse re
+sults. Other effects of dasa/ antardasa should be stud
+ied from starrdard texts like BPHS, Sarvarth
+Chintamani, Jataka Parijatha, Jaimini Sutras etc.
+4. Badhak : The term badhak means obstruction.
+The sign in the eleventh from movable signs, ninth
+from fixed signs and seventh from dual signs are their
+```
+
+**Page 43** (matched: "Upapada")
+```
+There are three possibilities of Navamsa lagna in
+Aries, Taurus or Gemini within the above range. The
+native informed that his wife had died after two
+children. The Upapada (UL) is in Aries with the
+strong Luminaries in the second. However the second
+Lord Venus is ill placed in the third from lagna.
+Similarly, the eighth lord from ascendant (Mer
+```
+
+**Page 43** (matched: "Jaimini Sutra")
+```
+sister as the 4th co-born, the next (11th Lord Sun in
+Taurus) shows a sister as the 5th co-born and the next
+co-born. Details of reckoning individual co-borns may
+be learnt from the Jaimini Sutras. The sequence of co
+borns was confirmed by the native thereby indicat
+ing the third drekkana in the ascendant (i.e. Range
+of Ascendant was shortened to Aquarius 20° to
+```
+
+**Page 44** (matched: "Upapada")
+```
+Saptamsa lagna was Leo (i.e. Ascendant in the range
+25°43' to 26°40').
+\ Now, the second marriage is seen from the eighth
+frOIfl Upapada and eighth from seventh house (i.e.
+second house). Both the signs and lords are quite
+strong indicating a second marriage. This was con
+firmed. Similarly, the children from second wife are
+```
+
+**Page 50** (matched: "Jaimini Sutra")
+```
+lagna or eighth house or signs occupied by their lords
+or its trines.
+Various other Rasi (Ayur) dasas have been ex
+pounded in the Jaimini Sutras.
+3.2. Jagannath's Rule: This is based on the posi
+tion of the eighth lord from the ascendant If the eighth
+lord is in the 10th, 11th or 12th house, death is in the
+```
+
+**Page 56** (matched: "Jaimini's Upadesa Sutra")
+```
+(Parasara) indicating Madhya Ayur (36-72 years). The
+eighth Lordship is on the basis of Vriddha KarikJl and
+readers not conversant with this may refer to my book
+on Jaimini's Upadesa Sutra's.
+(c) Method of three Lords: The lords of the first,
+eighth and tenth houses counted zodiacally are Moon,
+Rahu (of Aquarius) and Mars. Moon & Mars are fairly
+```
+
+**Page 58** (matched: "Atmakaraka")
+```
+(iii) Method of three lords : The Lord of ascen
+dant and tenth house, Jupiter is debiliated is Rasi and
+also ill placed in the 8th house in Navamsa. Similarly
+the Atmakaraka and eighth lord Venus is placed in
+debility in badhaksthana as well as 12th house in
+Navamsa. Thus all the three lords are very weak
+indicating that the longevity will be even below Alpa
+```
+
+*... and 99 more references in this book*
+
+#### From: Narayana Dasa by Sanjay Rath (95 references)
+
+**Page 20** (matched: "Jaimini’s Upadesa Sutra")
+```
+5) None of the planets can aspect the 2nd or 12th house from their
+station, except Rahu who can see the second house from its
+16 Crux of Vedic astrology (1998), Vedic Remedies in Astrology (2000), Maharishi
+Jaimini’s Upadesa Sutra (1997). Sagar Publications, Delhi.
+```
+
+**Page 21** (matched: "Jaimini Sutra")
+```
+Taurus aspects Libra, then Libra also aspects Taurus.
+10) Planets placed in signs also aspect other planets and signs on
+the basis of Rasi drishti. However, this shows having
+17 Tanou Tana Danda Hara (Jaimini Sutra). Tanou is 6th house and Tanou-Tana is 6th
+from 6th house or 11th house.
+18 Although there are four Upachaya houses 3rd, 6th, 10th & 11th, the 6th & 11th have
+been excluded as explained.
+```
+
+**Page 30** (matched: "Upapada")
+```
+chart is “A” with a sub-script that shows the house/planet (or
+both24). Sometimes the Arudha Lagna (A ) is written as AL and the
+1
+Arudha of the 12th house (A ) called Upapada Lagna is written as
+12
+UL. Some illustrative calculations (refer fig.8):
+1) AL: Arudha Lagna in Sagittarius: Lagna is in Pisces and its
+```
+
+**Page 31** (matched: "Upapada")
+```
+Narayana Dasa 31
+3) A12: Upapada in Libra: The 12th house is Aquarius having two
+Lords. Determine the stronger of the two using the rules given
+under Chapter-II Para (5). In this case Rahu in exaltation and
+in a dual sign is stronger than Saturn. Count from Aquarius to
+```
+
+**Page 33** (matched: "Darakaraka")
+```
+longitude
+7 Planet with the seventh highest Gnatikaraka Relatives
+longitude
+8 Planet with the lowest longitude Darakaraka Spouse
+9 For this purpose, the longitude of Rahu is to be reckoned from
+the end of the sign
+Illustration: Draw the Chara Karaka Chakra for the Standard
+```
+
+**Page 33** (matched: "Atmakaraka")
+```
+Table 5: Determination of Chara karaka
+Rule Chara Remarks
+Karakatwa
+1 Planet with the highest Atmakaraka Self, King
+longitude irrespective of signs
+2 Planet with the second highest Amatyakaraka Aide,
+longitude Minister
+```
+
+**Page 34** (matched: "Atmakaraka")
+```
+rule will be used only if a higher rule cannot help identify the
+stronger sign.
+FIRST SOURCE OF STRENGTH
+Rule (1) The sign with the Atmakaraka is considered the
+strongest.
+Rule (2) The sign with a planet (or with more planets) is
+considered stronger than a sign without a planet (or with
+```
+
+**Page 34** (matched: "Jaimini’s Upadesa Sutra")
+```
+25 The available version of Brihat Parasara Hora Shastra has only one source of
+strength and that too seems to be slightly corrupted as two Sloka re missing. However,
+we have given all the rules as culled out from both BPHS as well as Maharishi
+Jaimini’s Upadesa Sutra (refer translation by Sanjay Rath).
+```
+
+**Page 35** (matched: "Atmakaraka")
+```
+then the natural strengths of Dual signs being stronger
+than fixed signs and fixed signs being stronger than
+movable signs is considered.
+Rule (5) The sign whose Lord is the Atmakaraka is stronger.
+Rule (6) In case none of the signs under consideration have
+the Atmakaraka as their Lord, then the degrees of their
+Lords be considered. The Lord with a higher degree (used
+```
+
+**Page 35** (matched: "Atmakaraka")
+```
+movable signs is considered.
+Rule (5) The sign whose Lord is the Atmakaraka is stronger.
+Rule (6) In case none of the signs under consideration have
+the Atmakaraka as their Lord, then the degrees of their
+Lords be considered. The Lord with a higher degree (used
+in Chara Karaka) shall make the sign stronger.
+Rule (7) If the two signs have the same lord or if their lords
+```
+
+**Page 35** (matched: "Atmakaraka")
+```
+Although the first source of strength has eight rules for
+judgment of strength of signs, the Rules (1) & (5), cannot be
+considered for Narayana and other such dasa initiating from
+the Lagna instead of the Atmakaraka. Accordingly, Parasara
+lists the remaining rules only under Phalita Dasa periods.
+Thus Rule (2), (3), (4), (6) and (7) or (8) are considered for
+Narayana dasa.
+```
+
+**Page 35** (matched: "Jaimini sutra")
+```
+On the basis of experience and the teachings27, I give the
+priority of using these rules which have always given me success
+in the use of the Narayana dasa.
+26 This source of strength is not given in the available version of the Jaimini sutra, but
+is given in Brihat Parasara Hora Shastra.
+```
+
+*... and 83 more references in this book*
+
+#### From: advanced study of vimshottari dasha_KK Pathak (73 references)
+
+**Page 229** (matched: "Atmakaraka")
+```
+Mahadeva Pathak, an eminent astrologer of 19th century A.D.
+(2nd half) in his famous work Jataka Tattwa (V-36) says :
+~~~l"'lii{ffli\ff.:t~'iill
+During the Bhukti of Atmakaraka-planet, a fall from one's
+position and loss may be experienced.
+Dr. B.V. Raman in none of his writings has ever emphasised
+the usefulness of the above rule although he has discussed about
+```
+
+**Page 229** (matched: "Atmakaraka")
+```
+position and loss may be experienced.
+Dr. B.V. Raman in none of his writings has ever emphasised
+the usefulness of the above rule although he has discussed about
+the usefulness of Atmakaraka and Amatyakaraka planets suffi
+ciently in his Notable Horoscopes. He has emphasised the point
+that Dasas of Atrnakaraka and Amatyakaraka planets, if connected
+with each other and well-placed in the horoscopes, elevate the
+```
+
+**Page 229** (matched: "Atmakaraka")
+```
+that Dasas of Atrnakaraka and Amatyakaraka planets, if connected
+with each other and well-placed in the horoscopes, elevate the
+position of the native which gives us the hint that Bhuktis of
+Atmakaraka and Amatyakaraka planets under similar conditions
+must give equally good results. The reason clearly is that the en
+tire Dasa results, whether a main dasa or Antar, is governed by
+one common principle under Parasari scheme of things. In Maha
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+conclusions. I have examined the efficacy of this rule in depth and
+have arrived at the conclusion that it is a misleading rule.
+The planet with the highest degree in any Rasi at the time of
+birth of a native is the Atmakaraka planet and the planet (lesser)
+degree wise next to Atmakaraka is called Amatyakaraka.
+Jaimini Astrology chiefly based on Karaka too does not men
+tion any sutra in support of Mahadeva's aforesaid rule.
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+have arrived at the conclusion that it is a misleading rule.
+The planet with the highest degree in any Rasi at the time of
+birth of a native is the Atmakaraka planet and the planet (lesser)
+degree wise next to Atmakaraka is called Amatyakaraka.
+Jaimini Astrology chiefly based on Karaka too does not men
+tion any sutra in support of Mahadeva's aforesaid rule.
+According to Parasara, planets cannot give results against
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+Jaimini Astrology chiefly based on Karaka too does not men
+tion any sutra in support of Mahadeva's aforesaid rule.
+According to Parasara, planets cannot give results against
+the directions of Atmakaraka in the same way as the ministers
+and other officials cannot do anything without the express order
+of the king. If Atmakaraka is inauspicious, other auspicious plan
+ets cannot give their auspicious results (in full). Similarly, if
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+According to Parasara, planets cannot give results against
+the directions of Atmakaraka in the same way as the ministers
+and other officials cannot do anything without the express order
+of the king. If Atmakaraka is inauspicious, other auspicious plan
+ets cannot give their auspicious results (in full). Similarly, if
+Atmakaraka is auspicious, even cruel planets will not be able to
+give their inauspicious results. This is a basic Parasari rule on
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+and other officials cannot do anything without the express order
+of the king. If Atmakaraka is inauspicious, other auspicious plan
+ets cannot give their auspicious results (in full). Similarly, if
+Atmakaraka is auspicious, even cruel planets will not be able to
+give their inauspicious results. This is a basic Parasari rule on
+Atmakaraka and if any rule is derived contrary to this basic rule,
+it cannot be acceptable.
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+ets cannot give their auspicious results (in full). Similarly, if
+Atmakaraka is auspicious, even cruel planets will not be able to
+give their inauspicious results. This is a basic Parasari rule on
+Atmakaraka and if any rule is derived contrary to this basic rule,
+it cannot be acceptable.
+Two things are clear from Parasara :
+(i) Atmakaraka is a regulator of qther planets.
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+Atmakaraka and if any rule is derived contrary to this basic rule,
+it cannot be acceptable.
+Two things are clear from Parasara :
+(i) Atmakaraka is a regulator of qther planets.
+(ii) Results of other planets depend on auspicious and inauspi
+cious, Atmakaraka will not only give auspicious results itself
+but will impel even cruel and bad planets to behave like good
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+Two things are clear from Parasara :
+(i) Atmakaraka is a regulator of qther planets.
+(ii) Results of other planets depend on auspicious and inauspi
+cious, Atmakaraka will not only give auspicious results itself
+but will impel even cruel and bad planets to behave like good
+boys whereas an inauspicious Atmakaraka will not allow even
+other auspicious planets to give their desired results (in full).
+```
+
+**Page 230** (matched: "Atmakaraka")
+```
+(ii) Results of other planets depend on auspicious and inauspi
+cious, Atmakaraka will not only give auspicious results itself
+but will impel even cruel and bad planets to behave like good
+boys whereas an inauspicious Atmakaraka will not allow even
+other auspicious planets to give their desired results (in full).
+But Mahadeva has failed to make a proper distinction be-
+tween Atmakaraka of various natures. This is his fundamental
+```
+
+*... and 61 more references in this book*
+
+#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (61 references)
+
+**Page 22** (matched: "atmakaraka")
+```
+scheme, while other use eight karakas, including Rahu. See the following two verses, one from the
+Jaimini Sutras and the other from the Brihat Parashara Hora Shastra.
+“Among the seven planets from the Sun to Saturn, or among the eight including Rahu, the planet which
+has attained the highest number of degrees becomes the atmakaraka.
+22
+```
+
+**Page 22** (matched: "Chara Dasha")
+```
+My own preference is for techniques that are simple, quick, and elegant. In which case, those identified
+with Maharishi Jaimini and expounded upon in his Upadesha Sutras, are among my favorite. Shri Rao
+is to be credited with fostering something of a renaissance of these techniques in the world of Jyotisha.
+In his original and seminal work “Predicting Through Jaimini’s Chara Dasha,” Mr. Rao refers to the
+use of the Amatya karaka (AmK), or planet with the second highest degrees in any sign, for making
+predictions about a person’s career life.
+This article is an elaboration and illustration of some of these techniques.
+```
+
+**Page 22** (matched: "Jaimini and expounded upon in his Upadesha Sutra")
+```
+This has long been the approach taught by my jyotisha-guru, K.N. Rao, which he refers to as the
+“composite technique.”
+My own preference is for techniques that are simple, quick, and elegant. In which case, those identified
+with Maharishi Jaimini and expounded upon in his Upadesha Sutras, are among my favorite. Shri Rao
+is to be credited with fostering something of a renaissance of these techniques in the world of Jyotisha.
+In his original and seminal work “Predicting Through Jaimini’s Chara Dasha,” Mr. Rao refers to the
+use of the Amatya karaka (AmK), or planet with the second highest degrees in any sign, for making
+```
+
+**Page 22** (matched: "Jaimini Sutra")
+```
+Most of what goes by the name of Jyotisha is really Parashari astrology, the system expounded by
+Maharishi Parashara in the Brihat Parashara Hora Shastra. However, imbedded within this work are
+several chapters giving techniques that are identified with the name of another sage, Maharishi Jaimini,
+and which are spelled out more elaborately in the Jaimini Sutras.
+Special Karakas
+A unique feature of this system is the way in which a graha takes on a special identity in a chart
+depending upon its exact degrees of longitude (irrespective of sign). For example, the planet with the
+```
+
+**Page 22** (matched: "Jaimini Sutra")
+```
+like unto the 7th lord.
+Among those who practice Jaimini, some use only seven karakas, excluding Rahu and Ketu from this
+scheme, while other use eight karakas, including Rahu. See the following two verses, one from the
+Jaimini Sutras and the other from the Brihat Parashara Hora Shastra.
+“Among the seven planets from the Sun to Saturn, or among the eight including Rahu, the planet which
+has attained the highest number of degrees becomes the atmakaraka.
+22
+```
+
+**Page 23** (matched: "atmakaraka")
+```
+AstrologyKRS
+(Jaimini Sutram, translation by P.S. Shastri)
+“I now detail below the atmakaraka etc, obtainable from among the seven planets viz. the Sun to Saturn.
+Some say that Rahu will become a karaka when there is a state of similarity in terms of longitude
+between to planets. Yet some say that the eight planets including Rahu will have to be considered
+irrespective of such a state.
+```
+
+**Page 25** (matched: "Chara Dasha")
+```
+Dashas in the Jaimini system are also sign-based. Instead of running, say, the sixteen- year period of
+Jupiter, like in the familiar Vimshottari planetary dasha, a person will be said to run the period of Aries,
+or Scorpio or Gemini etc.
+This article features the use of Chara Dasha as presented in K.N. Rao book “Predicting through
+Jaimini’s Chara Dasha.” His method of calculating it is given in most of the prominent Vedic
+Astrology software programs. The calculations given for the example charts utilized in this article come
+from Shri Jyoti Star.
+```
+
+**Page 25** (matched: "Chara Dasha")
+```
+Jupiter, like in the familiar Vimshottari planetary dasha, a person will be said to run the period of Aries,
+or Scorpio or Gemini etc.
+This article features the use of Chara Dasha as presented in K.N. Rao book “Predicting through
+Jaimini’s Chara Dasha.” His method of calculating it is given in most of the prominent Vedic
+Astrology software programs. The calculations given for the example charts utilized in this article come
+from Shri Jyoti Star.
+Jaimini Raja Yogas
+```
+
+**Page 26** (matched: "atmakaraka")
+```
+raja yoga.
+The Moon and Venus together, or the Moon aspected by Venus is a rajayoga.
+If the Moon is aspected by many planets, it is an excellent rajayoga.
+Saturn kendra from the karakamsha (navamsha sign position of the atmakaraka) makes a person
+successful in their chosen line of work.
+(Note: This principle comes from sutra 20 of the second part of the first chapter of the Jaimini sutras.
+Different translators give different interpretations of how Saturn needs to be related to the karakamsha
+```
+
+**Page 26** (matched: "karakamsha")
+```
+Saturn kendra from the karakamsha (navamsha sign position of the atmakaraka) makes a person
+successful in their chosen line of work.
+(Note: This principle comes from sutra 20 of the second part of the first chapter of the Jaimini sutras.
+Different translators give different interpretations of how Saturn needs to be related to the karakamsha
+for the meaning to hold true.)
+As an aside, Shri. Rao bases part of his rationale for using the karakamsha in the birth chart, instead of
+the navamsha, on this sutra. His reasoning is that anyone with Saturn as the atma karaka will have
+```
+
+**Page 26** (matched: "karakamsha")
+```
+(Note: This principle comes from sutra 20 of the second part of the first chapter of the Jaimini sutras.
+Different translators give different interpretations of how Saturn needs to be related to the karakamsha
+for the meaning to hold true.)
+As an aside, Shri. Rao bases part of his rationale for using the karakamsha in the birth chart, instead of
+the navamsha, on this sutra. His reasoning is that anyone with Saturn as the atma karaka will have
+Saturn in the karakamsha in the navamsha, and would, according to the sutra, become famous in their
+line of work.
+```
+
+**Page 26** (matched: "karakamsha")
+```
+for the meaning to hold true.)
+As an aside, Shri. Rao bases part of his rationale for using the karakamsha in the birth chart, instead of
+the navamsha, on this sutra. His reasoning is that anyone with Saturn as the atma karaka will have
+Saturn in the karakamsha in the navamsha, and would, according to the sutra, become famous in their
+line of work.
+Of course, this is absurd, and can be easily disproved using birth charts in which Saturn is the atma
+karaka. Mr. Rao’s contends that he has only found this sutra giving results when it is applied to
+```
+
+*... and 49 more references in this book*
+
+#### From: BPHS - 1 RSanthanam (46 references)
+
+**Page 6** (matched: "Upapada")
+```
+General.
+.
+30. UPA PADA 303
+Upapada calculatlon, effecto f 2nd from Upa pada,
+o,if.-fto. the 2nd of Upapada,a bout sons,o btain-
+ment of many sonsa nd many daughters,c oborn from
+Lagna Pada, other m&ttersf rom Lagna pada'
+```
+
+**Page 6** (matched: "Upapada")
+```
+.
+30. UPA PADA 303
+Upapada calculatlon, effecto f 2nd from Upa pada,
+o,if.-fto. the 2nd of Upapada,a bout sons,o btain-
+ment of many sonsa nd many daughters,c oborn from
+Lagna Pada, other m&ttersf rom Lagna pada'
+31. ARGALA OR PLANETARY INTERYENTION 3II
+```
+
+**Page 6** (matched: "Atmakaraka")
+```
+rormation of Argala, Argala effects'
+316
+32. PL ANETAR Y KARAKATW'+g
+Atmakaraka defined, importance of Atmakaraka,
+other Karakas, Yogakarakaso r mutual coworkers,
+houses ignific{lnce.
+327
+```
+
+**Page 114** (matched: "Atmakaraka")
+```
+4th and hencet he 7th is referred to.
+Saturn in the 4th house will'alpo deprive om of mother's
+milk.
+Atmakaraka in Scorpio Navamsa will producc similar
+effects.F or a definition of Atmakaraka, seec h. 32,lnfra.
+iTFilI€qTq{: qrm frguti wil rtq r
+r<t qr.cedg ufE *Fi qFE q* r iq trle tr
+```
+
+**Page 114** (matched: "Atmakaraka")
+```
+Saturn in the 4th house will'alpo deprive om of mother's
+milk.
+Atmakaraka in Scorpio Navamsa will producc similar
+effects.F or a definition of Atmakaraka, seec h. 32,lnfra.
+iTFilI€qTq{: qrm frguti wil rtq r
+r<t qr.cedg ufE *Fi qFE q* r iq trle tr
+28. Should a malefic bc in the 4th, identical with an inimi-
+```
+
+**Page 139** (matched: "a7")
+```
+coborn will be shortlived while six of the said twelvew ill be
+longlived.
+'Karaka'
+Notes : The word or significatorin sloka7 etc.
+shouldb e wiselyn oteda s Mars only and not as Jupiter,w hich
+is borneb y slokaI l.
+In the contexto f indication of one'o having1 2 coborn,
+```
+
+**Page 161** (matched: "a7")
+```
+females having attained their courses are denotedb y Saturn/
+Rahu/Ketu in the 7th.
+Notes : Any planet in the 7th (includingt he ?th lord, vide
+ch. 24, sloka7 9) is normally indicative of absenceo f sterling-
+uessi n characteri n the mattet of sexualu nion.
+If the Sun is in the 7th in a horoscope promisingl ose
+character, the native will scek pleasures from femalesw ho are
+```
+
+**Page 294** (matched: "Arudha of 7th")
+```
+5. Mantra or PutraP ada Arudha of 5th house.
+6. Roga or Satru Pada Arudha of 6th house:
+'1.
+Dara Pada( KalatraP ada) Arudha of 7th house.
+8. MaranaP ada Arudha of 8th house.
+9. Pitru Pada Arudha of 9th house.
+10. Karma Pada Arudhao f l0th house.
+```
+
+**Page 301** (matched: "Atmakaraka")
+```
+Padab e similarlye valuatedfr om Karakamsaa s well.
+Notes : Karakamsa is the Navamsa occupied by Atma-
+karaka. For more informationa bout Karekamsa,s eec h. -a9
+infra. Atmakarakab tc. are discusseidn ch. 32.
+BfT66t{ fqili drA R{e$rfh* qA( |
+q{a} qR {T q TrrqnfqqF{tq qrii nQotl
+BTrcdrE*' rdtg feu* Er<qi kq t r
+```
+
+**Page 304** (matched: "Upapada")
+```
+Taurus becomingt he Upa pada is said to givc many wives
+or plurality of marriage.
+Although there may be combinations for early loss of
+spousei f the 2nd lord from Uparudha( or Upapada)i s in the 2nd
+itself or is in his other sign, it.will considerablyp rot€ot the native
+from sucha calamity. And the spousea s a resultw ill live udto
+an advanceda ge.
+```
+
+**Page 305** (matched: "UPAPADA")
+```
+gTaq Qr(FTNqTq: r;rftqri il fdq{qrE| |tvil
+sqTse GrdA qI rSnwau* Gq t r
+ltRTRtg r{it qrqt rtezft sqgqrTf]qf,Tltltll
+13-15. WIFE FROM THE 2ND OF UPAPADA (upto
+sloka2 2) .' [f a planetb eingc onstanti ndicatoro f wife (i.e. 7th
+lord or Venus)i s in own house,t herew ill be losso f wife only at
+a latcr stage. If the lord of Upaoadao r the constants ignifica-
+```
+
+**Page 305** (matched: "Upapada")
+```
+a latcr stage. If the lord of Upaoadao r the constants ignifica-
+tor of wife is in exaltation,t he wife will be from a noble family;
+reversew ill be the case,i f he is debilitated. O Brahmin, if the
+2nd from Upapadai s relatedt o a benefic,t he wife will be beauti'
+fut, fortunate and virtuous.
+sqIGUq fuflt q nfrtrp feqa] qfE t
+3rwrntqR"q€6qTq q l T {i{l r qne faq ! tttqtt
+```
+
+*... and 34 more references in this book*
+
+#### From: jyotish_astrology-and-timing-of-marriage_-k-n-rao_-english_hindi (39 references)
+
+**Page 16** (matched: "Upapada")
+```
+vs ........ Vlvah Saham
+DK ....... Darakarak P t •.•••.•• Parameter t
+DKN •.... Darakarak Navamsha PB •.....•• Parameter 8
+UP ••..••• Upapada 0 t •••••.• ObseNation 1
+DP ••.•... Dara Pada 03 . . . . . • • ObseNation 3
+Ari ••••.• Aries LL . . • • •. . . Lagna Lord
+Tau ...•. Taurus L ...••...•• Lord
+```
+
+**Page 16** (matched: "Chara Dasha")
+```
+TOB ....• Time of Birth Ven ..•• Venus ...... or Ve
+DOM •... Date of Marriage Sat ..... Saturn ...... or Sa
+Vim ...••. Vlmshottari Dasha Rah ..•• Rahu ........ or Ra
+Chara •.. Chara Dasha Ket ..••. Ketu ......... or Ke
+vs ........ Vlvah Saham
+DK ....... Darakarak P t •.•••.•• Parameter t
+DKN •.... Darakarak Navamsha PB •.....•• Parameter 8
+```
+
+**Page 20** (matched: "Chara Dasha")
+```
+is in Lagna of D 1. POL Venus is a natural P7 6 planets, including Sun, out of 9 planets
+marriage giver as well. So, the parameter is are in and around Lagna and 7H. So, this
+fulfilled. parameter is fulfilled.
+P2 Chara Dasha AD is Aries and it is in 1-7 axis P8 LL Mercury is transiting in Lagna and 7L
+of DK and DKN, leading to fulfilment of the Jupiter is transiting in 7H. So, this parameter
+parameter. is not fulfilled.
+P3 Jupiter is transiting in the 7H (Pisces) Observations
+```
+
+**Page 20** (matched: "Karakamsha")
+```
+no connection of Jupiter with VS can be transiting in Sagittarius and apparently it does
+established within the strict limits of this not establish any connection with Lagna, LL,
+parameter. However, we need to remember 7H, 7L. But probe a little deeper and find that
+that Bill and Hillary Clinton had started Sagittarius happens to be Karakamsha Lagna (Kl),
+seeing each other 2 years before their which is considered to be an alternate Lagna.
+marriage. Then, Jupiter would have been Thus, Moon gets connected to KL.
+with VS, thus satisfying this parameter. Aspect of transiting Saturn on DK - DK
+```
+
+**Page 21** (matched: "Chara dasha")
+```
+ADL jupiter is 7'h lord of 01 and LL of 09; P5 LL Mercury and 7th lord jupiter are in 1-7
+POL Mercury is placed in 7'h H of 09. This axis, therefore, Piya Milan parameter is
+parameter is fulfilled. fulfilled.
+P2 AD Pisces in Chara dasha has DK Mo in it. P6 jupiter is aspecting natal Mars placed in 2"d
+P3 Jupiter through retrogation is aspecting VS. H.
+P4 Saturn is aspecting LL Mer(R). Whereas P7 Planets are scattered in the horoscope.
+22 Guide Shri K.N. Rao •:• ~ ~ <f;o'<'!o 'J'f
+```
+
+**Page 23** (matched: "Chara Dasha")
+```
+Saturn is posited in 9H and there it receives of transiting LL Saturn. So, the parameter Is
+the ninth aspect of LL Jupiter. Thus, this satisfied.
+parameter gets fulfilled. P6 Jupiter Is transiting in Leo and natal Venus
+P2 Chara Dasha AD is Taurus and it receives is posited in Scorpio. The retrogression of
+the aspect of DP posited in Capricorn. Jupiter means that its aspect would be
+Parameter is fulfilled. effective from Cancer. Natal Venus receives
+P3 VS falls in Cancer and although Jupiter is fifth aspect of transiting Jupiter from Cancer.
+```
+
+**Page 24** (matched: "Chara Dasha")
+```
+PI MDL and ADL Saturn is the LL of D 1. It is 7L Sun posited in Virgo. Thus double transit
+aspecting the Lagna. POL Sun is the 7L of gives its clearance to the marriage.
+01. The parameter is fulfilled. PS LL Saturn and 7L Sun were transiting
+P2 Chara Dasha AD is Aries and it is in 1-7 axis together in Taurus till 1O 'h June, thus leading
+with DP libra. The parameter is met. to the fulfilment of this parameter.
+P3 VS in Scorpio does not get connected to P6 Jupiter transiting in Capricorn is aspecting
+Jupiter transiting in Capricorn, leaving the natal Venus posited in Virgo. This parameter
+```
+
+**Page 26** (matched: "Chara dasha")
+```
+P1 MDL and ADL Jupiter is LL posited in 7H P7 Most of the planets are close to 7'h H.
+and Moon is aspected by 7th lord Mercury P8 Jupiter (LL) is In 7th H.
+in Dl. Observations
+P2 In Chara dasha AD of Aquarius is running Role of transiting Moon - Moon is in 7th
+which is in 1/7 axis of DK Mars. H on the day of marriage.
+P3 Jupiter is not aspecting VS (in Virgo). Aspect of Saturn on DK - Saturn is not
+P4 Saturn is aspecting Lagna and Jupiter is aspecting DK.
+```
+
+**Page 27** (matched: "Chara Dasha")
+```
+in Dt. In 09, Sun is posited in lagna with of Jupiter from Virgo. Thus, double transit is
+LL Saturn and aspects 7H. So, this activating Lagna.
+parameter is met. PS ll Saturn is transiting in Aries and 7L Moon
+P2 Chara Dasha AD is Virgo and DK Sun is was transiting in libra a couple a days ago.
+28 Guide Shri K.N. Rao •!• ~ 'Jft '!1oll;lo ""'
+```
+
+**Page 29** (matched: "Chara Dasha")
+```
+working relation is established between the P6 jupiter is transiting in Scorpio from where it
+MDL and ADL with 7H and 7L in D 1. This aspects natal Venus posited in Cancer.
+fulfills the parameter. Parameter is met.
+P2 Chara Dasha AD is of Cancer, which is where P7 6 planets, including Sun, out of the 9 planets
+DK Venus is posited. Further, Cancer are in/around Lagna and 7H, fulfilling the
+receives the aspect of DKN Scorpio leading parameter.
+to the fulfilment of this parameter. P8 LL Saturn is transiting in 7H. Parameter is
+```
+
+**Page 31** (matched: "Chara Dasha")
+```
+Case Studies Astrology and Timing of Marriage (a Scienti~c Approach)
+PDL get connected to the marriage-giving Thus, natal LL and natal 7L were in mutual
+planets, satisfying this parameter. aspect in transit fulfilling the parameter.
+PZ Chara Dasha AD is of Leo and it receives P6 Natal Mars is posited in Cancer where it
+the aspect of DK Jupiter posited in receives the ninth aspect of Jupiter which is
+Capricorn. The parameter is satisfied. transiting in Scorpio. The parameter is met.
+P3 VS falls in Aquarius and Jupiter is transiting P7 7 planets, including Sun, out of the 9, are
+```
+
+**Page 33** (matched: "Chara dasha")
+```
+PI MDL Saturn is placed in 7'h H of 09 and P6 Jupiter is not aspecting natal Mars.
+ADL Jupiter is 7'h lord ofDt posited in Lagna P7 Planets are scattered in the horoscope.
+in Dt &.. 09. Therefore Parameter is not applicable.
+P2 Vir(AD) of Chara dasha is aspected by P8 Mercury was in 7'h house around two
+DK(Sun) from Gemini. months back, showing fulfilment of the
+P3 jupiter has already influence VS while parameter.
+transiting through Aries. Observations
+```
+
+*... and 27 more references in this book*
+
+#### From: vedic_astro_textbook (37 references)
+
+**Page 8** (matched: "Jaimini Sutra")
+```
+Parasara, Jaimini and other maharshis. The oldest reference to these techniques to be
+found in the works of a respected authority on Vedic astrology is in “Tajaka
+Neelakanthi”, a work by Neelakantha who also wrote a celebrated commentary on
+“Jaimini Sutras”. His coverage of Tajaka system lends some authenticity to the
+system. One can only speculate whether Parasara talked about this system in parts
+that are possibly missing today. I simply followed the precedent set by illustrious
+scholars of Vedic astrology, like Neelakantha and Dr. B.V. Raman.
+```
+
+**Page 45** (matched: "a7")
+```
+strong in the daytime. Mercury is always strong.
+Natural malefics are strong in Krishna paksha. Natural benefics are strong in Sukla
+paksha.
+Natural malefics are strong in Dakshina ayana7. Natural benefics are strong in Uttara
+ayana.
+3.2.16 Planets & Ritus
+Planetary rulerships over ritus (seasons) are as follows: Venus governs vasanta ritu
+```
+
+**Page 98** (matched: "upapada")
+```
+denote the arudha pada on nth house with An. For example, arudha pada of 4th house
+is A4 and arudha pada of 9th house is A9.
+There are two special cases: Arudha pada of lagna is denoted as AL (arudha lagna)
+and arudha pada of 12th house is denoted as UL (upapada lagna).
+```
+
+**Page 100** (matched: "Upapada")
+```
+A9 Bhagya pada, Bhagyarudha, Pitri pada, Pitrarudha, Dharma pada, Guru pada
+A10 Karma pada, Karmarudha, Swarga pada, Swargarudha, Rajya pada
+A11 Labha pada, Labharudha
+A12 Upapada lagna, Upapada, Gaunapada, Vyayarudha, Moksha pada
+```
+
+**Page 100** (matched: "A7")
+```
+other planets – and he is in Ar. Counting from Aq to Ar, we get a count of 3.
+Counting 3 signs from Ar, we get Ge. A6 is in Ge.
+(7) Seventh house is in Pi. Lord is Jupiter and he is in Ar. Counting from Pi to Ar,
+we get a count of 2. Counting 2 signs from Ar, we get Ta. A7 is in Ta.
+(8) Eighth house is in Ar. Lord is Mars and he is in Ar. Counting from Ar to Ar,
+we get a count of 1. Counting 1 sign from Ar, we get Ar itself. However, this
+is in the 1st from the original sign (Ar). So we take the 10th therefrom and get
+```
+
+**Page 100** (matched: "A7")
+```
+A4 Matri pada, Vahana pada, Sukha pada, Matrarudha, Vahanarudha, Sukharudha
+A5 Mantra pada, Mantrarudha, Putrarudha, Putra pada, Buddhi pada
+A6 Roga pada, Satru pada, Rogarudha, Satrarudha
+A7 Dara pada, Dararudha
+A8 Mrityu pada, Kashta pada, Kashtarudha, Randhrarudha
+A9 Bhagya pada, Bhagyarudha, Pitri pada, Pitrarudha, Dharma pada, Guru pada
+A10 Karma pada, Karmarudha, Swarga pada, Swargarudha, Rajya pada
+```
+
+**Page 103** (matched: "upapada")
+```
+One with Mars in A10 in D-10 may work at dynamic places or engineering
+companies. One with Jupiter in A10 in D-10 may work at a university or college or a
+court of law or a temple.
+One important arudha pada used in Jyotish is upapada lagna (UL) – the arudha pada
+of the 12th house. This shows one’s marriage and spouse. Planets in UL show the
+kind of marriage one has and the kind of spouse one gets. For example, Mercury in
+UL can show intelligent (when good) or indecisive (when bad) spouse. Ketu in UL
+```
+
+**Page 104** (matched: "A7")
+```
+from it, one may have a noble spouse but the marital life will be very rough and there
+can even be a divorce. In such a case, propitiating Saturn and Mars can help (for
+more, see the chapter on “Remedial Measures”).
+The 7th house shows relations and A7 (darapada) shows the illusion associated with
+them, i.e. the kind of people one usually interacts with. Based on the kind of people
+one deals with, we perceive the nature of one’s relations. If one has a friend who is a
+prostitute, people may get a negative impression about one’s dealings. If one has a
+```
+
+**Page 111** (matched: "Upapada")
+```
+Part 1: Chart Analysis 99
+Arudha lagna or AL shows people’s impressions about a native. It shows one’s status
+in the material world. Darapada or A7 shows one’s relationships. Upapada (UL)
+shows one’s marriage and spouse. A4 in D-16 shows one’s vehicle. A4 in D-24
+shows one’s school or college or university (place of education). A10 in D-10 shows
+one’s workplace.
+```
+
+**Page 111** (matched: "A7")
+```
+positions of the arudha padas of planets with respect to lagna shows the perceptions
+of the native.
+9.8 Answers to Exercises
+Exercise 12: AL in Aq, A2 in Ar, A3 in Sg, A4 in Sc, A5 in Sg, A6 in Aq, A7 in Pi,
+A8 in Vi, A9 in Ta, A10 in Sg, A11 in Sg, UL in Aq.
+Exercise 13: Arudha padas of planets are in the following signs: Sun – Sc, Moon –
+Sg, Mars – Ge, Mercury – Pi, Jupiter – Sc, Venus – Aq, Saturn – Sg, Rahu – Vi,
+```
+
+**Page 151** (matched: "arudha lagna and darapada (arudha pada of the 7th")
+```
+king even if he is from a lowly family.
+(17) If benefics are in quadrants and malefics are in the 3rd, 6th and 11th houses, one
+becomes a king even if he is from a lowly family.
+(18) If arudha lagna and darapada (arudha pada of the 7th house) are not in mutual
+2nd/12th or 6th/8th positions, then Raja Yogas in the chart will be more effective.
+11.8 Raaja Sambandha Yogas
+Raaja means a king. Sambandha means relation or association. Raaja sambandha
+```
+
+**Page 182** (matched: "A7")
+```
+from the 5th from Jupiter. Academic reputation can be seen in D-24 from the 5th
+from Sun.
+(4) House vs Arudha: Sometimes, an arudha pada is more appropriate to see a
+matter than a house. For example, we can see darapada (A7) in D-24 to figure out
+what kind of people one typically interacts with in one’s learning related
+activities. We can see one’s academic distinctions/awards in A5, because they are
+maya (illusion) related to intelligence and scholarship. The world forms an
+```
+
+*... and 25 more references in this book*
+
+#### From: Introduction-to-Vedic-Astrology-Sanjay-Rath (30 references)
+
+**Page 13** (matched: "Atmakaraka")
+```
+10. Gati – direction, movement
+These words define the purpose of a Deva. Jaimini defines Deva or Devata as indicated by the
+Devata Karaka[23] planet. This is the third in the hierarchy (of spiritual needs) after the
+Atmakaraka (helps in the determination of the Ista/Isa directing emancipation from the cycle of
+rebirth) and Amatya Karaka (deity symbolizing sustenance in this world). Thus Deva or Devata
+is the Guru and guides or illuminates certain inherent abilities that will develop in this life or the
+spiritual path or that which leads to fulfillment of desires etc. Nirukta[24] defines Deva as that
+```
+
+**Page 19** (matched: "Jaimini Sutra")
+```
+Sun has the fire of tapas and hence can indicate Meditation or related discipline of mind
+control. As the Sun rules rhythm it confers the knowledge of Musician and
+Instrumentalist. It also gives the knowledge regarding wool, Grass.
+Quotes from Jaimini Sutras:
+1. The Sun in swamsa makes the native a keen government/political worker and good
+at social service.
+2. The Sun in the 1st/ 5th gives knowledge of the Vedas and the Bhagvat Gita.
+```
+
+**Page 20** (matched: "Jaimini Sutra")
+```
+Moon is also the karaka for mother and hence is very caring. All such disciplines such
+as Nursing and house keeping, baby sitting which deals with caring for someone is
+ruled by Moon. Moon also signifies bureaucracy and social service.
+Quotes from Jaimini Sutras
+The Moon in the 1st/5th gives knowledge of the Samkhya and yoga philosophies
+besides history (rhetorics & music) or produces a singer and can make one a good
+author
+```
+
+**Page 20** (matched: "Jaimini Sutra")
+```
+is generates the fruitful Guru-Mangala yoga which confers the native the highest
+knowledge of Jyotisha as both planet show amalgamation of intuition and logical
+reasoning.
+Quotes from Jaimini Sutras:
+1. Mars in svamsa gives expertise in metallurgy or in arms and warfare or in matters
+related to fire.
+2. A logician is indicated by Mars in the 1st/ 5th. Parasara adds legal knowledge and
+```
+
+**Page 21** (matched: "Jaimini Sutra")
+```
+frame and express our thought process into different medium (Language is one among
+them). Thus it also shows disciplines, which show the expression of the thinking
+process such as Mathematician, Poet, Artist, Sculptor, Writer etc.
+Quotes from Jaimini Sutras:
+1. Mercury in Swamsa gives business acumen and produces a skilled trader or a
+weaver, sculptor or one well versed in social and legal norms.
+2. Mercury instead (of Jupiter or Venus in the 1st/ 5th houses) also indicates an author,
+```
+
+**Page 22** (matched: "Jaimini Sutra")
+```
+Quotes from Jaimini Sutras
+1. Jupiter in svamsa makes a karmayogi who will excel in any field due to his
+intelligence or one interested in philosophy and religious or a priest.
+2. An excellent author is indicated by the presence of Moon & Jupiter in svamsa or the
+```
+
+**Page 22** (matched: "Jaimini Sutra")
+```
+As the significator of luxury Venus also rules the knowledge of precious stones and
+precious metals etc. Being the significator of Vehicles, it signifies elephant, horses, and
+conveyances. The combination of Moon and Venus can signify sailing or navigation.
+Quotes from Jaimini Sutras:
+1. The aspect of Venus (on the Moon in the fourth) will surely produces a
+sailor/navigator.
+2. The full Moon and Venus is svamsa give all luxuries of life and an educationist is
+```
+
+**Page 23** (matched: "Jaimini Sutra")
+```
+RAHU
+Big Machines, Big bombs such as atomic and nuclear bombs etc, espionage, abstract
+mathematician.
+Quotes from Jaimini Sutras:
+Rahu in svamsa produces a bowman or a thief. He may earn by dacoity or by cheating
+or he maybe capable of handling very poisonous and dangerous chemicals, medicines
+etc or an expert in metals/manufacturing activities.
+```
+
+**Page 24** (matched: "Jaimini Sutra")
+```
+KETU
+High precision machines such as watches and computers, mathematicians, statistician
+or an astrologer
+Quotes from Jaimini Sutras:
+1. Ketu in svamsa indicates one who will earn through elephants or maybe a thief or a
+swindler.
+2. Ketu in the 1st/ 5th gives mathematical ability. This is important for astrology as well.
+```
+
+**Page 33** (matched: "Atmakaraka")
+```
+that which is remembered and can be commented or generally adapted.
+[4] Diva means light and hence Deva is a giver of light of knowledge or enlightenment or a giver
+of energy. The Sun is the source of all energy in the solar system. Thus, it is not only the Deva,
+but also the Atmakaraka or soul personified.
+[5] navel of Brahma signifying a new beginning
+[6]
+[7]
+```
+
+**Page 39** (matched: "Jaimini’s Upadesa Sutra")
+```
+[7] Madhya Ayus refers to middle life where the longevity is from 36 to 72 years. Another classification is
+40 to 80 years.
+[8] Poorna Ayus or full life refers to the longevity in the range of 72 to 108 years. Another classification is
+80 to 120 years. For more details refer to my translation of Jaimini’s Upadesa Sutra.
+[9]
+(JP 18‐25)
+[10]
+```
+
+**Page 65** (matched: "Atmakaraka")
+```
+3600 was divided into 27 nakshetras, (each 130 20’ of arc) Each Nakshatra was identified with a
+star, (or star cluster) and derived its name from it. The 7 ¾ hour shortfall in a sidereal lunar
+transit was made up by a short-span intercalary (hypothetical) Nakshatra called Abhijit. The Sun,
+being the cause of all life and existence, was identified with Divinity and is the Atmakaraka and
+represents Parambrahman. Its transit through the lunar mansions was observed both in shape
+formed by stars within the constellation as well as in relation to the natural phenomena by the
+Vedic seers for determining their names, characteristics and identifying the form and mood of
+```
+
+*... and 18 more references in this book*
+
+#### From: pdfcoffee.com_indepth-arudapada-astro-pt-sanjay-rath-pdf-free (28 references)
+
+**Page 1** (matched: "Upapada")
+```
+compute the Arudha Pada for all the houses and these are called Dhana Pada
+(2nd), Bhratripada (3rd), Matri Pada (4th), Mantrapada (5th), Satrupada (6th), Dara
+Pada (7th), Roga pada (8th), Bhagyapada (9th), Rajyapada (10th), Labhapada
+(11th) and Upapada (12th).
+V ANOTHER DETAILAED PRESENTATION ON ARUDA BY MR.NARASIMHA
+RAO
+World is swayed by maya
+```
+
+**Page 2** (matched: "Arudha pada of a house cannot be in the 1st or 7th")
+```
+Gemini. Count the 11th house from Mercury. It is Aquarius. So arudha lagna is
+in Aquarius. (b) The 4th house is in Virgo. Its lord Mercury is in 8th from it.
+Counting the 8th from Mercury, we get Scorpio. So matri pada is in Scorpio.
+(2) Exception: Arudha pada of a house cannot be in the 1st or 7th from the
+house. If the arudha pada computed above falls in the 1st or 7th from the
+original house for which we are finding arudha pada, then the 10th house from
+what was found above becomes the arudha pad a.
+```
+
+**Page 2** (matched: "arudha pada computed above falls in the 1st or 7th")
+```
+in Aquarius. (b) The 4th house is in Virgo. Its lord Mercury is in 8th from it.
+Counting the 8th from Mercury, we get Scorpio. So matri pada is in Scorpio.
+(2) Exception: Arudha pada of a house cannot be in the 1st or 7th from the
+house. If the arudha pada computed above falls in the 1st or 7th from the
+original house for which we are finding arudha pada, then the 10th house from
+what was found above becomes the arudha pad a.
+NOTE: It may be noticed that arudha pada of a house can only be in the 3rd,
+```
+
+**Page 3** (matched: "arudha pada of a house cannot be in the house itself or the 7th")
+```
+bhratri pada (arudha pada of 3rd house).
+Solution: From Taurus lagna, the 3rd house is in Cancer. From Cancer, its lord
+Moon is in 4th. Counting the 4th from Moon, we get Capricorn (7th from
+Cancer!). But arudha pada of a house cannot be in the house itself or the 7th
+from it. So we find the 10th from what we found above, i.e. Capricorn, and get
+Libra.
+(3) Caution: Parasara said that Aquarius is owned by Saturn and Rahu both
+```
+
+**Page 7** (matched: "Upapada")
+```
+that Arudha Lagna of a house is improper. See BPHS and Jaimini Sutram for
+the names of the Padas. Arudhas in Rasi chart will represent the Maya
+connected to the affairs of the given houses in general terms. Like you can
+see Upapada (A12) for marriage and spouse in rasi. This will show how others
+perceive her as your wife, and this may include you. However, the real
+connection will be seen from the 7th house. Going to D-9, this will more
+explicitly show how she is perceived in the married relationship. Seeing the
+```
+
+**Page 7** (matched: "Jaimini Sutra")
+```
+QUESTION 3. What about Arudha lagna of various houses in ras4 and then
+arudha lagna of various houses in divisional charts?
+V ANSWER 3. Each house has an arudha, which is called Pada as well. To say
+that Arudha Lagna of a house is improper. See BPHS and Jaimini Sutram for
+the names of the Padas. Arudhas in Rasi chart will represent the Maya
+connected to the affairs of the given houses in general terms. Like you can
+see Upapada (A12) for marriage and spouse in rasi. This will show how others
+```
+
+**Page 12** (matched: "Upapada")
+```
+used to determine the sexuality of the individual. It is the place from where the
+native comes across members of the opposite sex and is physically attracted
+towards them.
+Upapada
+I have a continuing interest in Sanjay's explanation of the Upapada. Some time
+ago, Sanjay explained that the Upapada and its second were actually
+opposites, with the Upapada being the beginning of married life, and the
+```
+
+**Page 12** (matched: "Upapada")
+```
+native comes across members of the opposite sex and is physically attracted
+towards them.
+Upapada
+I have a continuing interest in Sanjay's explanation of the Upapada. Some time
+ago, Sanjay explained that the Upapada and its second were actually
+opposites, with the Upapada being the beginning of married life, and the
+second being the end of it. I also recall Sanjay's advise that one should look at
+```
+
+**Page 12** (matched: "Upapada")
+```
+towards them.
+Upapada
+I have a continuing interest in Sanjay's explanation of the Upapada. Some time
+ago, Sanjay explained that the Upapada and its second were actually
+opposites, with the Upapada being the beginning of married life, and the
+second being the end of it. I also recall Sanjay's advise that one should look at
+where Ketu is located relative to the Upapada, since it is a first rate benefic.
+```
+
+**Page 12** (matched: "Upapada")
+```
+Upapada
+I have a continuing interest in Sanjay's explanation of the Upapada. Some time
+ago, Sanjay explained that the Upapada and its second were actually
+opposites, with the Upapada being the beginning of married life, and the
+second being the end of it. I also recall Sanjay's advise that one should look at
+where Ketu is located relative to the Upapada, since it is a first rate benefic.
+```
+
+**Page 12** (matched: "Upapada")
+```
+ago, Sanjay explained that the Upapada and its second were actually
+opposites, with the Upapada being the beginning of married life, and the
+second being the end of it. I also recall Sanjay's advise that one should look at
+where Ketu is located relative to the Upapada, since it is a first rate benefic.
+```
+
+**Page 12** (matched: "A7")
+```
+than the usual Asc.for that particular varga. Going by this, can i say that A7 &
+AL in D9 are to be given importance for marriage/relationship issues. A4 & AL
+in D4 for House Matters, i.e planets in dusthanas to A4 in D4 and badly placed
+wrt AL in D4 can cause change of residence.
+```
+
+*... and 16 more references in this book*
+
+#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (27 references)
+
+**Page 2** (matched: "Chara Dasha")
+```
+Planets in Nakshatra and their Aspects:..............................253
+Case Studies of Aspects:.....................................................260
+Jaimini Astrology aspects:...................................................291
+What is Chara Dasha?.........................................................299
+Remedy for bad aspects:......................................................301
+2
+```
+
+**Page 291** (matched: "Chara dasha")
+```
+regular Vedic Astrology until recent years. Sri Rao accounts his
+understanding and introduction to Jamini astrology through a
+hidden gem known as "Vemuri Rama Murthy" in Andhra Pradesh,
+which is described in his book "Jaimini's Chara dasha". Many
+astrologers who came on my Youtube channel were also experts in
+Jaimini and always emphasized using both system together side by
+side to confirm events from the past. This is called composite
+```
+
+**Page 291** (matched: "Chara dasha")
+```
+side to confirm events from the past. This is called composite
+approach. When looking at a horoscope through aspects of
+Prashara which are 80% of the whole game, you should also give a
+quick glance to Jamini aspects including Chara dasha. I will
+explain Chara dasha in this chapter. I have made understanding
+Jamini aspects very easy through my videos and will do the same
+in this book.
+```
+
+**Page 291** (matched: "Chara dasha")
+```
+approach. When looking at a horoscope through aspects of
+Prashara which are 80% of the whole game, you should also give a
+quick glance to Jamini aspects including Chara dasha. I will
+explain Chara dasha in this chapter. I have made understanding
+Jamini aspects very easy through my videos and will do the same
+in this book.
+The most important thing to remember is never use just one
+```
+
+**Page 291** (matched: "chara dasha")
+```
+other for a common man unless you're a gifted saint.
+One important fact to remember is that planets really become
+active in Jaimini when their sign based dasha becomes active, but
+in any chara dasha they will give their results based on how far
+they are from the sign dasha.
+In Jamini astrology signs, only sign aspect other signs. Planets do
+not have aspects. But if a planet is sitting in a certain sign, that
+```
+
+**Page 292** (matched: "Chara dasha")
+```
+Prashara then in Jamini it may have additional 3. This is why in
+one single mahadasha Saturn can put delay on many things but no
+matter what mahadasha you are running, there will always be some
+"Chara dasha" running simultaneously with Vimshotri dasha. If
+Mahadasha of Saturn is running while the chara dasha of the sign
+where Saturn is placed that's when Saturn will began to aspect all
+the other respective houses.
+```
+
+**Page 292** (matched: "chara dasha")
+```
+one single mahadasha Saturn can put delay on many things but no
+matter what mahadasha you are running, there will always be some
+"Chara dasha" running simultaneously with Vimshotri dasha. If
+Mahadasha of Saturn is running while the chara dasha of the sign
+where Saturn is placed that's when Saturn will began to aspect all
+the other respective houses.
+In Jamini all fixed signs aspects all cardinal signs except the one
+```
+
+**Page 296** (matched: "chara dasha")
+```
+including sign based antar dasha. Just like how regular aspect of
+planets are only active during their Maha, antar and Pariantar
+dasha.
+If You are running through Cancer chara dasha and Saturn is
+sitting in Cancer then Saturn will start effecting the houses that
+Cancer is currently looking at.
+296
+```
+
+**Page 297** (matched: "chara dasha")
+```
+When reading a regular Vimshorti mahadasha for any planet, read
+their regular aspects like Mars has 4, 7, 8, Jupiter has 5, 7, 9 etc..
+but when you are looking at chara dasha that's when you will use
+sign based aspects for all planets and not the normal aspects. If you
+are running the chara dasha of Capricorn while Saturn is sitting
+directly opposite of it then Saturn will effect the situation of that
+```
+
+**Page 297** (matched: "chara dasha")
+```
+their regular aspects like Mars has 4, 7, 8, Jupiter has 5, 7, 9 etc..
+but when you are looking at chara dasha that's when you will use
+sign based aspects for all planets and not the normal aspects. If you
+are running the chara dasha of Capricorn while Saturn is sitting
+directly opposite of it then Saturn will effect the situation of that
+char dasha regarding whatever situation you are trying judge.
+Prashara aspect are extremely important but Jamini aspect are just
+```
+
+**Page 298** (matched: "Chara dasha")
+```
+would be by saying, "The sign of Cancer aspects Scorpio,
+Aquarius and Taurus." The conclusion of this chart by eye of
+Jamini should be studied by regular Prashara aspect. When you
+study Chara dasha do not think of Prashara aspect, only Jamini
+aspect. When you study Prashara aspect only use regular aspects
+you got to know in this book.
+Jamini chart example 2:
+```
+
+**Page 299** (matched: "Darakaraka")
+```
+Planet with 4th highest degree is called Matrikaraka.
+Planet with 5th highest degree is called Putrakaraka.
+Planet with sixth highest degree is called Gnatikaraka.
+Planet with lowest degree is called Darakaraka.
+If you are eager to learn about Jamini. I have made 3 videos
+already on Youtube. You can search the video by typing, "Jamini
+Astrology" or "Chara dasha in Jamini", and my videos will show
+```
+
+*... and 15 more references in this book*
+
+#### From: astrology-the-speed-of-light_compress (27 references)
+
+**Page 3** (matched: "Atmakaraka")
+```
+What is Atmakaraka?...............................................................225
+Important thing about Karakas..............................................229
+Astrology & Compatibility......................................................231
+Do Gemstones work?...............................................................237
+```
+
+**Page 6** (matched: "Chara dasha")
+```
+signs aspect the other mutable signs: Gemini, Virgo,
+Sagittarius and Pisces.
+There are many layers to this methods, not just sign
+aspect but something known as 'Karakas', 'Chara dasha' and
+'Karakansha Lagna'.
+There are five main branches of astrology in India:
+Prashara Hora Shastra
+```
+
+**Page 6** (matched: "Jaimini Sutra")
+```
+'Karakansha Lagna'.
+There are five main branches of astrology in India:
+Prashara Hora Shastra
+Jaimini Sutra
+Bhrigu Nadi Jyotish
+KP Astrology
+Nadi Astrology
+```
+
+**Page 183** (matched: "atmakaraka")
+```
+by weak Sun.
+Another thing to notice about D9 chart is the karaka of
+D9 chart, which is Venus. In the main birth chart Sun
+becomes the atmakaraka of D1 chart. In D9 Venus becomes
+the atmakaraka since Venus signifies marriage, wife, love,
+relationship and wealth. When looking at the D9 chart
+always look at the position of Venus because this will shows
+```
+
+**Page 183** (matched: "atmakaraka")
+```
+Another thing to notice about D9 chart is the karaka of
+D9 chart, which is Venus. In the main birth chart Sun
+becomes the atmakaraka of D1 chart. In D9 Venus becomes
+the atmakaraka since Venus signifies marriage, wife, love,
+relationship and wealth. When looking at the D9 chart
+always look at the position of Venus because this will shows
+the true foundation of Navmasha chart on which its house is
+```
+
+**Page 225** (matched: "Atmakaraka")
+```
+What is Atmakaraka?
+It simply means a soul significator, meaning, planet that
+holds the lesson that souls is here to learn.
+Atma= soul
+```
+
+**Page 225** (matched: "Atmakaraka")
+```
+Atma= soul
+Karka= significator
+Sun is the original significator of the soul; this is why it's the
+original Atmakaraka. But, there is something called 'Chara'
+Atmakaraka.
+Chara= moveable. The remaining seven planets like
+Mercury, Venus, Mars, Jupiter and Saturn are considered
+```
+
+**Page 225** (matched: "Atmakaraka")
+```
+Karka= significator
+Sun is the original significator of the soul; this is why it's the
+original Atmakaraka. But, there is something called 'Chara'
+Atmakaraka.
+Chara= moveable. The remaining seven planets like
+Mercury, Venus, Mars, Jupiter and Saturn are considered
+Chara Atmakaraka. Yes, even Rahu is a part of this table
+```
+
+**Page 225** (matched: "Atmakaraka")
+```
+Atmakaraka.
+Chara= moveable. The remaining seven planets like
+Mercury, Venus, Mars, Jupiter and Saturn are considered
+Chara Atmakaraka. Yes, even Rahu is a part of this table
+because Rahu brings past life lessons into this life just like
+other planets. Rahu is unfulfilled desire that needs to be
+fulfilled in this life. Most did not consider Rahu as chara
+```
+
+**Page 225** (matched: "Atmakaraka")
+```
+because Rahu brings past life lessons into this life just like
+other planets. Rahu is unfulfilled desire that needs to be
+fulfilled in this life. Most did not consider Rahu as chara
+Atmakaraka but now after many evaluations and test
+results, Rahu is considered a part of the cycle at least in my
+experience with chart readings. After doing my own studies,
+many people performed exactly the opposite of what Rahu
+```
+
+**Page 225** (matched: "Atmakaraka")
+```
+experience with chart readings. After doing my own studies,
+many people performed exactly the opposite of what Rahu
+was here to teach them as Rahu held the highest degree.
+If someone was to ask you, what is your Atmakaraka in
+your birth chart, you will not say Sun, unless Sun is under
+special circumstances and is also your chara atmakaraka.
+Why? Let me show you.
+```
+
+**Page 225** (matched: "atmakaraka")
+```
+was here to teach them as Rahu held the highest degree.
+If someone was to ask you, what is your Atmakaraka in
+your birth chart, you will not say Sun, unless Sun is under
+special circumstances and is also your chara atmakaraka.
+Why? Let me show you.
+Planet with the highest degree is considered as 'chara'
+Atmakaraka. Each planet can be between 0-30 degrees, the
+```
+
+*... and 15 more references in this book*
+
+#### From: kupdf.net_uttkalamrita-kalidas-ps-sastri (13 references)
+
+**Page 51** (matched: "a7")
+```
+18.54 Kuja25.30 beinkendrasandkonas. In
+Chandra Shani22 Chart 7 Guru is in the
+18.30 5.30 Rav;0.50 strongest kona and is the
+Rahu 6udha7.45
+L20.30 Shukra Pluto29.15 lord of lagna. Budha is in
+```
+
+**Page 52** (matched: "a7")
+```
+native had no robust health.
+28.56 Aahu26.49
+He died in March 1972 after
+Guru Kuja7.36
+lying unconscious for a
+month. eighth house has no planet. The twelfth has a
+natural benefic.
+```
+
+**Page 66** (matched: "a7")
+```
+21.19
+1900.11.21
+Lagna Mehtab, who was a former
+Kuja7 Chief Minister of Orissa.
+RavI..... The Raja yoga is strength
+10.3 Budha21.12 28.46
+Shani S G h u u ru kr 2 a 4 18.11 Chandra ened by the lords of lagna
+```
+
+**Page 70** (matched: "a7")
+```
+5 and 7 (l). The lords of 9
+and 10 are conjoined in the
+second (ll). The lord of
+BOOha7
+Shani 18 Rahu22 Ravi15 lagna and the lord of the
+Guru 12 I K sh u u ja kr 2 a 8 24 L25 sign' having him aLe ia-
+```
+
+**Page 75** (matched: "a7")
+```
+Guruji Golwalkar. Guru as
+Kuja Guru
+lord of 3 and 12 is posited
+Shukra7.54 Rahu in the fifth, the house of
+Shan112.9
+BudhalS.9 28.0 intellect and mantra. The
+Ravt8.4 57
+```
+
+**Page 99** (matched: "upapada")
+```
+"asincrease.Thuswe havetodetermineeightArudhapadas
+~ 2,4.-._~.~7-!_~L)~~!!~!J..2.,/rhe
+I, Amdha tor the
+tWelfth house is called upapada and that ofthe seventh is
+Darapada.
+Notes
+The specialnamesare 1. Lagna-ArudhaIagna, 2. Kosa
+```
+
+**Page 99** (matched: "Upapada")
+```
+Notes
+The specialnamesare 1. Lagna-ArudhaIagna, 2. Kosa
+Pada, 4. VahanaormatriorVidyaPada, 5. MantraPada, 7.
+Dara Pada, 9. Bhagya Pada, 10. Rajya Pada, 12. Upapada.
+Ifthe lord oflagna is in the fifth from lagna, the fifth
+from him is Arudha lagna. Ifthe lord of the fifth is in the
+seventh from it, the fifth itselfis theArudha ofthat house.
+```
+
+**Page 100** (matched: "Upapada")
+```
+Dara Kosa Vahana
+1- 1- ~
+LU ~()"')
+Upapada
+Rajya Mant s ra :
+/"...
+Arudhaof
+```
+
+**Page 101** (matched: "upapada")
+```
+We have toexaminecarefullytheseBhavas,Jupiterand the
+lord oflagna. Also the Arudhas ofthese Bhavasfrom Guru
+and from the lord of the lagna have to be examined along
+withthe upapadasfrom these twoand thebeneficconjunc
+tions and aspects. Ifany malefic conjunction or aspect is
+```
+
+**Page 108** (matched: "Atmakaraka")
+```
+notes on Jalmlnl Sutras, first chapter (Ranjan Publica
+tions).
+Jaimini'sAmatya karaka(one having the next highest
+degree positionto theAtmakaraka)isstatedbythe present
+author to determine the native's profession. The one next
+lower to Amatya Karaka will determine the native's valour
+and manliness.
+```
+
+**Page 108** (matched: "Atmakaraka")
+```
+Mithuna, Kanya, Mina and Vrischika. As per the present
+author these are Dhanush, Vrischika, Karka, Makara,
+Stmha,Makara,andTula.Yetheseemstocountthehouses
+from the sign occupied by the Atmakaraka in Rasi only.
+```
+
+**Page 246** (matched: "a7")
+```
+113 Lagna5 Purusha yogas. There is a
+strongRajayogacaused by
+1907.10.12/13
+Kuja7 Kuja and Guru. Though he
+was anofficer in the Indian
+Ketu26 Shukra3 Railways, the sub-period of
+Ravi26
+```
+
+*... and 1 more references in this book*
+
+#### From: BPHS - 2 RSanthanam (10 references)
+
+**Page 68** (matched: "Atmakaraka")
+```
+16'-4',-26".
+Here it may be mentioned that some learneds in Hindu
+Astrology adopt the method of countiog from the Srrno nwards
+*nii" .ifi*t foltorv the system of counting from Atmakaraka
+oo*n"rdr. we are of the view that the systemo f reckoningf rom
+Atmakarakao nwardsi s more logical and practicablei n this
+Dasa system. '
+```
+
+**Page 68** (matched: "Atmakaraka")
+```
+Astrology adopt the method of countiog from the Srrno nwards
+*nii" .ifi*t foltorv the system of counting from Atmakaraka
+oo*n"rdr. we are of the view that the systemo f reckoningf rom
+Atmakarakao nwardsi s more logical and practicablei n this
+Dasa system. '
+```
+
+**Page 69** (matched: "Atmakaraka")
+```
+Chapter4 6 Sjg
+fn accordancew ith the system described in the chapter
+dealingw ith the Atmakaraka, tbe Sun hereh as traversedt he
+rnaximumn umbero f degrees,wilbl e Atmakarka and Venusw ho
+comesn ext with degreesw, ili be Amatya (Afreq). After that
+comesR ahu, Karaka for brother, Jupiter Karaka for rnother,
+```
+
+**Page 71** (matched: "Atmakaraka")
+```
+number arriveda t by countirlg up to the sign of the planet
+vhich is strongero r more in number.
+Note: Under this systemD asasa re of two kinds-namely,
+Lagna Kendradi (err *rarfa) and AtmakarakaK endradi (enew-
+$r<*'*r-srfe). There are also Kendtadi Rasi Dasa( *;arf< <rfu
+?fi) or Kendradi.GrahaD asa (f;arfe r€ srtr) in both thc Dasa
+t
+```
+
+**Page 72** (matched: "Atmakaraka")
+```
+Dasa
+years
+Similarlya mongsAt tnrakarakaS un and his 7th Cancer,
+the signC apricorn occupied by the Atmakaraka is stronger.
+This is an evens ign.C onsequentlya t first there will be Dasaso f
+Capricorn etc. kendra signs in the order of their strength.
+Thereafterb y going in the reverseo rder there will be Dasaso f-
+```
+
+**Page 72** (matched: "Atmakaraka")
+```
+other Panapharas ignsi n the order of their strength.
+Exanple of Atmakarake KendradiG raha Dasa
+"
+Th. Atmakarakai s the Sun in Capricorn.C apricorni s anr
+even sign. Consequently the planets occupying Kendra,.
+Apoklima and Panapharah ousesw ill have their Dasasi n the
+reverseo rder accordingt o their strength.C apricorni s occupiecl,
+```
+
+**Page 73** (matched: "Atmakaraka")
+```
+the order of strengtht he Dasas will be of Venus,J ttpiter,
+Mercury, Mars and Saturn. The spano f Dasas will be equal
+to the numberu p to the own sign of the planet concerned( in
+the onward and reverseo rders).H ere the Atmakaraka Sun is
+i11a n evens ign. Therefore,b y countingu p to his own sign Leo
+in the reverseo rder the Dasa of the Sun will be of 5 years.T he
+Dasay earso f the other planetsm ay be calculated in the same
+```
+
+**Page 73** (matched: "Atmakaraka")
+```
+etriwFt(lFqr($rT |[,rcFTGrIrtltI lFnt t
+irnrq firtsqri?d *qrqa eui feg: ||lecrl
+l?8. The system under which the first Dasa is of the
+Atmakarakaa nd the subsequenDt asasa re ol the remaining7
+karakasi n their order is known as Karaka Dasa.I n this system
+the Dasay earsa re equalt o the numbero f signs countedf rom
+the Ascendantu pto the Karaka concerned.
+```
+
+**Page 73** (matched: "Atmakaraka")
+```
+karakasi n their order is known as Karaka Dasa.I n this system
+the Dasay earsa re equalt o the numbero f signs countedf rom
+the Ascendantu pto the Karaka concerned.
+Exarnple: The Atmakarakai s the Sun. He is in the l2th
+to the Ascendant. There is thus a differenceo f 1l signsb et-
+weent he Atmakaraka and the Ascendant. Thereforeh, is Dasa
+will be of I I years. After this comesA matya Karaka Venus.
+```
+
+**Page 73** (matched: "Atmakaraka")
+```
+the Ascendantu pto the Karaka concerned.
+Exarnple: The Atmakarakai s the Sun. He is in the l2th
+to the Ascendant. There is thus a differenceo f 1l signsb et-
+weent he Atmakaraka and the Ascendant. Thereforeh, is Dasa
+will be of I I years. After this comesA matya Karaka Venus.
+According to the principle ''griilqw 6E" etc. the Dasa of
+Venuswiltbeo f 12y eari. The Dasaso f otherK arakash avet o
+```
+
+#### From: A.K. Gour_Astrology of Professions (9 references)
+
+**Page 72** (matched: "Chara Dasha")
+```
+Illustration - I
+DOB: 13-07-1972; TOB: /1:00 Hrs.; Ghaziabad
+First Salary - September 1995
+Chara Dasha ~ Sagittarius/Taurus
+Sun is AMK. Sun, is the IZthlord from the Ascendant. Sun is 2nd
+lord from natal Moon. He is posited in the lO11' house where he is
+digbali, and as such has directional strength in the life of native. He is
+```
+
+**Page 74** (matched: "Chara dasha")
+```
+Illustration - 2
+DOB: 29-01-1940; TOB: 19:45 Mrs.; Jalandhar (Punjab)
+First Salary - May 1964
+Chara dasha - Sagittarius/Gemini
+The Amatyakarak planet is Venus. It is the 3rd and 10th lord from
+lagna and 2nd & 9th lord from Moon, It is posited In the 7th house from
+lagna and 6th house from Moon (house of competition). It Is placed
+```
+
+**Page 76** (matched: "Chara Dasha")
+```
+Illustration - 3
+DOB: Mars - 13-10-1980; TOB: 05:15 Hrs.; Delhi
+First Salary - 09-01-1980
+Chara Dasha - Libra/Virgo
+The AmK is Venus who is the 2nd and 9th lord from lagna and 4th
+and 9th lord from Moon. It is placed in the 12th house from lagna and
+79
+```
+
+**Page 78** (matched: "Chara Dasha")
+```
+Illustration - 4
+DOB: 30-4-1945; TOB: 9:00 Hrs,; Delhi
+first Salary - August 1968
+Chara Dasha - Aries/Virgo
+Mandook Dcsha - Sagittarius/Capricorn
+81
+```
+
+**Page 80** (matched: "Chara dasha")
+```
+also strong.
+Application of the Principles
+Principle I
+Chara dasha-Juplter the AmK Is aspecting MD Aries.
+Mandook dasha-Jupiter the AmK is aspecting AD Capricorn.
+Principle 2
+The five Karaka planets are AK-Venus, AmK-Juplter, PK-Moon, DK-
+```
+
+**Page 80** (matched: "Chara dasha")
+```
+Principle 2
+The five Karaka planets are AK-Venus, AmK-Juplter, PK-Moon, DK-
+Mars and 5th lord-Venus again.
+Chara dasha- 2 Karkas, AmK-Juplter and PK-Moon aspect MD
+Aries.
+Mandook dasha- 4 Karkas i.e. (AK, DK) aspect Sagittarius rashl
+and (AmK, PK) aspect Capricorn rashi.
+```
+
+**Page 80** (matched: "Chara dasha")
+```
+Indu-iagna for this horoscope Is in Pisces In the 10th house from
+lagna and 5th house from Moon. It is well occupied by AK, BK, and Dk.
+Its lord Jupiter is also well placed and aspected.
+Chara dasha — Indu-lagnesh aspects MD-Aries. Indu-lagna along
+with its occupants aspects AD-Virgo.
+Mandook dasha - Indu-lagna aspects MD-Sagittarius and Indu
+lagnesh Jupiter aspect^AD-Caprlcorn.
+```
+
+**Page 108** (matched: "Chara dasha")
+```
+Astrology of Professions Profession - Focussed Analysis
+producing good professional results, it is always better to use two
+or more dashas to analyse this issue. Generally Vimshottari and
+Chara dasha suffice.
+The horoscope that is given below would be examined for
+profession.
+Illustration - I
+```
+
+**Page 213** (matched: "A7")
+```
+Lagna Sun Moon Mars Mercury
+11046' 16o50' 25o09, ISW 01W
+Jupiter Venus Saturn Rahu Ketu
+05oA7' 26029' OCPsr 0005r
+11
+\ Mars Moon Ket
+10 Sun
+```
+
+#### From: Deva Keralam 1 Chandrakala Nadi (3 references)
+
+**Page 101** (matched: "a7")
+```
+Navamsa, or Pisces Rasi with Sagittarius Navam- —-ative’s birth country, change of ruler will occur
+sa causes Lakshmi yoga giving fortunes after the due to agitation(?)
+40th year. Notes: Vipra Kala in Kamala Nadiamsa in
+Notes: For Lakshmi Yoga, see also sloka783 _—- Pisces extends from 20 deg. 48’ to 20 deg. S51’ ol
+supra. space.
+
+When such space ascends, Ketu should be
+```
+
+**Page 130** (matched: "a7")
+```
+fe Tarai aia War Venus joining in the 11th house from Aroodha
+area et aeaiaracrea | L2zogl | Lagna will cause prosperity throughout life, but
+YeMGaARA FT mite | when they come together in transit, they will cause
+a7 yeu ayal Ge ARMA! | 2Vol | injury.
+we a fare PRR! |
+thet Gs ,
+: . amas waefe at were yA 1 88221 |
+```
+
+**Page 144** (matched: "a7")
+```
+dant native, with the Moon in the 8th house in aR Hara ata Sard PEAT 1 £3331 |
+Capricorn/Aquarius Navamsa will be endowed yaraeard ae weaTa afamfesa
+with a long life provided atrine counted from (1) q@@faee Siaa a yee AT yay | 1 <33vl |
+the sign occupied by Saturn (2) the ascendant Ss q@aed ae wer a7 Aiea
+Aquarius (3) the Moon sign is aspected by a fs wahraniguiqaniteata G1 1233) |
+benefic. If however there be a malefic aspect, the
+result of long life will go astray, [causing a short
+```
+
+#### From: mahadashas-the-speed-of-light_compress (2 references)
+
+**Page 195** (matched: "Chara dasha")
+```
+through a different time cycle.
+As mentioned the #1 time cycle is Vimshottari Mahadasha, but
+below are some of the other time cycles I am familiar with:
+Chara dasha
+Kaal chakara dasha
+Yogini dasha
+Shoola dasha
+```
+
+**Page 196** (matched: "Chara Dasha")
+```
+I can confidently say I have not researched on 80% of these dasha
+systems. Perhaps in my future life I will be able to spend more
+time. Just the mastering of one Dasha to 99.9% accuracy can take
+an entire life time. I usually work with Chara Dasha, and Yogini
+Dasha. These two dasha systems require their own book due to the
+vast amount of information around them.
+196
+```
+
+#### From: pdfcoffee.com_243649065-jyotish-predicting-through-shodashottary-dashapdf-pdf-free (2 references)
+
+**Page 5** (matched: "Chara Dasha")
+```
+of them in his magnum opus. There are said to be as many as fifty
+four such dashas out of which only twelve are available to us. Out
+of them the primary, according to the importance given byParashara
+are Vimshottari, Kala Chakra Dasha, Jaimini's Chara Dasha and
+Shoddashottari dasha.
+Used with Vimshottari which is a general dasha and Chara dasha,
+also a general dasha, a conditional dasha throws light into an area
+```
+
+**Page 5** (matched: "Chara dasha")
+```
+of them the primary, according to the importance given byParashara
+are Vimshottari, Kala Chakra Dasha, Jaimini's Chara Dasha and
+Shoddashottari dasha.
+Used with Vimshottari which is a general dasha and Chara dasha,
+also a general dasha, a conditional dasha throws light into an area
+of a horoscope where an astrologer's attention may not be drawn
+easily. Let this be illustrated through a horoscope, which is that of
+```
+
+#### From: pdfcoffee.com_bcpdocx-pdf-free (2 references)
+
+**Page 6** (matched: "A7")
+```
+trouble connected to marriage?
+BCP technique 2 sign - virgo - In D1 7th house - spouse - Lord Mer retrograde in 9th house. -
+changes in vows connected to marriage?
+in D9, virgo is 3rd house and has A7pada. It is occupied by Ketu and
+aspected by Ju - 6th lord of navamsha
+BCP technique 3 - Progression of Rahu - seems marriage was on 23rd June 2017. In 2017, the
+Rahu had progressed to 7th house.
+```
+
+**Page 6** (matched: "A7")
+```
+JUNE 2019 TO JUNE 2020
+BCP year - 41st from Jun 2019 - 5th house - Libra sign in D1. The pada of A5 is in the 7th house in D1 -
+good for marriage
+BCP year - 41st -5th house - Cancer sign in D9. The pada of A7 and A9 are in cancer - 5th house. - good
+for marriage
+BCP sign - Taurus 12th from Jun 2019 in D1 - The A4 is in taurus in the 12th sign in D1
+Taurus 3rd from Jun 2019 in D9 - The pada of A3 is in the 6th house in D9. differences with
+```
+
+#### From: Astrology of Professions_A.K. Gour Book Review (1 references)
+
+**Page 9** (matched: "A7")
+```
+BB
+77 E 35. 12 N 59 77 E 35. 12 N 59
+Ud Gk
+Ju SL Me Mo Ke UL A7 A3
+Mi Ra Ve Ma ^
+As: 7Ar23 Su: 10 Ar 28- DK Mo: 20 Le 51- MK Ma: 24 Ta 37- AmK
+Me: 14 Pi 0^ PK Ju: 14 Sg 51- PiK Ve: 25 Ta 06- AK Sa: 11 Ta 47- GK A2
+```
+
+#### From: Astrology_ destiny and the wheel of time_ban (1 references)
+
+**Page 119** (matched: "Darakaraka")
+```
+In Drekkana
+(a) The Sun Is In the 7th house (marriage).
+(b) The Moon Is the lord of the 7th house.
+(c) Venus, a natural Darakaraka4 Is aspected by 7th lord. Moon,
+EJectwu
+Sanjay Gandhi fought electtoms twice, the first time In March
+1977 when he was running Moon-Jupltcr-Sun.
+```
+
+---
+
+### Yogas (657 matches)
+*Yoga/combination rules*
+
+**Found in 20 books:**
+
+#### From: advanced study of vimshottari dasha_KK Pathak (135 references)
+
+**Page 2** (matched: "Kendra and Trikona")
+```
+various results as per their occupation of Bhavas in Rashi chart
+and Navamsha Chart. Satyacharya seems to be the chief exponent
+of Dasha-Phala based on Bhavesh-Phala and Tara-Phala of
+concerned planets. Satyacharya held Kendra and Trikona lords
+.as auspicious. He held 2nd, 3rd and 11th lords as weak
+;a~~picious lords and 6th, 8th and 1?th lords as inauspiCious ones!
+; lile further adhered to the view that benefic or malefic results were
+```
+
+**Page 5** (matched: "Gajakesari")
+```
+18. Yogaheena Dasha Bhukti 165
+19. Yogaheena Dasha-Chhidra 209
+· 20. Yogaheena Bhukti of Atmakarak 224
+21. Timing Results of Gajakesari Yoga 238
+•••
+```
+
+**Page 21** (matched: "Raja Yoga")
+```
+results in its Dasha or Antar-Dasha in our view if the 5th lord is
+placed in any house other than the 6th, 8th and 12th houses.
+Connection between the ascendant lord and the 5th lord
+constitutes a powerful Raja Yoga and a powerful Dhana Yoga
+~ccording to Parashar. Accordingly, both these lords in their
+periods are said to be giving quite auspicious results by followers
+of Parashar.
+```
+
+**Page 33** (matched: "Raja Yoga")
+```
+the 2nd house it may make one wealthy through some
+will ar through exploration of new ideas of some research
+work. lnspite of hurdles 2nd lord in the 8th house may
+not deny Raja Yoga. 2nd lard elevates the position of a
+native in the same way as the 1Oth lord does. As the
+2nd lord in the 8th house will be aspecting the 2nd
+house and as it will be in the 11th from the 1Oth house,
+```
+
+**Page 34** (matched: "Raja Yoga")
+```
+If the lord of the 2nd house be in the lOth house along with
+the 10 lord, the native may get wealth through government
+connected works or through trade, business, gifts etc. Effects may
+be more pronounced if there be a Raja Yoga in addition. For
+example, if 2nd cum 5th lord Mercury joins 9th cum lOth lord
+Saturn in the lOth house, Dasha of 2nd lord Mercury may give
+results of a perfect Raja Yoga. If the lord of the 2nd house is weak
+```
+
+**Page 34** (matched: "Raja Yoga")
+```
+be more pronounced if there be a Raja Yoga in addition. For
+example, if 2nd cum 5th lord Mercury joins 9th cum lOth lord
+Saturn in the lOth house, Dasha of 2nd lord Mercury may give
+results of a perfect Raja Yoga. If the lord of the 2nd house is weak
+or if the lord of the lOth house is afflicted or otherwise weak,
+actual gains may be very little or the native may earn money in
+some unscrupulous manner. If the lord of the 2nd house occupies
+```
+
+**Page 38** (matched: "Raja Yoga")
+```
+of the 3rd house may produce auspicious Yoga and the
+native may be possessed of wealth, vahana and apparels
+and above all a good fortune. We may say that it will
+give fortunate results something like Vipareeta Raja Yoga.
+But if the lord of the 3rd house is combined only with the 6th lord in
+the 6th house, the native may suffer from ear-disease or ear trouble
+necessitating ear-operation according to the nature of planets. As
+```
+
+**Page 41** (matched: "Kendra or Trikona")
+```
+12th Amsa from the Amsa occupied by the 8th lord in Navamsa
+Chart, the same may also give affluence during Dasha of the 3rd
+lord. If, on the other hand the lord of the 3rd house occupies a
+Kendra or Trikona position from the Amsa occupied by the lord of
+the 8th house in Navamsa Chart, Dasha of the lord of the 3rd house
+may give contrary results. Generally, Dasha of the 3rd lord placed
+in the 8th house is a troublesome one. If it be combined with or
+```
+
+**Page 46** (matched: "Raja Yoga")
+```
+lord strongly placed in Lagna may make the native bad, cunning
+and untruthful as said by Satyacharya. In our view a strong Saturn
+as the 4th cum 5th lord in Libra Lagna will give results of two very
+auspicious Yogas viz Shasha Yoga and Maha Raja Yoga which
+may make the native a big ruler and a great person. Of course, in
+case of Scorpio Lagna 3rd cum 4th lord Saturn in Lagna in an
+unfavourable sign may not give good results, rather it may give
+```
+
+**Page 51** (matched: "Kendra or Trikona")
+```
+or expertise. If the Moon is very powerful, the native may get his
+mother's wealth and property or patrimony. Karakas will give
+their results in Dasha or Bhukti of the 4th lord. If the lords of the
+4th and the 9th houses are strong in Kendra or Trikona in Navamsa
+Chart, good results on a greater scale are possible. If the lord of
+the 4th house occupies the 6th, 8th or 12th from the lord of the
+9th house in Navamsa Chart or if both the 4th and 9th lords be
+```
+
+**Page 52** (matched: "Venus suffers from Kendra")
+```
+through trade if the 4th lord be the ruler of the 11th house also.
+This is possible only in case of Cancer and Capricorn Lagnas. In
+case of Cancer Lagna, Venus is held to be a functional malefic,
+as the 4th lord Venus suffers from Kendradhipatya Dosha. The
+11th lord Venus is a Badhaka for Chara Lagna Cancer. For
+Capricorn Lagna which is a Chara Lagna 4th cum 11th lord is a
+Badhaka. As such, we cannot expect unobstructed gains from
+```
+
+**Page 57** (matched: "Raja Yoga")
+```
+house and 5th lord indicates divinefavour of the first order.
+In the 4th house :
+lf the lord of the 5th house be placed in the 4th house along
+with the 4th lord, it is very auspicious tantamount to Raja Yoga.
+The native may enjoy comforts and happiness, may have the
+pleasure of vahanas, may have royal favours and gain of high
+post and position in Dasha or Bhuktis of the 5th lord. lf the 5th
+```
+
+*... and 123 more references in this book*
+
+#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (95 references)
+
+**Page 2** (matched: "Raja Yoga")
+```
+Crowning Glory.............................................................................................................................11
+Courtesy of a King’s Courtier........................................................................................................20
+Sign Aspects..................................................................................................................................24
+Jaimini Raja Yogas........................................................................................................................25
+10 Basic Jaimini Rajayogas...........................................................................................................26
+Dancing with the waves: Vaugh Paul Manley...........................................................
+```
+
+**Page 13** (matched: "raja yoga")
+```
+The “saturated experience’ that came to my aid that day was the fact that I have worked on the charts of
+hundreds of movie stars. Repeatedly I have seen how they achieved success in their acting careers
+during the periods and sub-periods of planets connected to their 3rd house/3rd lord, provided these are
+also configured in raja yogas or other favorable, fame-giving planetary combinations. (For a fuller
+exposition of these researches, see my article “Hollywood Nights”). One such chart was that of Gwenyth
+Paltrow.
+Rashi (D-1) General Rashi (D-1) General
+```
+
+**Page 14** (matched: "raja yoga")
+```
+AstrologyKRS
+For her Aquarius ascendant chart, Mars rules both the 3rd house of the dramatic arts and the 10th house
+of career. It goes to the 8th house with a very exalted 5th and 8th lord Mercury and 7th lord Sun, forming
+multiple raja yogas or angle-trine combinations. To see the underlying strength of this combination,
+note that Mercury continues to have a good dignity in the navamsha, falling in its own sign, Gemini,
+while the Sun is in its exaltation sign, Aries. It is also worthwhile to note that her ascendant is
+vargottama as is Rahu/Ketu, and that the yogakaraka planet, Venus, falls in its exaltation sign, Pisces.
+```
+
+**Page 14** (matched: "raja yoga")
+```
+the later falling in its exaltation sign, Tauras. Moreover, this 3rd lord Moon is with the 10th lord of career
+and yogakaraka planet for Taurus lagna, Saturn. This is the classic combination I have seen over and
+over again in the charts of movie stars. A powerful 3rd lord connected to the 10th lord/10th house plus
+raja yoga. Note also from this angle the involvement of the artistic grahas, Venus and the Moon and
+artistic rashis,Taurus and Cancer. This shows that the “talent” and “performance” indicated by the 3rd
+house/3rd lord will be in an artistic direction versus, say, an athletic one, which would be more likely if
+natural malefics and the signs of malefics were predominant.
+```
+
+**Page 15** (matched: "Gajakesari")
+```
+In the classical texts of Jyotisha, there are a whole set of yogas involving the Moon and Jupiter that are
+said to give rise to various results, both favorable and unfavorable. Well-known and notable among
+these are:
+Jupiter falling in an angle from the Moon, referred to as Gajakesari Yoga or “Elephant-Lion
+Combination.” Under the right conditions it can give prominence and enduring fame.
+Jupiter falling in the dussthana houses, 6th, 8th, or 12th, from the Moon, referred to as “Shakata Yoga” or
+“Bullock Cart Combination.” If the Moon is not in angle and there are not other modifying factors, it
+```
+
+**Page 25** (matched: "Raja Yoga")
+```
+Jaimini’s Chara Dasha.” His method of calculating it is given in most of the prominent Vedic
+Astrology software programs. The calculations given for the example charts utilized in this article come
+from Shri Jyoti Star.
+Jaimini Raja Yogas
+There are some thirty combinations for raja yoga given in Jaimini. However, for the sake of simplicity
+when teaching beginners, I follow my teacher’s example and focus on just the conjunctions or aspects
+between the following four Jaimini karakas, and lord of the 5th house of the birth chart.
+```
+
+**Page 25** (matched: "raja yoga")
+```
+Astrology software programs. The calculations given for the example charts utilized in this article come
+from Shri Jyoti Star.
+Jaimini Raja Yogas
+There are some thirty combinations for raja yoga given in Jaimini. However, for the sake of simplicity
+when teaching beginners, I follow my teacher’s example and focus on just the conjunctions or aspects
+between the following four Jaimini karakas, and lord of the 5th house of the birth chart.
+AK - embodies the significations of the 1st house
+```
+
+**Page 25** (matched: "raja yoga")
+```
+PK - embodies the significations of the 5th house
+DK - embodies the significations of the 7th house)
+5th lord
+As can be seen, these combinations parallel to some degree the Parashari principle of raja yoga resulting
+from connections between kendra lords and trikona lords.
+Combinations and permutations of the above five planets in a birth chart create 10 Jaimini raja yogas.
+They are as follows:
+```
+
+**Page 25** (matched: "raja yoga")
+```
+5th lord
+As can be seen, these combinations parallel to some degree the Parashari principle of raja yoga resulting
+from connections between kendra lords and trikona lords.
+Combinations and permutations of the above five planets in a birth chart create 10 Jaimini raja yogas.
+They are as follows:
+25
+```
+
+**Page 25** (matched: "kendra lords and trikona")
+```
+DK - embodies the significations of the 7th house)
+5th lord
+As can be seen, these combinations parallel to some degree the Parashari principle of raja yoga resulting
+from connections between kendra lords and trikona lords.
+Combinations and permutations of the above five planets in a birth chart create 10 Jaimini raja yogas.
+They are as follows:
+25
+```
+
+**Page 26** (matched: "raja yoga")
+```
+3. AK + DK 7. AMK + 5th lord
+4. AK + 5th lord
+These combinations in a birth chart show the promise of success and fame.
+However, just as in the case of Parashari raja yogas, the ultimate quality and magnitude of the success
+will depend on the strength of the planets involved, their placement by sign and house, their lordship, the
+aspects they receive, and the chart as a whole.
+Besides those mentioned above, there are some additional combinations from the Jaimini sutras that give
+```
+
+**Page 26** (matched: "raja yoga")
+```
+will depend on the strength of the planets involved, their placement by sign and house, their lordship, the
+aspects they receive, and the chart as a whole.
+Besides those mentioned above, there are some additional combinations from the Jaimini sutras that give
+raja yoga.
+The Moon and Venus together, or the Moon aspected by Venus is a rajayoga.
+If the Moon is aspected by many planets, it is an excellent rajayoga.
+Saturn kendra from the karakamsha (navamsha sign position of the atmakaraka) makes a person
+```
+
+*... and 83 more references in this book*
+
+#### From: Conjugation at the Speed of Light - PDF Room (89 references)
+
+**Page 2** (matched: "Sun and Mercury Conjunction")
+```
+Size & Nature Impact:...........................................................58
+About The Sun:......................................................................61
+Sun and Moon conjunction:...................................................62
+Sun and Mercury Conjunction:.............................................63
+Sun and Venus conjunction:..................................................64
+Sun and Mars conjunction:....................................................66
+Sun and Jupiter Conjunction:................................................68
+```
+
+**Page 4** (matched: "Sun + Moon + Mercury conjunction")
+```
+Sun + Moon + Mercury conjunction:..................................136
+Sun + Moon + Venus conjunction:......................................137
+Sun + Moon + Mars conjunction:........................................138
+Sun + Moon + Jupiter conjunction:.....................................139
+```
+
+**Page 4** (matched: "Sun + Mercury + Venus conjunction")
+```
+Sun + Moon + Jupiter conjunction:.....................................139
+Sun + Moon + Saturn conjunction:.....................................140
+Sun + Moon + Ketu conjunction:........................................141
+Sun + Mercury + Venus conjunction:.................................142
+Sun + Mercury + Mars conjunction:...................................143
+Sun + Mercury + Jupiter conjunction:.................................144
+Sun + Mercury + Saturn conjunction:.................................145
+```
+
+**Page 4** (matched: "Sun + Mercury + Mars conjunction")
+```
+Sun + Moon + Saturn conjunction:.....................................140
+Sun + Moon + Ketu conjunction:........................................141
+Sun + Mercury + Venus conjunction:.................................142
+Sun + Mercury + Mars conjunction:...................................143
+Sun + Mercury + Jupiter conjunction:.................................144
+Sun + Mercury + Saturn conjunction:.................................145
+Sun + Mercury + Rahu conjunction:...................................146
+```
+
+**Page 4** (matched: "Sun + Mercury + Jupiter conjunction")
+```
+Sun + Moon + Ketu conjunction:........................................141
+Sun + Mercury + Venus conjunction:.................................142
+Sun + Mercury + Mars conjunction:...................................143
+Sun + Mercury + Jupiter conjunction:.................................144
+Sun + Mercury + Saturn conjunction:.................................145
+Sun + Mercury + Rahu conjunction:...................................146
+Sun + Mercury + Ketu conjunction:....................................147
+```
+
+**Page 4** (matched: "Sun + Mercury + Saturn conjunction")
+```
+Sun + Mercury + Venus conjunction:.................................142
+Sun + Mercury + Mars conjunction:...................................143
+Sun + Mercury + Jupiter conjunction:.................................144
+Sun + Mercury + Saturn conjunction:.................................145
+Sun + Mercury + Rahu conjunction:...................................146
+Sun + Mercury + Ketu conjunction:....................................147
+Sun + Venus + Mars conjunction:.......................................149
+```
+
+**Page 4** (matched: "Sun + Mercury + Rahu conjunction")
+```
+Sun + Mercury + Mars conjunction:...................................143
+Sun + Mercury + Jupiter conjunction:.................................144
+Sun + Mercury + Saturn conjunction:.................................145
+Sun + Mercury + Rahu conjunction:...................................146
+Sun + Mercury + Ketu conjunction:....................................147
+Sun + Venus + Mars conjunction:.......................................149
+Sun + Venus + Jupiter conjunction:....................................150
+```
+
+**Page 4** (matched: "Sun + Mercury + Ketu conjunction")
+```
+Sun + Mercury + Jupiter conjunction:.................................144
+Sun + Mercury + Saturn conjunction:.................................145
+Sun + Mercury + Rahu conjunction:...................................146
+Sun + Mercury + Ketu conjunction:....................................147
+Sun + Venus + Mars conjunction:.......................................149
+Sun + Venus + Jupiter conjunction:....................................150
+Sun + Venus + Saturn conjunction:.....................................151
+```
+
+**Page 6** (matched: "Sun + Moon + Mercury + Venus conjunction")
+```
+Example 4: 3 Planetary Conjunction...................................216
+Example 5: 3 Planetary Conjunction...................................217
+4 Planetary Conjunctions:....................................................218
+Sun + Moon + Mercury + Venus conjunction:....................219
+Sun + Moon + Mercury + Mars conjunction:......................219
+Sun + Moon + Mercury + Jupiter conjunction:...................220
+Sun + Moon + Mercury + Saturn conjunction:...................220
+```
+
+**Page 6** (matched: "Sun + Moon + Mercury + Mars conjunction")
+```
+Example 5: 3 Planetary Conjunction...................................217
+4 Planetary Conjunctions:....................................................218
+Sun + Moon + Mercury + Venus conjunction:....................219
+Sun + Moon + Mercury + Mars conjunction:......................219
+Sun + Moon + Mercury + Jupiter conjunction:...................220
+Sun + Moon + Mercury + Saturn conjunction:...................220
+Sun + Moon + Mercury + Rahu conjunction:.....................220
+```
+
+**Page 6** (matched: "Sun + Moon + Mercury + Jupiter conjunction")
+```
+4 Planetary Conjunctions:....................................................218
+Sun + Moon + Mercury + Venus conjunction:....................219
+Sun + Moon + Mercury + Mars conjunction:......................219
+Sun + Moon + Mercury + Jupiter conjunction:...................220
+Sun + Moon + Mercury + Saturn conjunction:...................220
+Sun + Moon + Mercury + Rahu conjunction:.....................220
+Sun + Moon + Mercury + Ketu conjunction:......................221
+```
+
+**Page 6** (matched: "Sun + Moon + Mercury + Saturn conjunction")
+```
+Sun + Moon + Mercury + Venus conjunction:....................219
+Sun + Moon + Mercury + Mars conjunction:......................219
+Sun + Moon + Mercury + Jupiter conjunction:...................220
+Sun + Moon + Mercury + Saturn conjunction:...................220
+Sun + Moon + Mercury + Rahu conjunction:.....................220
+Sun + Moon + Mercury + Ketu conjunction:......................221
+Sun + Moon + Venus + Mars conjunction:........................222
+```
+
+*... and 77 more references in this book*
+
+#### From: BPHS - 2 RSanthanam (63 references)
+
+**Page 23** (matched: "Kendra (quadrant)o r trikona")
+```
+rrlseqru: af: gfrana {Eqrd}aiErtT$urtQt: otl
+17-20.T he Sage said-O Brahmin, the learneds have
+'ecommendedt he adoptiono f Astottari Dasa, when Rahu not
+'ireing in Lagna, in any other Kendra (quadrant)o r trikona
+Aal*.^l-^oL
+"!"
+```
+
+**Page 95** (matched: "Kendra and trikona")
+```
+or trikona, in Sagittariuso r Piscest.h erew ill be ,acquisitiono f
+kingci,::n { attainment of a high position in Government),
+conve)"a;iceasn d clothes.
+i\iotes : Saturn being lord of Kendra and trikona, is a
+llogakaraka planet for the Taurus and Libra ascendants.H e
+wil!, therefore, yield very beneficiarle sultsd uring i'iisD asa if
+he is rvellp laceda nd unaffiictcd.
+```
+
+**Page 95** (matched: "Saturn be aspectedb y or associatewd ith'a beneficb, e in Kendra")
+```
+Dasa of Saturn, ill effccts from poison. injury from weapons
+separationf rom father, distressto wife and children, disaster
+as a resulto f displeasuroef Governmenti,m prisionmen3t tc' If
+Saturn be aspectedb y or associatewd ith'a beneficb, e in Kendra
+or trikona, in Sagittariuso r Piscest.h erew ill be ,acquisitiono f
+kingci,::n { attainment of a high position in Government),
+conve)"a;iceasn d clothes.
+```
+
+**Page 98** (matched: "kendra or trikona")
+```
+il{rfuqei E6'c-fiERFnqqgI
+i[e(tsqrd{5rfEil Tt rfrtnqlqq tlql*ll
+?9-82.S houldV enus be in his sign of exaltation,i n his
+own signo r in kendra or trikona,t herew ill be during his Dasa'
+acquisiiion of fancy clothes, ornaments,c onveyancesc' attle
+and land etc., availability of sweet preparations every day,
+recognitionf rom the sovereignl,u xuriousf unctionso fsongsa nd
+```
+
+**Page 99** (matched: "Kendra and trikona")
+```
+alleviation from those troubles the native should perform
+Snut..uar."ya (wotfE) or Mrityunjaya Japai n the prescrihed
+manner and give in charity a cow or femaleb uffaloe'
+Note : Beingl ordlof a Kendra and trikona, Venus ts a
+yogakarakap taneif or tle Capricorn and Aquarius ascendants'
+be-ingt ora oi th" 2nd and the 9th, he is a very auspicioups lanet
+for the Virgo Ascendant. During his Dasa Venus will yield
+```
+
+**Page 103** (matched: "kendra be in a trikona")
+```
+If any otherp lanetb e associatedw ith the lordof the 5th, his
+Dasaw ill be'favourable. The Dasaso f the lords of the lOth
+and 4th prorJucefa vourable effectsi f they be associatedw ith
+the lord of the 9th. If the lord of kendra be in a trikona or
+the lord of trikona be in a kendra,t heir Dasasp rovee xtremely
+favourable.
+'
+```
+
+**Page 103** (matched: "kendra be in a trikona")
+```
+artimffi g <ru{fl* on<ryc{t tlrgitt
+14-17+.T he Dasa of the lords of the 6th, the 8th or the
+l2th also becomef avourable if they get associatedw ith the
+lord of a trikona. llf the lord of a kendra be in a trikona or
+```
+
+**Page 104** (matched: "kendra or trikona")
+```
+594 Brihat parasma Hora &ura
+the lord of the trikona in kendra, the Dasa of the planet
+associatedw iti eithcr or them, becomesfa vourable. tne pasa
+of a planet aspectcdb y thelord of a kendra or trikona is also
+favourable. If the lord of 9th, .be in the Ascendant and the
+lord of the Ascendanti n the 9th, the Dasas of both of them
+will produce extremely beneficial results. Thcre will bc
+```
+
+**Page 104** (matched: "kendras and trikona")
+```
+be considerecfal vourablea fter taking into accountt.h e placement
+of a planeta nd his relationshipo f onep lanetw ith the other.
+Notes : What the above is intendedr o conveyr s that the-
+Dasaso f the lords of kendras and trikonas and of the planets
+relatedt o them will be favourable and the Dasas of the lords
+of other houses and the planets associatedw ith or aspected
+by them, will be unfavourable.
+```
+
+**Page 124** (matched: "kendra, disposition in a trikona")
+```
+their either side, Moolatrikona, {.,r.,:!r .ignrA dhimitra sign,
+Tatkalik Mitra's sign, netural sigr'. eilemy'ss ign, Adhisatru's
+sign, decpd ebilitation,d ebilitatedo r enemy'sv arga, own varga,
+dirfccii.iorri n a kendra, disposition in a trikona, defeatedin
+planetaryw ar, deepc ombustion.
+rq*€qfral qq o1{i*{sqFqa: r
+qqqtcqr E{n ir€zl qrdqTilrqttrutiill letrll
+```
+
+**Page 138** (matched: "kendra or trikona")
+```
+4-5. Functions like marriage etc., gain of wealth and
+property, acquisitiono fhouse,l and, cattle and conveyanceet c.
+will be the effectso f the Antardasa of the Moon in the Dasa
+of the Sun, if the Moon be in a kendra or trikona. There
+will be marriageo f the native,b irth of children,b eneficiencoef
+and favours from Kings (government)a nd fulfilment of all
+ambitions, if the Moon be in his sign,ofe xaltationo r in his
+```
+
+**Page 143** (matched: "kendrao r trikona")
+```
+ment of the ambitionsb y the beneficienceo f the sovereigna nd
+gain of clothes,u 'ili i:,r the auspiciouse ffects derived in the'
+Antardasao f Jupiteri n t;\r Dasa of the Sun if Jupiter be in
+kendrao r trikona to the Ascendant,in his sign of exaltationi n
+his own sign or in his ornnY arga.
+firqsqtfilqq{rrrrwrqt{ at1 Gq ! trlrrr
+ilcrr{mhta T{riilind dgllcq r
+```
+
+*... and 51 more references in this book*
+
+#### From: Deva Keralam 1 Chandrakala Nadi (63 references)
+
+**Page 21** (matched: "Sun-Mercury conjunction")
+```
+42, Marriage,mother’s death, spouse, Mercury ’s 63. 7thlord, Mercury in Kunda Nadiamsa, Kesari
+dispositor, children. yoga.
+43. Jupiter in 6th, danger to father, Saturn’s tran- 64. Maternal relatives, Saturn’s transit.
+sit, relatives, father-in-law, father, old age, = 65. = Sun-Mercury conjunction, Rahu’s Navamsa,
+2nd lord. -~ Fortunes, Moon’s Navamsa.
+44, Exit, Durdhara Nadiamsa. 66. Marriage, dangerto father, Mercury in Kunda
+45. Mohana Nadiamsa, Mars, Jupiter, Jupiter in Nadiamsa, Sun in Harina Nadiamsa, Mer-
+```
+
+**Page 21** (matched: "Lakshmi Yoga")
+```
+oe quoted, Capricorn Lagna - Sachira = 74° Ausniciousand inauspicious events, 5th Rasi
+ata sa. dasa, Dhanada Nadiamsa, Pisces Lagna -
+54. Capricorn Lagna - Sachira Nadiamsa. Kamala Nadiamsa, Saturn - Mercury.
+55. Relatives, maternal grand-father, maternal 75.  Satum - Sun, Lakshmi Yoga, Danger to mother,
+uncles. Scorpio or Aries navamsa.
+56. Paternal grand-father, Venus in Capricorn, 76. ~~ Mars, 3rd lord, 11th lord, 2 planets exalted,
+co-born, lords of 9th and 10th, 8th lord, wife, brother-in-law.
+```
+
+**Page 22** (matched: "Raja Yoga")
+```
+continued. 115 Sinfulness, knowledge, fortunes, uncles.
+94... Marsin 9th, 9th lord’s dispositor, destruction 116 Father, ninth lord.
+
+of blemishes, 117 Many wives, Raja Yoga, Co-born, 3rd dasa
+95. Eye disorders, fortunes, Saturn in Leo, dasa relatives, maternal uncle.
+
+results. 118 Other matters, maternal family, family death
+```
+
+**Page 24** (matched: "Raja Yoga")
+```
+173 After-born, one robo ay os i“ mo 193 Wealth, Sth Rasi’s dasa, Moon in Pisces.
+inauspicious effects, lords of 6th and 12th. . .
+are, i" oh ’s dasa. Raia Y 194 Aquarius Lagna - Kunda Nadiamsa.
+ealth, 9th lord’s dasa, Raja Yoga.
+° a NA 5 195 Royal service, father, thread ceremony, wealth.
+175 Mars dasa, enemies, sub periods of Mars & . ce. fath
+Mercury. 196 Marriage, music, royal service, father.
+```
+
+**Page 24** (matched: "Raja Yoga")
+```
+176 Strength of asterism, Moon’s dasa, charity, 197 ons Navamsa positions, Sth dasa, dasa
+death of son. of 11th lord, marriages, progeny.
+177 Remedies, Leo Navamsa,Jupiter aspecting 198 ees, oh a ' ene lord's dasa, Aries La-
+Sagittarius, Neecha Bhanga Raja Yoga. gna ~ Mangala Nadiamsa.
+178 Lords of 6th and 8th, conjunction of an ex- 199 twins, venus es conjunction, Saturn in
+alted and debilitated planet, Sakata Yoga. direct motion, father.
+179 Delayed progeny, Ashtaka Varga, Rahu’s 200 oe ea with same Navamsa, 9th lord in
+```
+
+**Page 25** (matched: "marriage, Mars in Pisces inher Sakata Yoga")
+```
+202 Mangala Nadiamsa - other effects. 224 Progeny, female ome wapbantbiig sein
+. —" - , , happiness,
+203 Obstacles to marriage, Mars in Pisces inher Sakata Yoga, happ Ber
+Navamsa,2nd dasa, Scorpio Lagna. | Capricorn L Dine Nex
+tind ‘ely death. 225 Life-span,Capricom agna - Dhruva Nadi-
+eis WPL LLCO Femoetate oe 4 of amsa, Cobo, Saturn in malefic Shastiamsa.
+```
+
+**Page 43** (matched: "Kendra Trikona")
+```
+rule, or relates to some other ascendant. untimely death during 5th year, or in a junction
+period of two Dasas (in childhood), or 12th year,
+fazvaarigny ata qa HAART | Pearl or 32nd year or the 16th year.
+ag farare: ead a lai Notes: In Sloka 165,"Jeeve Kendra Trikonage"
+SERAG aA 11 8&1! means Jupiter in an angle or trine. But this expres-
+gemee faa caeyar HATH | sion is out of place as the Moon is in the 2nd for
+Aquarius. Hence Jupiter can be only in angle
+```
+
+**Page 57** (matched: "Raja yoga")
+```
+native’s father will face mental agony, and fear of qr CTS ATT sr q GaN ABC Patan
+untimely death. Suitable remedies be done (to afar SUA I TST TTT,
+overceome these evils). The native during the said 309-313. ‘Irrelevant: Note if Jupiter is in
+transit will get effects of great Raja yoga. Varuna Nadiamsa in Sagittarius, or if he is in the
+Notes: From sloka 301 we gather that | end of Gemini, or its trine (Libra or Aquarius
+Saturn’s transit in Taurus will be bad for father. | end). Then, Saturn in transit reaching an identical
+From sloka 304, we find that Scorpio being position will cause lack of rains, drought etc., and
+```
+
+**Page 59** (matched: "Raja Yoga")
+```
+333-334 1/2. Physical Troubles: See if the  ™oves in end of Arics/Taurus, or its trine, for
+lord of the ascendant aspects and the 8th lord “uch remedics be done. If at the time of com-
+joins (the said Deha/Jeeva Rasi ) and if sc menccment of Venus Dasa, Venus is in exaltation,
+declare physical troubles to the native on the (the Dasa will give) Raja Yoga effects. In the 3rd
+week-days indicated by the 6th/8th lords during dasa, wealth will accruc.
+the setting periods of Mercury/Jupiter. Further T garry ara
+difficulties to th ive’s CO- ves ee , ,
+```
+
+**Page 60** (matched: "Raja Yoga")
+```
+veyances. foreign countries by 9th lord if strong and profes-
+t wey AUER sional progress if 10th lord is strong. As far as
+puronil Raa ao3 eae aye | ascendant is concerned, such relation by lord of
+. 9/10th is a Raja Yoga.
+344. Astrologers predict effects of sub
+periods dividing a dasa into 12 various segements, ben ic CNet lis TEP bevel |
+according to odd and even signs. m ; PSrerstanica: Han ASH AS |
+```
+
+**Page 84** (matched: "Raja Yoga")
+```
+Notes: For Capricorn ascendant, the lords
+array We frareny | 1 RoRT | of 9th and 10th (Mercury and Venus) joining in
+raga Toate | an anele will be checked from giving Raja Yoga
+HTT AHL Ay: Free I 1011 effects, if Saturn is in Leo.
+
+i at wos at say Wee 1 god |
+```
+
+**Page 90** (matched: "Raja Yoga")
+```
+66 Chandra Kala Nadi
+
+677-681. Marriage: The native will be mar- Notes: Two different Raja Yogas are men-
+ried after the 10th year ofageorinthetwelfthyear tioned for a native of Kunda Nadiamsa native in
+if the Moon in Kunda Nadiamsa is placed in _ Pisces:
+aspect to Jupiter. Elsewhere it is stated that for (1) The Sun in Harina Nadiamsa. This
+```
+
+*... and 51 more references in this book*
+
+#### From: vedic_astro_textbook (37 references)
+
+**Page 91** (matched: "Raja Yoga")
+```
+sustenance, achievements and spiritual progress, chara karakas show these aspects of
+one’s life. Chara karakas show people who play an important role in one’s
+sustenance and achievements. Examples are – mother, father, wife, advisors etc.
+Chara karakas are very useful in Raja Yogas and in spiritual progress. They also
+show how our karma (cumulative sum of actions) is carried from one life to another.
+20 This is pronounced as “kaaraka”.
+```
+
+**Page 93** (matched: "raja yoga")
+```
+Sun 12°47' 6 PK
+Jupiter 5°40' 7 GK (JK)
+Venus 2°28' 8 DK
+So Rahu represents the self of the native for the purpose of raja yogas, analysis of
+sustenance, achievements and spiritual evolution. AK throws light on the inner self
+of a native. Rahu can show a spiritually advanced person or a saint on one hand and
+a revolutionary or an outcast on the other. Mercury represents the native’s advisors
+```
+
+**Page 124** (matched: "Dhana Yoga")
+```
+• Other Popular Yogas
+• Raaja Yogas (combinations giving power)
+• Raaja Sambandha Yogas (combinations for association with kings)
+• Dhana Yogas (combinations giving wealth)
+• Daridra Yogas (combinations giving poverty)
+```
+
+**Page 128** (matched: "Pancha Mahapurusha")
+```
+is Leo, then this yoga is present.
+Results: One born with this yoga becomes a king or a minister or an army chief,
+depending on the strength of the planets involved.
+11.4 Pancha Mahapurusha Yogas
+Pancha means five and mahapurusha means a great person. Pancha mahapurusha
+yogas give the combinations that produce 5 kinds of great persons.
+There are 5 basic elements of which this universe is made of. These are called
+```
+
+**Page 128** (matched: "Pancha mahapurusha")
+```
+Results: One born with this yoga becomes a king or a minister or an army chief,
+depending on the strength of the planets involved.
+11.4 Pancha Mahapurusha Yogas
+Pancha means five and mahapurusha means a great person. Pancha mahapurusha
+yogas give the combinations that produce 5 kinds of great persons.
+There are 5 basic elements of which this universe is made of. These are called
+pancha bhootas (five existences) or pancha tattvas (five natures). They are:
+```
+
+**Page 129** (matched: "Sasa Yoga")
+```
+sattwa guna. He knows yoga well. He is always surrounded by relatives, friends and
+family and enjoys his wealth with them. He maintains cleanliness in everything and
+he is very systematic. He has a spirit of independence. He is religious.
+11.4.3 Sasa Yoga
+Definition: If Saturn is in a quadrant in own sign or exaltation sign, it is called Sasa
+yoga. In other words, Saturn should be in Cp, Aq or Li and he should be in 1st, 4th, 7th
+or 10th from lagna. This yoga does not apply from Moon and it applies mainly in rasi
+```
+
+**Page 129** (matched: "Sasa
+yoga")
+```
+family and enjoys his wealth with them. He maintains cleanliness in everything and
+he is very systematic. He has a spirit of independence. He is religious.
+11.4.3 Sasa Yoga
+Definition: If Saturn is in a quadrant in own sign or exaltation sign, it is called Sasa
+yoga. In other words, Saturn should be in Cp, Aq or Li and he should be in 1st, 4th, 7th
+or 10th from lagna. This yoga does not apply from Moon and it applies mainly in rasi
+chart. As an example, a native with lagna in Cp and Saturn in Li will have this yoga.
+```
+
+**Page 129** (matched: "Pancha mahapurusha")
+```
+Part 1: Chart Analysis 117
+Mars, Mercury, Saturn, Venus and Jupiter (respectively) represent these 5 elements.
+Pancha mahapurusha yogas produce five kinds of great persons with one of these 5
+elements playing a predominant role in their personalities.
+11.4.1 Ruchaka Yoga
+Definition: If Mars is in a quadrant in own sign or exaltation sign, it is called
+```
+
+**Page 130** (matched: "Malavya yoga")
+```
+but has some vacillation. He is charitable.
+11.4.4 Maalavya Yoga
+Definition: If Venus is in a quadrant in own sign or exaltation sign, it is called
+Malavya yoga. In other words, Venus should be in Ta, Li or Pi and he should be in
+1st, 4th, 7th or 10th from lagna. This yoga does not apply from Moon and it applies
+mainly in rasi chart. As an example, a native with lagna in Ge and Venus in Pi will
+have this yoga.
+```
+
+**Page 131** (matched: "Musala Yoga")
+```
+Rajju Yoga: If all the planets are exclusively in movable signs, this yoga is formed.
+One born with this yoga likes to travel. He has good looks and flourishes in foreign
+countries. He is cruel. Rajju means a rope.
+Musala Yoga: If all the planets are exclusively in fixed signs, this yoga is formed.
+One born with this yoga has honor, wisdom and wealth. Kings like him. He is
+famous. He has many children. He has a firm spirit. Musala means a pestle.
+Nala Yoga: If all the planets are exclusively in dual signs, this yoga is formed. One
+```
+
+**Page 142** (matched: "Lakshmi Yoga")
+```
+joins the lords of the signs occupied in navamsa by 6th and 9th lords, then this yoga is
+present. One born with this yoga is aggressive, charitable, wealthy, famous and long-
+lived. Chandika is an aggressive form of Parvati. She kills demons mercilessly.
+Lakshmi Yoga: If (1) the 9th lord is in an own sign or in his exaltation sign that
+happens to be quadrant from lagna and (2) lagna lord is strong, then this yoga is
+present. One born with this yoga becomes a king. He is blessed with good looks,
+character, wealth and many children. He is principled and famous. Lakshmi is
+```
+
+**Page 144** (matched: "dhana Yoga")
+```
+born with this yoga is wealthy, valorous and aristocratic. He is learned in sastras,
+astrology and music. He has a good personality. Bhaaskara means “one with bright
+rays”. It is a name of Sun.
+Kulavardhana Yoga: If each planet occupies the 5th house from either lagna or
+Moon or Sun, then this yoga is present. One born with this yoga is happy, wealthy
+and brings name to his lineage and community. He has an unbroken line of worthy
+successors. Kula means “lineage or community”. Vardhana means “one who makes
+```
+
+*... and 25 more references in this book*
+
+#### From: BPHS - 1 RSanthanam (36 references)
+
+**Page 7** (matched: "Dhana yoga")
+```
+Kusuma, Kalanidhi, Kalpadruma,T rimurthi, and
+Iagnadhi Yogas.
+37. LANARYOGAS 384
+Adhiyoga from the Moon, Dhana yoga, Sunapha,
+Ar.apba, Duradhura and Kemadrumay ogas.
+'8. SOLARYOGAS 386
+Veii, Vosi and Ubhayachari Yogas, effectso f these
+```
+
+**Page 12** (matched: "Raja Yoga")
+```
+the total number of desirablev argasa planet attainedf or easy
+identification. For example if a planet is said to be in Golo'
+kamsa,i t indicatest hat out of 16 Vargas,i t is in l5 good V:rrgas.
+Theset echnicaln amesa ppeari n the gradationo f Raja Yogas.
+Each Varga findsa certain specificu sei n preferencot o a
+planet's Rasi position. For example,w ithout consideringt he
+Dvadasamscah art no tangibler esuitsd ue to the native'sp arents
+```
+
+**Page 13** (matched: "Raja
+Yoga")
+```
+chaptersv, iz. 26,27 and 28.
+It is not in order if planetsa rp studiedw ith referenceto
+meren atalc hart. Padasf or varioush ousesw ill furfher alter the
+planetary sffects.T his is what is taugbti n chapter 29. Raja
+Yogas, inter alia are best analysedt hrough Arudha chart or Pada
+chart. The sage suggestsG rahaP adasa s well, but u0fortuna-
+tely he leavesit at that without addingm uch information.'
+```
+
+**Page 14** (matched: "Raja Yoga")
+```
+allow us to guesst he period of one'sd eath,
+'
+.d,st he name implies, chapter3 5 lists NabhasaY ogas which
+are availablel n most stlndard texts. Many new Raja Yogas
+could be found in chapter 36, like Khadga, Mridanga, Chamara,
+Kahala etc.
+Chapters! 7 and3 8 deal with Lunar and Solar yogasw hich
+```
+
+**Page 14** (matched: "Raja yoga")
+```
+could be found in chapter 36, like Khadga, Mridanga, Chamara,
+Kahala etc.
+Chapters! 7 and3 8 deal with Lunar and Solar yogasw hich
+are popularly known. Raja yogas in chapter 39' Yogas for
+royai associationin chapter4 0, and financial combinationsin
+chapter 41 desorvel pecial nention, containing a vapiety of
+authoritativei nformatidn
+```
+
+**Page 202** (matched: "Raja Yoga")
+```
+One can notice that the native will havea mple opport-
+unitieso f shiningb rilliantly, whethero r not on a world level,
+with the 2nd hor:se placement bf ths 5th lord in strength and
+dignity. Should there further be sufficient Raja Yogas etc. as
+in the caseo f the examplec hart give4, the nativew ill be suret o
+hit the headlineso f the world press.
+The position of the 5th lord in the 2nd will further cuase
+```
+
+**Page 357** (matched: "Musala yoga")
+```
+iriTrrrl G3flnqFtTrsrllRfi $ rlar: rrurr
+7. RAJJU, MaSALA AND NALA YOGAS .. Atl the
+planetsi n movable signs cause Rajju yoga. All the planetsi n
+fixed signs causeMusala yoga. All the planetsi n dual signs
+causeN ala yoga.
+hErrqqt: gfri: qrqqt eq{adt I
+dqrrlTlFtrtdqTcql lltil{T$tq,qqe} trctt
+```
+
+**Page 360** (matched: "Musala yoga")
+```
+'
+qtiilrquildfqaiGl {qfi{: Glril: I
+.r6gdTf:iq rfaf,r gftrsgen qlff, ?m:u tQ.tl
+D. MASALA YOGA .' One born in Musala yoga will be
+endowedw ith bonour, wisdom, wealth etc., be dear to king,
+famous,w ill havem any sonsa nd be firm in disposition.
+?qif rR{d+fl qqs=qqqrfrri}sfafrgqnq 1
+```
+
+**Page 367** (matched: "GAJAKESARI")
+```
+dtarrmRlftfli
+{q+sRstqraRwril $IErIl q}E t
+tqr{t gqsrqail trqfsqfi'* a{: llYll
+3-4. GAJAKESARI YOGA .' Shoutd Jupiter be in an
+anglef rom the ascendanot r from the Moon, and be conjuncto r
+by (another) benefic,a voiding at the same time debilit-
+a "r t p io '. n .t , . dc ombustiona nd inimical sign,G ajakesariy ogai s caused'
+```
+
+**Page 368** (matched: "Raja yoga")
+```
+The sanskrit edition of parasara H ora of sri venkatesu.ra
+Press,B ombay,h as it in such a manner making it clear that
+Vaidyanatha of Jataka par[iata did take these verses from
+Parasara. (In fact many of the Raja yogas given in our current
+chapter have been used by other workg like phala Deepika,
+Kumara SwameeyamS, ata yoga Manjari, Jataka parijata etc)-.
+Coming back to Gaja Kesari yoga given by the Bombay series,
+```
+
+**Page 369** (matched: "Raja Yoga")
+```
+deserve any special considerationa s for Gaja Kesari yoga, I
+would give less importance to the mere angular positionso f
+Jupitcr-Moon. From otherf ormations,w e may understandth at
+Raja Yoga resul8 will prcvaili n tbe following conditions in a
+descendiogo rdor.
+l. As given in Kumarr Swameeyam.
+2. As giveni n Chaukambhae dition and our edition.
+```
+
+**Page 371** (matched: "Raja yoga")
+```
+lords of thc ascendanat nd of the l2th in mutual angles and be
+aspectedb y friendly Planets. Theset wo are exactly followed by
+Sata Yoga Manjari (English translation by Prof. B. S' Rao).
+4. Whereas the Sanskrit text of Sata Manjari Raja yoga
+(Hindi translation by Pt' G.K. Ojha) puts it thus : The
+dispositoro f ascendantlo rd should be in his own sign or in his
+Mootatrikma sign which is identical with an aogle or a trine
+```
+
+*... and 24 more references in this book*
+
+#### From: astrology-the-speed-of-light_compress (33 references)
+
+**Page 2** (matched: "Dhana yoga")
+```
+Planets In Houses.....................................................................134
+Yogas in Astrology...................................................................162
+What is a Raj Yoga?..................................................................171
+What is a Dhana yoga?............................................................175
+Divisional Charts in Astrology...............................................179
+How to study Navmasha chart? (D9)....................................183
+How to study Dasamsa chart? (D10).....................................184
+```
+
+**Page 63** (matched: "kendra and trikona")
+```
+the two of the best houses in astrology, which ultimately
+makes Saturn a 'Yogakaraka' planet. You will learn about
+yogakaraka planet later in the book, but it simply means
+when one planet rules the kendra and trikona houses for
+63
+```
+
+**Page 108** (matched: "Kendra houses' or 'Trikona")
+```
+If you are running through the mahadasha period of
+Jupiter, while Jupiter is sitting in 10 degree Leo that means
+it's in 'Magha' Nakshatra. Lord of that Nakshatra, which is
+Ketu, is sitting in either 'Kendra houses' or 'Trikona Houses',
+meaning 'Kendra 1, 4, 7, and 10 and Trikona is 1, 5 and 9
+house. If the Nakshatra lord is sitting in such houses then
+you can safely say the mahaasha will be good, if the
+```
+
+**Page 108** (matched: "Kendra 1, 4, 7, and 10 and Trikona")
+```
+Jupiter, while Jupiter is sitting in 10 degree Leo that means
+it's in 'Magha' Nakshatra. Lord of that Nakshatra, which is
+Ketu, is sitting in either 'Kendra houses' or 'Trikona Houses',
+meaning 'Kendra 1, 4, 7, and 10 and Trikona is 1, 5 and 9
+house. If the Nakshatra lord is sitting in such houses then
+you can safely say the mahaasha will be good, if the
+Nakshatra lord is sitting in houses 6, 8 or 12 then dasha can
+```
+
+**Page 111** (matched: "Kendra or Trikona")
+```
+ In conjunction with a functional malefic
+ In conjunction with an enemy
+ Aspects on the dasha lord
+ Is it in Kendra or Trikona
+ Dasha lord placement in divisional charts like D3, D9
+and D10
+ What are the points of the planet in 'Dik bal' and
+```
+
+**Page 114** (matched: "Kendra & Trikona")
+```
+Kendra & Trikona placement: another way to see if the
+dasha will be good or bad is to see if the planet is in Kendra
+as in house 1, 4, 7 and 10 from the ascendant or house 1, 5
+and 9 from the ascendant. Any planet in Kendra becomes
+```
+
+**Page 115** (matched: "raja yoga")
+```
+anyone can be driven to madness.
+Whenever you study a divisional chart, the same principle
+of aspect, conjunction and yoga apply. If a planet is
+receiving a 'Neecha banga raja yoga', in a divisional chart,
+then it helps the main birth chart to over come hurdles
+during the dasha of that planet. Yogas play a big part also in
+judging the strength of the dasha; whether it is a raj yoga,
+```
+
+**Page 116** (matched: "Kendra or Trikona")
+```
+one way to see the placement of sub lord strength is not just
+by their position from the ascendant but also from the dasha
+lord itself. If you are running through Mercury dasha, then
+any planet placed in Kendra or Trikona from Mercury is
+considered good, even 3rd house and 11th house from
+ascendant or the dasha lord themselves give lots of gain
+during their sub period. Dasha lord placed 3rd and 11th
+```
+
+**Page 167** (matched: "Raja Yoga")
+```
+bad yoga. Everyone has good and bad in them. A good
+astrologer will not predict your wealth through such yogas
+and their timing.
+Neech Banga Raja Yoga: This is one yoga that should
+matter most of the time in astrology. This yoga actually
+makes a weak planet into a powerful planet, more powerful
+than its own exalted position. I’d rather have a Neech Banga
+```
+
+**Page 167** (matched: "raja yoga")
+```
+matter most of the time in astrology. This yoga actually
+makes a weak planet into a powerful planet, more powerful
+than its own exalted position. I’d rather have a Neech Banga
+raja yoga than just an exalted planet.
+i.e.
+Sun is weak in Libra and exalted in Aries.
+If someone has Sun in Libra in the 3rd house, while Mars
+```
+
+**Page 168** (matched: "Raja Yoga")
+```
+Sun a bit stronger, but if Venus and Sun were in Kendra
+houses then it would be considered a Neech Banga.
+i.e. III
+Another way a Neech Banga Raja Yoga occurs if your
+weak planet is exalted in D-9 chart, as in Navamsa chart. If
+you have Sun in Libra in your birth chart, but it’s in Aries in
+your Navamsa chart then that is canceling your Sun’s weak
+```
+
+**Page 168** (matched: "Venus and Sun were in Kendra")
+```
+sign which makes Sun weak, is sitting in its own sign, and
+becoming powerful. Venus in this condition is taking away
+Sun’s weakness, but it's not a Neech Banga, it's just creating
+Sun a bit stronger, but if Venus and Sun were in Kendra
+houses then it would be considered a Neech Banga.
+i.e. III
+Another way a Neech Banga Raja Yoga occurs if your
+```
+
+*... and 21 more references in this book*
+
+#### From: A.K. Gour_Astrology of Professions (24 references)
+
+**Page 35** (matched: "Saturn the exaltation lord of Mars is in a Kendra")
+```
+5th House
+The fifth house has no aspect. Its lord is Mars. Mars is in the
+ascendant. It is a good placement. 5th lord is debilitated though with
+a cancellation as Saturn the exaltation lord of Mars is in a Kendra both
+from lagna and the Moon. The full potential of the native is not realized
+and a general feeling of not quite being in the top half persists. The
+comments that may be if she had tried a bit harder she would have
+```
+
+**Page 70** (matched: "Sasa yoga")
+```
+Mars
+Mars
+9H conjunct with Mars.
+• Dhan yoga — Sasa yoga and Hamsa yoga is formed in this
+horoscope.
+• Indu Lagna is Libra and LL is in the 7H and aspects its own sign
+and Purna, Yoga karak Saturn is exalted in Libra.
+```
+
+**Page 81** (matched: "Gajakesari")
+```
+Chora dasha - Gen.'mi/Taurus
+The AmK planet is Jupiter. It is the 2nd and 5th lord from lagna and
+7* and 10th lord from Moon. It is inlmically placed in the 8th house from
+lagna with Moon. Notice the Gajakesari yoga formed in the 8th house.
+The AmK is in mutual aspect with 10th lord Sun and Indu-lagnesh the
+exalted Venus. This makes the AmK's position fairly decent except that
+of occupation of 8th House.
+```
+
+**Page 89** (matched: "Raja Yoga")
+```
+Examined from the Moon, Jupiter is the tenth lord aspecting its
+own house, the tenth, from the fourth. Saturn, the ninth lord in the
+tenth and in mutual aspect with the tenth lord Jupiter forms a potent
+Raja Yoga.
+From the Pada Lagna (Vrisha) Saturn is the yogakarak being the
+lord of the ninth and the tenth houses, aspected by the eleventh lord
+Jupiter. The dasha of Jupiter is again considered to be auspicious and
+```
+
+**Page 89** (matched: "Raja Yoga")
+```
+Jupiter. The dasha of Jupiter is again considered to be auspicious and
+according to the Bhavartha Ratnakara, which says,
+"if the tenth and eleventh lords are mutually related (by aspect or
+conjunction) a Raja Yoga will ensue during the dasha of the eleventh
+lord."
+Jupiter also happens to be the eighth lord from the Pada Lagna,
+located in the fifth house. It thus attains the capability of conferring on
+```
+
+**Page 90** (matched: "Raja Yoga")
+```
+Role of AmK (Saturn)
+Saturn aspects the MD lord Jupiter, which is a very desirable
+factor. Its own AD had to prove useful. In the Navamsha, it gets
+involved in a major Raja Yoga with Jupiter, and aspects Mercury, the
+other important AD lord, in the seventh house. In the Dashamsha, as
+the eleventh lord in the fifth in association with the ninth lord, it only
+proves its beneficence. Saturn further ensures its continued
+```
+
+**Page 92** (matched: "Raja Yoga")
+```
+mutual aspect with Mars and Saturn jointly located in the tenth house.
+Mars and Saturn, respectively the lords of the fifth and the second
+house. In mutual aspect with the lagna lord in the 4/10 axis form a
+prominent Raja Yoga as well as Dhana yoga. Saturn's aspect on Jupiter
+is also the aspect of AmK.
+From Pada lagna, Jupiter is the tenth lord located In the tenth
+house, aspected by the eleventh lord Mars and the ninth lord Saturn.
+```
+
+**Page 92** (matched: "raja
+yoga")
+```
+lord, further enhances the promise inherent In this period.
+In the Navamsha, Mercury as the seventh and tenth lord occupies
+the seventh house, associated with Mars, the eleventh lord (causing a
+Dhana yoga) and aspected by Jupiter, the Lagna lord (causing a raja
+yoga).
+95
+```
+
+**Page 92** (matched: "Dhana yoga")
+```
+in the Navamsha, Jupiter is again the lagna lord, aspecting the
+tenth lord Mercury from the eleventh house. In the Dashamsha, Jupiter
+as the fifth lord joins the second and eleventh lord Mercury in the
+seventh house, forming a potent Dhana yoga and promising an
+upsurge in career.
+Antardasha of Mercury
+The retrograde tenth lord Mercury is located In the lagna. From
+```
+
+**Page 101** (matched: "Venus who is in the "Kendra")
+```
+horoscope. The promises we know fructify during their dasha/AD.
+In this case let us first see the professional promise in the
+horoscope. The horoscope has Moon the LL stationed in the 6"' house.
+There is only one planet Venus who is in the "Kendras" in this
+horoscope, and even this lonesome benefic in Kendra has got a touch
+of the 6tl' house, as it is in a constellational exchange relationship with
+the Moon, who is in the 6th house. (Moon at 16 Deg 39 Min is in
+```
+
+**Page 102** (matched: "Dhana Yoga")
+```
+mastermind for evil is Jupiter in "Mrityu Bhaga" and "Guru Chandal
+Yoga" make a potent potion.
+There is one more examination that is of interest. Look at the
+Dashamsha. Examine the Dhana Yoga in this divisional chart. Dhana
+yoga is the interaction of 2/5/9/11 houses/lords. In the D-10 chart we
+notice:
+• 2L Mars in 5H
+```
+
+**Page 102** (matched: "Dhana yoga")
+```
+We also notice Saturn the 5L aspects 11H, Mars the 2L and
+Mercury the 9L also aspect the 11 H. 11L ( Sun) and 5L ( Saturn) are
+conjunct in 2H. 2L and 5L are in exchange of house situation. 2L and
+9L are also conjunct in 5H. A good and near complete Dhana yoga.
+A strong Dhana yoga in a service horoscope indicates the higher
+brackets of remuneration. The overcrowded 5^' house and 10L (Moon)
+in 8ch house in this divisional chart confirms frequent changes in the
+```
+
+*... and 12 more references in this book*
+
+#### From: kupdf.net_uttkalamrita-kalidas-ps-sastri (24 references)
+
+**Page 3** (matched: "Raja Yoga")
+```
+(1) He gives a method offinding the past. present and
+future births. This is different from the one given by
+Varahamihira and others.
+(2) There are special kinds of Raja Yogas and their
+bhanga (destruction). Particular mcntion is to be made of
+Viparita Raja Yoga.
+(3) The annual solar return chart is interpreted and
+```
+
+**Page 3** (matched: "Raja Yoga")
+```
+Varahamihira and others.
+(2) There are special kinds of Raja Yogas and their
+bhanga (destruction). Particular mcntion is to be made of
+Viparita Raja Yoga.
+(3) The annual solar return chart is interpreted and
+examined in a manner that differs from the Tajika mcthod.
+This is very original. It is simple and interesting.
+```
+
+**Page 6** (matched: "Raja yoga")
+```
+Chapter IV
+1. A great person offame 64
+2. Yogas destroying the above 66
+3. Special Raja yogas 68
+4. Raja yogas from the lords of9 and 10 71
+5. Yogas continued 73
+6. When is a Bhava destroyed? 75
+```
+
+**Page 6** (matched: "Raja yoga")
+```
+1. A great person offame 64
+2. Yogas destroying the above 66
+3. Special Raja yogas 68
+4. Raja yogas from the lords of9 and 10 71
+5. Yogas continued 73
+6. When is a Bhava destroyed? 75
+7. Lord of the lagna in the three Drekkanas 75
+```
+
+**Page 7** (matched: "Dhana Yoga")
+```
+25. Sun and Moon. Three Gunas 94
+26. Adhl Yoga 96
+27. Owningwealth 97
+28. Dhana Yogas 98
+29. Planets In Kendras and Panapharas 100
+30. Special Dhana Yogas 100
+_ 31. Moveable. fixed. and dual signs. and
+```
+
+**Page 7** (matched: "Dhana Yoga")
+```
+27. Owningwealth 97
+28. Dhana Yogas 98
+29. Planets In Kendras and Panapharas 100
+30. Special Dhana Yogas 100
+_ 31. Moveable. fixed. and dual signs. and
+their strength. Chhadaka and Vedhaka 101
+32. When does the yoga fructify? 101
+```
+
+**Page 14** (matched: "Raja yoga")
+```
+the subperiods in his own period 250
+12. Subperiod of planets with the Nodes 251
+13. Mutual periods of Shani and Kuja. Lords
+oflagna and Chandra lagna. Raja yogas. 251
+14. Benefics, malefics and marakas for persons
+born in Mesha lagna and Vrishabha lagna 253
+US. Vrishabha, Mithuna and Karka lagnas 253
+```
+
+**Page 63** (matched: "kendras or trikona")
+```
+(vi) Planets in a Bhava-Sandhi;
+(vti) Weak planets; and
+(viii Planets owning 6, 8, 12 houses butwith the lordsof
+kendras or trikonas.
+Notes
+Whentwoormoreplanetsarewithinonedegreeinthe
+same sign, the planet thatis ahead is said to bevictorious.
+```
+
+**Page 64** (matched: "Raja yoga")
+```
+ifl"'Iq"\c~q."'l~''Cil~ ~ lIT ft:e«h
+" .... ~844i~ ~.,1iH"lI\4IRiqf'4 ftm II ~ II
+Wealthand happinesscometcthenative underoneof
+the following combinations ofRaja yoga:
+(t) The lords of the ninth and the tenth should beIn
+```
+
+**Page 66** (matched: "Raja yoga")
+```
+1900.11.21
+Lagna Mehtab, who was a former
+Kuja7 Chief Minister of Orissa.
+RavI..... The Raja yoga is strength
+10.3 Budha21.12 28.46
+Shani S G h u u ru kr 2 a 4 18.11 Chandra ened by the lords of lagna
+Rahu10."
+```
+
+**Page 66** (matched: "Raja yoga")
+```
+iswiththeseventhandfirst 0.25
+lords. They are all aspected
+Rehu
+by Guru. The Raja yoga ef- 13.38
+Moon
+. fects were well manifested 42 0.10
+from the major period of
+```
+
+**Page 66** (matched: "Raja yoga")
+```
+by yoga karaka Shant.
+8.9 while the tenthlord has the
+Rahu 43 aspectofbeneftcGuru. It is
+a clear case of Raja yoga.
+23.14 1542.11.24 8.9
+Note also the tenth lord in
+Kuja Ketu
+```
+
+*... and 12 more references in this book*
+
+#### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (18 references)
+
+**Page 23** (matched: "Gajakesari")
+```
+after enduring a lot of hardship and struggle. We find
+this in the horoscope of Bhagwan Sri Ramachandra
+(Chart 2) where Jupiter and the Moon conjoin in
+Cancer ascendant resulting in Gajakesari and
+Mahalakshmi yoga. Jaimini (Upadesa Sutras) gives
+this as a combination for undying fame and Sri Ram
+VEN SUN MERe
+```
+
+**Page 23** (matched: "lakshmi yoga")
+```
+this in the horoscope of Bhagwan Sri Ramachandra
+(Chart 2) where Jupiter and the Moon conjoin in
+Cancer ascendant resulting in Gajakesari and
+Mahalakshmi yoga. Jaimini (Upadesa Sutras) gives
+this as a combination for undying fame and Sri Ram
+VEN SUN MERe
+~G
+```
+
+**Page 24** (matched: "Gajakesari")
+```
+AL
+In chart 3, there are a number of Rajyogas and
+Maharaj yogas. Just like chart 2, the Moon and Jupiter
+are involved in a Gajakesari yoga that too as the lords
+of the 1st and 9th houses. However, the axis is the 4th
+& 10th houses instead of 1st &7th houses. There is a
+(relatively weaker) Dhannakannadhipati yoga as the ninth
+```
+
+**Page 71** (matched: "Malavya yoga")
+```
+The Ascendant 65
+Ghalika Lagna or the seventh from it The dasa of Libra
+(1944-56) was the period of Rajyoga as it houses the
+Malavya yoga, Mercury (star dispositor of Lagnesh )
+and aspects Ghatika lagna while being in the seventh
+from Arudha and Hora Lagna. In Libra -Scorpio Nehru
+became the head of the Interim Cabinet (Sept 1946) and
+```
+
+**Page 84** (matched: "Venus in a Kendra")
+```
+ing the periods of signs I planets positively influenc
+ing Lagna I AI. Saturn is debilitated in AL., is Lord of
+Lagna and attains neechabhanga Rajyoga due to the
+presence of Venus in a Kendra both from Lagna and
+AL. The dasa of Aries Narayan was from 1978 -1982.
+and shows neechabhanga yoga for fame, recognition
+etc during its period. The ghatika Lagna is in Pisces
+```
+
+**Page 104** (matched: "Gajakesari")
+```
+Rahu in it as the Lord Sun is placed in the eleventh
+from Arudha ~gna indicating his initial stint at Gov
+ernment service. The Lord of Arudha lagna conjoins
+Lagna with Jupiter to form the Gajakesari yoga that gave
+undying fame. This combination also aspectsTaurus
+with the Sun and Mercury in it to indicate success in
+movies. As the Gajakesari yoga aspects the second from
+```
+
+**Page 104** (matched: "Gajakesari")
+```
+Lagna with Jupiter to form the Gajakesari yoga that gave
+undying fame. This combination also aspectsTaurus
+with the Sun and Mercury in it to indicate success in
+movies. As the Gajakesari yoga aspects the second from
+Arudha Lagna (Leo) and its Lord, it brought great
+riches. This was largely during the dasas of the fixed
+signs as well as in Cancer Sudasa. With the advert of
+```
+
+**Page 104** (matched: "Gajakesari")
+```
+political party (Telugu Desam) and within a year
+romped into the Chief Ministership of Andhra Pradesh.
+Malefic Mars and Saturn in the third and sixth caused
+the victory as they were aided by the Gajakesari yoga
+in the seventh house and Venus in the first house from
+Aries. The Sun and Mercury in the second from dasa
+rasi also caused Rajyoga. Thus it will be seen that the
+```
+
+**Page 156** (matched: "Gajakesari")
+```
+MOON
+SAT
+RAHU
+In Chart 46, there is a Gajakesari yoga in the
+fourth house as its lord Mars is placed in the second
+. house from lagna. This indicates the possession of a
+beautiful house and properties more so since Mars is
+```
+
+**Page 156** (matched: "Gajakesari")
+```
+will come from father (inheritance). The fourth house
+is Sagittarius with yogakarak. Venus in it confirming
+the possession of fine vehicles as the fourth lord
+Jupiter forms Gajakesari Yog with the Moon in the
+second house to show all luxuries of modem life.
+From the fourth house, the second Lord Saturn (a dire
+malefic for Sagittarius) is in the eighth house while
+```
+
+**Page 165** (matched: "Gajakesari")
+```
+second house as the parivartan yoga between Venus and
+Moon persists involving the fourth and seventh houses.
+This is a powerful com bina tion for properties and luxu
+ries of every kind. The Gajakesari yoga between Jupi
+ter and Moon has also persisted in the chaturthamsa.
+Mars as the lord of Chaturthamsa lagna is in the fifth
+house causing argala on the fourth house that is ob
+```
+
+**Page 170** (matched: "Gajakesari")
+```
+the native was very well educated and, against all
+odds, did compete and dear the res examination
+to serve as a bureaucrat in British India. In the
+Siddhamsa (D-24), there is a powerful Gajakesari yoga
+in the ascendant
+Gajakesari yoga in the first/Seventh house can
+I
+```
+
+*... and 6 more references in this book*
+
+#### From: Narayana Dasa by Sanjay Rath (10 references)
+
+**Page 37** (matched: "Malavya Yoga")
+```
+The horoscope of Pt.Jawaharlal Nehru is at Chart 2 and the
+Graha Arudha Chakra is given at Figure-10. It is known that
+Mahatma (Mohandas Karamchand) Gandhi was born in Libra
+Lagna with Venus in it and can be declared a Malavya Yoga
+Mahapurusha whereas Subhas Chandra Bose was a bellicose
+patriot leading the Indian National Army during the freedom
+struggle. Subhas Chandra bose was born in Aries Lagna and was
+```
+
+**Page 77** (matched: "Kendra50 or Trikona")
+```
+The sign occupied by the lord of dasa Rasi is the PAKA RASI
+or ripener of the Dasa. The Arudha of the dasa Rasi is the
+BHOGA49 RASI.
+9) If Paka Rasi is a Kendra50 or Trikona51 from Lagna and if
+Bhoga Rasi is in a Kendra of trikona from Arudha Lagna,
+auspicious results obtain. The strengths of lord of dasa Rasi,
+like exaltation etc, shall determine the beneficence of the dasa.
+```
+
+**Page 77** (matched: "Kendra of trikona")
+```
+or ripener of the Dasa. The Arudha of the dasa Rasi is the
+BHOGA49 RASI.
+9) If Paka Rasi is a Kendra50 or Trikona51 from Lagna and if
+Bhoga Rasi is in a Kendra of trikona from Arudha Lagna,
+auspicious results obtain. The strengths of lord of dasa Rasi,
+like exaltation etc, shall determine the beneficence of the dasa.
+10) The dasa Rasi occupied and owned by benefics gives
+```
+
+**Page 77** (matched: "Kendra/trikona")
+```
+like exaltation etc, shall determine the beneficence of the dasa.
+10) The dasa Rasi occupied and owned by benefics gives
+favorable results, more so, if the Paka Rasi and Bhoga Rasi
+are also well conjoined and in Kendra/trikona from Lagna and
+Arudha Lagna respectively.
+11) If the lord of the dasa Rasi is exalted or debilitated, financial
+gains will be there52. If the lord of the Moon sign associates
+```
+
+**Page 82** (matched: "Kendra and trikona")
+```
+82 Judgment of Results
+promotion also exist naturally. Thus the dasa’s of signs
+conjoined the lords of Kendra and trikona as well as their
+Arudha are beneficial for such houses.
+31) Dasa Rasi housing Jupiter or Venus gives association of
+learned and holy people, religious learning etc. Association of
+```
+
+**Page 86** (matched: "Kendra/Trikona")
+```
+very adverse results will be felt towards the end, while the
+ownership of benefics gives some good effects in the
+beginning.
+50) During the dasa’s of Kendra/Trikona houses owned by malefic
+planets, the good effect are reduced towards the end while, if
+they are owned by benefics the initial period is very fruitful.
+51) The birth of first child will occur during the antardasa of the
+```
+
+**Page 87** (matched: "Kendra, or trikona")
+```
+aloof. In this manner, the effects of planets in the seventh
+house from the dasa Rasi should be examined.
+54) During the Narayana Dasa of a sign, the Arudha Pada placed
+in it or its Kendra, or trikona shall prevail and prosper. The
+Arudha Pada in the Dusthana (6th&8th houses especially) shall
+lose significance, decay or be neglected.
+55) Signs or planets in the Pachak, Bodhak, Vedhak and Karaka69
+```
+
+**Page 90** (matched: "Gajakesari")
+```
+conjoined the tenth Lord showing that after studies he may start
+working abroad. The conjunction of the fourth and seventh Lord
+Mercury with this strongly hints at property and marriage abroad.
+This powerful Rajyoga in Aquarius is supported by the Gajakesari
+yoga between the Atmakaraka Moon and Jupiter. Both Aquarius
+and Scorpio are aspected by Aries. With the advent of the Aries
+dasa in 1975, the native went to a boarding school in South India
+```
+
+**Page 108** (matched: "Venus is the Lord of 9th house (Trikona) and 4th House (Kendra")
+```
+emergency. This was the beginning of the Aries Narayana dasa.
+93 A planet simultaneously owning a trine and a kendra or some other beneficial house
+become capable of bestowing beneficial results and is called Yogakaraka. In the
+Chart-21 Venus is the Lord of 9th house (Trikona) and 4th House (Kendra) and
+conjoining the Sun (7th Lord) is capable of bestowing Rajyoga.
+```
+
+**Page 122** (matched: "Venus in Kendra")
+```
+69E47’.
+The horoscope of Akbar, the Great Mogul emperor of India has
+umpteen Rajyoga, three Mahapurush Yoga with exalted Saturn,
+Mars and own sign placed Venus in Kendra besides many other
+combinations proving beyond an iota of doubt all the good things
+historians have mentioned about him. The real rise in this chart
+was during the 16 years of Jupiter dasa (Vimsottari), which can be
+```
+
+#### From: Introduction-to-Vedic-Astrology-Sanjay-Rath (8 references)
+
+**Page 19** (matched: "Raja yoga")
+```
+subjects
+The Sun is the source of knowledge and hence can confer the highest knowledge, the
+knowledge of Gita and Vedanta. Maharshi Jaimini says Sun also indicate social.
+Sun being the Raja yoga karaka, it confers the knowledge of political science and
+related subjects. Sun gives vitality to otherwise inert world and hence it can confer
+knowledge of things, which is linked to vitality such as Medicine etc.
+Sun is the leader among all the planets and hence all of them rotate around the Sun.
+```
+
+**Page 30** (matched: "Kendra or Trikona")
+```
+would apply only if birth is at night in Krishna Paksha or at day in Sukla Paksha. Considering
+Criteria-1 & 2 together, Ashtottari dasä will be applicable in about 25% charts. Thus, Vimsottari
+dasä is applicable in about 75% birth charts[10]. Summing up, check the following:-
+1) Whether Rähu is placed in a Kendra or Trikona from Paka Lagna (i.e. the sign occupied by the
+Lord of Lagna).
+2) Whether birth at day time is in Krishna Paksha, OR Whether birth at night time is in Sukla
+Paksha.
+```
+
+**Page 54** (matched: "Malavya Yoga")
+```
+Compare their importance using the Graha Ārudha Cakra.
+The horoscope of Pt.Jawaharlal Nehru is at Chart 2 and the Graha Arudha Chakra is given at Figure‐10. It
+is known that Mahatma (Mohandas Karamchand) Gandhi was born in Libra Lagna with Venus in it and
+can be declared a Malavya Yoga Mahapurusha whereas Subhas Chandra Bose was a bellicose patriot
+leading the Indian National Army during the freedom struggle. Subhas Chandra bose was born in Aries
+Lagna and was a great warrior and leader.
+Chart 7: Pt. Jawaharlal Nehru, 14 November 1889, Allahabad, India.
+```
+
+**Page 56** (matched: "dhana yoga")
+```
+house’.
+Footnotes:
+This has the support of Varāhamihira and later day authors like Harihara.
+Note that these are the houses we normally see for bandhana yoga (bondage). The relationship implies
+being tied or bonded to another and could be the cause for choosing these houses.
+Mūlatrikona of Rahu has been taken as Virgo as this is the sixth house of the natural zodiac and Rahu is
+the master of diabolical affairs. In case you choose another sign based on other authors, recomputed
+```
+
+**Page 104** (matched: "Saturn and in kendra")
+```
+upon for an ablation of the endometrium [lining] of the uterus was determined to be too thick.
+Note that at the time of the surgery, the Narayan dasha running was that of Taurus main period
+having A7 (Darapada), Venus and Sun in it, aspected by Capricorn having A8 (Mrityupada),
+opposite Saturn and in kendra to Jupiter. The sub-period was that of Capricorn having A8 in it,
+being aspected by Saturn, Venus, Sun and Jupiter.
+The concept of Argala
+INTRODUCTION
+```
+
+**Page 206** (matched: "kendra and trikona")
+```
+good to the significations of those houses but with the cost of destroying their natural and functional
+significations.
+STRENGTHS
+1. Any house which is placed with benefics in kendra and trikona will prosper. The house suffers if it is
+placed with malefics in kendra or trikona, provided they are not the lord or karaka of the house
+concerned.
+2. If lord of a house or karaka aspects (graha drishti or rashi drishti) the significations of the house will
+```
+
+**Page 206** (matched: "kendra or trikona")
+```
+significations.
+STRENGTHS
+1. Any house which is placed with benefics in kendra and trikona will prosper. The house suffers if it is
+placed with malefics in kendra or trikona, provided they are not the lord or karaka of the house
+concerned.
+2. If lord of a house or karaka aspects (graha drishti or rashi drishti) the significations of the house will
+prosper.
+```
+
+**Page 208** (matched: "kendra houses control the trikona")
+```
+Sandhi, it becomes very weak to protect its houses. The duration of rasi sandhi would be 1 nakshatra
+pada (3d 20m) each side of rasi junction. Among the Sandhi, the three gandanthas (sandhi between
+Pisces‐Aries; Cancer‐Leo; Scorpio‐Sagittarius) are the most harmful.
+14. The controller of sukha trikona is the 4th house [kendra houses control the trikona]. If 4th house is
+afflicted the person faces misery. If 4th house is badly afflicted, person can have suicidal tendencies.
+This is aggravated if the 5th house from Moon is also afflicted (with malefics).
+CAREFULLY JUDGE THE STRENGTHS AND WEAKNESSES OF EACH HOUSE AND THEIR KARAKA, THE
+```
+
+#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (6 references)
+
+**Page 112** (matched: "raja yoga")
+```
+natural businessman here who wants to wheel and deal with people
+during short distance travel. If Mercury is debilitated, then all
+these tasks will become complicated, and the mind will feel
+burdened unless there is a neecha banga raja yoga. Many great
+poets, writers, and artists possess a debilitated Mercury, which
+provides a limitless imagination.
+Mercury in the 3rd House aspects the 9th House. One tends to be
+```
+
+**Page 236** (matched: "raja yoga")
+```
+This particular chart has two special events happening: a mutual
+aspect and parivartan yoga. How would you read this?
+First we see that Saturn is debilitated in Aries, while Mars is
+exalted in Capricorn. A neecha banga raja yoga occurring, which is
+the cancellation of debilitation. Saturn is receiving the support of
+Mars, or of males including one’s spouse to uplift their career. In
+terms of parivartan yoga, the native deals with other people well,
+```
+
+**Page 236** (matched: "Saturn is exalted in Kendra")
+```
+that particular planet is receiving, and whose aspect you are trying
+to judge. Notice the yoga that is being formed. Mars and Saturn
+both are in panch mahapurush yoga, as Mars is in his own sign in
+Kendra, and Saturn is exalted in Kendra. Mars is also forming
+ruchika yoga. The mutual aspect between these two yogas are
+extremely good for a career in real estate, government, military,
+and sports. In the mahadasha and antar dasha of Saturn and Mars,
+```
+
+**Page 263** (matched: "raja yoga")
+```
+husband is a civil engineer, while the female was a homemaker.
+The husband is seen from Jupiter. Jupiter is debilitated in the sign
+of Capricorn. Jupiter is not only in parivartan yoga with Saturn,
+but it’s also receiving a neecha banga raja yoga from Saturn as
+well. Venus in the 5th House aspects Jupiter with its 7th aspect,
+which is a natural benefic aspect. The husband is also a lover of
+classical music.
+```
+
+**Page 272** (matched: "kendra and trikona")
+```
+Saturn in the 10th House aspects the 4th House. Saturn rules the
+4th and 5th House, and is the yogakaraka of Libra ascendant. In
+other words, Saturn rules two of the most powerful house
+combinations: kendra and trikona. Saturn is a natural malefic
+planet, so no matter what house it rules, it will always bring fear,
+anxiety, restriction, and discipline. Saturn aspects its own 4th
+House and rules the 5th House. The 4th House represents the
+```
+
+**Page 287** (matched: "Dhana yoga")
+```
+the 8th House of transformation, or receiving aspects of all major
+malefics like Mercury.
+Wealth is still prominent, but in Saturn dasha, because Jupiter and
+Mars are creating a beautiful Raj and Dhana yoga, while Saturn is
+also creating a Raj Yoga. Such a native can be an excellent
+politician, which requires being cunning and unafraid of anything.
+Even the Sun period is manageable because two of its best friends
+```
+
+#### From: Astrology_ destiny and the wheel of time_ban (5 references)
+
+**Page 57** (matched: "kendra and trikona")
+```
+proceed to predict the good events of life. Yet for our purposes, the
+basics clarified tn the previous chapter, will be sufficient.
+The Flni Principle
+The house In which the lords of kendra and trikona combine
+(through conjunction or seventh aspects) become good houses.
+The Svcand Principle
+Out of the four kendras f I, 4, 7. 10) the fourth house and the
+```
+
+**Page 59** (matched: "DHANA YOGA")
+```
+CHAPTER X
+DHANA YOGAS
+(GIVER OF WEALTH)
+Some subtler principle ate gEven here. They should be used
+Invariably to see the strength aivd the 'defects* visible m the wealth-
+```
+
+**Page 60** (matched: "Dhana Yoga")
+```
+house Venus.
+All the above, (a) to (g) .arc wealth giving combinations.
+Tablo 1
+Tabulation ofDhana Yoga
+Lagna Houses Planets Comments
+Aries 9th Jupiter with Venus The importance of fifth and ninlh
+house or fifth lord lords and benefics.
+```
+
+**Page 61** (matched: "DHANA YOGA")
+```
+DHANA YOGAS Aslrolofly, Dciliny twd (ho Wheal of Tbiw
+Tabtol (conto.)
+Tabulation of DhanaYoga
+Lagna Houses Planats Commenta
+```
+
+**Page 82** (matched: "dhana yoga")
+```
+8. Is any antardasha or pratyantardasba appearing to be significant
+or sinister?
+9. Arc planers Whose dasha periods are running. Involved In yogas
+to be taken note of, Tajayoga, dhana yoga, arishta yoga?
+10. What are the strength and weaknesses of the planets whose
+dasha Is current?
+Write Down Your QbsctV&tiafiSr
+```
+
+#### From: A Text book of astrology_Anil Kumar Jain (4 references)
+
+**Page 125** (matched: "Raja Yoga")
+```
+is done from other's money, gains if own money is used, gains from business of vehicles
+and dairy products, fond of good food, always speaks truth, special gains at the age of
+24 and 25.
+If exalted - extremely fortunate. If with two benefic planets - Maha Raja Yoga. If in
+Aries, Taurus, Virgo, Scorpio, Sagittarius, Capricorn sign or aspected by benefics -
+gets the help of friends. If having no benefic aspect - loss through bad characters. If
+with Saturn - employed in the prison, police or military. If Jupiter is with Saturn or
+```
+
+**Page 160** (matched: "Malavya Yoga")
+```
+(4) Malavya Yoga :
+For this yoga Venus should be in quadrant which should be his own or exaltation sign.
+The native born in this yoga shall have strong physique and strong mind. He will be
+wealthy and blessed with good wife and children. He will enjoy good conveyance,
+```
+
+**Page 160** (matched: "Sasa Yoga")
+```
+The native born in this yoga shall have strong physique and strong mind. He will be
+wealthy and blessed with good wife and children. He will enjoy good conveyance,
+comforts and pleasures. He will be renowned and learned.
+(5) Sasa Yoga:
+For this yoga Saturn should be in quadrant which should be his own or exaltation sign.
+The native born in this yoga shall command good servants and will be of questionable
+character. He will be head of a village or town, will covet other's riches and will be
+```
+
+**Page 162** (matched: "Lakshmi Yoga")
+```
+This yoga is formed when there is an exchange of 2nd and 9th lords and Lagna lord is
+posited in quadrant or trine. The native will be learned, happy, influential, virtuous,
+successful and prosperous.
+Lakshmi Yoga
+This yoga is formed when Lagna lord is strong and lord of 9* occupies own or exaltation
+sign identical with quadrant or trine. The native will be wealthy, noble, learned, and
+handsome and will enjoy all comforts of life.
+```
+
+#### From: 2015.150536.Marriage-Married-Life-And-Children_text (3 references)
+
+**Page 204** (matched: "Raja Yoga")
+```
+KIDNAPPING
+In Hindu Traditional Astrology, it is believed that exalted
+planets offer brilliant results and most desirable ones, causing the
+so-called Raja Yogas. When such is the case, I am unable to
+understand how majority of planets being exalted causing many
+Raja Yogas found in Rama’schart contributed forthe kidnapping
+ofSeetha.
+```
+
+**Page 204** (matched: "Raja Yoga")
+```
+planets offer brilliant results and most desirable ones, causing the
+so-called Raja Yogas. When such is the case, I am unable to
+understand how majority of planets being exalted causing many
+Raja Yogas found in Rama’schart contributed forthe kidnapping
+ofSeetha.
+According to KR1SHNAMUR7I SYSTEM, the planets
+which are exalted need not at all give advantageous results.
+```
+
+**Page 218** (matched: "Saturn occupies a Kendra")
+```
+210
+(d) or ifthe lords of5 and 8 conjoin together, children may
+• be bom with very short life
+(2) (a) But ifSaturn occupies a Kendra sign and it receives evil
+aspects from Venus and Moon
+;
+(b) if Saturn and Venus are in the 7th house and if Moon
+```
+
+#### From: mahadashas-the-speed-of-light_compress (2 references)
+
+**Page 201** (matched: "Saturn are in kendra")
+```
+law to learn, as Saturn also aspects the 9th house via Rashi aspect.
+In this chart we see a yoga occurring known as “Virinchi Yoga”, a
+yoga of a person who will eventually walk the path of spirituality.
+This yoga occurs when both Jupiter and Saturn are in kendras and
+the 5th lord is strong in the 5th, 1st, or 9th house. In her case,
+Jupiter is the 5th lord in the ascendant, which is also a kendra
+position. Saturn is in the 4th house in a kendra position as well.
+```
+
+**Page 201** (matched: "Saturn is in the 4th house in a kendra")
+```
+This yoga occurs when both Jupiter and Saturn are in kendras and
+the 5th lord is strong in the 5th, 1st, or 9th house. In her case,
+Jupiter is the 5th lord in the ascendant, which is also a kendra
+position. Saturn is in the 4th house in a kendra position as well.
+Kendras are the 1st, 4th, 7th and 10th houses in Vedic Astrology.
+The Dharma Karma Adipathi yoga between Mars and Venus
+shows that one will take up religious or spiritual responsibilites as
+```
+
+#### From: A guide to Hindu astrology_T.S. Narayanaswami Iyer (1 references)
+
+**Page 137** (matched: "Raja yoga")
+```
+and middle season from December to January and February.
+The drift of Yoga is the union of Sun and Moon in the lla
+nadi, this is Ata Yogavi. If this is done in Pin gala nadi it
+is called Raja yogavi. In the central nadi it is called
+Satwa Yogavi. When the rays of the sun aud moon are
+directed to the place of Mercury, then it is called Pratamanga
+Togmm. The subject will live without disease for some time
+```
+
+#### From: pdfcoffee.com_astro-notes-3-pdf-free (1 references)
+
+**Page 4** (matched: "Raja Yoga")
+```
+always or not. But remember the good thing. This planet is sitting with the King on his throne. So
+while the physical aspect is burnt, say, of Mercury, what is left aka your intelligence is sitting with
+the King. He honors you with a place on his throne. So that’s why you get such high intelligence with
+Budha Aditya when so close together. That’s why Jupiter sitting with the Sun is Shiva Raja Yoga. The
+Guru is sitting with the King. King has honored his wisdom. But it ruins the
+father/guru/elders/children. But your wisdom is praised.
+Kendradhipati Dosha
+```
+
+---
+
+### Marriage General (276 matches)
 *General marriage rules applicable to chart*
 
-**Found in 23 books:**
+**Found in 27 books:**
 
-#### From: Conjugation at the Speed of Light - PDF Room (20 references)
+#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (44 references)
+
+**Page 7** (matched: "7th house where you see number 5 (Leo")
+```
+counter-clockwise from 11, you will come up to the 2nd House
+which is 12 (Pisces).
+From the ascendant, Jupiter now aspects the 5th House where you
+see number 3 (Gemini), 7th house where you see number 5 (Leo),
+and 9th House where you see number 7 (Libra). Jupiter aspects
+5th, 7th, and 9th place from itself.
+7
+```
+
+**Page 46** (matched: "7th House= marriage")
+```
+Ketu= separation, disinterest, isolation, and sense of abandonment.
+11th House = gains, friends, network circles, and elder siblings.
+Sun = ego, personality, father, soul, and our dignity.
+7th House= marriage, legal partnerships, other people, and
+business or trade.
+When Ketu is in the 11th House, the native has few friends. It also
+shows unplanned wealth and profits in life which the native will
+```
+
+**Page 46** (matched: "7th House represents marriage")
+```
+battle government officials. The father would either be separated
+from the native, or he would travel much of his life and not be
+present.
+The 7th House represents marriage, spouse, and partnerships. The
+native would be very much against settling for anyone. They will
+be dissatisfied with most of the people in their life, especially their
+spouse.
+```
+
+**Page 47** (matched: "spouse will clash due to two malefic influences on the 7th")
+```
+in life. Such an aspect on an exalted Sun in the 7th House shows
+that the spouse will be very spiritual, dominating, and connected to
+either politics or entertainment. However, the native and their
+spouse will clash due to two malefic influences on the 7th House.
+One is of the Sun, and the other is of Ketu's aspect.
+As mentioned in my book, “Conjunctions @ The Speed of Light,”
+when exalted planets are in conjunction with Rahu or Ketu, they
+```
+
+**Page 56** (matched: "delay, Saturn can bring marriage")
+```
+fluctuations, the native will see sudden changes in friend circles
+and income. They may have sudden fluctuations with their spouse
+as well.
+Since Saturn represents delay, Saturn can bring marriage later in
+life, and allow for a more fulfilling spouse than if married early.
+The spouse will also be more mature in personality or age, which
+makes it easier for them to becoming a maternal figure. Since
+```
+
+**Page 56** (matched: "7th House of marriage")
+```
+ask for help. Venus is in the 7th House of marriage, and Venus
+represents the spouse. The male native would receive nourishment
+from his wife, who will fulfill the role of mother. Since Venus also
+rules the 11th House of gains, friends, and elder siblings, and
+```
+
+**Page 56** (matched: "7th house of marriage")
+```
+culture or from foreign lands due to Saturn's special aspect upon
+Venus.
+A sambandha or parivartan yoga also shows the broad picture as
+well. In example 40 Venus is in the 7th house of marriage and
+Saturn is in the 4th house of home. This shows that there is a very
+strong possibility of the native getting married in Saturn and Venus
+periods.
+```
+
+**Page 75** (matched: "7th
+House. The 7th House is the house of marriage")
+```
+When the Moon is in the 1st House (Ascendant), it aspects the 7th
+House. The 7th House is the house of marriage, legal partnership,
+other people, trade, and business. The Moon in the 1st House is
+very self aware and emotional. The mother becomes a big part of
+```
+
+**Page 75** (matched: "7th House makes them a nurturing spouse")
+```
+very self aware and emotional. The mother becomes a big part of
+their physical health, and influences their career. These natives are
+very caring, and love giving and receiving comforts in life. The
+Moon's aspect on the 7th House makes them a nurturing spouse.
+They will have a maternal attitude towards their partner. The 7th
+House aspect also shows that one's mother might take part in
+choosing their spouse. The downside to the Moon's aspect on the
+```
+
+**Page 75** (matched: "partner. The 7th")
+```
+their physical health, and influences their career. These natives are
+very caring, and love giving and receiving comforts in life. The
+Moon's aspect on the 7th House makes them a nurturing spouse.
+They will have a maternal attitude towards their partner. The 7th
+House aspect also shows that one's mother might take part in
+choosing their spouse. The downside to the Moon's aspect on the
+7th House is the native’s longing for emotional attachment and
+```
+
+**Page 94** (matched: "7th House of marriage")
+```
+Mars in the 4th House aspects the 7th, 10th, and 11th House. Mars’
+4th aspect lands on the 7th House of marriage, legal partnerships,
+and other people. Mars in the 4th House brings conflict to matters
+related to the native’s mother, comfort, home, homeland, and
+vehicles. The mother is a pioneer and straight shooter, who is
+```
+
+**Page 94** (matched: "7th House of marriage")
+```
+suppressed at a young age, one tends to be a fighter and a rebel in
+adulthood.
+The 4th aspect of Mars on the 7th House shows conflicts within
+the home, which transfers towards the 7th House of marriage. The
+person wants to control the spouse, and will not let them win any
+battles. Although Mars in the 4th House gives a lot of discomfort
+in the early part of life, they tend to find comfort of the 4th House
+```
+
+*... and 32 more references in this book*
+
+#### From: vedic_astro_textbook (36 references)
+
+**Page 88** (matched: "7th house (marriage")
+```
+7.4.2 Quadrants
+Quadrants are the abode of Sri Maha Vishnu, the Supreme Lord who sustains this
+universe as per Hinduism. Quadrants from any reference show its sustenance. The 1st
+house (self), 4th house (comforts), 7th house (marriage and relations with others) and
+the 10th house (profession) sustain each other.
+Planets in mutual quadrants17 have a sustaining effect on each other.
+7.4.3 Upachayas
+```
+
+**Page 103** (matched: "Venus in own sign")
+```
+Part 1: Chart Analysis 91
+physical vehicle owned by a person. Someone with Venus in own sign in A4 and
+Saturn in 4th (in D-16) may own luxurious vehicles (i.e. perceived to be happy with
+respect to vehicle) but not be happy. Someone with Saturn in A4 and Venus and
+Jupiter in 4th (in D-16) may own a small vehicle (i.e. perceived to be unhappy with
+```
+
+**Page 103** (matched: "marriage and the 2nd and 7th house")
+```
+show a charming spouse from a respectable family. It can also show an authoritative
+spouse. Mars in UL may show a bold spouse (when good) and a quarrelsome spouse
+(when bad).
+The 8th house from UL shows the longevity of marriage and the 2nd and 7th houses
+from UL show the end of marriage. Malefics like Mars, Saturn and nodes in these
+houses from UL can result in troubles for the marriage and even a divorce.
+```
+
+**Page 130** (matched: "Venus is in a quadrant in own sign or exalt")
+```
+is valorous and has a slender build. He knows the weaknesses of others. He is lively,
+but has some vacillation. He is charitable.
+11.4.4 Maalavya Yoga
+Definition: If Venus is in a quadrant in own sign or exaltation sign, it is called
+Malavya yoga. In other words, Venus should be in Ta, Li or Pi and he should be in
+1st, 4th, 7th or 10th from lagna. This yoga does not apply from Moon and it applies
+mainly in rasi chart. As an example, a native with lagna in Ge and Venus in Pi will
+```
+
+**Page 143** (matched: "Venus and exalt")
+```
+friendly or exaltation sign, then this yoga is present. One born with this yoga is very
+learned, skillful, intelligent, rich and famous. He is praised by all. Saraswathi is the
+goddess of learning.
+Amsaavatara Yoga: If Jupiter, Venus and exalted Saturn are in quadrants, then this
+yoga is present. One born with this yoga becomes a king or an equal. He is learned
+and pleasure-loving. He has unsullied reputation. Amsaavatara means one who is an
+incarnation of a part of the Lord.
+```
+
+**Page 153** (matched: "Venus is exalt")
+```
+Basic Principle: The 5th and 9th lords and planets joining them are capable of giving
+money. They give dasas in their dasas. The 11th house is also important for material
+gains and it should be strong. The 2nd house is also important. If Moon, Mercury,
+Jupiter or Venus is exalted in the 2nd house, it makes the native very rich.
+In addition to these general principles, Parasara listed specific combinations for
+various lagnas. In all these combinations, the strength of the participating planets
+decides the magnitude of results experienced.
+```
+
+**Page 204** (matched: "7th house is in Kshobhita avastha, there may be loss of spouse")
+```
+Planets give results based on the state they are in. If a house contains planets in
+Kshudhita or Kshobhita avasthas, the significations of the house are affected. If a
+planet in the 5th house is in Lajjita avastha, there may be losses related to progeny. If
+a planet in the 7th house is in Kshobhita avastha, there may be loss of spouse.
+15.4.4 States Relates to Activity
+There are 12 possible states of a planet related to its activity. This state is the most
+important of all states. For each planet, we use the following formula to find its
+```
+
+**Page 207** (matched: "Venus: [exalt")
+```
+of groups of wicked men.
+Jupiter: Virtuous, pure happiness and comfort, splendorous, visits holy places of
+Krishna; [if exalted] excellent fame in the whole world, very opulent.
+Venus: [exalted or in own/friendly rasi] has a conduct similar to a mighty elephant;
+equal to a king, interested in poetry, arts and music.
+Saturn: Virtuous, intelligent, opulent, likes entertainment, kind, devotee of Shiva.
+Rahu: Prosperous in foreign places, virtuous, welthy, high position, good deeds, a
+```
+
+**Page 251** (matched: "marriage. Dasa of the 2nd house or the 7th house")
+```
+own house, there will be all-round success and accumulation of wealth in that dasa.
+In addition to interpreting dasas taking dasa lagna as lagna, we can interpret dasas
+from the natal references also. For example, dasa of raajya pada gives success in
+career. Dasa of upapada may bring marriage. Dasa of the 2nd house or the 7th house
+from upapada may bring troubles in marriage. Dasa of GL may bring power. In
+particular, antardasas aspected by GL may bring promotions. Antardasas aspecting
+upapada may bring marriage. Arudha padas aspected by antardasa rasi are important
+```
+
+**Page 260** (matched: "7th houses from UL can bring troubles in marriage")
+```
+Lagna in navamsa shows self, from the point of view of dharma and marital life. So
+lagna’s dasa is favorable for marriage. Dasas of the 1st, 3rd and 8th houses from
+upapada (UL) are also favorable for marriage. On the other hand, dasas of 6th house
+from lagna, dasas of the 2nd and 7th houses from UL can bring troubles in marriage
+and even a divorce when the chart has such indications. Because UL shows marriage,
+the 1st, 3rd and 8th houses from it show its birth, vitality and life (longevity). The 2nd
+and 7th houses from it show its end.
+```
+
+**Page 322** (matched: "Venus is in exalt")
+```
+Ge dasa (09 years): 76-85 years of age
+Exercise 35:
+The 4th house is in Sg. A4 or the arudha pada of 4th house is in Vi. From Vi, Li is the
+2nd house. Its lord Venus is in exalted in the 7th house and afflicts the debilitated 1st
+lord (all from Vi). So Li is a strong maraka rasi from Vi. So Li-Li antardasa resulted
+in the death of mother.
+Exercise 36:
+```
+
+**Page 322** (matched: "7th houses from upapada bring the end of marriage")
+```
+only 22 rekhas in SAV.
+For divorce, the 6th and 8th houses from lagna and the 2nd and 7th houses from UL are
+good candidates. The 6th and 8th houses from lagna bring marital troubles and
+quarrels. The 2nd and 7th houses from upapada bring the end of marriage. Here Li is
+the 8th house from lagna and the 7th house from upapada. It is the 7th house from
+upapada in rasi also. In navamsa, it has 30 rekhas in SAV. While the 7th house has
+only 22 rekhas, the 8th house has 30 rekhas and so the 8th house is strong. Evil
+```
+
+*... and 24 more references in this book*
+
+#### From: Conjugation at the Speed of Light - PDF Room (27 references)
 
 **Page 26** (matched: "Delay the marriage")
 ```
@@ -42,6 +4297,37 @@ things:
 2. Make the native lazy regarding marriage and goals in life.
 3. The native will wander like a lost soul when it comes to
 siblings, higher learning, and dealing with enemies. They may end
+```
+
+**Page 26** (matched: "7th House of marriage")
+```
+to act without direction, maturity, and sense. However, the infant
+planets awake between the ages of 28-35.
+If Mars is an infant in one’s horoscope, and there is a Taurus
+ascendant, then Mars is ruling the 7th House of marriage and legal
+partnerships. It also rules the 12th House of foreign lands, jail,
+hospitals, hidden treasure, and isolated places. If Mars is sitting in
+the sign of Cancer in the 3rd House, with less than a 1 degree
+```
+
+**Page 46** (matched: "7th House of marriage")
+```
+When a planet comes in contact with the Sun, it will combust.
+Saturn is hard working, disciplined, and structured, and is
+becoming lazy, dull, and weak due to its close proximity to the
+Sun. The Sun itself is debilitated in the 7th House of marriage.
+This can indicate a lazy spouse who might not take their
+responsibilities and duties seriously. The Saturn and Sun
+conjunction represents duty, discipline, and order within a person.
+```
+
+**Page 56** (matched: "7th house: others, partner, spouse")
+```
+4th house: homeland, mother, and early childhood
+5th house: academic, creative, and related to children
+6th house: obstacles, diseases, medicine and service
+7th house: others, partner, spouse
+56
 ```
 
 **Page 91** (matched: "delay of marriage")
@@ -65,6 +4351,17 @@ marriage, especially if it's in an exalted sign like Aquarius.
 Since Saturn represents fear, this native may be hesitant in getting
 ```
 
+**Page 129** (matched: "7th House- relationships, legal bindings, spouse")
+```
+and wealth
+Saturn- Structure, discipline, duty, organization, delay, fear, judge,
+karma
+7th House- relationships, legal bindings, spouse, trading, and local
+people
+Leo- dynamic, creative, political, self expression, royal, and proud
+When you combine these four energies together, you can
+```
+
 **Page 130** (matched: "marriage would be delay")
 ```
 marriage would be delayed, and the optimistic nature of their
@@ -84,9 +4381,53 @@ It also delays marriage for females in most cases. Another thing to
 understand here is that whenever the Moon and Venus come into
 ```
 
+**Page 173** (matched: "delays marriage")
+```
+about himself regardless of how comfortable he is with his pal
+Venus. Saturn knows marriage could be delayed, more so for a
+man, since Venus is the main karaka for marriage in a man's chart.
+It also delays marriage for females in most cases. Another thing to
+understand here is that whenever the Moon and Venus come into
+conjunction, the person becomes very clever and is always in
+pursuit of pleasure. Saturn is the provider of structure and
+```
+
+**Page 198** (matched: "late marriage")
+```
+create havoc for him or he can actually physically assault his
+spouse. Venus is not itself, and loses its identity as it begins to
+show great distress when getting close to someone. This
+conjunction not only leads to late marriage, but shows an early
+divorce, especially if it occurs in the 12th, 1st, 2nd, 4th, 7th, 8th
+and 10th House. In each of these houses, Mars or Saturn aspects
+the 7th House of marriage and 8th house of married life. Woman
+```
+
+**Page 198** (matched: "7th House of marriage")
+```
+conjunction not only leads to late marriage, but shows an early
+divorce, especially if it occurs in the 12th, 1st, 2nd, 4th, 7th, 8th
+and 10th House. In each of these houses, Mars or Saturn aspects
+the 7th House of marriage and 8th house of married life. Woman
+can suffer a great deal from stress, even to a point of rape or
+molestation, especially in the nakshatra of Mars and Rahu.
+On a positive note, this conjunction gives love for construction,
+```
+
 *... and 15 more references in this book*
 
-#### From: 2015.150536.Marriage-Married-Life-And-Children_text (14 references)
+#### From: 2015.150536.Marriage-Married-Life-And-Children_text (20 references)
+
+**Page 19** (matched: "Vivaha")
+```
+“Swayam Varam” making her own choice among the princes
+assembled in a hall.
+2. The prince may meet any bride, fall in love with her and
+immediately take her as wife by “Gandarva Vivaham”.
+3. Others celebrated the marriage by observing any one of
+the following :
+(a) The parents are informed that there is a mutual agree-
+```
 
 **Page 52** (matched: "delay, the marriage")
 ```
@@ -141,9 +4482,74 @@ Beautiful, robust health, wellbuilt, fair complexion, big body.
 Sympathetic, humanitarian, social, always fond of romance,
 ```
 
-*... and 9 more references in this book*
+**Page 103** (matched: "delayed marriage")
+```
+Tall, long face, dark hair, long nose, broad forehead, comm-
+ands respect, scientific minded, enimical with opposite sex, dis-
+appointment in love affairs, separation, heavy hearted, disgrace,
+delayed marriage, dejected.
+Scorpio
+Moderate height, stout, big shoulders, dark hair, violent type,
+very passionate, selfdetermined, jealous, disappointment in love
+```
 
-#### From: astrology-the-speed-of-light_compress (14 references)
+**Page 107** (matched: "late
+marriage")
+```
+helpful to one who won’t marry till a perfect partneris found ; if
+one finds a suitable partner thenGod helps still more.
+One may marrylate in one’s life for economic reasons. One
+may feel that early marriages are permanent moralities and late
+marriage are temptations to wickedness. Always a happy marriage
+```
+
+**Page 115** (matched: "Marriage promised ? Why is there Abnormal Delay")
+```
+Budha 2- 6-1970 26-7-1970
+99 99
+Rahu Sukra etc. 26- 7-1970 26- 7-1973
+la Marriage promised ? Why is there Abnormal Delay ?
+First ofall, it should be found out whether the chart shows
+the possibility of marriage at all. According to Krishnamurti
+Padhdhati, the planet ruling the sub-division ofthe constellat.
+```
+
+**Page 116** (matched: "marriage, delayed and delay")
+```
+denial and even disappointment.
+J#*^^^f6enerally,, all those in whose chart Sani is placed in the 5th
+—
+house will have their marriage, delayed and delayed till the
+very end.
+Points to be Considered
+What next ? Which are the planets which are connected with
+```
+
+**Page 128** (matched: "7th house itself. Hence marriage")
+```
+Is Marriage Promised ?
+Note the sub-lord of the 7th cusp. If it is a significator of
+house 7 or 2 or 11, marriage is promised. Rahu, the sub lord of
+the 7th cusp, is in the 7th house itself. Hence marriage will
+take place.
+Which houses are we to judge in this connection ?
+The second house denotes increase in the number of
+```
+
+**Page 129** (matched: "delay in the matter of marriage")
+```
+priated by Kethu who is posited in one of Saturn’s Makara.
+Saturn is therefore left out.
+“Generally, whenever Moon is opposed by Saturn, there
+will be some delay in the matter of marriage. Also whenever
+Saturn is in S^.gny .horoscope it causes undue delay in ipattere
+connected w ith m arriage as_Saturn in 5,will aspectJhe 7th house
+byjhe third aspect, lltt house by Jthe,7th aspect and the ^nd
+```
+
+*... and 8 more references in this book*
+
+#### From: astrology-the-speed-of-light_compress (19 references)
 
 **Page 27** (matched: "Saturn in the 7th house")
 ```
@@ -178,6 +4584,17 @@ knowing this fact, it will be better if you got married after
 the age of 32. If you have this placement in your chart and
 ```
 
+**Page 78** (matched: "7th house of spouse")
+```
+then it would give lot of ups & downs with the father and in home
+itself because if Libra is in the 4th house that means this is a chart
+of Cancer ascendant, and Saturn rules the 8th house of sudden
+events and 7th house of spouse. this can also show arguments with
+the spouse on behalf of the father or due to the father. Saturn
+becomes a functional malefic in this case. Not to mention Sun in
+78
+```
+
 **Page 116** (matched: "Saturn in 7th house")
 ```
 Sun in 1st house and 10th house, Jupiter in 1st house and 4th
@@ -198,9 +4615,75 @@ and makes the person do bad deeds.
 house it gives average family life, but it doesn’t
 ```
 
-*... and 9 more references in this book*
+**Page 155** (matched: "7th house unless you have no desire for marriage")
+```
+shingles, shoulder pain and problems in nervous
+system.
+7. Ketu - This is the worst position to have Ketu in the
+7th house unless you have no desire for marriage.
+Ketu also gives lots of legal problems and insults
+from public. People with this Ketu usually have an
+odd personality.
+```
 
-#### From: advanced study of vimshottari dasha_KK Pathak (13 references)
+**Page 156** (matched: "delays marriage")
+```
+for the native, gives them psychic ability and spiritual
+powers that might be hidden until the age of 42.
+SATURN
+1. Saturn - Saturn in the first house delays marriage,
+gives bad relationship with siblings and gives no
+younger siblings, however, if Saturn is in a good sign
+and degree, it can give a solid career with its 10th
+```
+
+**Page 157** (matched: "delays both kids and marriage")
+```
+4. Saturn - Saturn in the 4th house gives lots of family
+problems and restriction till alter age. Saturn usually
+delays wealth till the age of 35.
+5. Saturn - This position delays both kids and marriage
+until early 40’s, or it may delay them till next life.
+Creativity is blocked since Saturn is sitting instead of
+aspecting the 5th house.
+```
+
+**Page 208** (matched: "marriage may not be delay")
+```
+in aspect or in conjunction with Venus he will delay the marriage
+for the native since Venus is the 'Karaka' of marriage. In the chart
+above there is a 'Virtual Conjunction occurring. This means that
+marriage may not be delayed 100% but instead of marrying around
+21-25 years of age, this person will get married around 28-29 years
+of age. If Venus was in the same house as Saturn, than you can say
+this person would get married or should marry after the age of 32
+```
+
+**Page 208** (matched: "delay the marriage")
+```
+never say this person would get married late, because neither
+Saturn is in the 7th house or aspecting the 7th house; furthermore
+Saturn is not in conjunction with Venus. But, whenever Saturn is
+in aspect or in conjunction with Venus he will delay the marriage
+for the native since Venus is the 'Karaka' of marriage. In the chart
+above there is a 'Virtual Conjunction occurring. This means that
+marriage may not be delayed 100% but instead of marrying around
+```
+
+**Page 239** (matched: "delay of marriage")
+```
+marriage about themselves and not the other. It's always
+about me and my desires.
+Rahu and Saturn in the 2nd, 5th or 7th house give
+divorce if not a delay of marriage, but if Jupiter or any
+positive planet is in aspect to Rahu and Saturn than it
+neutralizes the situation. But the 2nd house represents your
+family and the 7th house is the obvious house of marriage,
+```
+
+*... and 7 more references in this book*
+
+#### From: advanced study of vimshottari dasha_KK Pathak (17 references)
 
 **Page 32** (matched: "7th lord in the 7th house")
 ```
@@ -223,6 +4706,17 @@ efforts in its Dasha. When the 6th lord will join the 7th lord in the
 7th house, Dasha of the 6th lord will be more wealth-giving than
 the Dasha of the 7th lord but at the same time Dasha of the 6th lord
 may be more hazardous for life and conjugal happiness than Dasha
+```
+
+**Page 76** (matched: "7th house, there may be celebrations of marriage")
+```
+with the 4th lord, the native may lead a happy life with the relatives
+of his wife. He will have many travels in connection with his
+lands and properties. During the beginning of the period of the
+lord of the 7th house, there may be celebrations of marriage etc.
+in his family but his mother may fall sick or die in the same period.
+He may acquire wealth or conveyance through his learning in a
+distant place or in some foreign place. Good results depend opon
 ```
 
 **Page 78** (matched: "Saturn in the 7th house")
@@ -258,67 +4752,337 @@ must be a very powerful killer. A natural, benefic as the 7th or
 2nd lord in the 7th or 2nd house is also a very powerful killer if it
 ```
 
-*... and 8 more references in this book*
-
-#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (13 references)
-
-**Page 56** (matched: "delay, Saturn can bring marriage")
+**Page 79** (matched: "delayed marriage")
 ```
-fluctuations, the native will see sudden changes in friend circles
-and income. They may have sudden fluctuations with their spouse
-as well.
-Since Saturn represents delay, Saturn can bring marriage later in
-life, and allow for a more fulfilling spouse than if married early.
-The spouse will also be more mature in personality or age, which
-makes it easier for them to becoming a maternal figure. Since
+results in their sub-periods. If conjoining planets be malefics they
+may give unfavourable results in their sub-periods. If the 7th lord
+be posited in the 6th, 8th or 12th house in Navamsa Chart, it may
+give delayed marriage or it may cause death of his wife or make
+her inimical to husband in Dasha or Bhukti of the 7th lord.
+A planet in its own Rashi or in its own Navamsa generally
+gives auspicious results in its Dasha or Bhukti. Barring Capricorn
 ```
 
-**Page 160** (matched: "Venus is in its own sign or exalt")
+**Page 79** (matched: "partner. If 7th")
 ```
-of wealth. Gains may come through dealings with the government,
-underworld mob bosses, lottery, and assets of in-laws. One enjoys
-the occult, and hopes to attain wealth and assets through their
-belief. If Venus is in its own sign or exalted, then the native has
-great healing power and the ability to transform lives. If Venus is
-damaged, then they may suffer through in-laws and an abusive
-married life. They will turn to their family for help. Childhood
-```
-
-**Page 164** (matched: "Venus is originally exalt")
-```
-diseases, small animals, disagreements, and obstacles. The 12th
-House represents imagination, foreign lands, spirituality, and
-isolated places like jails, hospitals, monasteries, and asylums.
-Venus is originally exalted in the 12th House of Pisces. Without
-knowing the sign placement, one can safely say that they find
-pleasure in artistic imagination through yoga, meditation, and
-visiting foreign lands. Such people love private and quiet places to
+happen.
+As far as we understand the 8th house being the 2nd from
+the 7th house is a powerful killer for one's life-partner though it
+will never deny affluence to such life-partner. If 7th lord is conjoined
+with the 8th lord in the 8th house, Dash a or Bhukti of the 7th lord
+will make one's life-partner affluent but it may give fear of death
+to life-partner also. If such a 7th lord is also combined
 ```
 
-**Page 173** (matched: "late marriage")
+**Page 79** (matched: "partner also. If such a 7th")
 ```
-things creatively unless Venus or Mercury is with Saturn.
-Saturn in the 5th House aspects the 7th House with its 3rd aspect.
-The 7th House represents marriage, legal partnerships, and other
-people. This aspect brings late marriage and responsibility within
-it. Marriage occurs for business reasons, and to keep the faith of
-173
-```
-
-**Page 177** (matched: "Saturn in the 7th House")
-```
-who dominates their younger sibling and asks too much of them. If
-Saturn is debilitated, it may create differences as well.
-Saturn aspect on 9th, 1st, and 4th House:
-Saturn in the 7th House aspects the 9th, 1st and 4th House. The 7th
-house represents marriage, legal partnerships, and other people.
-Saturn gains directional strength because marriage and
-partnerships are about work, discipline, and organization between
+will never deny affluence to such life-partner. If 7th lord is conjoined
+with the 8th lord in the 8th house, Dash a or Bhukti of the 7th lord
+will make one's life-partner affluent but it may give fear of death
+to life-partner also. If such a 7th lord is also combined
+with Mars in the 8th house in a female horoscope it may
+either cause widowhood or divorce to her.
+In the 9th house :
 ```
 
-*... and 8 more references in this book*
+**Page 95** (matched: "partnership or through wife. 7th")
+```
+house confers a touring jab. It may give a rise in fortune
+after marriage. The native may earn a lot through trade
+and business. He may have rise in fortune through
+partnership or through wife. 7th lord and 9th lord combined in
+the 7th house must give phenomenal effort. Dasha of a planet posited
+in the 7th house must be giving wealth through personal efforts.
+```
 
-#### From: Astrology_ destiny and the wheel of time_ban (11 references)
+**Page 138** (matched: "Saturn in 7th house")
+```
+Lagna and Janma Rasi i.e. Saturn gave the result through Ketu.
+(2) Lord Tennyson : Both his Janma Lagna and Janma
+Rasi were Taurus. Saturn was his best Yoga Karaka, both from
+his Janma Lagna and Janma Rasi. Saturn in 7th house aspected
+his Lagna, Moon and 9th house owned by Saturn. It was Sani
+Maha Dasa that conferred name and fame on him. Thus, Saturn,
+Yoga Karaka from his Lagna and Janma Rasi gave most auspi
+```
+
+**Page 156** (matched: "Venus. Ketu is exalt")
+```
+Saturn Dasa made him a famous General Benefic Budha from
+Janma Rasi in its Dasa gave him still more important assign
+ments. His Ketu in 9th from Lagna was combined with Rashish
+Venus. Ketu is exalted in 9th from Lagna and in 2nd from Moon.
+Ketu Dasa further exalted his position. He was elected the Presi
+dent of U.S.A. for two consecutive terms. Arjun singh was born
+in Gemini Lagna with a balance of about two years of Ketu Dasa.
+```
+
+*... and 5 more references in this book*
+
+#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (15 references)
+
+**Page 14** (matched: "Venus, falls in its exalt")
+```
+multiple raja yogas or angle-trine combinations. To see the underlying strength of this combination,
+note that Mercury continues to have a good dignity in the navamsha, falling in its own sign, Gemini,
+while the Sun is in its exaltation sign, Aries. It is also worthwhile to note that her ascendant is
+vargottama as is Rahu/Ketu, and that the yogakaraka planet, Venus, falls in its exaltation sign, Pisces.
+My point here is that five of her grahas are well placed in this most important of divisional charts and
+can therefore give their results very strongly.
+Navamsha (D-9) Dharma/Spouse Navamsha (D-9) Dharma/Spouse
+```
+
+**Page 35** (matched: "Venus is exalt")
+```
+Me
+Me
+9 Sag 8 Sco 7 Libr 6 Virg
+Here the AmK Venus is exalted and with the Moon (a special Jaimini raja yoga) and in mutual aspect
+with the AK Saturn (all dual signs aspect each other).
+Beginning in the fall of 1968 Phil Jackson began his Libra period, from where the AmK Venus falls in
+the 10th house. He was a defensive specialist and rebounder for the New York Knickerbockers at this
+```
+
+**Page 37** (matched: "spouse) goes into the 7th")
+```
+spectacular Parashari raja yogas. When you see this kind of confluence, a prediction of “elevation”
+becomes a sure bet.
+This Virgo period has also brought her a husband and child, which is again very obvious. From Virgo,
+her darakaraka Moon (indicator of spouse) goes into the 7th house Pisces. Her putrakaraka Mars (who
+is also the 5th lord) aspects Virgo as well.
+These events are readily apparent in Vimshottari as well, since Mercury is also her 7th lord. Her
+relationship with Douglas began in Mercury-Jupiter, and she gave birth to their child in Mercury-Saturn,
+```
+
+**Page 58** (matched: "Venus. Venus is also conjunct exalt")
+```
+this from Mercury, the karaka, the 5th lord Saturn, is with the 8th lord, Mars. This is
+indicates his passion for suspense and horror.
+It was in his Venus mahadasha that he began undergraduate studies in literature, a
+subject represented by Venus. Venus is also conjunct exalted 3rd lord, Mercury, further
+58
+```
+
+**Page 74** (matched: "7th house indicates the partner as in marriage")
+```
+Jacqueline Kennedy Onassis’ chart: The Moon is the emotions and the mind. When it is with Rahu it
+indicates an obsessive compulsive mind. It will indicate a life with extremes interfering with peace of
+mind. The Moon and Rahu in the 7th house indicates the area of life this extreme tension will occur. The
+7th house indicates the partner as in marriage or business. I see the 7th house as relationships that are
+contractual. The Moon rules the 10th house indicating a relationship with the partner that is connected to
+74
+```
+
+**Page 81** (matched: "7th house indicating the spouse")
+```
+David Copperfield: Saturn conjunct Rahu in Scorpio in the 3rd house
+Lisa Marie Presley: Saturn conjunct Rahu in Pisces in the 9th house
+Priscilla Presley: Saturn conjunct Rahu in Gemini in the 7th house
+Priscilla Presley’s chart: She has Saturn/Rahu in the 7th house indicating the spouse. The relationship
+with Elvis no doubt changed her life in a huge way. It represents fame and destiny through the spouse.
+Interestingly in her daughter’s chart, Lisa Marie has the same conjunction Saturn and Rahu in her 9th
+house of the father.
+```
+
+**Page 85** (matched: "7th house of marriage")
+```
+in the 10th house can represent fame, particularly with a node of the Moon. The Moon is the karaka of
+the masses, the public and the mother. Since the Moon rules the 4th house of the mother it indicates great
+loss for the mother. In which Rose Kennedy did loose almost all her children tragically while she was
+still living. The sign dispositor of Moon and Rahu is Saturn which is located in the 7th house of marriage
+and partnerships. Saturn rules both the 10th and 11th houses connecting Booby to his older brothers in
+business partnerships. The 11th house represents older siblings. The nakshatra of both Moon and Ketu is
+Uttara Ashadha which is ruled by the Sun. The Sun is powerfully placed in the 8th house. Therefore, his
+```
+
+**Page 91** (matched: "7th house which can cause difficulty in marriage")
+```
+Channel. Now in the media business she works with Oprah Winfrey and Ellen DeGeneres. She is a
+power to be reckoned with for future generations. Rahu is the nakshatra dispositor of Saturn. Saturn is
+aspected by its dispositor. This is a powerful Saturn that will give a feel of a magnetized Rahu. It is in
+the 7th house which can cause difficulty in marriage. So far she has not gotten married and is not
+interested. Trya’s Saturn/Ketu in the first house makes her unique and unusual. She could not have
+attained her success without it.
+Interestingly, she was in the Ketu dasha from 1994-2001 when she had her rise to fame as super model.
+```
+
+**Page 99** (matched: "Venus
+in Libra")
+```
+the seventh house, showing a lot of comfort and courage to get involved in a connection.
+RA has been married four times. Obviously, he is very good at it! He sees himself as existing in a
+partnership, and once he finds the one, he pulls the trigger and gets married. We can see all of the Raja
+Yogas in this relationship chart giving him the opportunities shown in the Rasi chart (Rahu in 7th , Venus
+in Libra, 7th lord in its own sign).
+There were several marriages of 1 to 5 years of duration. One wife died. There was also one long
+marriage of 18 years (officially). Many ups and downs and crucial, personal lessons have been learned
+```
+
+**Page 99** (matched: "Venus ruling the Dasamsa and the exalt")
+```
+At the beginning of the Venus dasa he got a job at the US Post office, which was stable employment for
+more than 20 years, after which he retired. Since then he pursues his true love of music, singing spiritual
+music in particular, and also service to his guru (Libra / Venus / Saturn energy). It is clear that a love
+music and creativity is indicated with Venus ruling the Dasamsa and the exalted Moon. Yet, the career
+ratio of importance for him is not very high, compared to his personal growth and relationships, as we
+discovered.
+If his Rasi chart would have shown more focus on career accomplishment, this d10 could have propelled
+```
+
+**Page 125** (matched: "Venus is exalt")
+```
+anything about Ketu, he is about letting go of all material goals and desires. Ketu is about meditation,
+yoga, spiritual practice, occult knowledge. This is one major factor in him losing interest in his career
+because in Jamini astrology Ketu aspects the 10th house (career). In 2018 he will start his Venus
+mahadasha of 20 years. Venus is exalted in 3rd house, this shows that in Venus time period he will
+pursue what Rahu wants him to do, which is to go into media and perhaps advertise his company with
+his own face to bring more connection with the audience and customers. Venus will suddenly invoke the
+artist in him because Venus is a yoga karaka for Capricorn ascendant ruling the 10th and 5th house, both
+```
+
+**Page 127** (matched: "Saturn in 7th house")
+```
+Mars in Cancer shows that one will have to become the solider of protection and nourishment and
+healing society. Mars in the Ashlesha nakshatra shows that one's energy will be used by developing a
+sharp mind to help those in place of sickness. Mars' aspect on Moon in 1st house energizes the mind to
+service other as well, especially Moon being in the sign of Libra (other people). Saturn in 7th house
+aspects the Moon as well. Saturn in the sign of Aries and nakshatra of Ashwini tells us that work ethics
+and ability to be organized will be used in serving other people through medicine because nakshatra of
+Ashlesha shows 1000 physics to Gods.
+```
+
+*... and 3 more references in this book*
+
+#### From: Deva Keralam 1 Chandrakala Nadi (14 references)
+
+**Page 20** (matched: "Saturn in Aquarius")
+```
+lord, auspicious effects, 2nd dasa.
+
+16. Half-sister, second dasa, first 2 years, Agada vpn
+Nadiamsa, 11th lord. 36. Malefic dasa, Saturn in Aquarius, 5th lord’s
+
+17. 7th lord, Sun without beneficial aspect, 9th dasa, oti 10rd.
+lord in 4th house. 37. Prosperity, Rahu-Sun in Aquarius.
+```
+
+**Page 21** (matched: "Saturn in Aquarius")
+```
+38. Sun in Kumara Nadiamsa, Cancer Lagna - 58. Saturn in Aquarius with Libra Navamsa, evils,
+Uraga Nadiamsa. Saturn’s transit and 11th lord’s Navamsa.
+39. Umbilical cord, other effects, father, elder 59. Father’s death, danger to mother, fortunes,
+brother, Moon-Rahu. old age.
+```
+
+**Page 21** (matched: "Venus in Capricorn, 76. ~~ Mars, 3rd lord, 11th lord, 2 planets exalt")
+```
+54. Capricorn Lagna - Sachira Nadiamsa. Kamala Nadiamsa, Saturn - Mercury.
+55. Relatives, maternal grand-father, maternal 75.  Satum - Sun, Lakshmi Yoga, Danger to mother,
+uncles. Scorpio or Aries navamsa.
+56. Paternal grand-father, Venus in Capricorn, 76. ~~ Mars, 3rd lord, 11th lord, 2 planets exalted,
+co-born, lords of 9th and 10th, 8th lord, wife, brother-in-law.
+Saturn-Mars, Lagna lord. 77. Sister-in-law, Saturn in Leo navamsa, evils,
+17.  6thlord, brother-in-law, Saturn in Capricorn. Ketu with Mars, maternal relatives.
+```
+
+**Page 21** (matched: "spouse, Mercury ’s 63. 7th")
+```
+quarter, grand-father. 61. Death, Rahu’s transit in Deha Rasi.
+41. Parents, grand-father, maternal relatives, evils, 62. Pisces Lagna - Kunda Nadiamsa, Mercury
+prosperity, marriage. aspected by Jupiter.
+42, Marriage,mother’s death, spouse, Mercury ’s 63. 7thlord, Mercury in Kunda Nadiamsa, Kesari
+dispositor, children. yoga.
+43. Jupiter in 6th, danger to father, Saturn’s tran- 64. Maternal relatives, Saturn’s transit.
+sit, relatives, father-in-law, father, old age, = 65. = Sun-Mercury conjunction, Rahu’s Navamsa,
+```
+
+**Page 59** (matched: "Venus Dasa, Venus is in exalt")
+```
+333-334 1/2. Physical Troubles: See if the  ™oves in end of Arics/Taurus, or its trine, for
+lord of the ascendant aspects and the 8th lord “uch remedics be done. If at the time of com-
+joins (the said Deha/Jeeva Rasi ) and if sc menccment of Venus Dasa, Venus is in exaltation,
+declare physical troubles to the native on the (the Dasa will give) Raja Yoga effects. In the 3rd
+week-days indicated by the 6th/8th lords during dasa, wealth will accruc.
+the setting periods of Mercury/Jupiter. Further T garry ara
+```
+
+**Page 61** (matched: "Saturn in Aquarius")
+```
+accrue to him through his father. amare Mirra wentt werd
+Notes: The first line of sloka 346 states that THRAX SESaNTY qa TAS aarTr PQ4Rt |
+one born in Chakra Yoga, with the rising Nadiam-
+sa being Varuna (in Sagittarius) will be ever for- 351-352 Saturn in Aquarius with Capricorn
+tunate. There seems to be some erroneous  Navamsa at birth will cause second marriage
+composition in the line, hence not added in the either inthe last one-third part of Vipat Dasa (3rd
+translation. from birth) or in the first half of Kshema Dasa
+```
+
+**Page 83** (matched: "Saturn in Aquarius")
+```
+SS Chandra Kala Nadi
+§91-5921/2. For a Capricorn ascendant na- =a _malefic. This will cause wife’s death in the
+tive, Saturn in Aquarius with Libra Navamsa, (or) native’s 2nd dasa, paving way for an immediate
+in art angle from the 8th, will cause quarrels with © remarriage. From this we understand that the
+important relatives, great dangers to maternal lord of the week-day of birth is not less important
+kinsmen and his own relatives and agreat dealof than the lord of ascendant.
+```
+
+**Page 91** (matched: "Venus in Libra")
+```
+TES ferfafeara eae Teco gery 7 MME eed
+689-6891/2. Rahu dasa: In the case of fs | | AS i aa aqara Saka
+Mukunda Nadiamsa native, both the sub periods (PSS
+of the Sun and Ketu, in the major period of Rahu 694-695. The Moon in Virgo, Venus in Libra
+will be highly beneficial and cause gains through and Jupiter in Aries/Leo/Sagittarius will cause
+landed properties. abundant fortunes to a Pisces Lagna native.
+Note: Again Mukunda Nadiamsa discus- | (Meenatrikona is unfit in this context.) He will
+```
+
+**Page 101** (matched: "Venus exalt")
+```
+a FESS STAC Sere eh SRT EGR! | 682 |
+806-8061/2. Sister-in-law: STURTERTEY HYSTA
+- . Sister-in-law: Venus exalted at — sedi ge FAUST 1 22% 1 |
+birth, and in Virgo navamsa, as Rahuis in the 10th se Sa,
+house causes a wicked sister-in- law who will lead , a mia ‘
+a troubled life. She will be unfortunate and adul- FA EMRRAT FAL | C84 |
+```
+
+**Page 110** (matched: "Venus and occupy own/exalt")
+```
+Mea oerenica: ryforceroeta: 11 226 1 | thunderbolt is resisted by the hill. One born in the
+second half will face infantile evils to lifespan. If
+926. Should Saturn be in the company of however he survives (due to other combinations)
+Venus and occupy own/exaltation Navamsa the he will have a long life. One born in first half of
+native will acquire education as prescribed for this Nadiamsa will have eyes resembling a lotus
+his family of birth, and will be an examiner of petal.
+precious stones.
+```
+
+**Page 151** (matched: "Spouse: Should the 7th")
+```
+Note: Sagittarius journey of the Sun is not
+ama tagged aera a fafa included in Uttarayana.
+Roa WH RRSeaqar! | ¥o4l |
+1405. Spouse: Should the 7th lord be in the 11 ee CT CIR) I |
+company of the Sun, the native will jom other Cancer Ascendant — Champaka Nadiamsa
+women. He will have two wives, be passionate and
+will be endowed with children.
+```
+
+**Page 181** (matched: "7th house, Sukra Nadi explains about spouse")
+```
+Deva Keralam [hs
+1821-1822. About spouse: In the chapteron § Aroodha ascendant cannot be Virgo. For Taurus,
+the 7th house, Sukra Nadi explains about spouse. Venus in Cancer yields Virgo as Aroodha Lagna.
+Saturn ruling the 7th house, if placed in afixed Similarly for Scorpio, Mars in Aries takes Arood-
+sion and fixed Navamsa, as Jupiter is in an ha Lagna to Virgo. Thus by implication, this
+angle/trine, the native of Sudha Nadiamsa particular rule relates only to Taurus and Scorpio
+```
+
+*... and 2 more references in this book*
+
+#### From: Astrology_ destiny and the wheel of time_ban (12 references)
 
 **Page 59** (matched: "Venus gets exalt")
 ```
@@ -328,6 +5092,17 @@ house for great wealth.
 If U happens in Pisces here Venus gets exalted and Mars the
 yogakaraka planet too becomes excellent.
 7/i
+```
+
+**Page 119** (matched: "7th house (marriage")
+```
+Sun Jup . Ven Rah
+marriage of the elder brother,
+In Drekkana
+(a) The Sun Is In the 7th house (marriage).
+(b) The Moon Is the lord of the 7th house.
+(c) Venus, a natural Darakaraka4 Is aspected by 7th lord. Moon,
+EJectwu
 ```
 
 **Page 141** (matched: "delay marriage")
@@ -374,121 +5149,71 @@ through a very sdentiflc formula which takes rtiem nearest to the
 year of marriage.
 ```
 
-*... and 6 more references in this book*
-
-#### From: Deva Keralam 1 Chandrakala Nadi (10 references)
-
-**Page 20** (matched: "Saturn in Aquarius")
+**Page 147** (matched: "delay factor of marriage")
 ```
-lord, auspicious effects, 2nd dasa.
-
-16. Half-sister, second dasa, first 2 years, Agada vpn
-Nadiamsa, 11th lord. 36. Malefic dasa, Saturn in Aquarius, 5th lord’s
-
-17. 7th lord, Sun without beneficial aspect, 9th dasa, oti 10rd.
-lord in 4th house. 37. Prosperity, Rahu-Sun in Aquarius.
+f
+statistical-empirical astrological research of the world.
+3. Delay factor tn Marriage
+This team has worked on the delay factor of marriage also
+through a very sdentiflc formula which takes rtiem nearest to the
+year of marriage.
+4* Dasha System
 ```
 
-**Page 21** (matched: "Saturn in Aquarius")
+**Page 148** (matched: "delay In marriage")
 ```
-38. Sun in Kumara Nadiamsa, Cancer Lagna - 58. Saturn in Aquarius with Libra Navamsa, evils,
-Uraga Nadiamsa. Saturn’s transit and 11th lord’s Navamsa.
-39. Umbilical cord, other effects, father, elder 59. Father’s death, danger to mother, fortunes,
-brother, Moon-Rahu. old age.
-```
-
-**Page 21** (matched: "Venus in Capricorn, 76. ~~ Mars, 3rd lord, 11th lord, 2 planets exalt")
-```
-54. Capricorn Lagna - Sachira Nadiamsa. Kamala Nadiamsa, Saturn - Mercury.
-55. Relatives, maternal grand-father, maternal 75.  Satum - Sun, Lakshmi Yoga, Danger to mother,
-uncles. Scorpio or Aries navamsa.
-56. Paternal grand-father, Venus in Capricorn, 76. ~~ Mars, 3rd lord, 11th lord, 2 planets exalted,
-co-born, lords of 9th and 10th, 8th lord, wife, brother-in-law.
-Saturn-Mars, Lagna lord. 77. Sister-in-law, Saturn in Leo navamsa, evils,
-17.  6thlord, brother-in-law, Saturn in Capricorn. Ketu with Mars, maternal relatives.
+groping Ift the dark,
+$. The Principle given
+Vet the methods shown In the two examples given here are
+sound for delay In marriages, In .traditional families,
+I tiled this on the horoscopes of women of western countries
+and found that they lived with someone with certain happlenss, but
+late In life. Till then ft was a case oF changing lovers.
 ```
 
-**Page 59** (matched: "Venus Dasa, Venus is in exalt")
+**Page 166** (matched: "Saturn In Aquarius")
 ```
-333-334 1/2. Physical Troubles: See if the  ™oves in end of Arics/Taurus, or its trine, for
-lord of the ascendant aspects and the 8th lord “uch remedics be done. If at the time of com-
-joins (the said Deha/Jeeva Rasi ) and if sc menccment of Venus Dasa, Venus is in exaltation,
-declare physical troubles to the native on the (the Dasa will give) Raja Yoga effects. In the 3rd
-week-days indicated by the 6th/8th lords during dasa, wealth will accruc.
-the setting periods of Mercury/Jupiter. Further T garry ara
-```
-
-**Page 61** (matched: "Saturn in Aquarius")
-```
-accrue to him through his father. amare Mirra wentt werd
-Notes: The first line of sloka 346 states that THRAX SESaNTY qa TAS aarTr PQ4Rt |
-one born in Chakra Yoga, with the rising Nadiam-
-sa being Varuna (in Sagittarius) will be ever for- 351-352 Saturn in Aquarius with Capricorn
-tunate. There seems to be some erroneous  Navamsa at birth will cause second marriage
-composition in the line, hence not added in the either inthe last one-third part of Vipat Dasa (3rd
-translation. from birth) or in the first half of Kshema Dasa
+hope. The child was passing through the period of Mercuty-Rahti-
+Venus, i Here Mercury as the sixth lord dftd Rahu and Venus In the
+twelfth house made the child's hospitalisation Inevitable, (n translr,
+Saturn In Aquarius and Mars In Leo occupying two-eighth axis was
+not helpful at all. Only the aspect of Jupiter from Leo on Rahu and
+Venus could again raise some hopes.
+Mars Ran /
 ```
 
-*... and 5 more references in this book*
-
-#### From: vedic_astro_textbook (9 references)
-
-**Page 103** (matched: "Venus in own sign")
+**Page 183** (matched: "delay In some areas,, like marriage")
 ```
-Part 1: Chart Analysis 91
-physical vehicle owned by a person. Someone with Venus in own sign in A4 and
-Saturn in 4th (in D-16) may own luxurious vehicles (i.e. perceived to be happy with
-respect to vehicle) but not be happy. Someone with Saturn in A4 and Venus and
-Jupiter in 4th (in D-16) may own a small vehicle (i.e. perceived to be unhappy with
+is the primary principle to be stressed.
+He should then proceed without using the Vlmshottari major
+period to time events by merely looking at factors of speed In some
+areas and delay In some areas,, like marriage, children, career
+patterns and put his own analysis and question.
+About ten questions is what the astrologer should be able to
+put Six of them should be correct, at least. Only then he should
 ```
 
-**Page 130** (matched: "Venus is in a quadrant in own sign or exalt")
+**Page 183** (matched: "Venus exalt")
 ```
-is valorous and has a slender build. He knows the weaknesses of others. He is lively,
-but has some vacillation. He is charitable.
-11.4.4 Maalavya Yoga
-Definition: If Venus is in a quadrant in own sign or exaltation sign, it is called
-Malavya yoga. In other words, Venus should be in Ta, Li or Pi and he should be in
-1st, 4th, 7th or 10th from lagna. This yoga does not apply from Moon and it applies
-mainly in rasi chart. As an example, a native with lagna in Ge and Venus in Pi will
+AfiiftUOgy. Destiny and Iho Wheel o# Tlrno FORMULATING SOME ASTROLOGICAL «
+(b^ The sub-sub period of Venus exalted and vargottama was the
+best time to enter public life as a politician,
+JOHN KENNEDY OF U.S.A.
+The broad pattern of anyone's life will emerge out of a bare
 ```
 
-**Page 143** (matched: "Venus and exalt")
+**Page 185** (matched: "delay fn his marriage")
 ```
-friendly or exaltation sign, then this yoga is present. One born with this yoga is very
-learned, skillful, intelligent, rich and famous. He is praised by all. Saraswathi is the
-goddess of learning.
-Amsaavatara Yoga: If Jupiter, Venus and exalted Saturn are in quadrants, then this
-yoga is present. One born with this yoga becomes a king or an equal. He is learned
-and pleasure-loving. He has unsullied reputation. Amsaavatara means one who is an
-incarnation of a part of the Lord.
-```
-
-**Page 153** (matched: "Venus is exalt")
-```
-Basic Principle: The 5th and 9th lords and planets joining them are capable of giving
-money. They give dasas in their dasas. The 11th house is also important for material
-gains and it should be strong. The 2nd house is also important. If Moon, Mercury,
-Jupiter or Venus is exalted in the 2nd house, it makes the native very rich.
-In addition to these general principles, Parasara listed specific combinations for
-various lagnas. In all these combinations, the strength of the participating planets
-decides the magnitude of results experienced.
+He died In lupker-SaturrvSAturn. which Is perfectly In harmony
+with the prindples of Hindu astrology*
+Marriage
+There must have been lot of delay fn his marriage* Many factors
+present hefe would have made it a no-marrlege horoscope but an
+excellent Venus with Jupiter, (he seventh lord and tiniiffncted seventh
+house does promise marriage.
 ```
 
-**Page 207** (matched: "Venus: [exalt")
-```
-of groups of wicked men.
-Jupiter: Virtuous, pure happiness and comfort, splendorous, visits holy places of
-Krishna; [if exalted] excellent fame in the whole world, very opulent.
-Venus: [exalted or in own/friendly rasi] has a conduct similar to a mighty elephant;
-equal to a king, interested in poetry, arts and music.
-Saturn: Virtuous, intelligent, opulent, likes entertainment, kind, devotee of Shiva.
-Rahu: Prosperous in foreign places, virtuous, welthy, high position, good deeds, a
-```
-
-*... and 4 more references in this book*
-
-#### From: A Text book of astrology_Anil Kumar Jain (8 references)
+#### From: A Text book of astrology_Anil Kumar Jain (9 references)
 
 **Page 33** (matched: "Delay in marriage")
 ```
@@ -499,6 +5224,17 @@ stone etc. Delay in marriage. Peaceful and pleasant domestic life, have limited 
 of children. Good income, success in profession, owner of property. Fond of being
 administered medicine even for insignificant complaint. Being earthy sign, taken
 pleasure in gardening and agriculture. Fond of accumulating wealth. Adventurous,
+```
+
+**Page 42** (matched: "Kalatra")
+```
+Evil or Trik Houses 6th, 8th, and 12th
+Death inflicting or Marak Houses 2nd and 7th
+The twelve houses are known an Tanu (Physique), Dhana (Wealth), Sahaja (Younger
+brother/ Sister), Matru (Mother), Putra (Progeny), Ah (Enemies), Kalatra (Spouse),
+Ayur (Longevity), Dharma (Religion), Karma (Livelihood), Labha (Gains) and Vyay
+(Losses)
+In terns of native's life, the Kendras denote childhood, the panaparas denote middle
 ```
 
 **Page 117** (matched: "delay in marriage")
@@ -544,7 +5280,33 @@ Libra, Capricorn or Aquarius sign - cause of being fortunate. If with Sun and Ma
 destroyer of co-borns. If with Rahu - ailments of arms or injury in arms. If in Aquarius
 ```
 
-*... and 3 more references in this book*
+**Page 144** (matched: "late marriage")
+```
+In female horoscope - obstacles in marriage till the age of 27, two marriages, separation
+from husband, long life, husband is much older, characterless, politician, devoid of
+happiness, ill health, fond of wine, wicked friends, stones, enjoys the life, marriage
+with widower but prosperous. If aspected by malefics-late marriage.
+A Text Book of Astrology 141
+```
+
+**Page 159** (matched: "Late Marriage")
+```
+(c) Ketu aspected by benefics in 7* house
+(d) Lord of 7th is aspected by Jupiter or Venus
+2. Late Marriage:
+(a) When Rahu - Ketu axis passes very close to Lagna, Venus or Moon
+(b) Saturn, Sun or Mars are posited in 7th house
+(c) Moon in 4* /10* house in case of a male and Sun in 4* /10* house in case of
+```
+
+**Page 160** (matched: "Venus should be in quadrant which should be his own or exalt")
+```
+(4) Malavya Yoga :
+For this yoga Venus should be in quadrant which should be his own or exaltation sign.
+The native born in this yoga shall have strong physique and strong mind. He will be
+wealthy and blessed with good wife and children. He will enjoy good conveyance,
+comforts and pleasures. He will be renowned and learned.
+```
 
 #### From: A.K. Gour_Astrology of Professions (8 references)
 
@@ -603,67 +5365,130 @@ of luck along with Saturn the Dashamsha LL in exaltation and Venus in
 her Mool Trikon sign Libra. Rahu/Ketu axis adds to the strength. The
 ```
 
-*... and 3 more references in this book*
-
-#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (7 references)
-
-**Page 14** (matched: "Venus, falls in its exalt")
+**Page 187** (matched: "Venus is exalt")
 ```
-multiple raja yogas or angle-trine combinations. To see the underlying strength of this combination,
-note that Mercury continues to have a good dignity in the navamsha, falling in its own sign, Gemini,
-while the Sun is in its exaltation sign, Aries. It is also worthwhile to note that her ascendant is
-vargottama as is Rahu/Ketu, and that the yogakaraka planet, Venus, falls in its exaltation sign, Pisces.
-My point here is that five of her grahas are well placed in this most important of divisional charts and
-can therefore give their results very strongly.
-Navamsha (D-9) Dharma/Spouse Navamsha (D-9) Dharma/Spouse
+,
+the Navamsha, Saturn is in its own house and Mercury is exalted in
+10H. This is a Vargottama Navamsha which is a potent augmentation
+of strength. In Dashamsha, Mercury is the exalted LL, Venus is exalted
+in 7H, notice mutual aspect of Venus and Mercury the exalted 10th
+and 9th lords of the Dashamsha. This excellent improvement is
+strengthened by the 11th lord Moon's exaltation in the 9H. Sun in 1 Ith
 ```
 
-**Page 35** (matched: "Venus is exalt")
+**Page 187** (matched: "Venus and Mercury the exalt")
 ```
-Me
-Me
-9 Sag 8 Sco 7 Libr 6 Virg
-Here the AmK Venus is exalted and with the Moon (a special Jaimini raja yoga) and in mutual aspect
-with the AK Saturn (all dual signs aspect each other).
-Beginning in the fall of 1968 Phil Jackson began his Libra period, from where the AmK Venus falls in
-the 10th house. He was a defensive specialist and rebounder for the New York Knickerbockers at this
-```
-
-**Page 58** (matched: "Venus. Venus is also conjunct exalt")
-```
-this from Mercury, the karaka, the 5th lord Saturn, is with the 8th lord, Mars. This is
-indicates his passion for suspense and horror.
-It was in his Venus mahadasha that he began undergraduate studies in literature, a
-subject represented by Venus. Venus is also conjunct exalted 3rd lord, Mercury, further
-58
+the Navamsha, Saturn is in its own house and Mercury is exalted in
+10H. This is a Vargottama Navamsha which is a potent augmentation
+of strength. In Dashamsha, Mercury is the exalted LL, Venus is exalted
+in 7H, notice mutual aspect of Venus and Mercury the exalted 10th
+and 9th lords of the Dashamsha. This excellent improvement is
+strengthened by the 11th lord Moon's exaltation in the 9H. Sun in 1 Ith
+H is also excellently placed. Since there is improvement in the
 ```
 
-**Page 99** (matched: "Venus
-in Libra")
+**Page 213** (matched: "Venus is exalt")
 ```
-the seventh house, showing a lot of comfort and courage to get involved in a connection.
-RA has been married four times. Obviously, he is very good at it! He sees himself as existing in a
-partnership, and once he finds the one, he pulls the trigger and gets married. We can see all of the Raja
-Yogas in this relationship chart giving him the opportunities shown in the Rasi chart (Rahu in 7th , Venus
-in Libra, 7th lord in its own sign).
-There were several marriages of 1 to 5 years of duration. One wife died. There was also one long
-marriage of 18 years (officially). Many ups and downs and crucial, personal lessons have been learned
-```
-
-**Page 99** (matched: "Venus ruling the Dasamsa and the exalt")
-```
-At the beginning of the Venus dasa he got a job at the US Post office, which was stable employment for
-more than 20 years, after which he retired. Since then he pursues his true love of music, singing spiritual
-music in particular, and also service to his guru (Libra / Venus / Saturn energy). It is clear that a love
-music and creativity is indicated with Venus ruling the Dasamsa and the exalted Moon. Yet, the career
-ratio of importance for him is not very high, compared to his personal growth and relationships, as we
-discovered.
-If his Rasi chart would have shown more focus on career accomplishment, this d10 could have propelled
+Illustration - 7
+(Science Graduate)
+DOB: 31-3-1977; JOB: 10:45; Jamalpur (W.B.)
+5L Venus is exalted in 10H with Digbali Sun. 5H is in Rahu/Ketu
+Sat (R) Jup Sun Mer Jup Lag
+Moon Ven (R) Ket
+Lag
 ```
 
-*... and 2 more references in this book*
+#### From: Astrology in Marriage Counselling_Manik Chand Jain (8 references)
 
-#### From: Narayana Dasa by Sanjay Rath (6 references)
+**Page 50** (matched: "Venus in Libra")
+```
+is a love which is worth while experiencing —a love neither
+sensual, nor emotional and still highly satisfying —and it can
+be available to you if you seek it.
+LIBRA — With Venus in Libra, you have a sympathetic,
+refined and idealistic disposition. You are probably more
+romantic than possessive, more idealistic than physical in the
+expression of your affection. When you find a mate who can
+```
+
+**Page 55** (matched: "7th house of a horoscope governs marriage")
+```
+get a reading of the horoscope of a person you intend to
+marry, and this will give you success possibilities and ways
+for happiness in married life.
+The 7th house of a horoscope governs marriage. Whether
+single or married, you will find the following information
+about the 7th-house conditions interesting and helpful. You
+may gain happiness, avoid frustration, be able to create a
+```
+
+**Page 58** (matched: "Marriage is gratifying with Venus in the 7th house")
+```
+elsewhere in your chart. The love which is Venus-inspired
+tends to be based on gentle understanding. Together you will
+share and enjoy artistic tastes and lovely environment.
+Marriage is gratifying with Venus in the 7th house and it
+makes it a serenely contented state. You will bejoyous as you
+are able to win the rewards of love in emotional pleasure.
+You want nothing crude or inconsiderate mingled with love.
+```
+
+**Page 60** (matched: "marriage, delay")
+```
+under close inspection at all times when Saturn is in your 7th
+house. Yet your trend is towards endurance in love once
+you establish it in a solid marriage. You may find some
+restrictions in marriage, delays in marriage, for Saturn is the
+planet of restrictions, delays and self-control. However, you
+will be dutiful no matter whatever be the cost or
+inconvenience.
+```
+
+**Page 70** (matched: "marriage (7th house")
+```
+later came to know; he did not change even after she left him.
+But her willingness to take a chance, stimulated by a strong
+Uranus position opposite her 7th-house Moon, brought into
+her life a marriage (7th house) with a Uranian person. That is
+what she was subconsciously looking —for someone or
+something different. That is what she got —someone entirely
+different from her own standards of honesty and reliability,
+```
+
+**Page 125** (matched: "marriage; but whatever matters relate to the 7th house")
+```
+of the other planets to the rulers of the 7th and the 1st zones
+are also very helpful in throwing light on this.
+True, the 7th house symbolises other things besides
+marriage; but whatever matters relate to the 7th house that
+are up for solution, the answers will be found in the same
+way. This is; if a person cannot get along wih marriage partner,
+he is liable also to be in difficulty with a business partner,have
+```
+
+**Page 125** (matched: "partner and the 7th")
+```
+habit to take all they can get. There is bound to be difficulty
+in either case, in the long run. As there is a time for taking,
+there is also a time for giving —a balancing of the scales
+between the 1st house, one partner and the 7th house, the
+other partner. In this way, harmony is reached and
+cooperation becomes happily the rule.
+The sign of the natural 7th house is the balanced scales,
+```
+
+**Page 174** (matched: "7th house of marriage")
+```
+advantage over her.
+Further more, this young woman was born with two
+strikes on her. In addition to the retrograde Mars, Venus was
+square Neptune from the 7th house of marriage. Saturn in the
+4th was in opposition to Neptune in the 10th. Neptune has
+now retrograded to the exact square of Venus in her 7th,
+showing the trickery and deceit of her marriage partner —
+```
+
+#### From: Narayana Dasa by Sanjay Rath (8 references)
 
 **Page 22** (matched: "Aquarius Moon 7th house")
 ```
@@ -709,6 +5534,26 @@ Parivartana (exchange) Rajyoga involving the fourth and ninth
 houses as Jupiter and Venus exchange signs. It is also noteworthy
 ```
 
+**Page 102** (matched: "Kalatra")
+```
+seventh houses, the Sun, Mercury and Saturn qualify as Yogada.
+The seventh house from Lagna is Aquarius aspected by the
+Darakaraka Mars. The seventh Lord from Venus (Naisargika
+Kalatrakaraka88) is Moon, which is in Scorpio. He was married in
+Taurus Dasa, Aquarius Antardasa and Scorpio Pratyantar dasa on
+5 March 1950. Although the wedding was fixed for January, it had
+to be deferred due to an accident where his leg sustained multiple
+```
+
+**Page 102** (matched: "Kalatra")
+```
+The second political phase from 1966 coincides exactly
+with the advent of the Leo Narayana Dasa. The Dasa Pravesh
+Chakra for Leo Narayana dasa is given in Chart-21.
+88 Naisargika means natural and Kalatrakaraka refers to the mate or spouse
+significator Venus.
+```
+
 **Page 124** (matched: "Venus is exalt")
 ```
 In chart 29, the fifth lord has gained three Navamsa’s
@@ -718,7 +5563,235 @@ Sun exalted in Aries (Second Son) and ninth lord Venus is exalted
 with Ketu in Pisces (Third Son).
 ```
 
-*... and 1 more references in this book*
+**Page 162** (matched: "Venus. Being exalt")
+```
+health related matters and medicine. However, the Siddhamsa
+Narayana Dasa of cancer running during the period of her higher
+education would not favor this, as Jupiter is not exactly friendly to
+Venus. Being exalted Lord of the fourth house, she secured
+admission to the most expensive and best Sophia College for
+studies in pathology etc, and graduated
+TRIMSAMSA (D-30 CHART)- EVILS
+```
+
+#### From: BPHS - 1 RSanthanam (7 references)
+
+**Page 163** (matched: "SPOUSE...I f the 7th")
+```
+rvife, if not progeoy.
+sqi ilffdf ?rR qrqrqeqft€ |
+qTtr{ qt ilFr Grrit q firtqa: nltrtl
+16. EVILS TO SPOUSE...I f the 7th houseo r its lord is
+'incur
+conjunct a malefic the native's wife will evils, especialtyif
+the 7th houseo r its lord is bereft of strength.
+```
+
+**Page 167** (matched: "spousein his l9th year if the 7th")
+```
+35-39. TIMING OF WIFE'S DEATH .. Loss of wife wil
+occurinthe lSth yearor33rd yearof age'oft he nativeift he
+?fh lord is in fall white Venus is in the 8th. One will loseh is
+spousein his l9th year if the 7th lord is in the gth while the
+l2th lord is in the 7th. The native's wife will die within three
+dayso f marriaged ue to snakeb ite if the native hasR ahu in the
+2nd and Mars in the 7th. If Venus is in the gth while his
+```
+
+**Page 213** (matched: "spousew, e cannoti gnoret he dispositiono f the 7th")
+```
+the native in que3tion)." This is how sageP arasarad escribes
+the wife of the nativei n questioni n verses2 7-29 ibid. Though
+no direct reason has been attributed for the chastity of the
+spousew, e cannoti gnoret he dispositiono f the 7th lord, parti-
+cularly with debilitatedM oon in the 7th. The ?th lord is in the
+' 4th giving the native a spousew ho would be extremelyd evout
+proving an asset to the husband. As such the view of our
+```
+
+**Page 294** (matched: "Kalatra")
+```
+5. Mantra or PutraP ada Arudha of 5th house.
+6. Roga or Satru Pada Arudha of 6th house:
+'1.
+Dara Pada( KalatraP ada) Arudha of 7th house.
+8. MaranaP ada Arudha of 8th house.
+9. Pitru Pada Arudha of 9th house.
+10. Karma Pada Arudhao f l0th house.
+```
+
+**Page 300** (matched: "Venus be exalt")
+```
+the 2nd oflagnaPada.
+swrql tQtqf qr frql il qr ou*,
+qfrt Edt $rqit: fanf ffi ?f6rrr rlrrr
+28. Anyone of Mercury, Jupiter and Venus be exalted in
+the 2nd from Iagna Pada and be with strength, will pake the
+subjectr ich.
+. t qlrnq qi wi qqrq qfrfrr qqt I
+```
+
+**Page 391** (matched: "Venusa nd Mercury is exalt")
+```
+t{t"ntd qfwio} il dts} qr {s qErrn I
+lul fi u;trtFrrT: fqri fq{rFili fqr: rrqerr
+. 18. The native will be wealthyi f one amongt he Moon,
+fupiter, Venusa nd Mercury is exaltedi n the 2nd house.
+qGisrat Edlt .n rE-Fq?'tilrin qil: I
+ed ntq rqfrrarql ttraql TTwtqlrreu: l Q.tl
+19. Ifthe 6th, Eth andthe 3rd are occupiedbydebili-
+```
+
+**Page 473** (matched: "venus in exalt")
+```
+474 Brihat parasara Hora Sastra
+well. should upavesanavasthao ccur to venus in exaltation
+or in own sign, tbe native wilr be endowedw irh ail kinds of
+happiness. There will be sure rosso f eye sighti f venus is in
+Netrapani Avastha. The l0th house pracemento f venus in
+```
+
+#### From: mahadashas-the-speed-of-light_compress (7 references)
+
+**Page 29** (matched: "7th house in the sign of Aquarius")
+```
+If you are a Leo ascendant with your Sun in the 3rd house at 21
+degrees, this means the Sun is in the sign of Libra and Nakshatra
+of Vishaka. Let's still assume that Jupiter is in the 9th house in the
+sign of Aries. But Mars is in the 7th house in the sign of Aquarius.
+The person is running through a MD of the Sun and AD of Mars.
+Sun rules the 1st house and Mars rules the 4th and 9th house. What
+will this time period bring?
+```
+
+**Page 85** (matched: "Venus is well placed as in exalt")
+```
+feminine personalities. Being the natural karaka of luxury, wealth
+and arts, the native indulges in activities where they will seek
+immense pleasure through material wealth and relationships. If
+Venus is well placed as in exalted, in own sign, in Pushkara
+Navamsa, or Pushakra baga, or even Vargottama, the native will
+attract people to themselves along with wealth. Venus can be
+debilitated and one will find success if Venus is at 28th degree of
+```
+
+**Page 93** (matched: "7th house will bring a main focus on marriage")
+```
+Venus in the 7th house:
+Venus in the 7th house will bring a main focus on marriage,
+partnerships, business and dealing with masses of people. Venus is
+the karaka of the 7th house and although most astrologers would
+say it's a bad placement for Venus I beg to differ. In Vedic
+```
+
+**Page 146** (matched: "Saturn in the 7th house")
+```
+Saturn in the 7th house:
+Many ignorantly dread this placement of Saturn without really
+understanding this planet. Saturn is commitment, duty, sacrifice,
+discipline, and organization, but also there is a key word here:
+```
+
+**Page 159** (matched: "7th house of marriage")
+```
+attention on social media through superficial ways that boost their
+ego. But the main key during this period is dealing with
+information.
+Rahu in the 3rd house aspects the 7th house of marriage, legal
+partnerships, other people, and trade. This aspect brings about a
+foreign spouse. There is a huge deal of interaction with the
+opposite sex, sexual obsession, and the need to form a union.
+```
+
+**Page 165** (matched: "7th House, one will marry a foreign spouse")
+```
+finding self-esteem through other people. It wants to be admired
+by the opposite sex and society. It seeks a union leading to
+increased self-worth and gains. Rahu is about breaking taboos and
+in the 7th House, one will marry a foreign spouse or someone from
+another cast or creed. This position of Rahu also brings massive
+fame during the period that the 10th lord or ascendant is conjunct.
+Rahu amplifies the energy of any house or planet it sits with. In
+```
+
+**Page 166** (matched: "marriage. The spouse will bring gains, but the Lord of the 7th
+house")
+```
+native is to find gains through marriage and legal business
+partnerships. This aspect shows that through other people, one will
+gain wealth; whether it's a media business, legal partnerships, or
+marriage. The spouse will bring gains, but the Lord of the 7th
+house should be well placed and not debilitated. Usually, this
+placement shows someone who wants to give up everything in life
+and let spirituality take over due to Ketu being in the 1st House.
+```
+
+#### From: Introduction-to-Vedic-Astrology-Sanjay-Rath (6 references)
+
+**Page 74** (matched: "Venus is exalt")
+```
+Count the planet from Sun (1) Sixth planet reckoned from Sun is Venus
+Determine if any planet conjoins None
+Venus
+Determine if Venus is exalted None
+(male) or debilitated (female)
+Deduction A female birth is indicated which seems to
+be wrong as this is a male chart.
+```
+
+**Page 119** (matched: "Vivaha")
+```
+destruction of Dharma. In these tense in Hindu wedding the son-in-law is regarded as Vishnu as
+his coming to the family has led to an increase in Dharma.
+The Sun is a significator of Dharma and hence Maharishi Jaimini teaches that the Sun can never
+be a malefic for Upapada (Arudha of 12th house symbolizing the Vivaha Mandapa[1]). Rahu is
+the greatest enemy of the Sun and causes its
+eclipse. Thus Rahu symbolizes destruction of
+Dharma and also widowhood. Saturn is an enemy
+```
+
+**Page 121** (matched: "marriage problems like delay")
+```
+sexuality and conjoined with Rahu shows the extensive nature of these activities. Her life is a sad
+story of exploitation and rape finally leading to the infamous profession of prostitution.
+VEDIC REMEDY
+There are various remedial measures given for solving marriage problems like delay in marriage,
+divorce etc. Some of them are very tamasic like black magic and others give temporary results.
+When it is clearly established that Dharma alone protect the purity/marriage then the highest and
+surest remedy lies in increasing Dharma. Bhagwan Vishnu sits in the ninth house of Dharma and
+```
+
+**Page 127** (matched: "7th house ‐ spouse")
+```
+4th house ‐ moksha or [home in real life including personal friends who come home, personal servants
+at home, etc]
+7th house ‐ spouse, people who interact with you for matters of pleasure and entertainment…another
+group of friends
+10th house ‐ all people associated with your work and finances
+Souvik’s Questions: Param Guru Sanjay Rathji, Pranam.
+```
+
+**Page 136** (matched: "Venus rules the signs of exalt")
+```
+6. Venus rules the Mritunjaya Mantra and the strength of Venus in this division is important for
+recovery from diseases. The Sun and the Moon represent the Atma (Soul) and the Mana (Mind)
+respectively. Affliction to the Sun will result in suffering, poverty and misery while affliction to
+the Moon will cause ill health and death. Since Mars and Venus rules the signs of exaltation of
+the Sun and Moon, they represent the Physical and Mental strength of the native to cope with
+distress, disease and other evils respectively.
+Examine the trimsamsa of the chart above
+```
+
+**Page 205** (matched: "7th house, Leo")
+```
+Moon, showing concerns of the native and inappropriate advances by male servants
+towards the native.
+3. Hidden Answers: The hidden answers can be seen from the Prasna Arudha, which
+in our case also comes to the 7th house, Leo, which shows the the 6th lord coming to
+the 7th house with karaka Saturn and Ketu. This shows that problem of inappropriate
+advances from the servants towards the native. There could be serious trouble due to
+involvement of Ketu as well. The native was asked to fire the servant immediately.
+```
 
 #### From: BPHS - 2 RSanthanam (5 references)
 
@@ -775,106 +5848,6 @@ qn3oa qrqgce
 itgttilc*q. ft'( llq.ll
 ```
 
-#### From: BPHS - 1 RSanthanam (3 references)
-
-**Page 300** (matched: "Venus be exalt")
-```
-the 2nd oflagnaPada.
-swrql tQtqf qr frql il qr ou*,
-qfrt Edt $rqit: fanf ffi ?f6rrr rlrrr
-28. Anyone of Mercury, Jupiter and Venus be exalted in
-the 2nd from Iagna Pada and be with strength, will pake the
-subjectr ich.
-. t qlrnq qi wi qqrq qfrfrr qqt I
-```
-
-**Page 391** (matched: "Venusa nd Mercury is exalt")
-```
-t{t"ntd qfwio} il dts} qr {s qErrn I
-lul fi u;trtFrrT: fqri fq{rFili fqr: rrqerr
-. 18. The native will be wealthyi f one amongt he Moon,
-fupiter, Venusa nd Mercury is exaltedi n the 2nd house.
-qGisrat Edlt .n rE-Fq?'tilrin qil: I
-ed ntq rqfrrarql ttraql TTwtqlrreu: l Q.tl
-19. Ifthe 6th, Eth andthe 3rd are occupiedbydebili-
-```
-
-**Page 473** (matched: "venus in exalt")
-```
-474 Brihat parasara Hora Sastra
-well. should upavesanavasthao ccur to venus in exaltation
-or in own sign, tbe native wilr be endowedw irh ail kinds of
-happiness. There will be sure rosso f eye sighti f venus is in
-Netrapani Avastha. The l0th house pracemento f venus in
-```
-
-#### From: Introduction-to-Vedic-Astrology-Sanjay-Rath (3 references)
-
-**Page 74** (matched: "Venus is exalt")
-```
-Count the planet from Sun (1) Sixth planet reckoned from Sun is Venus
-Determine if any planet conjoins None
-Venus
-Determine if Venus is exalted None
-(male) or debilitated (female)
-Deduction A female birth is indicated which seems to
-be wrong as this is a male chart.
-```
-
-**Page 121** (matched: "marriage problems like delay")
-```
-sexuality and conjoined with Rahu shows the extensive nature of these activities. Her life is a sad
-story of exploitation and rape finally leading to the infamous profession of prostitution.
-VEDIC REMEDY
-There are various remedial measures given for solving marriage problems like delay in marriage,
-divorce etc. Some of them are very tamasic like black magic and others give temporary results.
-When it is clearly established that Dharma alone protect the purity/marriage then the highest and
-surest remedy lies in increasing Dharma. Bhagwan Vishnu sits in the ninth house of Dharma and
-```
-
-**Page 136** (matched: "Venus rules the signs of exalt")
-```
-6. Venus rules the Mritunjaya Mantra and the strength of Venus in this division is important for
-recovery from diseases. The Sun and the Moon represent the Atma (Soul) and the Mana (Mind)
-respectively. Affliction to the Sun will result in suffering, poverty and misery while affliction to
-the Moon will cause ill health and death. Since Mars and Venus rules the signs of exaltation of
-the Sun and Moon, they represent the Physical and Mental strength of the native to cope with
-distress, disease and other evils respectively.
-Examine the trimsamsa of the chart above
-```
-
-#### From: mahadashas-the-speed-of-light_compress (3 references)
-
-**Page 29** (matched: "7th house in the sign of Aquarius")
-```
-If you are a Leo ascendant with your Sun in the 3rd house at 21
-degrees, this means the Sun is in the sign of Libra and Nakshatra
-of Vishaka. Let's still assume that Jupiter is in the 9th house in the
-sign of Aries. But Mars is in the 7th house in the sign of Aquarius.
-The person is running through a MD of the Sun and AD of Mars.
-Sun rules the 1st house and Mars rules the 4th and 9th house. What
-will this time period bring?
-```
-
-**Page 85** (matched: "Venus is well placed as in exalt")
-```
-feminine personalities. Being the natural karaka of luxury, wealth
-and arts, the native indulges in activities where they will seek
-immense pleasure through material wealth and relationships. If
-Venus is well placed as in exalted, in own sign, in Pushkara
-Navamsa, or Pushakra baga, or even Vargottama, the native will
-attract people to themselves along with wealth. Venus can be
-debilitated and one will find success if Venus is at 28th degree of
-```
-
-**Page 146** (matched: "Saturn in the 7th house")
-```
-Saturn in the 7th house:
-Many ignorantly dread this placement of Saturn without really
-understanding this planet. Saturn is commitment, duty, sacrifice,
-discipline, and organization, but also there is a key word here:
-```
-
 #### From: A guide to Hindu astrology_T.S. Narayanaswami Iyer (2 references)
 
 **Page 30** (matched: "Venus in Libra")
@@ -899,28 +5872,51 @@ will be injured by the State, and give up his attempts there-
 by and, though his wife may live with him long, he will not
 ```
 
-#### From: Astrology in Marriage Counselling_Manik Chand Jain (2 references)
+#### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (2 references)
 
-**Page 50** (matched: "Venus in Libra")
+**Page 167** (matched: "Venus is exalt")
 ```
-is a love which is worth while experiencing —a love neither
-sensual, nor emotional and still highly satisfying —and it can
-be available to you if you seek it.
-LIBRA — With Venus in Libra, you have a sympathetic,
-refined and idealistic disposition. You are probably more
-romantic than possessive, more idealistic than physical in the
-expression of your affection. When you find a mate who can
+ematical and analytical skills and prepares the
+ground for. a good scholar. The Strn., representing
+illumination, is also in a fixed sign as it's dispositor
+Venus is exalted in the ninth house of higher educa
+tion with debilitated Mercury. Thus, Mercury gets
+neechabhanga. The ninth lord and Karaka for knowl
+edge Jupiter is exalted in the ascendant forming a
 ```
 
-**Page 60** (matched: "marriage, delay")
+**Page 192** (matched: "spouse (Rahu & Saturn conjoining 7th")
 ```
-under close inspection at all times when Saturn is in your 7th
-house. Yet your trend is towards endurance in love once
-you establish it in a solid marriage. You may find some
-restrictions in marriage, delays in marriage, for Saturn is the
-planet of restrictions, delays and self-control. However, you
-will be dutiful no matter whatever be the cost or
-inconvenience.
+The seventh lord from lagna is Saturn placed in
+the 9th house (rich husband) conjoined Rahu and
+Venus. This generates a dangerous yoga for destruc
+tion of spouse (Rahu & Saturn conjoining 7th Lord &
+Venus in the ninth house). The presence of the second
+lord Sun and third lord Mercury is also not beneficial
+```
+
+#### From: jyotish_astrology-and-timing-of-marriage_-k-n-rao_-english_hindi (2 references)
+
+**Page 13** (matched: "partner and being the lagna or 7th")
+```
+Chapter- 2
+Parameters - Timing of Marriage
+"A successful marriage depends on two Navamsha (DKN), Dara Pada (DP), Up-Pada (UP)
+factors: finding the right partner and being the lagna or 7th lord of Dl or D9. As we know
+right person". All stories of why and how Jaimini's Char Dasha is a rashi based dasha and
+marriage takes place, raises question about when not a nakshatra based dasha. Hence here the AD
+the marriage shall take place, i.e., what are the rashi should establish a connection by being in
+```
+
+**Page 104** (matched: "Kalatra")
+```
+P1 I P2 I P3 I P4 I P5 P6 I P7 J P8 I 01 102 03
+what is
+traditionally I -.J I -.J I -.J I -.J I -.J X I -.J I -.J I 2H l -.J -.J
+known as 'Kalatra Sthan'. Sun is second lord and - Shahajanpur; DOM - 18-1 1-1995
+Mercury gets placed there. He got married in CSS of Mars/Venus/Sun.
+VO-Rahu/Sun/Jupiter; CO-Leo/Virgo; VS- Mars is lagna lord and is aspecting 4'" house
+Lib; OK-Saturn; OP-Gem; UP-Cancer; OKN-Aqu: while Venus is the seventh lord. In Navamsha
 ```
 
 #### From: predicting-through-jaimini-chara-dasha (2 references)
@@ -960,17 +5956,14 @@ Ans. Venus will be Vargottam in Navamsha and will also
 be exalted in Navamsha.
 ```
 
-#### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (1 references)
+#### From: kupdf.net_uttkalamrita-kalidas-ps-sastri (1 references)
 
-**Page 167** (matched: "Venus is exalt")
+**Page 11** (matched: "Vivaha")
 ```
-ematical and analytical skills and prepares the
-ground for. a good scholar. The Strn., representing
-illumination, is also in a fixed sign as it's dispositor
-Venus is exalted in the ninth house of higher educa
-tion with debilitated Mercury. Thus, Mercury gets
-neechabhanga. The ninth lord and Karaka for knowl
-edge Jupiter is exalted in the ascendant forming a
+46. What Kind ofa Treasure is it? 202
+47. The Kind ofVessel 203
+48. Is there any treasure? 203
+49-50. Vivaha Chakra 204
 ```
 
 #### From: pdfcoffee.com_243649065-jyotish-predicting-through-shodashottary-dashapdf-pdf-free (1 references)
@@ -983,6 +5976,31 @@ Marriage
 She was married on 13 June 1975. Lord of 7th Venus is exalted.
 Connection of Saturn with 7th house gave age difference of about 7
 16
+```
+
+#### From: pdfcoffee.com_astro-notes-3-pdf-free (1 references)
+
+**Page 1** (matched: "7th house you will enjoy the fruits of marriage")
+```
+7th aspect. The 7th house from any house is the Shakti of that house. If your 7th lord is in 7th house,
+my wife will be giving me Shakti. Or in other words, she will control you. If your 9th lord is in own
+house, he aspects 3rd. Your father gives Shakti to younger siblings. If you’re in a friends house, you
+will enjoy the fruits of that house. If it’s in 7th house you will enjoy the fruits of marriage, business. If
+in 5th house, fruits of children, learning, intelligence. You will enjoy from all of this. Now the Deena
+avastha – not rich or not poor. Neutral. He has no color on him. So then you must look for
+conjunctions or aspects. If there’s nothing, then look at the sign. The color will come from one of
+```
+
+#### From: pdfcoffee.com_bcpdocx-pdf-free (1 references)
+
+**Page 6** (matched: "7th house - spouse")
+```
+in D9, The PADAS of 9th house and 6th house have exchanged. Legal
+trouble connected to marriage?
+BCP technique 2 sign - virgo - In D1 7th house - spouse - Lord Mer retrograde in 9th house. -
+changes in vows connected to marriage?
+in D9, virgo is 3rd house and has A7pada. It is occupied by Ketu and
+aspected by Ju - 6th lord of navamsha
 ```
 
 #### From: pdfcoffee.com_indepth-arudapada-astro-pt-sanjay-rath-pdf-free (1 references)
@@ -1000,12 +6018,146 @@ be found in standard references. Some scholars (e.g. Sri K.N. Rao) prefer to
 
 ---
 
-### Spouse Nature (138 matches)
+### Spouse Nature (225 matches)
 *Spouse characteristics and nature*
 
-**Found in 18 books:**
+**Found in 21 books:**
 
-#### From: jyotish_astrology-and-timing-of-marriage_-k-n-rao_-english_hindi (35 references)
+#### From: predicting-through-jaimini-chara-dasha (43 references)
+
+**Page 8** (matched: "Darakaraka")
+```
+MK for Matrikaraka
+PK for Putrakaraka
+GK for Gnatikaraka
+OK for Darakaraka
+Aroodha for Aroodha or Pada Lagna
+UP for Upa-pada Lagna
+KL
+```
+
+**Page 29** (matched: "Darakaraka")
+```
+4. Matrlkaraka
+5. Putrakaraka
+6. Gnatlkaraka
+7. Darakaraka
+Sthirakaraka
+Only seven Karakas are to be used (though some talk of eight.), It
+is always safe to use the planets, Sun, M oon, Mars, Mercury, Jupiter,
+```
+
+**Page 30** (matched: "Darakaraka")
+```
+Matrikaraka (MK) Saturn 11 °05'
+Putrakaraka (PK) Sun 08°46'
+Gnatikaraka (GK) Moon 06"27'
+Darakaraka (OK) Jupiter 01°21'
+Sthirakarakas for all Twelve Houses are -
+Lagna - Sun, 2nd house - Jupiter, 3'd house - Mars. 4'" house -
+Moon,S'" house - Jupiter. 6'h house - Mars, 7'h house - Venus, 8'h house
+```
+
+**Page 39** (matched: "Darakaraka")
+```
+Capricorn.
+Putrakaraka in Scorpio aspects Capricorn, Aries and Cancer.
+Bhratrikaraka in Sagittarius aspects Pisces, Gemini and Virgo,
+Atmakaraka, Gnatikaraka and Darakaraka in Aquarius aspect Aries,
+Cancer and Libra.
+Venus the Atmakaraka is in the Navamsha of Gemini hence Gemini
+becomes the Karakamsha.
+```
+
+**Page 48** (matched: "Darakaraka")
+```
+I . Atmakaraka and Amatyakaraka together or aspecUng each other.
+2. Atmakataka and Putrakaraka together or aspecting each other.
+3. Atmakaraka and Fifth lord together or aspecting each other.
+4. Atmakaraka and Darakaraka together or aspectlng each other .
+•••
+5. Amatyakaraka and Putraka.raka together or aspecting each other.
+6. Amatyakarakil and fifth lord together or aspectlng each other.
+```
+
+**Page 48** (matched: "Darakaraka")
+```
+7. Amatyakaraka and Datakaraka together or aspecting each other.
+•••
+8. Putrakaraka and fifth lord together or aspecting each other.
+9. Puttakaraka and Darakaraka together or aspect!ng each other.
+•••
+10. Fifth lord and Darakaraka together and aspecting each other.
+Special Notes
+```
+
+**Page 48** (matched: "Darakaraka")
+```
+8. Putrakaraka and fifth lord together or aspecting each other.
+9. Puttakaraka and Darakaraka together or aspect!ng each other.
+•••
+10. Fifth lord and Darakaraka together and aspecting each other.
+Special Notes
+I . The Moon and Venus together or the Moon aspected by Venus is a
+Ra.jayoga.
+```
+
+**Page 51** (matched: "Darakaraka")
+```
+He appeared for the all India competitive examinations and was
+selected in the sub-period of Sagittarius. which has from it a strong
+tenth house. Virgo. with the Sun (government service). In the last sub
+period of ScorpiO which contains his Darakaraka (Dara means spouse) he
+got married.
+Hints
+In making predictions the method to be followed in the simple
+```
+
+**Page 52** (matched: "Darakaraka")
+```
+Note I - From Aquarius, Amatyakaraka (position of importance) is
+in the tenth house of profession. She was selected for the Vietnamese
+Foreign Service in 1980 In the dasha period of Aquarius.
+Note 2 - Capricorn has Darakaraka (spouse) in it. She got married
+In October 198 1.
+Sub-Period of Capricorn
+Sub-periods of two months each, starting from Sagittarius take us
+```
+
+**Page 53** (matched: "Darakaraka")
+```
+PredictinG through Jaimlni', Chara Dasha Prooiclive Techniques
+Darakaraka, the Sun, and she got married.
+In one year and six months after January 1981, we reach sub
+period of Pisces, Pisces Is aspected by the rutrakaraka (child-giver)
+Mercury, [n August 1982 she gave birth to a daughter.
+```
+
+**Page 64** (matched: "Darakaraka")
+```
+Love Relalionship and Marriage Predicting through Jaimini's Chara Dasha
+Note down the following -
+1. The ascendant and the seventh house.
+2. The rashi containing Darakaraka and its seventh house.
+3. The rashi containing Upapada and its seventh house.
+4. The rashi containing the pada of the seventh lord and its seventh
+house.
+```
+
+**Page 64** (matched: "Darakaraka")
+```
+3. The rashi containing Upapada and its seventh house.
+4. The rashi containing the pada of the seventh lord and its seventh
+house.
+5. Put in the birth horoscope the navamsha of the Darakaraka and also
+mark the seventh house from it Call it the darakaraka's navamsha
+or use the abbreviation DKN.
+6. Now note down where the Rahu-Ketu axis fails and which houses
+```
+
+*... and 31 more references in this book*
+
+#### From: jyotish_astrology-and-timing-of-marriage_-k-n-rao_-english_hindi (36 references)
 
 **Page 20** (matched: "spouse) Transit Marriage")
 ```
@@ -1061,9 +6213,210 @@ T JuRa T SuKe
 Ma VeMe POB Dehradun
 ```
 
-*... and 30 more references in this book*
+**Page 38** (matched: "spouse) Trans~ Marriage")
+```
+Case study 13
+Birth Chart 07 0 04 54 os·.o o·.o o N011amsha (spouse) Trans~ Marriage 18 .02. 1 980
+MoAs POB Kolkata
+AsSu Va MoJu Ka Mo MaKe MaVa
+Va DOM 18.02.1980
+```
 
-#### From: A Text book of astrology_Anil Kumar Jain (21 references)
+**Page 39** (matched: "spouse) Trans~ Marriage")
+```
+~ 21 ~ ~ ~ ~ it W1T "\1fT fefi 3'1~{~11'11~ ~1ol m l(Cflle:!li~l i1
+----------------
+Case study 14
+Birth Chart 07-0~7e oo.· 1s.·o o Novamsha (spouse) Trans~ Marriage- 17 .04. 2 003
+I
+I POB Faridabad
+Ju Kol Ma RaJu Ve SuMo Ra Sa
+```
+
+**Page 42** (matched: "spouse) Trans~ Marriage")
+```
+3H1~~1111~ Wf' Q!hl;;l<i~l ~ ~ ~ ~ 'lw:J
+---=--------
+Case study 16
+Birth Chert 04-10-63 00·.40.:0 0 Navamsha (spouse) Trans~ Marriage 20 02 1988
+I POB Amritsa
+JuRMo I Ra MoRal Su MoVe Ju
+DOM 20.02.1988
+```
+
+**Page 43** (matched: "spouse) Trons~ Marriage")
+```
+~ ~ 'l1TCf "<til ~ tl
+--=----'-~--=--
+Case study 17
+Birth Cheri 08·08-88 21·.15.:0 0 NIMliTlsha (spouse) Trons~ Marriage -09 10 1891
+I I I
+SaRAe Me Ju RaMe AI Ke POB Delhi
+DOM 09.10.1991
+```
+
+**Page 44** (matched: "spouse) Transft Marriage")
+```
+m
+<!iT ffi1l f<n<rr1 310fl{:tll11~ ~'f)[~ "%1
+Case study 18
+Sirlh Chart 31·03-85 04·58·00 NIIVllmsha {spouse) Transft Marriage- 07 07 1992
+VeSu KeSu
+MeR JuRa Sa MeR Mo Me Ve PCB Jammu
+DOM 07.07.19_92
+```
+
+**Page 46** (matched: "spouse) Transit Moniage")
+```
+~ l(Chl<::=?hl ¥ 'B ~ ~ <RT m
+------=---
+Case study I 9
+Birth Chart 16-05-29 23·00·00 Navamsha (spouse) Transit Moniage- 14121955
+POB Guntur
+Ju Su
+Ve Ra Ve SaR Ke Ke
+```
+
+**Page 48** (matched: "spouse) Trans~ Marriage")
+```
+Birth Chart 23-10.69 13:22·00 NlMim&ha(spouse) Trans~ Marriage- 09. 12. 1 993
+I
+I
+Mo SaR As Vo Ra I Ko POB Delhi
+```
+
+*... and 24 more references in this book*
+
+#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (28 references)
+
+**Page 38** (matched: "spouse may be very creative due to Mars")
+```
+the 8th House. How would you analyze this?
+For a Cancer ascendant, Mars is a yogakaraka planet. Venus
+controls the 4th and 11th House. This aspect can show that the
+spouse may be very creative due to Mars' 5th House aspect. There
+will be a love marriage rather than an arranged marriage. Since
+Mars is in the sign of Scorpio which represents secrecy, occult,
+and affairs, it can lead a person into having extramarital romances
+```
+
+**Page 46** (matched: "age, spouse")
+```
+battle government officials. The father would either be separated
+from the native, or he would travel much of his life and not be
+present.
+The 7th House represents marriage, spouse, and partnerships. The
+native would be very much against settling for anyone. They will
+be dissatisfied with most of the people in their life, especially their
+spouse.
+```
+
+**Page 56** (matched: "spouse will also be more mature in personality or age")
+```
+as well.
+Since Saturn represents delay, Saturn can bring marriage later in
+life, and allow for a more fulfilling spouse than if married early.
+The spouse will also be more mature in personality or age, which
+makes it easier for them to becoming a maternal figure. Since
+Venus is 4 houses away from the 4th House, as in 4th from the 4th,
+it also shows foreign lands. The spouse could be of a different
+```
+
+**Page 60** (matched: "age. The spouse")
+```
+servant. However, if the Sun is in his own sign or exalted in Aries,
+it can bring about a partner who is truthful, follows the law, and is
+highly spiritual. They will have confidence in their ability to
+nourish the marriage. The spouse will have leadership qualities to
+raise a family, and perhaps provide for the family. If the Sun is
+debilitated around 5-12 degrees in Libra, it will show domination
+over the spouse, and even publicly insulting or degrading them.
+```
+
+**Page 66** (matched: "age, spouse")
+```
+times of isolation and visiting foreign lands.
+Sun's Aspect on the Ascendant (1st House)
+The Sun in the 7th House aspects the ascendant. The 7th House
+symbolizes marriage, spouse, legal partnerships, other people,
+public life, fame, and business. The Sun aspects the 1st House of
+self, personality, and body. The Sun is the karaka of personality. In
+the 7th House, the Sun is dedicated to public life and loves dealing
+```
+
+**Page 94** (matched: "spouse because Mars")
+```
+battles. Although Mars in the 4th House gives a lot of discomfort
+in the early part of life, they tend to find comfort of the 4th House
+through domination. There is a lack of loyalty towards one’s
+spouse because Mars is originally in the house where he's
+debilitated.
+Mars’ 7th aspect is on the 10th House of career, status, father, and
+professional achievements. Mars brings about a great need for
+```
+
+**Page 109** (matched: "age, spouse")
+```
+mental asylums. This is a very strong placement for a doctor, or
+someone working in the medical field.
+Mars in the 12th House aspects the 7th House with his 8th aspect.
+The 7th house represents marriage, spouse, legal partnerships,
+other people, business, trade, and courthouses. This placement
+causes a tremendous number of conflicts and arguments in
+marriage, along with false accusations.
+```
+
+**Page 110** (matched: "age, spouse")
+```
+Mercury 7th House aspect:
+When Mercury is in the 1st House, he aspects the 7th House of
+marriage, spouse, legal partnerships, and other people. In the 1st
+House, Mercury’s presence makes the native’s personality and
+physical self all about communication and ideas. They are always
+jumping from one idea to the next. In the 1st House, Mercury
+```
+
+**Page 117** (matched: "spouse. In marriage")
+```
+personality, body, and health. Mercury in 7th House becomes a
+mediator of agreements, business partnerships, and other people.
+There is tremendous communication with business partners and
+their spouse. In marriage, they need lot of intellectual stimulation
+117
+```
+
+**Page 118** (matched: "spouse can be a manage")
+```
+and a deep friendship, which keeps them on their toes! Their
+spouse can be a manager, writer, or teacher. This placement can be
+very sexual if Mercury is in the sign of Scorpio or Gemini. It is
+one of the best placements for business, trade, and communication
+with the masses. Mercury in the 7th House can also produce an
+```
+
+**Page 119** (matched: "spouse. As a natural manage")
+```
+fluctuations; it can cause a rift with siblings (especially younger
+ones), and friends. Mercury is an excellent indicator for wealth in
+the 8th House. They may gain a tremendous inheritance, or profit
+from joint assets with their spouse. As a natural manager and
+bookkeeper, Mercury becomes a tax agent for the government or a
+financial advisor. They may write about ghosts, aliens, or the
+occult world if in an air or water sign.
+```
+
+**Page 119** (matched: "age, spouse")
+```
+becomes the messenger of secrets, occult knowledge, assets after
+marriage, spouse’s family, and bookkeeper. The intellect of the
+native is focused on discovering hidden secrets of the world,
+government, or their own personality. The 8th House is about
+fluctuations; it can cause a rift with siblings (especially younger
+```
+
+*... and 16 more references in this book*
+
+#### From: A Text book of astrology_Anil Kumar Jain (22 references)
 
 **Page 41** (matched: "spouse, losses in marriage")
 ```
@@ -1118,125 +6471,220 @@ with Moon and aspected by Saturn - thorough corrupt. If with Jupiter - enjoys go
 health, enjoys all material comforts, handsome, rich, fond of jewels. If with Venus-
 ```
 
-*... and 16 more references in this book*
-
-#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (21 references)
-
-**Page 46** (matched: "age, spouse")
+**Page 111** (matched: "characterless spouse")
 ```
-battle government officials. The father would either be separated
-from the native, or he would travel much of his life and not be
-present.
-The 7th House represents marriage, spouse, and partnerships. The
-native would be very much against settling for anyone. They will
-be dissatisfied with most of the people in their life, especially their
-spouse.
+24, foreign travels at the age of 25. Involved in activities against Govt., no happiness
+from conveyance, gets name and fame everywhere.
+If sun is debilitated- marriage not possible before 24 years. If exalted- educated and
+intelligent spouse. If malefic or in enemy sign - characterless spouse. If strong or in
+own sign - single marriage. If in Capricorn sign - problem with spouse. If with Saturn
+- spouse of doubtful chastity. If with Rahu - loss of wealth in company of females. If
+with Moon and aspected by Saturn - thorough corrupt. If with Jupiter - enjoys good
 ```
 
-**Page 56** (matched: "spouse will also be more mature in personality or age")
+**Page 111** (matched: "characterless spouse")
 ```
-as well.
-Since Saturn represents delay, Saturn can bring marriage later in
-life, and allow for a more fulfilling spouse than if married early.
-The spouse will also be more mature in personality or age, which
-makes it easier for them to becoming a maternal figure. Since
-Venus is 4 houses away from the 4th House, as in 4th from the 4th,
-it also shows foreign lands. The spouse could be of a different
-```
-
-**Page 60** (matched: "age. The spouse")
-```
-servant. However, if the Sun is in his own sign or exalted in Aries,
-it can bring about a partner who is truthful, follows the law, and is
-highly spiritual. They will have confidence in their ability to
-nourish the marriage. The spouse will have leadership qualities to
-raise a family, and perhaps provide for the family. If the Sun is
-debilitated around 5-12 degrees in Libra, it will show domination
-over the spouse, and even publicly insulting or degrading them.
+- spouse of doubtful chastity. If with Rahu - loss of wealth in company of females. If
+with Moon and aspected by Saturn - thorough corrupt. If with Jupiter - enjoys good
+health, enjoys all material comforts, handsome, rich, fond of jewels. If with Venus-
+characterless spouse with the consent of native.
+Eighth House:
+Short life, cheat, cunning, always with mental worries. Short tempered, impatient, and
+wealthy. Fond of having sexual relation with foreigners. Drunkard, ill health, fond of
 ```
 
-**Page 66** (matched: "age, spouse")
+**Page 117** (matched: "spouse older")
 ```
-times of isolation and visiting foreign lands.
-Sun's Aspect on the Ascendant (1st House)
-The Sun in the 7th House aspects the ascendant. The 7th House
-symbolizes marriage, spouse, legal partnerships, other people,
-public life, fame, and business. The Sun aspects the 1st House of
-self, personality, and body. The Sun is the karaka of personality. In
-the 7th House, the Sun is dedicated to public life and loves dealing
-```
-
-**Page 109** (matched: "age, spouse")
-```
-mental asylums. This is a very strong placement for a doctor, or
-someone working in the medical field.
-Mars in the 12th House aspects the 7th House with his 8th aspect.
-The 7th house represents marriage, spouse, legal partnerships,
-other people, business, trade, and courthouses. This placement
-causes a tremendous number of conflicts and arguments in
-marriage, along with false accusations.
+extra marital relations. If of Krishna Paksha - greedy, fond of sweets, sexual. If in
+Taurus -most sexual. If weak in Taurus sign - ailments of semen and urine. If weak and
+afflicted with malefics - spouse having ill health. If in odd sign - harsh. If with Saturn or
+aspected by Saturn - devoid of marital happiness, delay in marriage, spouse older
+than him, without son, spouse having extra marital relations. If with Jupiter and Mercury
+- land lord, all comforts in life. If in Taurus, Sagittarius, Aquarius or Pisces sign - early
+marriage. If with exalted Jupiter-very wealthy.
 ```
 
-*... and 16 more references in this book*
-
-#### From: BPHS - 1 RSanthanam (9 references)
-
-**Page 160** (matched: "age apart from sicknesst o spouse")
+**Page 117** (matched: "age, handsome, spouse")
 ```
-;;" ,; in" ztl for pluralitv of wivest han what it stated'
-as it will be evident from practical experience'H owever't his
-to the 7th lord wili cause delays and disappointments
-" i" in i. i . " p ,i . " " " of marriage apart from sicknesst o spouse' If the
-?th lord is in an sign, the native'sw ife will scarcely
-"n".ty;'
-honour him.
+Seventh House :
+Happiness from spouse, gains in trading, attracted by opposite sex specially if Moon
+is of Krishna Paksha, fond of delicious food, greedy, civilized leader, judge, sea travel,
+promptness, love marriage, handsome, spouse also beautiful, attraction between
+husband and wife, frequent changes in the profession, sudden financial gains from
+wife or son, fond of travelling, speculative gains, gains from things produced in water,
+gain in partnership. Business in grocery, milk and milk products, grain, restaurant,
 ```
 
-**Page 167** (matched: "Saturn, deatho f wife")
+**Page 118** (matched: "age of 24, frequent changes in profession and transfers in service, shrewd spouse")
 ```
-l2th lord is in the 7th. The native's wife will die within three
-dayso f marriaged ue to snakeb ite if the native hasR ahu in the
-2nd and Mars in the 7th. If Venus is in the gth while his
-dispositori s ia a sign of Saturn, deatho f wife will.t ake place
-during the native'sl lth or 2tst yearo fage. Should the ascen-
-dant lord be ip his sign of debilitation as the 2nd lord is in the
-Eth, losso f wife will occur in the l3th yearo f age.
-```
-
-**Page 217** (matched: "spouse with questionable character")
-```
-he is bereft of strength, the native will not enjoy full spano f
-life.
-The 8th house in occupationb y its own lord will givea
-spouse with questionable character. However she will be a
-sourceo f financial help to the natirrc by her own earningso r
+famous, brings laurels for family, always helpful to others, gains from government,
+winner, financial gains at the age of 27 and 43. Business of ornamental articles, doctor,
+manufacturer of medicines. Father suffers from 36* to 40th year of age, fortunate at the
+age of 24, frequent changes in profession and transfers in service, shrewd spouse,
+sufferings in infancy, earns in the business of prostitution, gains from females of good
+families.
+If afflicted with malefics - cold and cough. If with Ketu - Rajyog. If full Moon - Rajyog
 ```
 
-**Page 294** (matched: "Kalatra")
+**Page 123** (matched: "spouse at the age")
 ```
-5. Mantra or PutraP ada Arudha of 5th house.
-6. Roga or Satru Pada Arudha of 6th house:
-'1.
-Dara Pada( KalatraP ada) Arudha of 7th house.
-8. MaranaP ada Arudha of 8th house.
-9. Pitru Pada Arudha of 9th house.
-10. Karma Pada Arudhao f l0th house.
-```
-
-**Page 306** (matched: "wife. Jupitera nd Saturn")
-```
-Saturn,t he wife of the native will suffer from nasald isorders.
-Similarlya signo f Mars becomingt he 2nd from Upapada and
-occupiedb y Mars and Saturnw ill causen asald isorderst o one's
-wife. Jupitera nd Saturnw ill, if be in thO2 nd from Upapada'
-caused isorderso f ears/eyetso the wife. If Mercury and Mars
-be in the 2nd from Upapadao ther than own signso r if Rahu is
-with Jupiter in the 2nd from TJpapadat,h e native'sw ife will
+dominates, obstacle in marriage till the age of 27, more than one marriage, sexual
+relations with foolish or barren female, unnecessary worries, wife does not give due
+respect, does not get fame in business. Wife suffers from gynaecological problems,
+danger from fire at the age of 16. Danger to spouse at the age of 37.
+If with Saturn - unnatural sex. If with Ketu - sexual relations with barren or with female
+in menstruation. If combust or debilitated - most inauspicious. If exalted - prosperous,
+long lived. If with benefics - widower. If with enemy planets - death of more than one
 ```
 
-*... and 4 more references in this book*
+**Page 123** (matched: "spouse. If exalted or in own sign - wealthy, happy, only one marriage")
+```
+If with Saturn - unnatural sex. If with Ketu - sexual relations with barren or with female
+in menstruation. If combust or debilitated - most inauspicious. If exalted - prosperous,
+long lived. If with benefics - widower. If with enemy planets - death of more than one
+spouse. If exalted or in own sign - wealthy, happy, only one marriage but chastity of
+wife is doubtful. If with malefic planets - backache, more than one marriage. If debilitated
+or in enemy's sign - ill health, sinner. If in Aries, Scorpio or Capricorn sign - marital
+happiness. If with Moon and Venus - pleasure seeker. If with Moon - gains in
+```
 
-#### From: vedic_astro_textbook (8 references)
+*... and 10 more references in this book*
+
+#### From: Conjugation at the Speed of Light - PDF Room (14 references)
+
+**Page 130** (matched: "age will bring insecurities to the native, as their spouse")
+```
+placement. The Sun is receiving a harsh aspect from Saturn,
+making this person's ego insecure, unstable, and filled with a lot of
+insecurities regarding the father and gurus. This shows that
+marriage will bring insecurities to the native, as their spouse will
+be critical. Saturn has won the planetary war by having the lowest
+degrees in the chart. Saturn is having more influence on Jupiter,
+than Jupiter on Saturn.
+```
+
+**Page 198** (matched: "spouse. Venus")
+```
+may end up in distorted situations where the spouse might even hit
+them physically. If a man has this conjunction, his spouse can
+create havoc for him or he can actually physically assault his
+spouse. Venus is not itself, and loses its identity as it begins to
+show great distress when getting close to someone. This
+conjunction not only leads to late marriage, but shows an early
+divorce, especially if it occurs in the 12th, 1st, 2nd, 4th, 7th, 8th
+```
+
+**Page 222** (matched: "spouse due to two hot planets hemming Venus")
+```
+They take up all types of work with passion, and only take on
+projects that are of interest to them. They enjoy creating something
+new and unique. Although this can produce arguments with the
+native’s spouse due to two hot planets hemming Venus, it still
+brings about lot of passion in relationships. If Venus is too close to
+the Sun, then it can bring about a spouse who might be low on
+confidence and self-image, which can frustrate the native.
+```
+
+**Page 239** (matched: "age. Their involvement with their spouse")
+```
+marriage for the native can also be delayed; unless the conjunction
+occurs in Aquarius or Venus having the lowest degrees. Both sexes
+would have a mature spouse since Venus is the natural karaka of
+marriage. Their involvement with their spouse or partner would be
+overshadowed by their work and service.
+Moon + Mercury + Venus + Rahu conjunction:
+There is a great need for exploring the art and communication
+```
+
+**Page 239** (matched: "spouse since Venus")
+```
+be mature with strong management and communication skills. The
+marriage for the native can also be delayed; unless the conjunction
+occurs in Aquarius or Venus having the lowest degrees. Both sexes
+would have a mature spouse since Venus is the natural karaka of
+marriage. Their involvement with their spouse or partner would be
+overshadowed by their work and service.
+Moon + Mercury + Venus + Rahu conjunction:
+```
+
+**Page 242** (matched: "Mars. The spouse")
+```
+Jupiter and Mars here though give outbursts of anger if things are
+not done the right way of if they do not get their demand filled.
+Jupiter isn't all positive here because Jupiter is being molded by
+malefic Mars. The spouse of the native which is represented by
+Venus for men and Jupiter for women, will be very passionate,
+sexual and might be a engineer, accountant or artist. The marriage
+will be very good unless such conjunction happens in Hora of the
+```
+
+**Page 243** (matched: "age, but can bring abuse from the spouse")
+```
+Mars and Saturn. The mind is in constant pressure from other
+women and family members. Moon and Venus both are being
+hemmed between two great malefic. This can not only delay
+marriage, but can bring abuse from the spouse if married too early.
+Such people can either have very high will power or no will power
+at all depending upon who is willing the war. If Venus wins the
+war by sign and degree that means Saturn would benefit from it
+```
+
+**Page 245** (matched: "spouses who might be older")
+```
+but also Venus becomes passionate about being a workaholic.
+Such people get very mature spouses who might be older in age
+and bring lot of wisdom and structure to the table. When Jupiter
+and Saturn are with mind and pleasure, such people will only enjoy
+peace of mind or any kind of pleasure once their work has been
+```
+
+**Page 254** (matched: "spouse if Mars")
+```
+distant relationship with the native’s spouse, but also one filled
+with fire and flames. Due to lack of romance or lack of sexual
+activity, one can find themselves trapped in a relationship. There
+could be physical abuse by the spouse if Mars has the highest
+degree, but if such a conjunction occurs in the ascendant, then the
+native can abuse women physically as well. Rahu's amplification
+of all the planetary qualities can bring about a very turbulent
+```
+
+**Page 261** (matched: "spouse is very mature")
+```
+like Venus in the fields of fashion, food, art, and cinema. But, if
+Saturn has the lowest degree and Jupiter has the highest degree,
+then it can push them towards more government work and the field
+of law. Their spouse is very mature and religious. They will expect
+a lot from them, and would want them to be as organized in life as
+they are. If Venus is debilitated, the person can have issues with
+cleanliness, but they will be very particular in terms of love affairs
+```
+
+**Page 267** (matched: "mature older partner")
+```
+which planet has the lowest degree and who is winning the war.
+They are very confused about the type of partner they want to be
+with because this conjunction brings several types of partners.
+They get involved with foreigners, mature older partners, and
+partners who are very head strong with strong will power. Such a
+conjunction provides far better results if the native waits after the
+age of 35 to get married because Mars and Saturn calm down
+```
+
+**Page 274** (matched: "age of the native will be delayed, they will get a spouse")
+```
+Jupiter, and ability to organize those ideas from Saturn. Such an
+individual has a very sharp memory and can recall all events in
+their life, especially if Mercury has the lowest degree. Even though
+the marriage of the native will be delayed, they will get a spouse
+just as sharp as they are, unless Venus is hemmed between Mars
+and Saturn, or debilitated, then spouse can lack such qualities.
+274
+```
+
+*... and 2 more references in this book*
+
+#### From: vedic_astro_textbook (11 references)
 
 **Page 42** (matched: "wife) for Venus, Brahma (Creator) for Saturn")
 ```
@@ -1255,6 +6703,28 @@ Shashthamsa D-6 Health troubles
 Saptamsa D-7 Everything related to children (and grand-children)
 Ashtamsa D-8 Sudden and unexpected troubles, litigation etc
 Navamsa D-9 Marriage and everything related to spouse(s),
+```
+
+**Page 94** (matched: "spouse, we use Jupiter in female charts and Venus")
+```
+astrologers use the 7th from Jupiter instead of the 7th from Venus to predict marriage.
+However, Venus is the natural significator of marriage and the 7th from Venus should
+be used for predicting marriage, both in male and female charts. When predicting the
+death of spouse, we use Jupiter in female charts and Venus in male charts.28
+Another difference between sthira and naisargika karakas is that sthira karakas
+themselves represent the physical bodies of the relatives. In the case of naisargika
+karakas, we must take the relevant house from the karaka. For example, Jupiter
+```
+
+**Page 94** (matched: "Mars: Younger siblings, brother-in-law and sister-in-law (spouse")
+```
+82 Vedic Astrology: A n Integrated Approach
+Sun or Venus (stronger) 26: Father
+Moon or Mars (stronger): Mother
+Mars: Younger siblings, brother-in-law and sister-in-law (spouses of siblings)
+Mercury: Maternal relatives (uncles and aunts)
+Jupiter: Husband, sons, paternal grandparents and other paternal relatives (uncles
+and aunts)
 ```
 
 **Page 103** (matched: "age and spouse")
@@ -1279,6 +6749,17 @@ can show spiritual (when good) or short-tempered (when bad) spouse. Sun in UL ca
 show a charming spouse from a respectable family. It can also show an authoritative
 ```
 
+**Page 103** (matched: "Mars in UL may show a bold spouse (when good) and a quarrelsome spouse")
+```
+UL can show intelligent (when good) or indecisive (when bad) spouse. Ketu in UL
+can show spiritual (when good) or short-tempered (when bad) spouse. Sun in UL can
+show a charming spouse from a respectable family. It can also show an authoritative
+spouse. Mars in UL may show a bold spouse (when good) and a quarrelsome spouse
+(when bad).
+The 8th house from UL shows the longevity of marriage and the 2nd and 7th houses
+from UL show the end of marriage. Malefics like Mars, Saturn and nodes in these
+```
+
 **Page 104** (matched: "spouse and the length of the marriage")
 ```
 92 Vedic Astrology: A n Integrated Approach
@@ -1288,66 +6769,40 @@ argumentative and mean spouse. If Jupiter is in UL and Mars and Saturn in the 8t
 from it, one may have a noble spouse but the marital life will be very rough and there
 ```
 
-*... and 3 more references in this book*
-
-#### From: Conjugation at the Speed of Light - PDF Room (7 references)
-
-**Page 130** (matched: "age will bring insecurities to the native, as their spouse")
+**Page 111** (matched: "age and spouse")
 ```
-placement. The Sun is receiving a harsh aspect from Saturn,
-making this person's ego insecure, unstable, and filled with a lot of
-insecurities regarding the father and gurus. This shows that
-marriage will bring insecurities to the native, as their spouse will
-be critical. Saturn has won the planetary war by having the lowest
-degrees in the chart. Saturn is having more influence on Jupiter,
-than Jupiter on Saturn.
+Part 1: Chart Analysis 99
+Arudha lagna or AL shows people’s impressions about a native. It shows one’s status
+in the material world. Darapada or A7 shows one’s relationships. Upapada (UL)
+shows one’s marriage and spouse. A4 in D-16 shows one’s vehicle. A4 in D-24
+shows one’s school or college or university (place of education). A10 in D-10 shows
+one’s workplace.
+Arudha padas of planets show the perceptions of the native about the world, about
 ```
 
-**Page 239** (matched: "age. Their involvement with their spouse")
+**Page 207** (matched: "Saturn: Charming wife")
 ```
-marriage for the native can also be delayed; unless the conjunction
-occurs in Aquarius or Venus having the lowest degrees. Both sexes
-would have a mature spouse since Venus is the natural karaka of
-marriage. Their involvement with their spouse or partner would be
-overshadowed by their work and service.
-Moon + Mercury + Venus + Rahu conjunction:
-There is a great need for exploring the art and communication
-```
-
-**Page 243** (matched: "age, but can bring abuse from the spouse")
-```
-Mars and Saturn. The mind is in constant pressure from other
-women and family members. Moon and Venus both are being
-hemmed between two great malefic. This can not only delay
-marriage, but can bring abuse from the spouse if married too early.
-Such people can either have very high will power or no will power
-at all depending upon who is willing the war. If Venus wins the
-war by sign and degree that means Saturn would benefit from it
+Jupiter: Devoid of health and wealth, libidinous, likes entertainment, tawny
+complexion, moves with people of a different class.
+Venus: [in lagna, 7th or 10th] troubles to eyes and loss of wealth; [else] large house.
+Saturn: Charming wife, learned in arts, royal favors, friends, intelligent, good
+speaker.
+Rahu: Eyes troubles, financial losses, troubles from wicked men, snakes and thieves.
+Ketu: Eyes troubles, troubles from wicked men, snakes, thieves and rulers.
 ```
 
-**Page 245** (matched: "spouses who might be older")
+**Page 367** (matched: "age or spouse")
 ```
-but also Venus becomes passionate about being a workaholic.
-Such people get very mature spouses who might be older in age
-and bring lot of wisdom and structure to the table. When Jupiter
-and Saturn are with mind and pleasure, such people will only enjoy
-peace of mind or any kind of pleasure once their work has been
-```
-
-**Page 274** (matched: "age of the native will be delayed, they will get a spouse")
-```
-Jupiter, and ability to organize those ideas from Saturn. Such an
-individual has a very sharp memory and can recall all events in
-their life, especially if Mercury has the lowest degree. Even though
-the marriage of the native will be delayed, they will get a spouse
-just as sharp as they are, unless Venus is hemmed between Mars
-and Saturn, or debilitated, then spouse can lack such qualities.
-274
+lagna nakshatra (nakshatra occupied by natal lagna) in his transit, then some troubles
+related to litigation or disease or enemies may be expected. If the 7th lord has latta on
+janma nakshatra or lagna nakshatra in his transit, then some troubles related to
+marriage or spouse or relations can be expected. If an important planet in the 10th
+house in natal chart has a latta on janma nakshatra or lagna nakshatra in transit, then
+some troubles in career may be expected. We usually see some loss related to the
+natal significations of a planet having latta on janma nakshatra or lagna nakshatra in
 ```
 
-*... and 2 more references in this book*
-
-#### From: A guide to Hindu astrology_T.S. Narayanaswami Iyer (6 references)
+#### From: A guide to Hindu astrology_T.S. Narayanaswami Iyer (10 references)
 
 **Page 55** (matched: "Saturn.—Willhave children by his second wife")
 ```
@@ -1393,6 +6848,17 @@ black, will carry on base trade.
 8 & 9. Dragon's Heud and IW.—rOf a weak consti-
 ```
 
+**Page 83** (matched: "Venus.—Will have a beautiful")
+```
+5. Jupiter.—A noble and wealthy wife, famous through
+his wife's family, honourable, kingly fortune from middle
+age.
+6. Venus.—Will have a beautiful but disobedient wife,
+very lustful, loss of wife's property, a judge, will make
+voyages.
+7. Saturn.—Poor but loving wife (not very beautiful),
+```
+
 **Page 85** (matched: "Saturn.—Will have a quarrelsome wife")
 ```
 through brothers.
@@ -1404,9 +6870,159 @@ will be dishpironred in middle age.
 family, increase of wealth, famous and honourable, brave,
 ```
 
-*... and 1 more references in this book*
+**Page 94** (matched: "Venus.—Beautiful")
+```
+5. Jupiter.—Long-lived,wealthy and bom of a famous
+family, miserable in later life, truthful, an eloquent speaker,
+thought-reader or shorthand writer.
+6. Venus.—Beautiful person. In later life will lose a
+limb ; of middling stature. During middle age will have
+troubles arising through his wife, will suffer humiliation
+through women, spendthrift.
+```
 
-#### From: Deva Keralam 1 Chandrakala Nadi (6 references)
+**Page 97** (matched: "Venus.—Will marry a rich and beautiful")
+```
+5. Jupiter.—Learned in law, a Yogee, fickle-minded,
+not a man of greed, prosperous in early life, but not so in
+later years.
+6. Venus.—Will marry a rich and beautiful wife, but
+will lose her in middle age, trustful, will live in towns on
+the sea coast, will make voyages, will be learned in the
+State language.
+```
+
+**Page 98** (matched: "Venus.—Will have a beautiful")
+```
+age his enemies will spoil his prospects; long-lived; in early
+life he will be a debtor, but in later years will be wealthy;
+his sons-will be inimical.
+6. Venus.—Will have a beautiful wife, but will be lust-
+ful and licentious, will travel a great deal, will be clever in
+poetry and logic, will be happy in the beginning but will
+suffer troubles later on.
+```
+
+**Page 124** (matched: "Saturn —Will lose wife")
+```
+live long. - •
+6. Venus.—Will lose Wife, lean body, will be fortunate
+in early life, sudden death.
+7. Saturn —Will lose wife, bf :middling statare, short-
+lived, unhappy, will rise in middle age batwill soon fall,
+will deal in medicines or explosives. '• 1 •• " <.,J-
+8 & 9. Dragon** Head and Tail. —-Hnhappy through
+```
+
+#### From: BPHS - 1 RSanthanam (10 references)
+
+**Page 160** (matched: "age apart from sicknesst o spouse")
+```
+;;" ,; in" ztl for pluralitv of wivest han what it stated'
+as it will be evident from practical experience'H owever't his
+to the 7th lord wili cause delays and disappointments
+" i" in i. i . " p ,i . " " " of marriage apart from sicknesst o spouse' If the
+?th lord is in an sign, the native'sw ife will scarcely
+"n".ty;'
+honour him.
+```
+
+**Page 161** (matched: "spousew ith hard and prominentb rcbstsw hile Venus")
+```
+{ti
+9-9t. Mars denotes a . female with attractiveb reasts.
+Saturn indicatess ick and weaks pousc. Jupiter will bring a
+spousew ith hard and prominentb rcbstsw hile Venusw ill bring
+one with O:1Tt *O excellent breasts.
+```
+
+**Page 167** (matched: "Saturn, deatho f wife")
+```
+l2th lord is in the 7th. The native's wife will die within three
+dayso f marriaged ue to snakeb ite if the native hasR ahu in the
+2nd and Mars in the 7th. If Venus is in the gth while his
+dispositori s ia a sign of Saturn, deatho f wife will.t ake place
+during the native'sl lth or 2tst yearo fage. Should the ascen-
+dant lord be ip his sign of debilitation as the 2nd lord is in the
+Eth, losso f wife will occur in the l3th yearo f age.
+```
+
+**Page 217** (matched: "spouse with questionable character")
+```
+he is bereft of strength, the native will not enjoy full spano f
+life.
+The 8th house in occupationb y its own lord will givea
+spouse with questionable character. However she will be a
+sourceo f financial help to the natirrc by her own earningso r
+```
+
+**Page 294** (matched: "Kalatra")
+```
+5. Mantra or PutraP ada Arudha of 5th house.
+6. Roga or Satru Pada Arudha of 6th house:
+'1.
+Dara Pada( KalatraP ada) Arudha of 7th house.
+8. MaranaP ada Arudha of 8th house.
+9. Pitru Pada Arudha of 9th house.
+10. Karma Pada Arudhao f l0th house.
+```
+
+**Page 306** (matched: "wife. Jupitera nd Saturn")
+```
+Saturn,t he wife of the native will suffer from nasald isorders.
+Similarlya signo f Mars becomingt he 2nd from Upapada and
+occupiedb y Mars and Saturnw ill causen asald isorderst o one's
+wife. Jupitera nd Saturnw ill, if be in thO2 nd from Upapada'
+caused isorderso f ears/eyetso the wife. If Mercury and Mars
+be in the 2nd from Upapadao ther than own signso r if Rahu is
+with Jupiter in the 2nd from TJpapadat,h e native'sw ife will
+```
+
+**Page 306** (matched: "Saturn,t he wife")
+```
+19-22. Mercury and Rahu in the 2nd from llpapada
+will give a stout-bodiedw ife. If the 2nd from Upapada
+happensto be a sign of Mercurya nd is tenanted by Mars and
+Saturn,t he wife of the native will suffer from nasald isorders.
+Similarlya signo f Mars becomingt he 2nd from Upapada and
+occupiedb y Mars and Saturnw ill causen asald isorderst o one's
+wife. Jupitera nd Saturnw ill, if be in thO2 nd from Upapada'
+```
+
+**Page 319** (matched: "Saturn. From Ketu note wife")
+```
+sister,b rother-in-law,y oungerb rother and mother. Mercury
+rulesm aternalr elative while Jupiter indicates paternal grand-
+father. Husbanda nd sons are respectivclyd enoted by Venus
+and Saturn. From Ketu note wife, father, mother, parents-in-
+law and maternalg rand father. Thesea re conslants ignificators.
+Notes : The above planetarys ignificancec an be tabulated
+8SU nder:
+```
+
+**Page 320** (matched: "wife and the gth from saturn")
+```
+significators.T he 9th from the Sun denotesf ather,t he 4th from
+the Moon mother, the 3r. from Mars brothers,t he 6;il- i-;;;
+Mercury maternaru ncle,t he 5th from Jupiter sons, irr"-^iii,
+from venus wife and the gth from saturn deatrr. rnl r""*"J
+shouldc onsidera t thesea nd declarer eratcde ffectsi l;i;;;:
+Notes : From these three verses,t he constant Karakas
+bmergea s under as normalryd iscusseian standardr iteratureo n
+```
+
+**Page 332** (matched: "Saturn denotesa wife")
+```
+native will begeta very beautiful wife. Venusi n the said house
+denotesa sensuousw ife while Mercury indicatesa wife versed
+in arts. The Sun so relatedw ill givea wife confining domestic
+core while Saturn denotesa wife of a higher age bracket, or a
+pious/sickw ife. Rahu in this context will bring a widow in
+rharriage.
+garfugi <ti ?qirrq dfutgtan t
+```
+
+#### From: Deva Keralam 1 Chandrakala Nadi (8 references)
 
 **Page 21** (matched: "age,mother’s death, spouse")
 ```
@@ -1428,6 +7044,17 @@ sit, relatives, father-in-law, father, old age, = 65. = Sun-Mercury conjunction,
 cury with Venus and Saturn in 11th. pox.
 
 84, wumale Nadiamsa 2nd half, Saturn in Leo, 106 . Half-brother, 10th lord’s dasa, dasa effects.
+```
+
+**Page 25** (matched: "Spouse, Jupiter-Mars")
+```
+220 Lords of 9th and 10th, Kesari yoga in Gem- cer, Lagna lord in 2nd house.
+ini. 239 Marriage, Venus in Mangala Nadiamsa, life-
+221 Adhi Yoga, 5 planets in Lagna, trouble to long fortunes, conveyances, danger to mother.
+Spouse, Jupiter-Mars. 24) Wealth, father’s brothers, d: a periods, prog-
+222 Luminaries, Dhruva Nadiamsa, 3rd house. eny, Sun-Mercury in 10th, dasa periods.
+223 Capricorn Lagna - Kala Nadiamsa, physical 241 Bhargava Nadi quoted.
+description, coborn, mother, happiness.
 ```
 
 **Page 67** (matched: "age 411. Spouse: One’s spouse")
@@ -1462,9 +7089,115 @@ period of Rahu in 3rd dasa, travels and financial have many relatives,
 improvements will come to pass. Malefic periods
 ```
 
-*... and 1 more references in this book*
+**Page 181** (matched: "spouse. Venus")
+```
+Deva Keralam [hs
+1821-1822. About spouse: In the chapteron § Aroodha ascendant cannot be Virgo. For Taurus,
+the 7th house, Sukra Nadi explains about spouse. Venus in Cancer yields Virgo as Aroodha Lagna.
+Saturn ruling the 7th house, if placed in afixed Similarly for Scorpio, Mars in Aries takes Arood-
+sion and fixed Navamsa, as Jupiter is in an ha Lagna to Virgo. Thus by implication, this
+angle/trine, the native of Sudha Nadiamsa particular rule relates only to Taurus and Scorpio
+```
 
-#### From: mahadashas-the-speed-of-light_compress (6 references)
+**Page 229** (matched: "Saturn, will cause fortunes through wife")
+```
+gresee fare: Ta TAs TAME BEC II = and the native will be happy after marriage.
+Venus in the 7th, more so in the company of
+
+2368. Sumathi Nadiamsa - General: 6th, Saturn, will cause fortunes through wife and the
+
+7th and 12th years of age will in order be for _ native will be happy. For birth in the first half of
+```
+
+#### From: Narayana Dasa by Sanjay Rath (8 references)
+
+**Page 33** (matched: "Darakaraka")
+```
+longitude
+7 Planet with the seventh highest Gnatikaraka Relatives
+longitude
+8 Planet with the lowest longitude Darakaraka Spouse
+9 For this purpose, the longitude of Rahu is to be reckoned from
+the end of the sign
+Illustration: Draw the Chara Karaka Chakra for the Standard
+```
+
+**Page 85** (matched: "Darakaraka")
+```
+only 2 points each to Libra’s 20 points whereas Mars and Saturn
+are at a rock bottom level of 1 point each. Mars is the Atmakaraka
+showing that this dasa would prove to be very adverse for her and
+Saturn, as the Darakaraka would indicate hardship/sorrow to/on
+account of spouse. Thus, this was the bottom point level of the
+Ashtakavarga and the evil of widowhood came at a young age.
+Figure 11: Astakavarga
+```
+
+**Page 88** (matched: "Darakaraka")
+```
+weaker and those in Apoklimas (3,6,9,12) are the weakest.
+However, if the Dasa Rasi is aspected by a Chara Karaka its
+impact/ significations will be felt during the course of the dasa.
+Thus, if the Darakaraka aspects the Dasa Rasi, marriage can
+be expected.
+NOTE ON THE NODES
+It is my experience that the best results are obtained by
+```
+
+**Page 102** (matched: "Kalatra")
+```
+seventh houses, the Sun, Mercury and Saturn qualify as Yogada.
+The seventh house from Lagna is Aquarius aspected by the
+Darakaraka Mars. The seventh Lord from Venus (Naisargika
+Kalatrakaraka88) is Moon, which is in Scorpio. He was married in
+Taurus Dasa, Aquarius Antardasa and Scorpio Pratyantar dasa on
+5 March 1950. Although the wedding was fixed for January, it had
+to be deferred due to an accident where his leg sustained multiple
+```
+
+**Page 102** (matched: "Kalatra")
+```
+The second political phase from 1966 coincides exactly
+with the advent of the Leo Narayana Dasa. The Dasa Pravesh
+Chakra for Leo Narayana dasa is given in Chart-21.
+88 Naisargika means natural and Kalatrakaraka refers to the mate or spouse
+significator Venus.
+```
+
+**Page 102** (matched: "Darakaraka")
+```
+this Dasa. It maybe noted that since the GL & HL are in the first &
+seventh houses, the Sun, Mercury and Saturn qualify as Yogada.
+The seventh house from Lagna is Aquarius aspected by the
+Darakaraka Mars. The seventh Lord from Venus (Naisargika
+Kalatrakaraka88) is Moon, which is in Scorpio. He was married in
+Taurus Dasa, Aquarius Antardasa and Scorpio Pratyantar dasa on
+5 March 1950. Although the wedding was fixed for January, it had
+```
+
+**Page 102** (matched: "Darakaraka")
+```
+5 March 1950. Although the wedding was fixed for January, it had
+to be deferred due to an accident where his leg sustained multiple
+fractures and the hipbone had broken. It maybe noted the Mars is
+the Darakaraka and when the event of marriage is at hand, its
+natural traits would be evident.
+The second political phase from 1966 coincides exactly
+with the advent of the Leo Narayana Dasa. The Dasa Pravesh
+```
+
+**Page 111** (matched: "Darakaraka")
+```
+studies and Scorpio is the ninth house. The duration was short and
+in 1879, he returned to India.
+1883: (Sagittarius Dasa –Aquarius Bhukti) He married Mrinalini
+Devi; the Darakaraka Mars is placed in the seventh house Gemini
+(Mana) from the Dasa Rasi (Sagittarius) and also aspects the
+Dasa Rasi; Ketu aspects Sagittarius. The antardasa sign Aquarius
+aspects the Upapada in Libra and Venus in Aries. Thus, the dasa
+```
+
+#### From: mahadashas-the-speed-of-light_compress (8 references)
 
 **Page 52** (matched: "age in this MD through other people and their spouse")
 ```
@@ -1488,6 +7221,17 @@ and you want to attach yourself to other people. You want to know
 other people but also want to mother other people. You want to
 ```
 
+**Page 87** (matched: "spouse's family or be addicted to secret sexual affairs. Venus")
+```
+There is a secret tendency to enjoy and receive other people's
+wealth, and interest hunts for buried treasure. If Venus's dignity is
+damaged one might have secret affairs with someone in the
+spouse's family or be addicted to secret sexual affairs. Venus also
+brings passion towards understanding deeper truths about life than
+just material gains. The second half of Venus's dasha will bring
+interest in the occult. Why the last 10 years? Because Venus's
+```
+
 **Page 102** (matched: "spouse's family (if married) by their dominating/aggressive nature")
 ```
 hidden agenda of people and hidden enemies if there are any. The
@@ -1497,6 +7241,17 @@ spouse's family (if married) by their dominating/aggressive nature.
 Mars in the 2nd house:
 Mars in the 2nd house will for 7 years bring domination over
 family assets, money, and wealth. The native will have energy in
+```
+
+**Page 106** (matched: "Mars will aim towards controlling the spouse")
+```
+homeland via government work, as a solider or police officer, if
+the chart shows civil service.
+Mars throwing its aspect on the 7th house shows that the 7 year
+period of Mars will aim towards controlling the spouse,
+conquering the heart of the spouse, and having a passionate
+relationship with them. The aspect of Mars on the 10th house
+shows them dominating the professional world, including the
 ```
 
 **Page 109** (matched: "age, the spouse")
@@ -1520,9 +7275,29 @@ placement shows someone who wants to give up everything in life
 and let spirituality take over due to Ketu being in the 1st House.
 ```
 
-*... and 1 more references in this book*
+**Page 186** (matched: "spouse with a long lasting marriage")
+```
+whom they should marry. Ketu shows separation from younger
+siblings or no younger siblings in life. If Jupiter is present in the
+3rd house, one will find spiritual knowledge through siblings, as
+well as a spiritual spouse with a long lasting marriage. In the house
+of communication, Ketu shows a lack of interest in reporting,
+marketing, and gossiping with family members unless another
+planet is present.
+```
 
-#### From: astrology-the-speed-of-light_compress (5 references)
+#### From: astrology-the-speed-of-light_compress (7 references)
+
+**Page 36** (matched: "mature partner")
+```
+Capricorn in the 7th house. What does this mean? Well,
+this will show you what kind of a partner you will get.
+Usually Cancer ascendant people get much older and
+mature partner than their own age; because Saturn rules
+the sign of Capricorn and Saturn is known as the planet
+of antique things or things & people that are mature and
+old.
+```
 
 **Page 60** (matched: "age, spouse, nature of spouse")
 ```
@@ -1553,6 +7328,17 @@ Jupiter in the 6th house? But, this position gives a
 long lasting marriage.
 ```
 
+**Page 152** (matched: "beautiful spouse")
+```
+animal shelters, or even in a fashion or photography
+field since the 6th house rules everyday working life.
+7. Venus - This is a very good placement for Venus, here
+it will give a very beautiful spouse to the male native.
+This person can also become a jeweler, or work as a
+financial advisor to others.
+8. Venus - This is not a bad placement for Venus even
+```
+
 **Page 156** (matched: "older spouse")
 ```
 younger siblings, however, if Saturn is in a good sign
@@ -1573,6 +7359,63 @@ Mars also gives a spouse of fiery nature. This is a
 great position to have Mars if you are in real estate
 business. On the negative this house gives good
 amount of accidents in one's life.
+```
+
+#### From: Astrology in Marriage Counselling_Manik Chand Jain (5 references)
+
+**Page 3** (matched: "characteristics of the prospective spouse")
+```
+couple approaching matrimony to study well beforehand the
+full implications of the problems which married life will
+introduce and to become acquainted as well with the
+characteristics of the prospective spouse.
+It is in order to satisfy at least some part of the need for
+guidance that I have decided to write this book. Because to what
+other source may the young man or woman turn for guidance?
+```
+
+**Page 156** (matched: "Saturn man, who takes it out on his wife")
+```
+he wishes his brother to enlarge his home, tearing out a few
+walls here and the purchasing new luxuries for the benefit of
+this sister-in-law, who is becoming a drudge. These radical
+procedures anger the Saturn man, who takes it out on his wife
+when his brother leaves. Thus, the brother must either cease
+to call or keep his mouth shut. If the wife wakes up to her
+home situation under the stimulus of the brother-in-law, the
+```
+
+**Page 165** (matched: "partner has Saturn")
+```
+SATURN-OPPOSITION-SATURN
+This aspect is frustrating between partners because one
+assumes that there is an appreciable difference in age between
+them. It is especially so if one partner has Saturn in his or her
+7th house at birth, for he/she is already restricted in
+partnerships, martial or otherwise. There is not too much
+emotions in this alliance, although there may be considerable
+```
+
+**Page 166** (matched: "partners has an exclusively Saturn")
+```
+SATURN-CONJUNCTION-NEPTUNE
+While such a combination between marital partners occurs
+with regularity, it is not likely to be too important unless one
+of the partners has an exclusively Saturnian approach towards
+life that is basically material and the other one is Neptunian
+to excess in its emotionalism and psychic attitudes. It is a
+negative aspect and promotes a certain indifference in feeling
+```
+
+**Page 167** (matched: "partners for money matters, for Saturn")
+```
+Saturn in this combination can scarcely restrain itself from
+stamping almost literally upon Neptune, who retaliates by
+evading Saturn altogether. It is not a good aspect between
+partners for money matters, for Saturn will use the
+withholding of material benefits as a punishment, and
+Neptune will then plot ways and means to get it out "by hook
+or crook". It is a true aspect of deception when found between
 ```
 
 #### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (4 references)
@@ -1621,6 +7464,52 @@ be staying in a close-by place. The chara darakarak
 debility in Capricorn in Navamsa indicating that the
 ```
 
+#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (4 references)
+
+**Page 37** (matched: "darakaraka")
+```
+spectacular Parashari raja yogas. When you see this kind of confluence, a prediction of “elevation”
+becomes a sure bet.
+This Virgo period has also brought her a husband and child, which is again very obvious. From Virgo,
+her darakaraka Moon (indicator of spouse) goes into the 7th house Pisces. Her putrakaraka Mars (who
+is also the 5th lord) aspects Virgo as well.
+These events are readily apparent in Vimshottari as well, since Mercury is also her 7th lord. Her
+relationship with Douglas began in Mercury-Jupiter, and she gave birth to their child in Mercury-Saturn,
+```
+
+**Page 85** (matched: "partnerships. Saturn")
+```
+the masses, the public and the mother. Since the Moon rules the 4th house of the mother it indicates great
+loss for the mother. In which Rose Kennedy did loose almost all her children tragically while she was
+still living. The sign dispositor of Moon and Rahu is Saturn which is located in the 7th house of marriage
+and partnerships. Saturn rules both the 10th and 11th houses connecting Booby to his older brothers in
+business partnerships. The 11th house represents older siblings. The nakshatra of both Moon and Ketu is
+Uttara Ashadha which is ruled by the Sun. The Sun is powerfully placed in the 8th house. Therefore, his
+connections with his family specifically his brothers lead him to great loss through Ketu, and eventually
+```
+
+**Page 177** (matched: "spouse if Mars")
+```
+happiness and distress, fear and anxiety, is very dear to Me
+Does Mars or a malefic in 7th indicate problems in marriage: The classics, the Vishvijay
+panchang and even some present interpretations of classics, are frightening.
+Most of the classics talk of death of spouse if Mars is in the 7th. This was when there
+was no concept of divorce and when societal compulsions did allow a woman to live
+independently. In today’s context, Mars in 7th could mean divorce, separation or simply some
+minor irritations in marriage. It is important to evaluate the positives as well.
+```
+
+**Page 179** (matched: "Spouse of my book Indian Marriage")
+```
+matching, a part of bhava milaan is also to be viewed in modern context. An evaluation in
+totality with desh kaal and paatra is required. My half written book ‘Choosing a Partner’ is
+gathering dust. I intend making it a comprehensive book for Horoscope Matching. I am also
+updating the Chapter Selection of Spouse of my book Indian Marriage in Modern Urban
+Educated Society with the 2nd edition.
+Desire, War, Death – The 7th represents all Three
+In his presentation ‘Glimmer of Hope in a strife torn World’ during the Global
+```
+
 #### From: 2015.150536.Marriage-Married-Life-And-Children_text (2 references)
 
 **Page 257** (matched: "wife, and Saturn")
@@ -1645,63 +7534,30 @@ tham the author says that Saturn in 8 will invariably do good to
 the nntivf,
 ```
 
-#### From: Astrology in Marriage Counselling_Manik Chand Jain (2 references)
+#### From: Astrology_ destiny and the wheel of time_ban (1 references)
 
-**Page 3** (matched: "characteristics of the prospective spouse")
+**Page 119** (matched: "Darakaraka")
 ```
-couple approaching matrimony to study well beforehand the
-full implications of the problems which married life will
-introduce and to become acquainted as well with the
-characteristics of the prospective spouse.
-It is in order to satisfy at least some part of the need for
-guidance that I have decided to write this book. Because to what
-other source may the young man or woman turn for guidance?
-```
-
-**Page 156** (matched: "Saturn man, who takes it out on his wife")
-```
-he wishes his brother to enlarge his home, tearing out a few
-walls here and the purchasing new luxuries for the benefit of
-this sister-in-law, who is becoming a drudge. These radical
-procedures anger the Saturn man, who takes it out on his wife
-when his brother leaves. Thus, the brother must either cease
-to call or keep his mouth shut. If the wife wakes up to her
-home situation under the stimulus of the brother-in-law, the
+In Drekkana
+(a) The Sun Is In the 7th house (marriage).
+(b) The Moon Is the lord of the 7th house.
+(c) Venus, a natural Darakaraka4 Is aspected by 7th lord. Moon,
+EJectwu
+Sanjay Gandhi fought electtoms twice, the first time In March
+1977 when he was running Moon-Jupltcr-Sun.
 ```
 
-#### From: Narayana Dasa by Sanjay Rath (2 references)
+#### From: indianpalmistry00daleiala (1 references)
 
-**Page 102** (matched: "Kalatra")
+**Page 27** (matched: "partner; on the mount of Saturn")
 ```
-seventh houses, the Sun, Mercury and Saturn qualify as Yogada.
-The seventh house from Lagna is Aquarius aspected by the
-Darakaraka Mars. The seventh Lord from Venus (Naisargika
-Kalatrakaraka88) is Moon, which is in Scorpio. He was married in
-Taurus Dasa, Aquarius Antardasa and Scorpio Pratyantar dasa on
-5 March 1950. Although the wedding was fixed for January, it had
-to be deferred due to an accident where his leg sustained multiple
-```
-
-**Page 102** (matched: "Kalatra")
-```
-The second political phase from 1966 coincides exactly
-with the advent of the Leo Narayana Dasa. The Dasa Pravesh
-Chakra for Leo Narayana dasa is given in Chart-21.
-88 Naisargika means natural and Kalatrakaraka refers to the mate or spouse
-significator Venus.
-```
-
-#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (1 references)
-
-**Page 179** (matched: "Spouse of my book Indian Marriage")
-```
-matching, a part of bhava milaan is also to be viewed in modern context. An evaluation in
-totality with desh kaal and paatra is required. My half written book ‘Choosing a Partner’ is
-gathering dust. I intend making it a comprehensive book for Horoscope Matching. I am also
-updating the Chapter Selection of Spouse of my book Indian Marriage in Modern Urban
-Educated Society with the 2nd edition.
-Desire, War, Death – The 7th represents all Three
-In his presentation ‘Glimmer of Hope in a strife torn World’ during the Global
+Interpretation. The sameon the mounts indicate
+money by or through persons or things indicated
+by the mount of the fingers, on the forefinger, a
+wealth}' partner; on the mount of Saturn, wealth
+by lands, house property, legacies; on the ring
+finger by successful business, or profession and
+fame on the mount of Mercury by writings, by
 ```
 
 #### From: kupdf.net_uttkalamrita-kalidas-ps-sastri (1 references)
@@ -1745,12 +7601,12 @@ explicitly show how she is perceived in the married relationship. Seeing the
 
 ---
 
-### Navamsa Marriage (99 matches)
+### Navamsa Marriage (169 matches)
 *Navamsa (D9) marriage rules*
 
-**Found in 12 books:**
+**Found in 14 books:**
 
-#### From: Deva Keralam 1 Chandrakala Nadi (44 references)
+#### From: Deva Keralam 1 Chandrakala Nadi (80 references)
 
 **Page 23** (matched: "Navamsa, 148 Father, Mars, Venus")
 ```
@@ -1783,6 +7639,17 @@ Navamsa, sisters. 10th.
 Adhi Yoga, Kahala Yoga. 9th lord’s dasa.
 ```
 
+**Page 25** (matched: "Navamsa, Jupiterin 233 Senior Vasishta quoted, Gemini ascendant")
+```
+213 ‘Family deaths, 2nd dasa, progeny, abortions, 231 Marriage, Mars-Ketu, 10th Arudha.
+Saturn - Mars periods, Saturn’s transit. 232 Progeny, 7th lord, Jupiter’s transit, dasa ef-
+214 Cancer Navamsa, Moon in Kutila Nadiamsa, fects.
+Saturn in an immovable Navamsa, Jupiterin 233 Senior Vasishta quoted, Gemini ascendant -
+Aries Navamsa. Kamala Nadiamsa.
+215 Saturn, Venus, Moon, pilgrimage, Pisces Lagna 234 Mars in debility, prosperity, Bhagya Yoga,
+Vasudha Nadiamsa., 2nd dasa, Danger in Sth year, childhood
+```
+
 **Page 31** (matched: "Navamsa. Then his Navamsa dispositor is Venus")
 ```
 portance in prediction by various Nadr texts.
@@ -1792,6 +7659,28 @@ Navamsa. Then his Navamsa dispositor is Venus. Jupiter in the dasa of Mars will 
 The present sloka asks us to note the difficulties, untimely death, evils to one’s own
 Navamsa lords of the 11th lord and 6th lord people, and destruction of female children. In the
 Then we have to find out in which Ras} such absence of these, financial destruction will take
+```
+
+**Page 31** (matched: "Navamsa dispositor is the owner of the Navamsa 47-48. Cancer Ascendant")
+```
+11th lord.(2) Navamsa dispositor of 6th lord. qua we za pafats3
+Notes: Navamsa dispositor is given high im- a peact!
+portance in prediction by various Nadr texts.
+Navamsa dispositor is the owner of the Navamsa 47-48. Cancer Ascendant: When the Moon
+a planet is in. Example: Mercury isin Libra the lord of the ascendant, the sub-period of
+Navamsa. Then his Navamsa dispositor is Venus. Jupiter in the dasa of Mars will cause extreme
+The present sloka asks us to note the difficulties, untimely death, evils to one’s own
+```
+
+**Page 34** (matched: "Navamsa, will beget and not the other three immovable ascendant")
+```
+saya fataaq oe araret AAATALT | That the native of Abala Nadiamsa will have
+a long-living mother (irrespective of first/sccond
+61-721/2. Taurus Ascendant: One born in half) should be applied lo only Taurus ascendant
+Taurus ascendant, with Aries Navamsa, will beget and not the other three immovable ascendants, as
+prosperity in a pilgrim center. Gradually his slokas 57 and 58 give a specific account of parents’
+prosperity will increase in Andhra region. The ulespans,
+native born in the 2nd one-third of former half of .
 ```
 
 **Page 48** (matched: "Navamsa, Saturn in Pisces (Rasi), and Venus")
@@ -1805,9 +7694,51 @@ which Is missing here originally. Aquarius Navamsa.
 Tet Tey pai ail aa aet wadeq |
 ```
 
-*... and 39 more references in this book*
+**Page 48** (matched: "Venus in Pisces witha Navamsa")
+```
+» or one of its trines, or a sign that is in aspect to the
 
-#### From: vedic_astro_textbook (20 references)
+212-213. Venus in Pisces witha Navamsaof 7th lord.
+
+Saturn while..... is in a Prishtodaya Rasi....... will TET 7a *
+give birth to a person who will be skilful in educa- es ea We HT Thr
+```
+
+**Page 48** (matched: "Venus is in Aquarius Navamsa")
+```
+CATHY IIS FART 1 2V9I | : \
+
+217. Marriage: Jupiter in Brahma Shash- 221-223. Father-in-law: The third house is
+tiamsa while Venus is in Aquarius Navamsa, will the house of father- in-law. (Having a malefic like
+give the Varuna Nadiamsa native marriage inhis Saturn in the 3rd house, as above), due. to the
+birth place. The girl willbe fromthe northernpart | Varuna Nadiamsa native’s sins, his father-in- law
+of his land. by giving his daughter in marriage to the subject
+```
+
+**Page 49** (matched: "Navamsa ascendant")
+```
+Taqateay vafgararat FST 1 UVTI I to separation from coborns, incur difficulties
+ett aHeeyalracs THEA | galore). In the dasa of the 6th lord... be in trinal
+seman afta eather P22 | to the Rasi indicated by the 6th lord’s navamsa
+Nadi - One born in position, or be in Navamsa ascendant, there will
+this Naudieme, hale Mos on the “th lord wil] 2 danger to maternal relatives.
+obtain a spouse who will be blood-red in com- . Note: Here we need some clar ifications.
+plexion. Such a native will be happy following Seeing the sequence alter sloka 226, this sloka
+```
+
+**Page 55** (matched: "Navamsa Saturn is placed at birth, When Saturn trine from natal ascendant")
+```
+Notes: Saturn himself is the 2nd lord for nae Royal Service and Association: It the
+Sagittarius ascendant. We have to see in which om lord's Navamsa pasion ‘ identical with a
+Navamsa Saturn is placed at birth, When Saturn trine from natal ascendant it will make the native
+himself transits such a Rasi or a trine thereof, the hem een an ores PavaMss Position, as
+native will have decline of fortunes. Similar use with kings abre tae native Move in association
+of Saturn’s transit be made with reference to the a . oo .
+```
+
+*... and 68 more references in this book*
+
+#### From: vedic_astro_textbook (21 references)
 
 **Page 72** (matched: "Navamsa D-9 Marriage")
 ```
@@ -1823,6 +7754,17 @@ Chart 9
 Thus we get the four planets as — Sun, Saturn, Venus and Saturn. Sun is in a
 quadrant. Saturn is exalted. Venus is in a trine. Thus Shivaji had Kalpadruma yoga.
 In navamsa also, Sun is exalted, Saturn is in moolatrikona and Venus is in a lagna.
+```
+
+**Page 195** (matched: "8th house. It is Li. Venus")
+```
+the anti-zodiacal order. Suppose AK is Mars and he is in Taurus. Then Sg is the
+8th house from Mars and Jupiter, lord of Sg, becomes Maheswara. Now, suppose
+Ketu is in Ta or Sg. Because of Ketu’s presence, we find the 6th house from Mars
+instead of the 8th house. It is Li. Venus owns it and he becomes Maheswara.
+(3) If Rahu becomes Maheswara, we take Mercury instead. If Ketu becomes
+Maheswara, we take Jupiter instead.
+14.4 The Method of Three Pairs
 ```
 
 **Page 286** (matched: "navamsa, contains the owner of the 8th
@@ -1858,9 +7800,216 @@ dasa (1990-1994), this native had a love affair with the lady he was to marry in
 December 1994.
 ```
 
-*... and 15 more references in this book*
+**Page 311** (matched: "navamsa and its lord Jupiter is in the 7th house")
+```
+Readers can verify that the native had about 5 years of Sc dasa left at birth and the
+next dasas are Sg, Cp, Aq, Pi, Sc, Li, Vi, Cn. At the time of wedding, the native was
+running Pi-Pi (Pi dasa & Pi antardasa). Why did Pisces give marriage?
+Well, it has lagna in navamsa and its lord Jupiter is in the 7th house! Naturally Pi and
+Vi are the front-runners for giving marriage. Moreover, Pi is the 2nd from Venus.
+Venus symbolizes domestic happiness and marital bliss. The 2nd from him in
+navamsa can show the sense of family happiness. It can show a new person coming
+```
 
-#### From: BPHS - 1 RSanthanam (6 references)
+**Page 317** (matched: "navamsa. This dasa brought her marriage")
+```
+Exercise 36: The lady whose rasi and navamsa charts are given in Chart 50 was
+married in Sg dasa and divorced in the same dasa. Sg contains Venus, the
+significator of marriage. However, Venus also owns the 2nd and 7th from upapada in
+rasi and navamsa. This dasa brought her marriage as well as divorce. Guess the
+antardasa that may have brought the marriage and the antardasa that may have
+brought the divorce.
+```
+
+**Page 322** (matched: "navamsa, it has 30 rekhas in SAV. While the 7th house")
+```
+good candidates. The 6th and 8th houses from lagna bring marital troubles and
+quarrels. The 2nd and 7th houses from upapada bring the end of marriage. Here Li is
+the 8th house from lagna and the 7th house from upapada. It is the 7th house from
+upapada in rasi also. In navamsa, it has 30 rekhas in SAV. While the 7th house has
+only 22 rekhas, the 8th house has 30 rekhas and so the 8th house is strong. Evil
+houses, when strong, only bring evil results.
+Final Answer: The lady got married in Ge antardasa in Feb 1992 and got divorced in
+```
+
+**Page 334** (matched: "navamsa of Venus? In other words, if Venus")
+```
+signified by the houses and planets stationed in that rasi in the natal chart. For
+example, we said that Jupiter transiting over Venus69 may give marriage. However,
+we know that navamsa is the chart that shows marriage. So, is there any significance
+for Jupiter’s rasi chart transit over the navamsa of Venus? In other words, if Venus is
+in Cancer in navamsa, can Jupiter transiting in Cancer in rasi chart bring marriage?
+69 We say that “Jupiter transits over Venus”, if Jupiter, in his transit, occupies the rasi occupied by
+Venus in the natal chart.
+```
+
+**Page 334** (matched: "navamsa is the chart that shows marriage")
+```
+We said that a planet occupying or aspecting a rasi in transit influences the matters
+signified by the houses and planets stationed in that rasi in the natal chart. For
+example, we said that Jupiter transiting over Venus69 may give marriage. However,
+we know that navamsa is the chart that shows marriage. So, is there any significance
+for Jupiter’s rasi chart transit over the navamsa of Venus? In other words, if Venus is
+in Cancer in navamsa, can Jupiter transiting in Cancer in rasi chart bring marriage?
+69 We say that “Jupiter transits over Venus”, if Jupiter, in his transit, occupies the rasi occupied by
+```
+
+**Page 334** (matched: "navamsa, can Jupiter transiting in Cancer in rasi chart bring marriage")
+```
+example, we said that Jupiter transiting over Venus69 may give marriage. However,
+we know that navamsa is the chart that shows marriage. So, is there any significance
+for Jupiter’s rasi chart transit over the navamsa of Venus? In other words, if Venus is
+in Cancer in navamsa, can Jupiter transiting in Cancer in rasi chart bring marriage?
+69 We say that “Jupiter transits over Venus”, if Jupiter, in his transit, occupies the rasi occupied by
+Venus in the natal chart.
+```
+
+*... and 9 more references in this book*
+
+#### From: jyotish_astrology-and-timing-of-marriage_-k-n-rao_-english_hindi (19 references)
+
+**Page 25** (matched: "D9 NavRlndta Marriage")
+```
+Case Studies Astrology and Timing of Marriage (a Scientific Approach)
+Birtlt Chmt D9 NavRlndta Marriage From Lagna
+I SaKe POB Allahabad
+SaR I Vc SaR Ma _I Su Ve!\..fe
+DOM 13.06.1973
+```
+
+**Page 34** (matched: "D9 and Venus is a natural marriage")
+```
+P1 In D1, MDL Venus is receiving the third P3 VS falls in Cancer and Jupiter is transiting in
+aspect of LL Saturn posited in a Venetian Leo. Jupiter was transiting in Cancer till-14'"
+sign. ADL Ketu is posited with Venus in September, thus satisfying the parameter.
+Cancer in D9 and Venus is a natural marriage P4 Saturn is natal LL. It is transiting in Pisces
+giver. PDL Mars is posited Pisces in D1 and from where it aspects natal LL (Saturn).
+it aspects 7L Sun posited in Gemini. Thus, Considering the retrogression of transiting
+the parameter is fulfilled. Saturn, the Lagna and 7H also get
+```
+
+**Page 41** (matched: "Venus is in 11 L ofD9")
+```
+-,j -.! I -,j I -,j -,j I -.! I -.! I X I I Connected I -./ I -.! I DP Libra
+Observations aspectlng DK Mars.
+Role of transiting Moon - Moon is PAC of MDL/ADL WITH 5H/L or 11H/L
+transiting over DKN (Leo) and is with LL jupiter. - PDL Venus is in 11 L ofD9 and posited with SL
+Aspect of Saturn on DK - Saturn is Mars.
+--------
+~-15 fcli<IT1
+```
+
+**Page 42** (matched: "D9, Venus")
+```
+P1 MDL Venus is a natural significator for PS LL Moon in transiting in Pisces and 7L Saturn
+marriage. further, it receives the aspect of is transiting in Sagittarius. However, the
+LL Moon and retrograde 7L Saturn in D1. previous day Moon was in Aquarius where
+In D9, Venus is posited with 7L Saturn and it received the third aspect of Saturn. Thus,
+is in mutual aspect with LL Moon. In D1, the parameter is met.
+ADL jupiter is posited in Pisces with LL P6 Natal Mars posited in Libra receives the
+Moon and receives the aspect of7L Saturn. aspect of jupiter transiting in Aries, leading
+```
+
+**Page 42** (matched: "Venus is the 11 L of D9")
+```
+therefore, this parameter remains Sun is posited in Virgo and it receives the jaimini
+unsatisfied. aspect of Saturn which is transiting in Sagittarius.
+P4 Saturn is transiting in Sagittarius and jupiter PAC of MDL/ADL with SH/L and/or
+is transiting in Aries. These two in transit do 11 H/L in 09 - MDL Venus is the 11 L of D9.
+not establish connection with any of the ADL jupiter is aspecting 11 H.
+natal Lagna, LL (Moon), 7H and 7L (Saturn).
+~-16 1lwn~ m~m~ tm w;m~~
+```
+
+**Page 54** (matched: "D9 and is aspected by Venus")
+```
+Pt The person got married in Vimshottri Dasha marriage Saturn Is transiting in Capricorn
+ofSatum/Venus/Satrun. Venus is the LL and where natal Venus is posited.
+also karak for marriage. In D9 Satrun aspects P7 It is noted that Sun and three other planets
+LL of D9 and is aspected by Venus. are transiting near 7H.
+PZ Chara Dasha at the time of marriage was P8 In this chart neither LL is near 7H nor is 7L
+Sagittarius(faurus. Taurus is 7'h from Dara near Lagna and therefore this parameter is
+Karak Mars. not satisfied.
+```
+
+**Page 58** (matched: "Venus. In D9")
+```
+P 1 MDL and POL Saturn is posited in SH in 09 PS Transit of both-LL Mercury and 7L jupiter-
+and it aspects 7H. ADL Sun is posited in in Leo till 24'h September is a harbinger of
+Aries in D 1 with natural marriage giver the impending marriage.
+Venus. In D9, Sun is posited in Cancer where P6 jupiter transiting in Leo casts its ninth aspect
+its receives the fifth aspect of LL jupiter. on natal Venus posited in Aries. The
+Thus, the parameter is satisfied. parameter is fulfilled.
+PZ Chara Dasha AD is Cancer where It is P7 5 planets, including Sun, are transiting in/
+```
+
+**Page 60** (matched: "D9. PDL Venus")
+```
+cJh:RT ~ ~ w;'1 Cf2.IT ~ Cfi'r ~ fCfi<rr I '\W"112ll CflT ~ cfi" 5/11 3la;T ~ ~ ~ 11ft
+~ '1T m ~~
+Case study 29
+Analysis Dt. Sun is the LL ofD9. PDL Venus, besides
+Pl MDL Rahu is in mutual aspect with 7L Saturn being a significator for marriage, is conjunct
+in D9. ADL Sun is posited with 7L jupiter in with 7L Jupiter in D 1. Venus is posited in
+Guide Shri K.N. Rao •:• ~ m '!ioll;!o \l'l 61
+```
+
+**Page 60** (matched: "D9. ADL Sun is posited with 7L jupiter in with 7L Jupiter in D 1. Venus")
+```
+Case study 29
+Analysis Dt. Sun is the LL ofD9. PDL Venus, besides
+Pl MDL Rahu is in mutual aspect with 7L Saturn being a significator for marriage, is conjunct
+in D9. ADL Sun is posited with 7L jupiter in with 7L Jupiter in D 1. Venus is posited in
+Guide Shri K.N. Rao •:• ~ m '!ioll;!o \l'l 61
+```
+
+**Page 66** (matched: "D9 jupiter is casting any relationship with natal Venus")
+```
+..j ..J I ..J I ..j I ..j X I ..J I X I I 5H I ..J I ..J DP Capri
+Analysis satisfied.
+Pt MDL jupiter is the LL ofDt and aspects the P6 jupiter transiting in Leo does not establish
+Lagna 8.. 7L mercury. In D9 jupiter is casting any relationship with natal Venus posited in
+its ninth aspect on LL Saturn. ADL Saturn is Libra, leaving this parameter unfulfilled.
+the LL of D9 and it aspects Lagna. PDL P7 6 out of 9 planets are transiting in/around
+Venus, besides being a natural marriage Lagna and 7H. The parameter is met.
+```
+
+**Page 70** (matched: "Venus is in Lagna of D9")
+```
+DP Aquari
+Analysis DK Saturn
+PI MDL and ADL Rahu is aspected in D9 by 7L P3 Jupiter is aspecting VS by its 7'h aspect from
+Mars. PDL Venus is in Lagna of D9 &.. 7L of Sag
+Dt. P4: Saturn is in 7th H and Jupiter Is aspecting
+P2 AD of cancer has DKN and is aspected by lagna
+m
+```
+
+**Page 73** (matched: "Venus is the SL of D9")
+```
+Moon posited in Sagittarius. The parameter Moon is posited in Sagittarius. Thus, there is no
+is met. jaimini aspect between the two.
+PS ll Moon is transiting in Cancer and it is in PAC of MDL/ADL with SH/L and/or
+mutual aspect with 7l Saturn transiting In 11 H/L in 09 -MDL Venus is the SL of D9.
+Capricorn, thus leading to the fulfilment of Ketu's dispositer jupiter aspects 11th lord.
+~- 38 f,Jm 'R ~ ~ Cfll ~~~I ~ Tf
+fci:;»#\01 Oj lfR Wm ~ 'R w;:M ~ Cfll ~ ~ ~.
+```
+
+*... and 7 more references in this book*
+
+#### From: BPHS - 1 RSanthanam (9 references)
+
+**Page 28** (matched: "Navamsa ascendant")
+```
+lpudt,t.. Saturn Labials viz. q, $, if, $r and q
+The name of the child can be selectedw ith an initial letter
+as above basedo n the strongero f the two, viz. natal ascendant
+lord and Navamsa ascendantl ord. For example, if Mars is
+stronger,t he name can havea guttural in the beginninga ppropri-
+ate to the presiding deity. In this case, Subrahmanyai s the
+deity .and the name can be Kumara (gqn) or Guha (gq).
+```
 
 **Page 91** (matched: "Navamsaf or sPouse")
 ```
@@ -1871,6 +8020,17 @@ Docanatefo r happinessth roughc oborn'
 7, Dasamamsfao r powera nd position( i.e. livelihoode tc')
 . [. Dvadasamasfo r Parents.
 9. Shodasarrsafo r conveyanceas nd rclatcd happiness'
+```
+
+**Page 158** (matched: "Navamsa ascendant")
+```
+yearo f age necd some clarification. The 8th lord should be
+conjunctRahui nthe 2nd, 4th, 5th, llth or l2th from the
+ascendant. The said 8th lord should simultaneousblye in the
+8th place from the Navamsa ascendant (i.e. in the gth in
+Navamsac hart). As a result,t he native will incur urinary ancl
+blood vessedl isordersi n l9thl22nd year of age.
+iltti Rgvrer.i qli{i FTr$TtrffIli
 ```
 
 **Page 162** (matched: "Venusb e in a Navamsa")
@@ -1906,6 +8066,17 @@ qrqrqqrrqqt q* alal <r6ig* r
 qrfavnnuteai Er<eTS fqftfqriqu llrl
 ```
 
+**Page 181** (matched: "Navamsa ascendant")
+```
+t{eqnqil q?i frq€qriqil r
+wfti rrliglfr rfsal si;a<:u l q,rl
+16. If Saturni s in the 10tha long with a debilitatedp lanet
+while the lOth from Navamsa ascendanti s occupied by a
+malefic,t he nativew ill be berefto f (virtuous)a cts.
+rfi ;nn<rFnti <rdt r{iRqt r
+qtqqtor {gli 366ri fdpf,} rrie ttt\ett
+```
+
 **Page 383** (matched: "Navamsa or in friendly Navamsa in aspectt o Venus")
 ```
 own Navamsao r in a friendly Navamsa,i s aspectedb y Jupiter,
@@ -1917,9 +8088,18 @@ Moon will make one go with little wealth or even without
 that.
 ```
 
-*... and 1 more references in this book*
+**Page 409** (matched: "Navamsao f.Venusa nd Venus")
+```
+A sixth kind of relationshipc an also be extendedin this
+contextt o Navamsa positionst houghI have no specificc iassic
+sanctionf or this. For examplein a Capricornian'sc ase, Mars in
+the Navamsao f.Venusa nd Venusi n that of Mars will confer a
+superiorR aja yoga. This form of relationshipw ill be eqally
+superior like the first 3 relationships mentioned by me in thc
+earlier paragraph.
+```
 
-#### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (6 references)
+#### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (7 references)
 
 **Page 43** (matched: "Navamsa lagna would have both Venus")
 ```
@@ -1930,6 +8110,17 @@ Navamsa lagna would have both Venus and Mercury
 in quadrants, and is not acceptable. Taurus Navamsa
 lagna would have a preference over Gemini as both
 Venus and, Mercury would be ill placed, besides
+```
+
+**Page 84** (matched: "8th house from A.L. as Venus")
+```
+1996 the health deteriorated drastically and she passed
+away in Ketu dasa Venus bhukti in 1997. Ketu and
+Venus are in badhak and seventh houses from Lagna
+respectively. and in the 8th house from A.L. as Venus
+owns the 2nd & 7th houses from AL.
+Although Mother has been given anum ber of
+awards, the highest was the Nobel prize for peace
 ```
 
 **Page 101** (matched: "Venus and Moon aspect navamsa")
@@ -1975,7 +8166,149 @@ Saptamsa (D-7) the fifth sign from Virgo is Capricorn
 . ruled by Saturn. Since this crosses the Rahu-Ketu
 ```
 
-*... and 1 more references in this book*
+**Page 253** (matched: "Navamsa. Venus")
+```
+sixth house giving rise to a number of Rajyoga and
+duryogas. In any war/battle, the strength of the lagna
+lord plays a crucial part Here the lagna is vargottama
+and conjoined the Lagnesh Venus in Navamsa. Venus
+is in own sign both in Ras,i & Navamsa. The Arudha
+Lagna is in Pisces with four planets in the eight house
+in Libra. This will give a tendency to gamble with
+```
+
+#### From: advanced study of vimshottari dasha_KK Pathak (6 references)
+
+**Page 141** (matched: "Venus in 8th")
+```
+(12) Morarji Desai : His Janma Lagna is Gemini and his
+Janma Rasi is Leo. He has Mercury, Venus and Mars in 8th from
+Janma Lagna and in 6th from Janma Rasi. Mercury in 8th from
+Lagna is held to be auspicious. Mercury and Venus in 8th from
+Lagna and in 6th from Moon caused Adhi Yoga. It was in Budha
+Maha Dasa that he became the Prime Minister as Mercury (4th
+lord) and Venus (5th lord) by their combination caused Raja Yoga.
+```
+
+**Page 203** (matched: "Navamsa. Rahu afflicts Venus")
+```
+VEN SUN
+RAH MER
+~md Saturn are malefics. Saturn is well placed. It is in own
+Navamsa. Rahu afflicts Venus though it is in own Navamsa.There
+is Shadashtaka relation between Saturn and Venus. As per rules
+of Uttarakalamrita, her Sukra Antar Sani Dasa was supposed to
+give auspicious results whereas as per rules of Bhavartha Ratnakar
+```
+
+**Page 204** (matched: "Venus are in their own Navamsa")
+```
+from Lagna in inimical sign Scorpio but Mars and Ketu heavily
+afflict them. As per rules of Uttarakalamrita mutual Dasa-Bhukti
+of Venus and Saturn was supposed to give quite auspicious re
+sults. Both Saturn and Venus are in their own Navamsa. Experi
+ence says that planets in their own Navamsa give beneficial re
+sults in their Dasas and Bhukti. As the Prime Minister of Paki
+stan, Bhutto was in his hay days in Sukra Antar Sani Dasa (23-
+```
+
+**Page 207** (matched: "Venus in 8th")
+```
+gave good results as per expectations. Looked from point view of
+Parasari Hora, Saturn in sign of Jupiter in upachaya from Janma
+Lagna Janma Rashi was favourable. Venus in own sign in 11th
+from Janma Lagna was favourable. Venus in 8th from the Moon
+caused Adhi Yoga. As per rules of Brihat Parasar Hora Sastra
+also Sukra Bhukti in Sani Dasa was a favourable period. As his
+Saturn is afflicted in Rashi and Navamsa Charts Saturn gave him
+```
+
+**Page 219** (matched: "Navamsa. For Leo Lagna Mars-Venus")
+```
+Rupees one crore goes to prove that the native was endowed with
+a powerful Dhana Yoga. He has Vargottama Lagna and Vargottama
+Moon but his ascendant lord Sun was badly afflicted in Rashi Chart
+and was debilitated in Navamsa. For Leo Lagna Mars-Venus com
+bine in the 9th house is a Raja Yoga. Mutual aspect between Atma
+Karaka Venus and Amatya-Karaka Jupiter also constitutes Raja
+Yoga. These are the plus points of the horoscope.
+```
+
+**Page 236** (matched: "Venus in 8th")
+```
+Rajiv Gandhi from January 1980 to November 1989, that is, till
+Congress was in power. He continued as a Central Minister during
+Venus Bhukti, Moon Dasa (24-1-1988 to 24-9-1989).
+Readers may feel surprised and may ask how Venus in 8th
+from Janma Lagna gave such good results. But we know that
+Venus being 9th-cum-2nd lord is a first rate benefic for Vargottam.
+Venus when aspected by Jupiter becomes all the more auspicious.
+```
+
+#### From: astrology-the-speed-of-light_compress (6 references)
+
+**Page 181** (matched: "Navamsa) chart, talks about your marriage")
+```
+D-3 (Drekkana) talks about your co-born.
+D-7 (Saptmasha) tells about your general happiness in
+life and children.
+D-9 (Navamsa) chart, talks about your marriage, and
+married life and overall fortune in life with your spouse. D9
+is also used to see your career as well.
+D-10 (Dasamsa) chart talks about the exact career you
+```
+
+**Page 182** (matched: "D9 also shows marriage")
+```
+Since D9 also shows marriage, you can see the 'When'
+and 'Who'. Main birth chart shows when you will get
+married, while the D9 chart shows 'Who' will you get
+married? what type of a girl or boy you will marry is seen
+```
+
+**Page 183** (matched: "D9 chart, which is Venus")
+```
+life, they will over come all these insecurities brought upon
+by weak Sun.
+Another thing to notice about D9 chart is the karaka of
+D9 chart, which is Venus. In the main birth chart Sun
+becomes the atmakaraka of D1 chart. In D9 Venus becomes
+the atmakaraka since Venus signifies marriage, wife, love,
+relationship and wealth. When looking at the D9 chart
+```
+
+**Page 183** (matched: "D9 Venus")
+```
+by weak Sun.
+Another thing to notice about D9 chart is the karaka of
+D9 chart, which is Venus. In the main birth chart Sun
+becomes the atmakaraka of D1 chart. In D9 Venus becomes
+the atmakaraka since Venus signifies marriage, wife, love,
+relationship and wealth. When looking at the D9 chart
+always look at the position of Venus because this will shows
+```
+
+**Page 183** (matched: "Venus should be judged in D9")
+```
+relationship and wealth. When looking at the D9 chart
+always look at the position of Venus because this will shows
+the true foundation of Navmasha chart on which its house is
+built upon, even for women Venus should be judged in D9
+chart since it is the main karaka of marriage, love &
+relationship.
+183
+```
+
+**Page 184** (matched: "Venus helps other factors of the D9")
+```
+Since D9 is about looking at the 9th house main birth
+chart with a microscope, then 9th house of D9 chart also
+becomes important. A well placed 9th house along with
+Venus helps other factors of the D9 chart.
+Any planet in Kendra house of D9 in good condition
+becomes a very strong planet. Its effect and result will be
+seen during its dasha and antar dasha period. Think of the
+```
 
 #### From: Introduction-to-Vedic-Astrology-Sanjay-Rath (5 references)
 
@@ -2034,6 +8367,61 @@ Capricorn Navamsa aspected by Ketu (Rasi Drishti) indicating either adultery or 
 Rasi and Navamsa and is placed in a Dusthana (8th & 12th) in both Rasi & Navamsa. Thus
 ```
 
+#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (5 references)
+
+**Page 76** (matched: "8th house is also the house of difficulty and death. He was in Venus")
+```
+and the nakshatra dispositor of Venus is Purva Bhadrapada ruled by Saturn. All these planets, Venus,
+Saturn, Mercury and Rahu are in the 8th house. Rahu actually intensifies all these planets giving him his
+amazing psychic abilities.
+But the 8th house is also the house of difficulty and death. He was in Venus/Ketu during the time of his
+near death experience with drowning. Venus is in the 8th house and Ketu is in the 2nd house a maraka
+house, indicating possible death. But most importantly Ketu is in Purva Phalguni ruled by Venus, and
+Venus is again in the 8th house, and it is in Aquarius ruled by Saturn. Venus’ nakshatra is ruled by
+```
+
+**Page 76** (matched: "8th house, and it is in Aquarius ruled by Saturn. Venus")
+```
+But the 8th house is also the house of difficulty and death. He was in Venus/Ketu during the time of his
+near death experience with drowning. Venus is in the 8th house and Ketu is in the 2nd house a maraka
+house, indicating possible death. But most importantly Ketu is in Purva Phalguni ruled by Venus, and
+Venus is again in the 8th house, and it is in Aquarius ruled by Saturn. Venus’ nakshatra is ruled by
+Saturn, ruler of the 8th house in the 8th house, and it is in Purva Bhadrapada ruled by Saturn. All these
+planets in the 8th house are intensified in the 8th house of death and psychic ability. When he died
+January 3rd 1945, he had just entered into Saturn’s maha dasha.
+```
+
+**Page 94** (matched: "D9 (marriage")
+```
+omit the other harmonic charts, just that you must see them in light of this ratio.
+For example:
+A person may have a Rashi chart that emphasizes career focus over relationships or children.
+Yet, the D10 chart may be weak in comparison to the D9 (marriage chart) and the D7 (child
+94
+```
+
+**Page 97** (matched: "Venus in Navamsa")
+```
+in that area of life (for example, Scorpio ascendant in the Navamsa shows Mars is “them” in
+relationships).
+
+The planetary karaka is the overall potential of the harmonic chart (for instance, Venus in Navamsa is the
+potential for love and connection).
+
+The house itself, and the house ruler, shows the thing unfolding (the 7th house and 7th house ruler shows
+```
+
+**Page 99** (matched: "Navamsa is similarly strong. There is a Taurus ascendant, with the ruling planet Venus")
+```
+him into great heights creatively. Yet, it served its purpose perfectly. It gave a steady, comfortable job
+while he developed other parts of himself – as shown by the ratio. Later he was able to retire and pursue
+his love of music, and dedicate it to his guru.
+RA’s Navamsa is similarly strong. There is a Taurus ascendant, with the ruling planet Venus in the ninth
+house joined the Sun, the fourth house ruler. Powerful Raja Yogas are formed, as the first and fourth
+house ruler (angle and trine lord) join in the ninth house. This brings inner strength and conviction to
+partnerships and shows a love of marriage (9th house is the marriage ceremony). In addition, Yoga Karaka
+```
+
 #### From: Narayana Dasa by Sanjay Rath (4 references)
 
 **Page 6** (matched: "Navamsa (D-9 Chart) – Spouse")
@@ -2078,74 +8466,6 @@ This leads to a peculiar situation. If marriage survives and Saturn
 is made stronger, his Arudha Lagna suffers and he has many
 ```
 
-#### From: advanced study of vimshottari dasha_KK Pathak (3 references)
-
-**Page 203** (matched: "Navamsa. Rahu afflicts Venus")
-```
-VEN SUN
-RAH MER
-~md Saturn are malefics. Saturn is well placed. It is in own
-Navamsa. Rahu afflicts Venus though it is in own Navamsa.There
-is Shadashtaka relation between Saturn and Venus. As per rules
-of Uttarakalamrita, her Sukra Antar Sani Dasa was supposed to
-give auspicious results whereas as per rules of Bhavartha Ratnakar
-```
-
-**Page 204** (matched: "Venus are in their own Navamsa")
-```
-from Lagna in inimical sign Scorpio but Mars and Ketu heavily
-afflict them. As per rules of Uttarakalamrita mutual Dasa-Bhukti
-of Venus and Saturn was supposed to give quite auspicious re
-sults. Both Saturn and Venus are in their own Navamsa. Experi
-ence says that planets in their own Navamsa give beneficial re
-sults in their Dasas and Bhukti. As the Prime Minister of Paki
-stan, Bhutto was in his hay days in Sukra Antar Sani Dasa (23-
-```
-
-**Page 219** (matched: "Navamsa. For Leo Lagna Mars-Venus")
-```
-Rupees one crore goes to prove that the native was endowed with
-a powerful Dhana Yoga. He has Vargottama Lagna and Vargottama
-Moon but his ascendant lord Sun was badly afflicted in Rashi Chart
-and was debilitated in Navamsa. For Leo Lagna Mars-Venus com
-bine in the 9th house is a Raja Yoga. Mutual aspect between Atma
-Karaka Venus and Amatya-Karaka Jupiter also constitutes Raja
-Yoga. These are the plus points of the horoscope.
-```
-
-#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (3 references)
-
-**Page 94** (matched: "D9 (marriage")
-```
-omit the other harmonic charts, just that you must see them in light of this ratio.
-For example:
-A person may have a Rashi chart that emphasizes career focus over relationships or children.
-Yet, the D10 chart may be weak in comparison to the D9 (marriage chart) and the D7 (child
-94
-```
-
-**Page 97** (matched: "Venus in Navamsa")
-```
-in that area of life (for example, Scorpio ascendant in the Navamsa shows Mars is “them” in
-relationships).
-
-The planetary karaka is the overall potential of the harmonic chart (for instance, Venus in Navamsa is the
-potential for love and connection).
-
-The house itself, and the house ruler, shows the thing unfolding (the 7th house and 7th house ruler shows
-```
-
-**Page 99** (matched: "Navamsa is similarly strong. There is a Taurus ascendant, with the ruling planet Venus")
-```
-him into great heights creatively. Yet, it served its purpose perfectly. It gave a steady, comfortable job
-while he developed other parts of himself – as shown by the ratio. Later he was able to retire and pursue
-his love of music, and dedicate it to his guru.
-RA’s Navamsa is similarly strong. There is a Taurus ascendant, with the ruling planet Venus in the ninth
-house joined the Sun, the fourth house ruler. Powerful Raja Yogas are formed, as the first and fourth
-house ruler (angle and trine lord) join in the ninth house. This brings inner strength and conviction to
-partnerships and shows a love of marriage (9th house is the marriage ceremony). In addition, Yoga Karaka
-```
-
 #### From: mahadashas-the-speed-of-light_compress (3 references)
 
 **Page 202** (matched: "navamsa chart, Venus")
@@ -2181,47 +8501,41 @@ the 7th house becomes a saving grace, where even feeling
 abandoned in marriage, the native would still be able to carry on
 ```
 
-#### From: astrology-the-speed-of-light_compress (2 references)
+#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (2 references)
 
-**Page 181** (matched: "Navamsa) chart, talks about your marriage")
+**Page 152** (matched: "8th House. Venus")
 ```
-D-3 (Drekkana) talks about your co-born.
-D-7 (Saptmasha) tells about your general happiness in
-life and children.
-D-9 (Navamsa) chart, talks about your marriage, and
-married life and overall fortune in life with your spouse. D9
-is also used to see your career as well.
-D-10 (Dasamsa) chart talks about the exact career you
-```
-
-**Page 182** (matched: "D9 also shows marriage")
-```
-Since D9 also shows marriage, you can see the 'When'
-and 'Who'. Main birth chart shows when you will get
-married, while the D9 chart shows 'Who' will you get
-married? what type of a girl or boy you will marry is seen
+have high standards when it comes to her lifestyle, even after
+marriage. A man will meet his wife in a family setting, or is
+introduced through a family member.
+Venus from the 2nd House aspects the 8th House. Venus in the
+2nd House desires joint family assets and increased wealth through
+marriage. The native feels that through family, it can conquer in-
+152
 ```
 
-#### From: jyotish_astrology-and-timing-of-marriage_-k-n-rao_-english_hindi (2 references)
+**Page 159** (matched: "8th House is like pouring honey in a gutter. Venus")
+```
+with Venus. It’s about love, sexual relationships, and business.
+They will have situations arise where business partnerships and
+formal relationships would be executed in a secret manner. Venus
+in the 8th House is like pouring honey in a gutter. Venus actually
+does quite well in the 8th House by providing a solid relationship
+and wealth through in-laws. A man would meet his wife in a very
+secretive manner. However, the male native would gain wealth
+```
 
-**Page 25** (matched: "D9 NavRlndta Marriage")
-```
-Case Studies Astrology and Timing of Marriage (a Scientific Approach)
-Birtlt Chmt D9 NavRlndta Marriage From Lagna
-I SaKe POB Allahabad
-SaR I Vc SaR Ma _I Su Ve!\..fe
-DOM 13.06.1973
-```
+#### From: A Text book of astrology_Anil Kumar Jain (1 references)
 
-**Page 34** (matched: "D9 and Venus is a natural marriage")
+**Page 159** (matched: "8th houses from Venus")
 ```
-P1 In D1, MDL Venus is receiving the third P3 VS falls in Cancer and Jupiter is transiting in
-aspect of LL Saturn posited in a Venetian Leo. Jupiter was transiting in Cancer till-14'"
-sign. ADL Ketu is posited with Venus in September, thus satisfying the parameter.
-Cancer in D9 and Venus is a natural marriage P4 Saturn is natal LL. It is transiting in Pisces
-giver. PDL Mars is posited Pisces in D1 and from where it aspects natal LL (Saturn).
-it aspects 7L Sun posited in Gemini. Thus, Considering the retrogression of transiting
-the parameter is fulfilled. Saturn, the Lagna and 7H also get
+(d) When two or three malefic planets one posited in 1st/ 2nd /5* / 7* / 8th /12*
+house from Lagna, Moon or Venus.
+(e) When Venus- Mercury, Venus - Saturn, Saturn - Moon combination are formed
+or Saturn is posited in 7th /8th houses from Venus.
+No Marriage :
+(a) If Venus or lord of 7* is hemmed between Sun and Saturn
+(b) Rahu or Ketu in 7th house and being aspected or conjoined with at least two
 ```
 
 #### From: pdfcoffee.com_indepth-arudapada-astro-pt-sanjay-rath-pdf-free (1 references)
@@ -2233,6 +8547,850 @@ AL in D9 are to be given importance for marriage/relationship issues. A4 & AL
 in D4 for House Matters, i.e planets in dusthanas to A4 in D4 and badly placed
 wrt AL in D4 can cause change of residence.
 V ANSWER BY MR. NARASIMHA RAO
+```
+
+---
+
+### Dasha Analysis (97 matches)
+*Dasha period rules for current/upcoming periods*
+
+**Found in 17 books:**
+
+#### From: kupdf.net_uttkalamrita-kalidas-ps-sastri (34 references)
+
+**Page 6** (matched: "Guru. Shukra")
+```
+6. When is a Bhava destroyed? 75
+7. Lord of the lagna in the three Drekkanas 75
+8. Yogas caused by Chandra. Kuja and Shanl 76
+9. Guru. Shukra and Rahu 78
+10. When is a Bhava worthless? 80
+11. Lord of the Bhava promoting it 81
+12. When is a Bhava destroyed 81
+```
+
+**Page 9** (matched: "Guru and Shukra")
+```
+giving Rajayoga and also death 155
+26·27. When does a Rajayoga planet
+postpone death? 156
+27·29. Guru and Shukra in their mutual periods 156
+29·31. Mutual periods of Shukra and Shani 157-159
+31·32. Mutual periods ofRavi and Shani 160
+32·33. Mutual periods of Kuja and Guru 160
+```
+
+**Page 13** (matched: "Guru and Shukra")
+```
+2. Planetary aspects. 247
+3. Benefics in kendras and konas.
+Lord of8 and 12 247
+4. Guru and Shukra as Marakas.
+Luminaries owning the eighth house 247
+,15-7. Rahu and Ketu. Their benefic and
+malefic results and their major or
+```
+
+**Page 14** (matched: "Guru, Shukra")
+```
+21. Good and bad effects given by planets 257
+22. Difficulties in interpretation 257
+23. Malefics. marakas 258
+24. Guru, Shukra and Shani 258
+25. Chandra and Shukra.
+Lords of 3. 6. 7. 8 and 11 259
+26. Chandra. Shukra, Rahu and meteors 259
+```
+
+**Page 27** (matched: "Guru, Tula for Shukra")
+```
+CW'SlrClfteqn ~: ~ II ~ II
+Simha is the mulatrikona of the Sun; Vrishabha for
+the Moon, Mesha for Kuja, Kanya for Budha, Dhanus for
+Guru, Tula for Shukra and Kumbha for Shani are the
+mulatrikonas. Sun in Mesha, Moon in Vrishabha, Kuja in
+Makara, Budha in Kanya, Guru in Karkataka, Shukra in
+Mina and Shani in Tula are exalted. When a planet is
+```
+
+**Page 27** (matched: "Guru in Karkataka, Shukra")
+```
+the Moon, Mesha for Kuja, Kanya for Budha, Dhanus for
+Guru, Tula for Shukra and Kumbha for Shani are the
+mulatrikonas. Sun in Mesha, Moon in Vrishabha, Kuja in
+Makara, Budha in Kanya, Guru in Karkataka, Shukra in
+Mina and Shani in Tula are exalted. When a planet is
+exalted, he gets full one rupa of strength. In his mula
+trikona the planet has three fourths of a rupa as his
+```
+
+**Page 28** (matched: "Guru5°,Shukra")
+```
+Temporary enemy + Natural frtend Neutral
+Temporary enemy + Natural neutral Enemy
+The degrees ofdeepest exaltation are-Sun 10°, Moon
+3°, Kuja28°, Budha 15°,Guru5°,Shukra27° andShant20°.
+The Mula trikona degrees are Sun 0° to 20°, Moon 4°
+to 20°, Kuja 0° to 12°, Budha 16° to 20°, Guru 0° to 10°,
+3hukra 0° to ISO, and Shant 00 to 200
+```
+
+**Page 42** (matched: "Guru, Shukra")
+```
+we have to add .5 to Guru, .75 to Shant and .25 to Kuja.
+Malefic aspects are those ofthe Sun, waning Moon, badly
+associated Budha, Kuja and Shant. Benefic aspects are
+thoseofGuru, Shukra, waxingMoon, and isolated orwell
+associated Budha.
+The method of calculating Drishti values is well ex
+plainedin SrtpatiPaddhatt and in Dr. B. V. Raman's book
+```
+
+**Page 42** (matched: "Guru + .066; Shukra")
+```
+gives the following aspect-strengths:
+Ravi + .2236; Chandra - .333;
+Kuja - .105; Budha - .0256;
+Guru + .066; Shukra - .0123:
+Shani + .25.
+From the total thedrtshtt strengthsofChandra, Kuja,
+Budha and Shukra have tobe subtracted. The others have
+```
+
+**Page 43** (matched: "Guru Shukra")
+```
+Rupas is weak. Ithas the normal strengthifits strength is
+between five and ten Rupas.
+In our example chart we get the following:
+Rool Chandra Ku]a Budha Guru Shukra Shanl
+4. Thepre- 3.83825 5.564 5.3799 7.658 5.1384 4.476854.97275
+vlousBalas
+5. Nalsarglka 1.0 .857 .286 .428 .571 .714 .143
+```
+
+**Page 46** (matched: "Guru 44.57; Shukra")
+```
+Shani
+Guru28.34
+40.965; Budha 68.665;
+Budha18.!!!! 17.0 Guru 44.57; Shukra
+Rav119.49
+L29.45 Shukra 59.105; and Shani 83.5.
+Shanl
+```
+
+**Page 47** (matched: "Guru, Shukra")
+```
+to be multiplied by three. Shukra and Shani are in their
+own houses and Guru is in his own house in Navamsa.
+Kuja is Vargottama. Thus the years contributed by Kuja,
+Guru, Shukra and Shani have to be doubled. We thus get
+.the following figures:
+```
+
+*... and 22 more references in this book*
+
+#### From: Deva Keralam 1 Chandrakala Nadi (12 references)
+
+**Page 25** (matched: "Jupiter-Mars. 24) Wealth, father’s brothers, d: a period")
+```
+220 Lords of 9th and 10th, Kesari yoga in Gem- cer, Lagna lord in 2nd house.
+ini. 239 Marriage, Venus in Mangala Nadiamsa, life-
+221 Adhi Yoga, 5 planets in Lagna, trouble to long fortunes, conveyances, danger to mother.
+Spouse, Jupiter-Mars. 24) Wealth, father’s brothers, d: a periods, prog-
+222 Luminaries, Dhruva Nadiamsa, 3rd house. eny, Sun-Mercury in 10th, dasa periods.
+223 Capricorn Lagna - Kala Nadiamsa, physical 241 Bhargava Nadi quoted.
+description, coborn, mother, happiness.
+```
+
+**Page 30** (matched: "Jupiter sub-period")
+```
+sometimes be offset (temporarily) if Saturn is in 40. Immediately (after expiry of his first
+the 12th, Jupiter in the 4th and the Moon in the wife) he will get (re)married. He will be abun-
+8th, dantly happy in Saturn’s sub-period (of Moon
+oo | . Dasa). His Jupiter sub-period will give even
+Notes: Jupiter is the main planet in Maatan- It
+ga Yoga (vide sloka 2, Supra). Saturn and Moon mens
+in trines from Jupiter obstruct occasionally the Notes: The sub-per lods of Jupiter and
+```
+
+**Page 32** (matched: "Jupiter’s period")
+```
+Jupiter does not seem to be a good augury in these, we can conclude that for an Aries native,
+general. the dasa of 8th lord Mars operating in old age will
+
+Also make a note of Jupiter’s period being —_ be dangerous.
+evil for one born with Cancer Navamsa, in Aries
+ascendant. This need not be straightaway applied _ affaata
+to birth in any of the other eight Navamsas of ee ane ane sare raat
+```
+
+**Page 53** (matched: "Jupiter is in Varuna Nadiamsa. period")
+```
+thereto, the native will visit Sethu (a pilgrim cen- in equal measure. Mercury’s sub period (in
+ter in the South). In the Dasas that are 2nd and = Jupiter’s dasa) being that of 7th lord (death-
+Sth from birth it will give wealth for the Chakra _—_dealer) will endanger the native. The Moon’s sub
+Yoga native whose Jupiter is in Varuna Nadiamsa. period, coming much after that of Mercury will
+unfailingly endanger the native. This applies only
+2 Sit 2 | | to the specified Nadiamsa.
+Pilgrimage to Sethu ST BART ATTY FART 1 2481 |
+```
+
+**Page 120** (matched: "Jupiter... Taurus etc. ete. period")
+```
+1059, This Sloka suffers from constitutional 1064. Thefts: Shou! ;
+defects. The meaning is: The Moon in debilita- L f efts: Should Ketu be in the 8th from
+tion with Capricorn Navamsa and .... Gemini... SP ee ee pagha, ine Dasa ale suv
+Jupiter... Taurus etc. ete. period of Ketu will often cause fear from thieves.
+Se Te eet AR STEHT ea wa wee Al 1 oR |
+TMTAT A STAT FT ASMATTN RoR 11 safreRAMA Ura dees {
+```
+
+**Page 121** (matched: "Jupiter’s sub period")
+```
+from kings and thieves. These effects are for
+1066-10671) 2. Other effects - Libra Lagna: —_Kety’s sub period in the major rule of the planet
+In the sub period of Jupiter operating inthe 2nd = gyn There will be a mixture of good and bad
+Dasa, there will be fame to the sons of patenal effects in Jupiter’s sub period (of the Sun’s major
+uncles while one of their wives will face destruc- period).
+tion. Danger to the native’s mother, loss of os
+kinsfolk, and agony to father on account ofthese . Noses: For Sabi DRUEE, With Venus Placed
+```
+
+**Page 149** (matched: "Jupiter’s sub period")
+```
+we Heat vatorrdsar i gacer | = ea TIT een eaeal |
+1387. Physical illness: Should Rahu be in ;
+the 2nd house, the Dasa-bhukti of Rahn will bring 1391-1392. Rahu Dasa: In the dasa of Rahu,
+physical distress, fever etc. and in Jupiter’s sub period the native will gain
+through liquids, juices etc. if Jupiter at birth is
+Watee faare: Taras | placed amidst benefics. There will be additionally
+Tartan airs: aay eS eave ATA! 832211 gains from metals etc. Great happiness will occur
+```
+
+**Page 174** (matched: "Jupiter’s sub-period")
+```
+1714-1715. Sixth dasa: One born in the JAR UA Tey ahefa
+former half of Trailokya Nadiamsa will in the first afar Wy FHT afd aeq 21922] |
+sub period of 6th dasa undergo a lot of miseries, 1722, Death - Second half: This native will
+ane m sub enod, new onl Boo? die in Jupiter’s sub-period in Rahu dasa. If at all
+SHNneS een we sf Snark if this N lin he survives, Saturn’s sub period (in Rahu dasa)
+grandsons. The native of lirst hat olthis.Naciam- it! Kill him, with transit Sun in Libra.
+sa will be ever happy and the effects mentioned \
+```
+
+**Page 193** (matched: "Jupiter, | The sub period")
+```
+The ascendant risingatthetimeofcommen- by the Navamsa occupied by the &th lord at birth,
+cement of a dasa should be occupied bya planet the subject will be greatly troubled by enemies.
+that is favourable for Scorpio, viz. one of Jupiter, | The sub periods of favourable planets in the dasa
+the Sun, the Moon and Mars. If that be the case, | of Mars will help maintain sound health and ac-
+the native will have Raja Yoga effects in the dasa © quire wealth. Further the native in his home town
+in question. will conquer his enemies.
+```
+
+**Page 195** (matched: "Jupiter. The dasa period")
+```
+etalis Ol remedies. Lord Vishnu (or Lor Siva) birth of progeny is sure. One’s prosperity should
+should be worshipped with a desire for obtaining —_be evaluated with the help of planets disposed
+of a son, and a six-day ve be maintainee. on with reference to Jupiter. The dasa periods of
+ee eek fo oe, Ora yer to x i a (Cobra wealthy planets will cause fortunes and
+
+wealth(‘
+```
+
+**Page 235** (matched: "Jupiter in his frst round of — Ketu sub period")
+```
+Se Wee AR GRY TT 2438-2441, Parental Evils: The Sun in Sagit-
+TEICMSANT AMSTAATTT | | 2X33 1 | tarius with Aries Navamsa will endanger the
+Vasudha Nadiamsa native’s father in Venus dasa,
+2432-33. When Jupiter in his frst round of — Ketu sub period. On the first day of the obse-
+the zodiac reaches Pisces, in the firstdasa,thread — quies of his father, the subject will not be present.
+ceremony will take place for the native offormer Either the 22nd year, or the 20th year will cause
+half of Vasudha Nadiamsa, Pisces ascendant. In _ danger to father. Mother’s death will take place
+```
+
+**Page 256** (matched: "Jupiter ts in cerned nlanet’s dasa period")
+```
+SEES WATE WACIRMAGA positors of these lords are in association by way
+" J SEESSSSTT of aspect/conjunction with the lords of 10th and
+oo 11th. This effect will t in the con-
+2699. Life-long Fortunes: If Jupiter ts in cerned nlanet’s dasa periods © pass mane
+Pushkara Navamsa while the 10th lord (Jupiter
+himself) is in aspect to Mars, the native of Cham-
+paka Nadiamsa will enjoy fortune throughout his SPN ARTA IAS woe
+```
+
+#### From: mahadashas-the-speed-of-light_compress (11 references)
+
+**Page 13** (matched: "Jupiter period")
+```
+pleasures of life. They will be surrounded by more women than
+men. Even if a lawyer or doctor goes through the time period of
+Venus they will be inclined to take on creative activities, whether
+its painting or playing a piano. Jupiter period makes a person
+(sometimes) too optimistic, philosophical and a natural teacher,
+they feel hopeful, inspired and yearn to learn wisdom. They love to
+13
+```
+
+**Page 14** (matched: "Jupiter mahadasha")
+```
+direct things and guide things in Jupiter mahadasha and things
+come easily into their life. The Moon will make a person more
+motherly, emotional, attached to home and mother. They will be
+extra nourishing to everyone they love.
+```
+
+**Page 21** (matched: "Jupiter MD from the age of 25. Knowing the Jupiter period")
+```
+Jupiter will be strongly felt towards the end of Jupiter's MD,
+around 3/4 of the way. For example, lets say Jupiter is sitting in
+pada 2 of Uttara Bhadrapada nakshatra while you're running your
+Jupiter MD from the age of 25. Knowing the Jupiter period is of 16
+years, you will really feel the effect of that Jupiter in the horoscope
+towards the end of 16th year, or perhaps from the 13-16 year
+period when you will be 41 to 44. Depending upon how Jupiter is
+```
+
+**Page 24** (matched: "Jupiter period")
+```
+If you are running through 16 year period of Jupiter and Jupiter is
+sitting in the 2nd house in your horoscope then it will always
+aspect 6th house, 8th house and 10th house. All aspects are
+counted counter clock wise. In Jupiter period image 6th, 8th and
+10th house having bright yellow light of Jupiter hitting upon them.
+This can show one will have blessings to pay their debts of and
+win over enemies and overcome their illnesses (6th house). There
+```
+
+**Page 32** (matched: "Jupiter is a 15 year period")
+```
+system works.
+• What are Sookshma Dashas and Prana Dashas? SD and
+PRD (Prana Dasha) are simply the narrowed down version
+of the time period. If Jupiter is a 15 year period, the AD in
+Jupiter is a 2.5 year long period, PD is a 5-6 month long
+period, SD is a week long period, and then PD shows the
+date itself.
+```
+
+**Page 32** (matched: "Jupiter is a 2.5 year long period")
+```
+• What are Sookshma Dashas and Prana Dashas? SD and
+PRD (Prana Dasha) are simply the narrowed down version
+of the time period. If Jupiter is a 15 year period, the AD in
+Jupiter is a 2.5 year long period, PD is a 5-6 month long
+period, SD is a week long period, and then PD shows the
+date itself.
+Who uses MD-PD system? There are few astrologers that use
+```
+
+**Page 41** (matched: "Jupiter period")
+```
+after a grueling 19 year period of Saturn where you were serious,
+without much sense of humor or playtime, and all you wanted to
+do was, work, work, work. You wanted to be serious, but now you
+are back to your optimism as you once had in Jupiter period, as
+that is what Mercury MD is about. In the time period of Mercury
+the person becomes overly verbal and extremely eager to attain
+knowledge, this is why in Mercury periods you will see many
+```
+
+**Page 118** (matched: "Jupiters 16 year Mahadasha period")
+```
+Jupiter through the houses:
+Jupiter in the 1st house:
+Jupiters 16 year Mahadasha period will and should bring about an
+increase in respect to the individual, interest in religion, higher
+philosophy, and a desire to become a teacher in life. Jupiter is
+naturally a teacher, guru, and preacher, and so makes the native
+```
+
+**Page 137** (matched: "Jupiter period")
+```
+15 year old with such a Saturn mahadasha may start getting grey
+hairs, as Saturn will start to transform the inactive into a Saturnine
+energy. You will suddenly feel a lack of humor within you, not
+laughing at the same things as you used to in your Jupiter period.
+Suddenly you will develop a love for antique things, old music, old
+books on wisdom, and you will face reality as you were supposed
+to. One won’t feel like running around unless of course Mars
+```
+
+**Page 205** (matched: "Jupiter, Mars, and Ketu. The 10 year period")
+```
+MOON MAHADASHA:
+The next period will be that of the Moon, from 1986-1996. The
+Moon is in the 5th house in Mula nakshatra, receiving the aspect of
+Jupiter, Mars, and Ketu. The 10 year period of the Moon will be
+quite mixed. First due to being in the 5th house, there will be great
+focus and enjoyment from children and in having children. There
+will also be feelings of isolation and abandonment from the family
+```
+
+**Page 211** (matched: "Jupiter will help expose hidden enemies during this period")
+```
+house. Jupiter will help expose hidden enemies during this period,
+but mainly it's a period of prosperity.
+Rahu-Saturn from 6-26-2008 to 5-2-2011:
+During this period, the native will be forced to deal with
+```
+
+#### From: astrology krs_emagazine_edition 1_Kapiel Raaj (8 references)
+
+**Page 17** (matched: "Jupiter-Moon period")
+```
+From the Moon in Leo, Jupiter goes into the 8th house in its own sign, Pisces. In the first consultation I
+had with K.N. Rao in 1994 I asked him about this, thinking it was Shakata Yoga, and an unfavorable
+feature of my birth chart. He explained to me that it was quite the contrary, and that in my upcoming
+Jupiter-Moon period beginning in late 2004, I would “wear the crown.”
+Years passed and I completely forgot about this prediction. In September of 2004 I was approached by
+a group of Hatha Yoga teachers to lead a study group on the Bhagavad-Gita on which they had heard
+me speak. Thereafter a group of over 20 people began meeting at my home every Thursday evening for
+```
+
+**Page 17** (matched: "Jupiter-Moon period")
+```
+presented in this article. How the very similar Mukuta Yogas in the charts of Gwenyth Paltrow and the
+former Bollywood actress-turned-astrologer had given both of them success as an actress in the period
+and sub-periods of the planets involved, although at a very different level. And then I gave a prediction.
+Starting in early January 2013, Gwenyth Paltrow would be entering her Jupiter-Moon period. Like her
+17
+```
+
+**Page 18** (matched: "Jupiter-Moon-Rahu period")
+```
+by grossing over a billion dollars globally in just 23 days.
+As a result of all this, she received intense media coverage and was highly sought after by the all the
+major talk show hosts.
+This all took place in her Jupiter-Moon-Rahu period…the three planets involved in her Mukuta Yoga.
+The astonishing science of Jyotisha had shown me that it was once again time for her …Crowning
+Glory.
+Marc Boney
+```
+
+**Page 25** (matched: "Jupiter, like in the familiar Vimshottari planetary dasha, a person will be said to run the period")
+```
+practice.
+Signed-Based Dashas
+Dashas in the Jaimini system are also sign-based. Instead of running, say, the sixteen- year period of
+Jupiter, like in the familiar Vimshottari planetary dasha, a person will be said to run the period of Aries,
+or Scorpio or Gemini etc.
+This article features the use of Chara Dasha as presented in K.N. Rao book “Predicting through
+Jaimini’s Chara Dasha.” His method of calculating it is given in most of the prominent Vedic
+```
+
+**Page 33** (matched: "Jupiter, Venus and Mercury. From Scorpio, the period")
+```
+versa, except for the ones next to them.
+In addition, from its position in the 10th house from Scorpio, the AmK Saturn in Leo receives aspect
+from all the planets in Capricorn, not just the Sun, and in this case these planets are all the natural
+benefics, Jupiter, Venus and Mercury. From Scorpio, the period lord, the 3rd house of efforts,
+performance and physical prowess, and the 10th house of achievements get tremendous emphasis,
+including the activation of the AmK Saturn and AK Sun raja yoga. It was an unparalleled period of
+athletic glory.
+```
+
+**Page 37** (matched: "Jupiter period")
+```
+The chart of Catherine Zeta-Jones is a perfect example. In 1997 she moved into her Chara dasha of
+Virgo, her 10th house, and the sign placement of her exalted AmK Mercury, configured in spectacular
+Jaimini raja yogas.
+Simultaneously in Vimshottari, she began her Mercury-Jupiter period, which also gives the fruit of
+spectacular Parashari raja yogas. When you see this kind of confluence, a prediction of “elevation”
+becomes a sure bet.
+This Virgo period has also brought her a husband and child, which is again very obvious. From Virgo,
+```
+
+**Page 123** (matched: "Jupiter mahadasha")
+```
+The question is why did he ended up being a financial advisor, even though his Saturn controls the
+second house? You must look at several other things. You have to see the current mahadasha,
+amatyakaraka and dasamsa chart to see which field brings more success.
+He was running Jupiter mahadasha for past 16 years. This means Jupiter was the most brightest planet in
+his chart and having the most say on his life, even more than second lord Saturn. The mahadasha also
+came at the right time during his youth where he maximized his time in studies which was a breeze. But,
+Saturn did his job too of providing technical knowledge because Saturn was aspecting Jupiter, the
+```
+
+**Page 130** (matched: "Jupiter mahadasha")
+```
+AstrologyKRS
+In this chart I made a very simple yet important error. I predicted the career best to my ability and it was
+as predicted, but, when it came time for current mahadasha prediction I told her that Jupiter mahadasha
+is a very good for her in terms of career, while since 2005 she has been suffering form illness, set backs
+and career demotion. Why is it that an exalted Jupiter is giving such negative results? First, the most
+important thing I ignored was that her Jupiter was a "Functional Malefic" for her ascendant, meaning it's
+```
+
+#### From: advanced study of vimshottari dasha_KK Pathak (5 references)
+
+**Page 13** (matched: "Jupiter may give good results in their period")
+```
+8 Advanced Study of VllllShottari Dasha
+case Saturn in 8th from Sun, Rahu in 6th from Mars and Jupiter
+Moon-Ketu in 8th from Saturn and Saturn in 6th and Mercury
+Venus in 12th from Jupiter may give good results in their periods.
+But these are too liberal interpretations of Stellar Rules. A
+rational interpretation of these rules should be made as follows:
+(1) Periods and sub-periods of planets ruling over the 2nd,
+```
+
+**Page 122** (matched: "Jupiter on period")
+```
+instrucions Satyacharya advised the readers to supplement their
+knowledge with a few important transits of Jupiter, Rahu and
+Saturn as mentioned hereunder :
+Effects of Transit of Jupiter on periods
+(1) When Jupiter traverses Trikona signs from its radical
+sign the native may be blessed with wealth and children. He may
+perform ceremonies.
+```
+
+**Page 215** (matched: "Jupiter in major period")
+```
+(iii) Subperiod of the Moon in the major period of Mars.
+(iv) Subperiod of Mars in the major period of Rahu.
+(v) Subperiod of Rahu in Major period of Jupiter.
+(vi) Subperiod of Jupiter in major period of Saturn.
+(vii) Subperiod of Saturn in major period of Mercury.
+(viii) Subperiod of Mercury in major period of Ketu.
+(ix) Subperiod of Ketu in major period of Venus ..
+```
+
+**Page 224** (matched: "Jupiter in subperiod")
+```
+but he filed and won a suit quite easily in this regard in subperiod
+of Mars in major period of Rahu. Ultimately, this period proved to
+be financially gainful to the native.
+While running sub-subperiod of Jupiter in subperiod of Mars
+in major period of Rahu from 13-07-94 to 3-02-98 it was in early
+morning hours on 2-08-98 that the native fell down unconscious
+in bathroom due to depression and he was almost taken to be
+```
+
+**Page 224** (matched: "Jupiter in subperiod")
+```
+lOth lord. Mars gave promotion and victory in a suit.
+As Jupiter ruled over 8th house in Rashi chart and also as
+Mars aspected the 8th house and also as Jupiter was posited in
+12th of Mars it was sub-subperiod of Jupiter in subperiod of Mars
+in major period of Rahu that caused fear of death to the native.
+Mars and Saturn are Karaka of landed property. Mars as
+lord of 4th house also rules over landed property. Rahu is posited
+```
+
+#### From: 2015.150536.Marriage-Married-Life-And-Children_text (4 references)
+
+**Page 137** (matched: "Jupiter. Notedown theseperiod")
+```
+129
+So T decided that the marriage must take place during Jupiter
+Dasa, Mercury Bhukti. The Anthra may be of Mercury, Moon,
+Mars or Jupiter. Notedown theseperiods.
+Then find out whether Sun transits in the sign ofeither
+Dasanatha or Bhukthinatha and in the star of Dasanatha or
+Bhukthinatha.
+```
+
+**Page 202** (matched: "Jupiter sub period")
+```
+star in Mercury sign will bring about separation. Thesub-lord
+Mars has no connection with 2 or 7 or 11 : nor with 6 or 12.
+Hence, Mars is unconnected. In that case, the Bhuktinadha gives
+the results during Jupiter sub period in Moon Bhukti. The order
+will be issued on I 2-69. The divorce will stand.
+As per transit,
+(a) Sunwill be in Saturn sign. Moon star and conjoin M.C.,
+```
+
+**Page 210** (matched: "Jupiter. Therefore, the major period")
+```
+with Sun and Mars is aspected by Saturn. Therefore Rahu is to
+act as agent ofSun, Marsand Saturn. Tlius the lord of the planet-
+ary period has reflected the ruling planets ofthe query, Sun, Mars
+and Saturnleaving aside Jupiter. Therefore, the major period of
+Rahu, the sub period ofRahu, the sub sub period of Rahu and
+the shookshma period of Jupiter will offer the expected result,
+reunion and domestic facility. It runs between 9-3-1968 and
+```
+
+**Page 240** (matched: "Jupiter. Hence during its period")
+```
+Venus couldnot help ashis periodwould be over on 8-10-’69,
+when Mercury becomes direct..
+Sun is a significator to give results as he is with the signifi-
+cators Mercury and Jupiter. Hence during its period, the delivery
+will take place, and the probable sookshma period will be that of
+Sun or Rahu or Jupiter.
+Now let us note the sookshma periods
+```
+
+#### From: A Text book of astrology_Anil Kumar Jain (3 references)
+
+**Page 81** (matched: "Venus antardasha")
+```
+operating. If we subtract spent 8 years 0 month 21 days from 9 years 11 months 21
+days balance 1 year 10 months 24 days will be balance antardasha of Venus in
+mahadasha of Saturn. By adding this balance antardasha in date of birth, the date of
+completion of Venus antardasha can be calculated.
+The details of Vimshottari Dasa and periods assigned to different planets have
+already been discussed above. The main period running at a particular time
+will be the lord of Nakshtra in which Moon is posited. Depending upon the
+```
+
+**Page 82** (matched: "Jupiter. Therefore main period")
+```
+Example 2. - Longitude of Moon given at a particular time is 10s 27° 23' Calculate
+balance of main period.
+Ans:- Moon in the case is in Aquarius sign and in Purva Bhadrapad Nakshtra whose
+lord is Jupiter. Therefore main period running should be of planet Jupiter whose total
+period is 16 years.
+If we make use of the above table, we see that corresponding to 27° 20' when moon is
+in Aquarius sign, the main period running is of Jupiter and balance period is 12 years.
+```
+
+**Page 82** (matched: "Jupiter and balance period")
+```
+lord is Jupiter. Therefore main period running should be of planet Jupiter whose total
+period is 16 years.
+If we make use of the above table, we see that corresponding to 27° 20' when moon is
+in Aquarius sign, the main period running is of Jupiter and balance period is 12 years.
+For 3' using 'Proportional Parts for Dasa of Planets table, we find that corresponding
+to 3' and Jupiter 0 month and 22 days are to be further subtracted. Therefore balance
+main period will be (12y 0M 0D - 0M 22D) = 11 years 11 Months and 8 Days.
+```
+
+#### From: Introduction-to-Vedic-Astrology-Sanjay-Rath (3 references)
+
+**Page 37** (matched: "Jupiter for 16 years while that in Table 2‐3 is of Mercury for 17 years. Take the shorter period")
+```
+house (Mother) indicating grandmother].
+3. Comparing Table 2‐2 & Table 2‐3, we find that the seventh dasa in both end in 2040 AD indicating
+danger or premature death. Now compare the dasa length in both. The seventh dasa in Table 2‐2 is of
+the Jupiter for 16 years while that in Table 2‐3 is of Mercury for 17 years. Take the shorter period and
+we can narrow down the danger period from 2024 to 2040. In this manner the dangerous periods
+should be determined and after calculating the longevity, the death inflicting dasa can be determined.
+Death inflicting Dasa
+```
+
+**Page 38** (matched: "Jupiter and hence Jupiter shall give the results of Gulika in its initial period")
+```
+It would be very difficult
+to explain the death of Rabindranath Tagore in Jupiter Dasa Jupiter antardasa, especially when Jupiter is
+the lord of Lagna and is also exalted in the ninth from Arudha Lagna. However Gulika is in Visakha
+Nakshatra ruled by Jupiter and hence Jupiter shall give the results of Gulika in its initial period. This
+resulted in death.
+4. The dasa of the planets associated with the second and seventh house can also be death inflicting.
+5. Divisional Charts: The death of the native can be studied form the Rasi and Trimsamsa whereas that
+```
+
+**Page 104** (matched: "Jupiter. The sub-period")
+```
+upon for an ablation of the endometrium [lining] of the uterus was determined to be too thick.
+Note that at the time of the surgery, the Narayan dasha running was that of Taurus main period
+having A7 (Darapada), Venus and Sun in it, aspected by Capricorn having A8 (Mrityupada),
+opposite Saturn and in kendra to Jupiter. The sub-period was that of Capricorn having A8 in it,
+being aspected by Saturn, Venus, Sun and Jupiter.
+The concept of Argala
+INTRODUCTION
+```
+
+#### From: pdfcoffee.com_243649065-jyotish-predicting-through-shodashottary-dashapdf-pdf-free (3 references)
+
+**Page 23** (matched: "Jupiter/Venus and Jupiter/Sun. The sub period")
+```
+and Saturn.
+Abroad
+He served in a foreign company from February 1980 to March
+1983. The SSD was Jupiter/Venus and Jupiter/Sun. The sub period of
+25
+```
+
+**Page 24** (matched: "Jupiter Venus is in 12 and Sun is in 8th. The next sub period")
+```
+'in May 1983. In Rashi chart Jupiter is 8th lord placed in 4th house.
+Venus is lagna lord and Sun is 4th lord. In Chaturtharnsha Sun is
+placed in 8th and is 7th lord. Venus is in 12th house and is 9th lord.
+From Jupiter Venus is in 12 and Sun is in 8th. The next sub period
+was of retrograde Mars who is placed in 4th house signalling the
+return to horne. In Dasarnsha Venus is in 12th house and Sun is 12th
+lord.
+```
+
+**Page 24** (matched: "Jupiter/Mars period")
+```
+lord.
+Marriage
+Married on 26 May 1983 after his return from abroad. The
+Jupiter/Mars period had started on 3rd May 1983. Jupiter is 7th lord
+of Navarnsha and placed in 2nd house. Mars is 7th lord of Rashi chart.
+In Navarnsha chart Mars is 8th lord placed in 8th. Both Jupiter and
+M.ars are in 1/7 axis in Rashi .as well as in Navarnasha. Mars and
+```
+
+#### From: predicting-through-jaimini-chara-dasha (3 references)
+
+**Page 70** (matched: "Jupiter. That is the period")
+```
+Prince Charles has been running the Chara dasha of Sagittarius
+since 1984, the dasha of his sixth house of disputes, which will be over
+in 1996. In Vimshottari this will be the period of Rahu and the sub
+period of Jupiter. That is the period to be watched for the much awaited
+upward swing in the life of the Prince, but there will still be no hope of
+the marital tangle getting resolved.
+Internationally noticed prediction about the separation
+```
+
+**Page 108** (matched: "Jupiter mahadasha")
+```
+fail in the dasha of the atmakaraka.
+Now here, if the Atmakaraka of the Q ueen is Jupiter. she has
+passed through many antardashas of Jupiter In Vimshottarl but has not
+suffered any fall. She has not got the dasha of Jupiter mahadasha. But his
+proposition of fall in the dasha of the Atmakaraka is to be tested through
+chara dasha only, it seems. Though It is clear that the dasha of a rashi
+containing the atmakaraka or the rashi dasha from w here the atmakaraka
+```
+
+**Page 113** (matched: "Jupiter period")
+```
+Sun dasha from abroad which neither he nor his wife would accept, He
+became an expert in oceanography and started jnternational consultancy
+while in the meantime he was denied his promotion to the post of
+secretary to the government of India during the Sun-Jupiter period. After
+taking voluntary retirement he has earned so much that he does not
+know how best to Invest It. Was it a fall? Or was it a period of prosperity
+though he was denied promotions? I know of many cases when
+```
+
+#### From: A book on Mathematical astrology_Bansal (2 references)
+
+**Page 5** (matched: "Gurushcha shukra")
+```
+~~·: ~tf.r ~ ~ if<f 1l1t ~ II
+Brahmamuraari Tripuraantakaari,
+Bhaanu Shashi Bhumisuto Budhashcha!
+Gurushcha shukrah Shani Rahu Ketava,
+Kurvantu Sarve Mama Suprabhatam!!
+Which means :
+Oh! the creator Brahma, the preserver Vishnu, the
+```
+
+**Page 5** (matched: "Guru), Venus (Shukra")
+```
+destroyer Shankar (killer of demon Tripura Sur), the
+Sun (Surya), the Moon (Chandra), Mars (Mangal,
+son of earth), Mercury (Budh - Lord of wisdom),
+Jupiter (Brihaspati - Dev Guru), Venus (Shukra -
+Guru of demons, giver of worldly comforts), Saturn
+(Shani - son of Surya), Rahu and Ketu (Chhaya
+Grahas - nodes), I pray to you all to bestow your
+```
+
+#### From: Crux-of-Vedic-Astrology-Timing-of-Events1 (2 references)
+
+**Page 94** (matched: "Jupiter (Dasa - Subperiod")
+```
+88 The Crux of Vedic Astrology-Timing of Events
+Lords of Aquarius ascendant Inheritance yogas also
+indicate the demise of the parent/relative. During
+Rahu - Saturn - Jupiter (Dasa - Subperiod - sub sub
+period) the father passed away in the last part of 1894,
+paving the way for inheritance of the throne. There
+are other ways to confirm this event, but not having a
+```
+
+**Page 244** (matched: "Jupiter in Sagittarius will mark an evil period")
+```
+the native would not be in a position to do the last
+rites.
+When Rahu is in Sagittarius in debility, the transit
+of Jupiter in Sagittarius will mark an evil period. This
+transit of Jupiter was in 1996. When such an evil
+transit of Jupiter over debilitated natal Rahu occurs
+there can be disaster to elders of the family and to
+```
+
+#### From: aspects-the-speed-of-light-130436478x-9781304364784_compress (2 references)
+
+**Page 232** (matched: "Jupiter's time period")
+```
+that brings strictness, discipline, organization, and structure upon
+things, including delay. Jupiter in the 10th House makes career
+advancement difficult, and no one is going to spoon feed the native
+with status. In Jupiter's time period, one will have to work hard
+and long hours with tremendous discipline to achieve career
+success. The sheer optimism and luck of Jupiter won't help this
+time because Jupiter's final results are being affected by the aspect
+```
+
+**Page 280** (matched: "Jupiter mahadasha")
+```
+In Jupiter mahadasha, one will have an excellent reputation at
+work and at home. They will gain through their status, and build
+savings. They will also receive benefits through foreign
+government if the native settles permanently in foreign lands. If
+```
+
+#### From: vedic_astro_textbook (2 references)
+
+**Page 108** (matched: "Jupiter’s period")
+```
+increasing and there will be some good developments in career in reality.
+Example 32:
+Let us consider India’s Prime Minister Sri A.B. Vajpayee’s rasi chart given in Chart
+3. Jupiter’s period ran in 1980’s and 1990’s. With Jupiter in the 2nd house from AL,
+his dasa can give a rise in material fortune. With Jupiter being a functional benefic
+for Scorpio lagna and occupying a quadrant, Jupiter dasa should give comforts in
+reality. However, Jupiter’s arudha pada is in Libra, the 12th house from lagna. This
+```
+
+**Page 108** (matched: "Jupiter’s period")
+```
+reality. However, Jupiter’s arudha pada is in Libra, the 12th house from lagna. This
+can make the native feel unhappy, uncomfortable and alienated. Graha arudhas show
+how the native feels.
+In Rahu’s sub-period in Jupiter’s period, the native became India’s Prime Minister.
+Rahu is in the 8th house from lagna and his periods should cause discomfort,
+frustration and health troubles in reality. However, being a natural malefic in the 6th
+house from AL, Rahu can give material success and victory over enemies and rivals.
+```
+
+#### From: Astrology_ destiny and the wheel of time_ban (1 references)
+
+**Page 114** (matched: "Venus antardasha")
+```
+AilfOtogy. Destiny and the VVhcqJ i)f Time BlfTTH ft^CTlFJCATlON
+maraka (see section two) for Aquarius Lagna and Venus antardasha
+which Is a m»itkn from hi a Moon and. the pratyantar dasha of
+Saturn which Is iVhpectcrd by his- Venus, which is the maraka From
+Moon and also the twelfth lord (see section two).
+```
+
+#### From: BPHS - 1 RSanthanam (1 references)
+
+**Page 35** (matched: "JupiterN m the ascendantth, e period")
+```
+36 Brihat ParasaraH ora Sastra
+@llgjorded by i!. If JupiterN m the ascendantth, e periods
+;?TilpffilTlTtr$ccess in north-eastt,h e direction. ,rt"d by
+it. The directionso f the planetsm ayb e understooda s under:
+Tho Sun - east
+```
+
+#### From: Conjugation at the Speed of Light - PDF Room (1 references)
+
+**Page 120** (matched: "Jupiter mahadasha")
+```
+chart, this can show someone who suddenly left for foreign lands
+and lost their status, wealth, and became estranged from his
+network circle. When Jupiter is debilitated, it shows sudden gains
+and losses of wealth; especially in Jupiter mahadasha and antara
+dasha.
+Let's go in more detail
+Example 4: 2 Planetary Conjunction
 ```
 
 ---
@@ -2294,7 +9452,73 @@ much that he emitted a large ball of fire from his • Women are to be respected
 the sky and fell on earth setting everything on • A man only gets the woman who is
 ```
 
-*... and 56 more references in this book*
+**Page 11** (matched: "Timing of Marriage")
+```
+Introduction Astrology and Timing of Marriage (o Scientific Af>Prooch)
+m
+~ -B qm ~- ~ ~ -B ~ ~ d'Cfl ~ ~ fclcl;rn
+~ q;;<ff " C ' fiT fclcm" 16 q-q <fi't ~ q;- one:: m- 6f.:rr s;aTI ~ 1 <rn" 8 ]"qi"R q;- ~ ~ ~. ~. awt.
+```
+
+**Page 13** (matched: "Timing of Marriage")
+```
+Chapter- 2
+Parameters - Timing of Marriage
+"A successful marriage depends on two Navamsha (DKN), Dara Pada (DP), Up-Pada (UP)
+factors: finding the right partner and being the lagna or 7th lord of Dl or D9. As we know
+right person". All stories of why and how Jaimini's Char Dasha is a rashi based dasha and
+```
+
+**Page 13** (matched: "timing of marriage")
+```
+right person". All stories of why and how Jaimini's Char Dasha is a rashi based dasha and
+marriage takes place, raises question about when not a nakshatra based dasha. Hence here the AD
+the marriage shall take place, i.e., what are the rashi should establish a connection by being in
+Parameters for 'timing of marriage'. 1-7 axis with DK, DKN, DP, UPL or 7L or by
+Our Guru Shri KN Rao Sir has, after several giving them Jaimini Drishti.
+years ofobseNation and elaborate study, divided
+these parameters in two broad categories: Dasha Group B - Transit Based
+```
+
+**Page 14** (matched: "timing of marriage")
+```
+one of MD/A D/PD lords connects to 5-1 1 axis of will help. It is recommended that wherever these
+D9 we have taken meeting this observation. conditional dashas are applicable, readers must
+The parameters given above fix/indicate apply them on the charts to arrive at the timing
+timing of marriage in a native's horoscope. Vedic of marriage.
+Hindu astrology, as proved again and again, is a • Dwisaptati Sarna Dasha (DSS) is a
+Super-Science, hence these parameters though conditional dasha applicable only to horoscopes
+laid down on the basis of Vedic Astrology are where lagna lord is placed in 7th house or 7th
+```
+
+**Page 15** (matched: "marriage timing")
+```
+navamsha chart and the picture is clear. As you among the conditional dashas according to our
+would have noticed, from the table above, it Is respected teacher Shri VP Goel. His book gives a
+these planet invariably which have given deep insight on its method of application and
+marriage. In two cases above, event of marriage timing of events once it is applied on the
+has not been discussed and in one case applying divisional charts.
+the above principles we have foreseen marriage • Shasti Haya ni Dash a: This conditional
+taking place soon. Thereby making it hundred dasha is applicable to horoscopes having Sun in
+```
+
+**Page 15** (matched: "Timing of Marriage")
+```
+Parameters Astrology and Timing of Marriage (a Scientific Approach)
+o seventh house/lord ofrashi and navamsha. those charts where Navamsha lagna is Taurus or
+o in some cases planets aspecting fifth house Libra as mentioned by Shri R.S. Panwar &..
+but again getting connected to second Dr. (Mrs)S.R. Mlshra
+```
+
+**Page 19** (matched: "Timing of Marriage")
+```
+Parameters Astrology and Timing of Marriage (a Scientific Approach)
+w w m.
+~ ~ ~ "# ~ <iiT ~ Cf>1 "# m <!!
+~ crni ~ ~ 'llTCf -q ~ mar t 1 ~ "W1' -q ~ 'l>1 mr ma m \jfril ~ ·-qe,t q;J
+```
+
+*... and 49 more references in this book*
 
 #### From: 2015.150536.Marriage-Married-Life-And-Children_text (7 references)
 
@@ -2352,7 +9576,27 @@ will be enjoyed or experienced by a person during their conjoined
 periods and subperiods. If an aspectcauses delay to come out
 ```
 
-*... and 2 more references in this book*
+**Page 151** (matched: "second, seventh and eleventh")
+```
+Judge houses 2, 7 and 11. Second house extends from 25*
+48' Aries to 22“ 25'Taurus. Seventh extends from 20* 25' Virgo
+to 25* 43' Libra. 11th is from 9* 25' Capricorn to 9* 43'Aquarius.
+No planetis posited in the second, seventh and eleventh houses.
+Lords of2, 7 and 11 are Mars, Mercury and Saturn. Find
+out whether there is a node in any of the signs owned by these
+three planets. Kethu in Gemini represents Mercury, lord of
+```
+
+**Page 270** (matched: "when this boy wrote that he would prefer to marry")
+```
+you miss the bus. The father ofa Gemini boy suggested his son
+to select one of the three girls whom he had comacted. Before
+the Geminian could take adecision, all the three girls got married
+and when this boy wrote that he would prefer to marry one of
+them, he was surprised to be informed by the other party that
+sorry, he was too late. You do not have thedeliberate determina-
+tion to do any job and stick to it till it is completed. But none
+```
 
 #### From: Astrology in Marriage Counselling_Manik Chand Jain (4 references)
 
@@ -2671,7 +9915,27 @@ where Saturn is placed, and Saturn in the 7th House aspects Mars
 233
 ```
 
-*... and 2 more references in this book*
+**Page 257** (matched: "7th house with his 10th aspect. Saturn")
+```
+In example 3 you can see there is Saturn sitting in the 10th house
+at eight degrees which is the nakshatra of Ashiwini controlled by
+Ketu in the zodiac sign of Aries. Saturn in the 10th house aspects
+the 7th house with his 10th aspect. Saturn and Mars are both
+natural malefic planets no matter if they are exalted or well placed.
+In this case Saturn is not debilitated because Saturn is truly
+debilitated at 20 degrees Aries. But, Saturn is in the nakshatra of
+```
+
+**Page 262** (matched: "7th House. Not only is Saturn")
+```
+filled with illusion, anxiety, and depression. Before judging
+Saturn's conjunction, you also have to see if Saturn receives any
+aspect from a planet. In this case, it does. Saturn receives a direct
+aspect form Mars in the 7th House. Not only is Saturn a functional
+and natural malefic, it receives an aspect from its enemy, Mars,
+from the 7th House. The Moon also receives an aspect from hot
+and fiery Mars.
+```
 
 #### From: advanced study of vimshottari dasha_KK Pathak (5 references)
 
@@ -3097,15 +10361,18 @@ OWN NAKSHATRA IN 7TH FROM D1 LAGNA AND REPRESENTS 2ND FROM AL THROUGH NAKSHATRA.
 
 ## SUMMARY
 
-**Total cross-references found**: 528
+**Total cross-references found**: 2410
 
 ### Category Breakdown
 
 | Category | Matches | Books |
 |----------|---------|-------|
-| Marriage General | 157 | 23 |
-| Spouse Nature | 138 | 18 |
-| Navamsa Marriage | 99 | 12 |
+| Jaimini | 852 | 21 |
+| Yogas | 657 | 20 |
+| Marriage General | 276 | 27 |
+| Spouse Nature | 225 | 21 |
+| Navamsa Marriage | 169 | 14 |
+| Dasha Analysis | 97 | 17 |
 | Marriage Timing | 91 | 14 |
 | Saturn 7Th Specific | 43 | 19 |
 
@@ -3121,10 +10388,10 @@ OWN NAKSHATRA IN 7TH FROM D1 LAGNA AND REPRESENTS 2ND FROM AL THROUGH NAKSHATRA.
 
 | Prediction Area | Classical References | Support Level |
 |----------------|--------------------|--------------|
-| Marriage timing & quality | 429 | STRONG |
-| Navamsa marriage rules | 99 | STRONG |
-| Yoga combinations | 0 | NO DATA |
-| Jaimini techniques | 0 | NO DATA |
+| Jaimini techniques | 852 | STRONG |
+| Yoga combinations | 657 | STRONG |
+| Marriage timing & quality | 635 | STRONG |
+| Navamsa marriage rules | 169 | STRONG |
 
 ---
 *Run `python3 cross_reference_chart.py --topic all --verbose` for full output*

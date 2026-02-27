@@ -20,8 +20,10 @@ VARGAS_PATH = REPO_ROOT / "11-CONFIG-DATA" / "vargas_output.json"
 def main() -> None:
     with VARGAS_PATH.open("r") as f:
         data = json.load(f)
-    planets = data.get("planets_d1", {})
     asc = data.get("ascendant", {}).get("sign", "Leo")
+    # House from vargas.D1.planets (planets_d1 has no house)
+    d1_planets = {p["name"]: p for p in data.get("vargas", {}).get("D1", {}).get("planets", []) if p["name"] != "Ascendant"}
+    planets_d1 = data.get("planets_d1", {})
 
     lines = [
         "# KP Sub-Lord Analysis (Structure)",
@@ -41,9 +43,10 @@ def main() -> None:
         "|--------|------|-------|-----------|",
     ]
     for name in ["Sun", "Moon", "Mars", "Mercury", "Jupiter", "Venus", "Saturn"]:
-        if name in planets:
-            p = planets[name]
-            lines.append(f"| {name} | {p.get('sign', '')} | {p.get('house', '')} | {p.get('nakshatra', '')} |")
+        p_d1 = planets_d1.get(name, {})
+        p_vargas = d1_planets.get(name, {})
+        house = p_vargas.get("house", "")
+        lines.append(f"| {name} | {p_d1.get('sign', '')} | {house} | {p_d1.get('nakshatra', '')} |")
     lines.extend([
         "",
         "## Next Steps",

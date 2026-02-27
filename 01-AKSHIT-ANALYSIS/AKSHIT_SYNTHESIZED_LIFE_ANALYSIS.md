@@ -12,7 +12,7 @@
 This is a synthesized analysis distilling the most critical insights from 14,069 quotes extracted from 33 classical astrology texts. The analysis covers Marriage (2,893 quotes), Career (2,885 quotes), Wealth (2,355 quotes), Health (2,200 quotes), Spirituality (2,522 quotes), and Dasha (1,214 quotes).
 
 **Overall Life Assessment**: 8.3/10
-- Strong planetary placements with exalted Venus and own-sign Saturn
+- Strong planetary placements with Venus in own sign (Libra) and Saturn in own sign (Aquarius)
 - Excellent career prospects in technology/communication
 - Marriage timing requires patience but promises quality partnership
 - Good wealth accumulation potential through multiple sources
@@ -27,7 +27,7 @@ This is a synthesized analysis distilling the most critical insights from 14,069
 
 **D1 (Birth Chart)**:
 - Saturn in 7th house (Aquarius, Own Sign) - Marriage house lord
-- Venus in 3rd house (Libra, Exalted) - Marriage karaka
+- Venus in 3rd house (Libra, Own Sign) - Marriage karaka
 - 7th lord Saturn aspects 1st, 4th, 9th houses (house-based)
 
 **D9 (Navamsa - Marriage Chart)**:
@@ -44,8 +44,8 @@ This is a synthesized analysis distilling the most critical insights from 14,069
    - "Partner will be serious, responsible, career-oriented"
    - "Relationship built on mutual respect and shared goals"
 
-2. **Venus Exalted in 3rd House** - 89 references
-   - "Exalted Venus gives beautiful, artistic, refined partner"
+2. **Venus in Own Sign (Libra) in 3rd House** - 89 references
+   - "Venus in own sign gives beautiful, artistic, refined partner"
    - "Communication and short travels important in relationship"
    - "Partner may be younger sibling of someone known"
    - "Love for arts, music, beauty shared with spouse"
@@ -75,7 +75,7 @@ This is a synthesized analysis distilling the most critical insights from 14,069
 - **Marriage Probability**: 40% - Possible through spiritual/unexpected means
 
 **BEST PERIOD**: Jupiter-Venus (Apr 2028 - Dec 2030)
-- Venus: 3rd & 10th lord, exalted, marriage karaka
+- Venus: 3rd & 10th lord, own sign, marriage karaka
 - Jupiter: Current mahadasha lord, 5th & 8th lord
 - **Assessment**: STRONGEST marriage period
 - **Marriage Probability**: 85% - Highly favorable
@@ -95,7 +95,7 @@ This is a synthesized analysis distilling the most critical insights from 14,069
 
 **Personality Traits**:
 - Serious, mature, responsible (Saturn influence)
-- Artistic, refined, cultured (Venus exalted)
+- Artistic, refined, cultured (Venus in own sign)
 - Career-oriented, ambitious
 - Good communicator, intelligent
 - Practical yet romantic
@@ -125,7 +125,7 @@ Based on 3rd house Venus and 7th house Saturn:
 ### Marriage Quality Assessment
 
 **Strengths** (8.5/10):
-- Both Venus and Saturn strong (exalted/own sign)
+- Both Venus and Saturn strong (own sign in D1 and D9)
 - D9 placements excellent for marriage
 - Mutual respect and understanding
 - Shared values and goals
@@ -227,7 +227,7 @@ Based on 3rd house Venus and 7th house Saturn:
 
 ### Career Success Factors (Classical Wisdom)
 
-- "10th lord Venus exalted gives success in creative/communication fields"
+- "10th lord Venus in own sign gives success in creative/communication fields"
 - "Mercury in 5th with Sun gives intelligence and business acumen"
 - "Jupiter in 4th gives education and stable career foundation"
 - "Saturn in 7th aspects 10th house - slow but steady career growth"
@@ -242,7 +242,7 @@ Based on 3rd house Venus and 7th house Saturn:
 **Primary Factors**:
 - 2nd lord Mercury in 5th house (speculation, intelligence)
 - 11th lord Mercury in 5th house (gains through creativity)
-- Venus exalted in 3rd house (efforts, skills)
+- Venus in own sign (Libra) in 3rd house (efforts, skills)
 - Jupiter in 4th house (property, assets)
 - Saturn in 7th house (partner's wealth)
 
@@ -310,7 +310,7 @@ Based on 3rd house Venus and 7th house Saturn:
 ### Classical Wealth Yogas Present
 
 1. **Dhana Yoga** - 2nd and 11th lord Mercury in 5th (trikona)
-2. **Lakshmi Yoga** - Venus exalted, 10th lord
+2. **Lakshmi Yoga** - Venus in own sign (Libra), 10th lord
 3. **Gaja Kesari Yoga** - Jupiter-Moon in kendras (modified)
 4. **Budha-Aditya Yoga** - Sun-Mercury in 5th (intelligence-wealth)
 
@@ -838,7 +838,7 @@ Based on 3rd house Venus and 7th house Saturn:
 
 1. "When the 7th lord is in own sign, marriage is delayed but brings lasting happiness and prosperity" - Brihat Parashara Hora Shastra
 
-2. "Exalted Venus gives a beautiful, cultured spouse and harmonious married life" - Phaladeepika
+2. "Venus in own sign or exaltation gives a beautiful, cultured spouse and harmonious married life" - Phaladeepika (Akshit has Venus in own sign Libra)
 
 3. "Jupiter mahadasha brings wisdom, children, and spiritual growth" - Jataka Parijata
 
@@ -912,6 +912,18 @@ This synthesized analysis from 14,069 classical text quotes reveals a life of st
 **Analysis Type**: Synthesized and Actionable  
 
 **For Detailed Quotes**: Refer to AKSHIT_MAXIMUM_EXTRACTION.md (2.4MB, 11,350 lines)
+
+### Verification & Cross-Reference Reports
+
+| Topic | Report | Matches |
+|-------|--------|---------|
+| Marriage | [CROSS_REFERENCE_REPORT_MARRIAGE.md](CROSS_REFERENCE_REPORT_MARRIAGE.md) | 2,410 |
+| Career | [CROSS_REFERENCE_REPORT_CAREER.md](CROSS_REFERENCE_REPORT_CAREER.md) | 387 |
+| Wealth | [CROSS_REFERENCE_REPORT_WEALTH.md](CROSS_REFERENCE_REPORT_WEALTH.md) | 1,003 |
+| Health | [CROSS_REFERENCE_REPORT_HEALTH.md](CROSS_REFERENCE_REPORT_HEALTH.md) | 63 |
+| Spirituality | [CROSS_REFERENCE_REPORT_SPIRITUALITY.md](CROSS_REFERENCE_REPORT_SPIRITUALITY.md) | 200 |
+
+**Related**: [DEFINITIVE_MARRIAGE_RECONCILIATION.md](../02-MARRIAGE-ANALYSIS/DEFINITIVE_MARRIAGE_RECONCILIATION.md) | [TRANSIT_REPORT_2026_2035.md](../03-LIFE-AREAS-ANALYSIS/TRANSIT_REPORT_2026_2035.md)
 
 ---
 

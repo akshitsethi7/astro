@@ -133,17 +133,19 @@ npm run dev
 
 ## 📖 Key Documents
 
+- **Master Plan**: `00-START-HERE/MASTER_PLAN.md`
+- **Task Checklist**: `00-START-HERE/MASTER_PLAN_TASKS.md`
 - **Navigation**: `00-START-HERE/README.md`
-- **Basics**: `00-FOUNDATIONS/README.md`
-- **Chart Analysis**: `01-AKSHIT-ANALYSIS/START_HERE_AKSHIT.md`
+- **Synthesized Analysis**: `01-AKSHIT-ANALYSIS/AKSHIT_SYNTHESIZED_LIFE_ANALYSIS.md` (14,069 quotes)
+- **Marriage (Definitive)**: `02-MARRIAGE-ANALYSIS/DEFINITIVE_MARRIAGE_RECONCILIATION.md`
+- **Transit Report**: `03-LIFE-AREAS-ANALYSIS/TRANSIT_REPORT_2026_2035.md`
 - **Directory Structure**: `DIRECTORY_STRUCTURE.txt`
-- **Organization Summary**: `FINAL_ORGANIZATION_SUMMARY.md`
 
 ## 🎯 Use Cases
 
 ### Personal Chart Analysis:
 - Complete life analysis with timing predictions
-- Marriage timing (85% probability 2028-2030)
+- Marriage timing (92% probability Late 2028–Late 2029)
 - Career fields and income projections
 - Health insights and remedies
 
@@ -183,6 +185,10 @@ This project contains:
 - **Extraction System**: Python-based PDF extraction
 - **Organization**: 5 phases of comprehensive organization
 - **Total Effort**: 3+ months of development
+
+## 🔗 External Tools
+
+- **[Lagna360](https://app.lagna360.com)** — Dasha, transits, Ashtakavarga, Shadbala, Upagrahas. Create chart (Dec 26, 1994, 22:50, Kanpur) for cross-validation.
 
 ## 📞 Support
 

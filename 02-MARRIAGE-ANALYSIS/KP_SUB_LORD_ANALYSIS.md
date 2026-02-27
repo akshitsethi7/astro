@@ -13,13 +13,13 @@
 
 | Planet | Sign | House | Nakshatra |
 |--------|------|-------|-----------|
-| Sun | Sagittarius |  | Mula |
-| Moon | Virgo |  | Hasta |
-| Mars | Leo |  | Magha |
-| Mercury | Sagittarius |  | Purva Ashadha |
-| Jupiter | Scorpio |  | Anuradha |
-| Venus | Libra |  | Vishakha |
-| Saturn | Aquarius |  | Shatabhisha |
+| Sun | Sagittarius | 5 | Mula |
+| Moon | Virgo | 2 | Hasta |
+| Mars | Leo | 1 | Magha |
+| Mercury | Sagittarius | 5 | Purva Ashadha |
+| Jupiter | Scorpio | 4 | Anuradha |
+| Venus | Libra | 3 | Vishakha |
+| Saturn | Aquarius | 7 | Shatabhisha |
 
 ## Next Steps
 

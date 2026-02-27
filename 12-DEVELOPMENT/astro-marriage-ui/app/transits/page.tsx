@@ -9,32 +9,13 @@ import styles from './page.module.scss';
 export default function TransitsPage() {
   const [selectedDate, setSelectedDate] = useState(new Date());
 
-  // Use actual transit data from sampleChartData
   const transitData = {
     currentTransits: sampleChartData.currentTransits,
     natalMoonSign: sampleChartData.planets.find(p => p.planet === 'Moon')?.sign || 'Virgo',
-    majorTransits: [
-      {
-        planet: 'Jupiter',
-        event: 'Transiting Gemini',
-        date: new Date('2024-05-14'),
-        significance: 'Jupiter in 11th house brings gains, friendships, and fulfillment of desires',
-        impact: 'positive',
-      },
-      {
-        planet: 'Saturn',
-        event: 'Transiting Pisces',
-        date: new Date('2023-01-17'),
-        significance: 'Saturn in 8th house brings transformation and deep learning',
-        impact: 'mixed',
-      },
-      {
-        planet: 'Rahu',
-        event: 'Transiting Pisces',
-        date: new Date('2025-05-18'),
-        significance: 'Rahu in 8th house intensifies research and occult interests',
-        impact: 'mixed',
-      },
+    majorTransits: sampleChartData.majorTransits || [
+      { planet: 'Jupiter', event: 'Transiting Gemini (11th)', date: new Date('2026-01-01'), significance: 'Jupiter in 11th brings gains, friendships', impact: 'positive' },
+      { planet: 'Saturn', event: 'Transiting Aquarius (7th)', date: new Date('2026-07-30'), significance: 'Saturn in 7th — marriage timing', impact: 'mixed' },
+      { planet: 'Rahu', event: 'Transiting Pisces', date: new Date('2025-05-18'), significance: 'Rahu in 8th house', impact: 'mixed' },
     ],
   };
 
