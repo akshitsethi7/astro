@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Home, Calendar, Users, Clock, Moon, Activity, BookOpen } from 'lucide-react'
+import { Home, Calendar, Users, Clock, Moon, Activity, BookOpen, Sparkles } from 'lucide-react'
 import styles from './Navigation.module.scss'
 
 const navItems = [
@@ -10,6 +10,7 @@ const navItems = [
   { href: '/chart', label: 'Birth Chart', icon: BookOpen },
   { href: '/dasha', label: 'Dasha', icon: Clock },
   { href: '/transits', label: 'Transits', icon: Activity },
+  { href: '/jaimini', label: 'Jaimini', icon: Sparkles },
   { href: '/shadows', label: 'Shadows', icon: Moon },
   { href: '/panchang', label: 'Panchang', icon: Calendar },
   { href: '/muhurata', label: 'Muhurata', icon: Clock },

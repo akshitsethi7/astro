@@ -5,8 +5,7 @@ import { Calendar, Clock, Info, ChevronRight, ChevronDown } from 'lucide-react';
 import DashaBalance from '@/components/dasha/DashaBalance';
 import styles from './page.module.scss';
 
-// Import the JSON data directly
-import dashaData from '@/../../chartsimp';
+import dashaData from '@/lib/data/akshitDashaData.json';
 
 interface Pratyantardasha {
   name: string;
@@ -111,7 +110,7 @@ export default function DashaPage() {
               <div>
                 <div className={styles.statLabel}>Birth Date</div>
                 <div className={styles.statValue}>
-                  June 6, 1985
+                  Dec 26, 1994
                 </div>
               </div>
             </div>
