@@ -266,4 +266,28 @@ Once the 46 PDFs are fully extracted, these specific claims should be cross-refe
 
 ---
 
+## NEW EVIDENCE (Feb 2026 — Script-Generated)
+
+### Transit Analysis (`03-LIFE-AREAS-ANALYSIS/TRANSIT_REPORT_2026_2035.md`)
+- Jupiter and Saturn transit positions 2026–2035
+- **Double-transit windows**: When both Jupiter and Saturn activate houses 2, 7, or 11 from Lagna
+- Supports 2028–2029 timing when transits align with dasha
+
+### Yogini Dasha (`04-DASHA-ANALYSIS/YOGINI_DASHA_TIMELINE.md`)
+- Moon in Hasta → Yogini sequence from birth
+- **Siddha (Venus)** and **Dhanya (Jupiter)** periods favorable for marriage
+- Independent 36-year cycle cross-validates Vimshottari
+
+### Nakshatra Deep Analysis (`01-AKSHIT-ANALYSIS/NAKSHATRA_DEEP_ANALYSIS.md`)
+- Venus in Vishakha (Jupiter-ruled) — wisdom in partnership
+- Saturn in Shatabhisha (Rahu-ruled) — spouse unconventional, healing-oriented
+- Mars (DK) in Magha (Ketu-ruled) — spouse royal bearing, ancestral values
+
+### Cross-Reference Report (`01-AKSHIT-ANALYSIS/CROSS_REFERENCE_REPORT_MARRIAGE.md`)
+- 528 classical references across 23 books for marriage topics
+- Saturn in 7th: 43 references in 19 books
+- Marriage timing: 91 references in 14 books
+
+---
+
 *This document is the single source of truth for all marriage-related predictions. All other files should be read in the context of the reconciled answers above. Updated as of February 27, 2026.*
